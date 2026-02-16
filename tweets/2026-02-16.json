@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "_KleinHe_",
+      "name": "KleinHE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1881649248544198656/kKHVSKsP_normal.jpg",
+      "description": "22 y/o，founder\n大学搞过兄弟会、硅谷当过工程师\nAI coding 框架 Trellis 一号客服（两天 1k star）：https://t.co/eAWJ3cSrpB\n在憋一个颠覆性产品",
+      "followersCount": 1039,
+      "friendsCount": 546,
+      "location": "🟩 🟨 🟨 🟨 🟨  10k followers"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/_KleinHe_/status/2023206033364078731",
+    "fullText": "OoenClaw 被 OpenAI 收购\n\nbird cli 也 404 了…"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 10386,
+      "friendsCount": 521,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2023205338611413064",
+    "fullText": "一个巨大的问题：DeepSeek V4 今晚会发布么？"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -20,7 +50,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49651,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -35,7 +65,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49651,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -50,7 +80,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182572,
+      "followersCount": 182595,
       "friendsCount": 1551,
       "location": "Chicago, IL"
     },
@@ -65,7 +95,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26325,
+      "followersCount": 26326,
       "friendsCount": 323,
       "location": "Guangdong"
     },
@@ -165,7 +195,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62967,
+      "followersCount": 62969,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -182,7 +212,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26325,
+      "followersCount": 26326,
       "friendsCount": 323,
       "location": "Guangdong"
     },
@@ -230,7 +260,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49651,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -264,7 +294,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 62967,
+      "followersCount": 62969,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -294,7 +324,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182572,
+      "followersCount": 182595,
       "friendsCount": 1551,
       "location": "Chicago, IL"
     },
@@ -358,7 +388,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49651,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -390,7 +420,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 116504,
+      "followersCount": 116512,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -420,7 +450,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49651,
+      "followersCount": 49656,
       "friendsCount": 290,
       "location": "China"
     },
@@ -484,7 +514,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 182572,
+      "followersCount": 182595,
       "friendsCount": 1551,
       "location": "Chicago, IL"
     },
@@ -507,6 +537,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2022750939103543745",
     "fullText": "高铁刚通的时候宣传稳到行驶的时候可以立一个硬币不倒，我是相信的，这么些年了噪声也大车也晃，脖子差点给我晃断了"
+  },
+  {
+    "user": {
+      "screenName": "MattMahanSJ",
+      "name": "Mayor Matt Mahan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016262630206529536/XFT1SiMq_normal.jpg",
+      "description": "Mayor of San José. Running for Governor to get California back to basics. Better half: @silviascandar",
+      "followersCount": 20625,
+      "friendsCount": 1552,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MattMahanSJ/status/2022747847637205193",
+    "fullText": "“I try to be a pragmatic problem-solver more than anything,” Mahan said. That pretty much sums it up.\n\nhttps://t.co/Cl8sBIkeWU"
   },
   {
     "user": {
