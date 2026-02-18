@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 183173,
+      "friendsCount": 1552,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBbSCHNWIAE79TQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2024036073265942784",
+    "fullText": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更\n\n我用 Git 管理所有写作内容，文章、素材、提纲、草稿，全在仓库里。问题是我经常忘记提交。写完一篇文章，润色完，发布了，然后就去忙别的了。过几天一看 git status，十几个文件的变更堆在那里，完全不记得哪次改了什么。Git https://t.co/EZw81nnAx8"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 63120,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBbRB_bbcAAhdVq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2024034996202422760",
+    "fullText": "Electrobun 是我今天看到令我兴奋的项目啊：https://t.co/MwhvQDKy4O\n\n除了 Electron 和 Tauri 以外又有新的选项了，创新之处在于主进程运行时用了 Bun，渲染层用了系统 WebView，和 Tauri 一样不打包 Chromium，原生绑定用的是 Zig。这样体积和启动速度都大幅优化。Bundle Size 官方宣称只有 https://t.co/1Yt6tPCy2f"
+  },
+  {
+    "user": {
       "screenName": "intelestia",
       "name": "Intelestia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990464191686156288/Kg1-L-Kg_normal.jpg",
@@ -37,7 +71,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183162,
+      "followersCount": 183173,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -69,7 +103,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42130,
+      "followersCount": 42151,
       "friendsCount": 796,
       "location": "Hong Kong"
     },
@@ -89,7 +123,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10964,
+      "followersCount": 10963,
       "friendsCount": 2652,
       "location": ""
     },
@@ -123,7 +157,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18587,
+      "followersCount": 18586,
       "friendsCount": 1240,
       "location": ""
     },
@@ -138,7 +172,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -157,7 +191,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18587,
+      "followersCount": 18586,
       "friendsCount": 1240,
       "location": ""
     },
@@ -204,7 +238,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -221,7 +255,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183162,
+      "followersCount": 183173,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -253,7 +287,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 117047,
+      "followersCount": 117060,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -285,7 +319,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -319,7 +353,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -381,7 +415,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -413,7 +447,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183162,
+      "followersCount": 183173,
       "friendsCount": 1552,
       "location": "Chicago, IL"
     },
@@ -428,7 +462,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10964,
+      "followersCount": 10963,
       "friendsCount": 2652,
       "location": ""
     },
@@ -445,7 +479,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -462,7 +496,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10964,
+      "followersCount": 10963,
       "friendsCount": 2652,
       "location": ""
     },
@@ -494,7 +528,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1236003,
+      "followersCount": 1236231,
       "friendsCount": 28,
       "location": "Menlo Park, CA"
     },
@@ -524,7 +558,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65061,
+      "followersCount": 65053,
       "friendsCount": 519,
       "location": ""
     },
@@ -556,7 +590,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63124,
+      "followersCount": 63120,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -573,7 +607,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63124,
+      "followersCount": 63120,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -667,7 +701,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18587,
+      "followersCount": 18586,
       "friendsCount": 1240,
       "location": ""
     },
@@ -699,7 +733,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18587,
+      "followersCount": 18586,
       "friendsCount": 1240,
       "location": ""
     },
@@ -714,7 +748,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63124,
+      "followersCount": 63120,
       "friendsCount": 279,
       "location": "Shanghai"
     },
