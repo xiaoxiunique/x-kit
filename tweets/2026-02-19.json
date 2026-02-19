@@ -5,7 +5,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63163,
+      "followersCount": 63162,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -22,7 +22,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183411,
+      "followersCount": 183414,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -39,7 +39,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49660,
+      "followersCount": 49657,
       "friendsCount": 290,
       "location": "China"
     },
@@ -59,7 +59,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49660,
+      "followersCount": 49657,
       "friendsCount": 290,
       "location": "China"
     },
@@ -76,7 +76,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18598,
+      "followersCount": 18596,
       "friendsCount": 1243,
       "location": ""
     },
@@ -140,7 +140,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18598,
+      "followersCount": 18596,
       "friendsCount": 1243,
       "location": ""
     },
@@ -198,11 +198,26 @@
   },
   {
     "user": {
+      "screenName": "hamnetmovie",
+      "name": "Hamnet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976301550692859906/pnfKlBSG_normal.jpg",
+      "description": "HAMNET from Academy Award winner Chloé Zhao. Starring Jessie Buckley and Paul Mescal. Now playing in theaters and available to watch at home.",
+      "followersCount": 2832,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hamnetmovie/status/2024301366823567573",
+    "fullText": "Our stories live forever. Nominated for 8 Oscars and winner of the Golden Globe for Best Picture. HAMNET is in theaters now."
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26346,
+      "followersCount": 26348,
       "friendsCount": 325,
       "location": "Guangdong"
     },
@@ -232,7 +247,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65128,
+      "followersCount": 65130,
       "friendsCount": 519,
       "location": ""
     },
@@ -290,11 +305,28 @@
   },
   {
     "user": {
+      "screenName": "S3Partners",
+      "name": "S3 Partners",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1101489415908720640/Gb4cFE8N_normal.png",
+      "description": "The golden source for long and short position data and analytics. Persistently connected to the world's financial infrastructure. Not investment advice.",
+      "followersCount": 37882,
+      "friendsCount": 1201,
+      "location": "590 Madison Ave, NY NY 10022"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2023892455385333760/vid/avc1/1920x1080/kblKBTChmBwR444O.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/S3Partners/status/2024227406450741491",
+    "fullText": "FDJ United (FDJU FP) short interest +83% YTD, shares ~40% below 2025 highs. \n\nTightening borrow + MSCI index removal add technical selling pressure on top of fundamental concerns. \n\nS3 data highlights rising positioning risk. \n\nMore at the LINK ON OUR PROFILE. https://t.co/OaWw5tlCGc"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4632041,
+      "followersCount": 4632079,
       "friendsCount": 4,
       "location": ""
     },
@@ -305,11 +337,28 @@
   },
   {
     "user": {
+      "screenName": "CPAC",
+      "name": "CPAC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
+      "description": "The latest in the CPAC Freedom First Movement 🇺🇸 Home to the most influential gatherings of FREEDOM FIGHTERS in the world 🌎",
+      "followersCount": 251207,
+      "friendsCount": 5038,
+      "location": "Where Globalism Goes to Die"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBdddQ6WIAAPCJK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CPAC/status/2024189318789513665",
+    "fullText": "Confirmed: Franklin Graham for CPAC USA 2026, March 25-28, in Grapevine, Texas. https://t.co/c9R5fyB7NQ"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183411,
+      "followersCount": 183414,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -369,11 +418,26 @@
   },
   {
     "user": {
+      "screenName": "GeminiApp",
+      "name": "Google Gemini",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+      "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Veo 3.1, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+      "followersCount": 415541,
+      "friendsCount": 47,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GeminiApp/status/2024167107538407783",
+    "fullText": "Here are some useful prompting tips to get the most out of our new music generation model in Gemini, Lyria 3 ↓"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183411,
+      "followersCount": 183414,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -388,7 +452,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65128,
+      "followersCount": 65130,
       "friendsCount": 519,
       "location": ""
     },
@@ -423,7 +487,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18598,
+      "followersCount": 18596,
       "friendsCount": 1243,
       "location": ""
     },
@@ -438,7 +502,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18598,
+      "followersCount": 18596,
       "friendsCount": 1243,
       "location": ""
     },
@@ -487,7 +551,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10968,
+      "followersCount": 10969,
       "friendsCount": 2653,
       "location": ""
     },
@@ -517,7 +581,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10968,
+      "followersCount": 10969,
       "friendsCount": 2653,
       "location": ""
     },
@@ -534,7 +598,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63163,
+      "followersCount": 63162,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -549,7 +613,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18598,
+      "followersCount": 18596,
       "friendsCount": 1243,
       "location": ""
     },
@@ -567,7 +631,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49660,
+      "followersCount": 49657,
       "friendsCount": 290,
       "location": "China"
     },
@@ -584,7 +648,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49660,
+      "followersCount": 49657,
       "friendsCount": 290,
       "location": "China"
     },
@@ -599,7 +663,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63163,
+      "followersCount": 63162,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -648,7 +712,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49660,
+      "followersCount": 49657,
       "friendsCount": 290,
       "location": "China"
     },
@@ -678,7 +742,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49660,
+      "followersCount": 49657,
       "friendsCount": 290,
       "location": "China"
     },
@@ -710,7 +774,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18598,
+      "followersCount": 18596,
       "friendsCount": 1243,
       "location": ""
     },
@@ -742,7 +806,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183411,
+      "followersCount": 183414,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -973,7 +1037,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183411,
+      "followersCount": 183414,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
