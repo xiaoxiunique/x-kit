@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 63163,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBghQaSbUAEOdfz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2024404835593048536",
+    "fullText": "Tailwind 4.2 发布了，我最喜欢的是它发布了一系列的新调色盘颜色，\n* mauve（紫红色/梅子色系）\n* olive（橄榄绿/军绿色系）\n* mist（薄雾灰/柔和冷灰）\n* taupe（灰褐/摩卡色系）\n\n使用 OKLCH 色彩空间，颜色低调高级，特别适合现在自然风的设计风格，真的很漂亮，直接将蓝紫渐变扫入垃圾堆。\n\n我用 https://t.co/COHPkoTy8p"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183403,
+      "followersCount": 183411,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -22,7 +39,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49658,
+      "followersCount": 49660,
       "friendsCount": 290,
       "location": "China"
     },
@@ -42,7 +59,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49658,
+      "followersCount": 49660,
       "friendsCount": 290,
       "location": "China"
     },
@@ -59,7 +76,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18597,
+      "followersCount": 18598,
       "friendsCount": 1243,
       "location": ""
     },
@@ -91,7 +108,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42478,
+      "followersCount": 42482,
       "friendsCount": 797,
       "location": "Hong Kong"
     },
@@ -123,7 +140,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18597,
+      "followersCount": 18598,
       "friendsCount": 1243,
       "location": ""
     },
@@ -138,7 +155,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42478,
+      "followersCount": 42482,
       "friendsCount": 797,
       "location": "Hong Kong"
     },
@@ -185,7 +202,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26344,
+      "followersCount": 26346,
       "friendsCount": 325,
       "location": "Guangdong"
     },
@@ -215,7 +232,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65124,
+      "followersCount": 65128,
       "friendsCount": 519,
       "location": ""
     },
@@ -277,7 +294,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4631977,
+      "followersCount": 4632041,
       "friendsCount": 4,
       "location": ""
     },
@@ -292,7 +309,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183403,
+      "followersCount": 183411,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -324,8 +341,8 @@
       "name": "andrew chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1610236905643249664/OdYs6aWP_normal.jpg",
       "description": "🇺🇸 a16z speedrun",
-      "followersCount": 332196,
-      "friendsCount": 14213,
+      "followersCount": 332383,
+      "friendsCount": 14216,
       "location": ""
     },
     "images": [],
@@ -356,7 +373,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183403,
+      "followersCount": 183411,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -371,7 +388,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65124,
+      "followersCount": 65128,
       "friendsCount": 519,
       "location": ""
     },
@@ -406,7 +423,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18597,
+      "followersCount": 18598,
       "friendsCount": 1243,
       "location": ""
     },
@@ -421,7 +438,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18597,
+      "followersCount": 18598,
       "friendsCount": 1243,
       "location": ""
     },
@@ -470,7 +487,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10969,
+      "followersCount": 10968,
       "friendsCount": 2653,
       "location": ""
     },
@@ -500,7 +517,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10969,
+      "followersCount": 10968,
       "friendsCount": 2653,
       "location": ""
     },
@@ -517,7 +534,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63160,
+      "followersCount": 63163,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -532,7 +549,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18597,
+      "followersCount": 18598,
       "friendsCount": 1243,
       "location": ""
     },
@@ -550,7 +567,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49658,
+      "followersCount": 49660,
       "friendsCount": 290,
       "location": "China"
     },
@@ -567,7 +584,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49658,
+      "followersCount": 49660,
       "friendsCount": 290,
       "location": "China"
     },
@@ -582,7 +599,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63160,
+      "followersCount": 63163,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -616,7 +633,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42478,
+      "followersCount": 42482,
       "friendsCount": 797,
       "location": "Hong Kong"
     },
@@ -631,7 +648,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49658,
+      "followersCount": 49660,
       "friendsCount": 290,
       "location": "China"
     },
@@ -646,7 +663,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42478,
+      "followersCount": 42482,
       "friendsCount": 797,
       "location": "Hong Kong"
     },
@@ -661,7 +678,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49658,
+      "followersCount": 49660,
       "friendsCount": 290,
       "location": "China"
     },
@@ -693,7 +710,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18597,
+      "followersCount": 18598,
       "friendsCount": 1243,
       "location": ""
     },
@@ -725,7 +742,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183403,
+      "followersCount": 183411,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -956,7 +973,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183403,
+      "followersCount": 183411,
       "friendsCount": 1554,
       "location": "Chicago, IL"
     },
@@ -1035,7 +1052,7 @@
       "name": "SandboxAQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1709547803695890432/6sF1W63e_normal.jpg",
       "description": "Leveraging AQ - the powerful compound effects of AI + Quantum technology",
-      "followersCount": 4472,
+      "followersCount": 4474,
       "friendsCount": 1357,
       "location": "Palo Alto, CA"
     },
@@ -1050,7 +1067,7 @@
       "name": "Robinhood",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
       "description": "Trade. Invest. Earn.",
-      "followersCount": 1236940,
+      "followersCount": 1236989,
       "friendsCount": 28,
       "location": "Menlo Park, CA"
     },
