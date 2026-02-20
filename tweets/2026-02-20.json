@@ -56,7 +56,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 117672,
+      "followersCount": 117688,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -105,7 +105,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63210,
+      "followersCount": 63213,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -120,7 +120,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23875,
+      "followersCount": 23872,
       "friendsCount": 5081,
       "location": ""
     },
@@ -135,7 +135,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183722,
+      "followersCount": 183729,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -170,7 +170,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10960,
+      "followersCount": 10983,
       "friendsCount": 522,
       "location": "杭州"
     },
@@ -202,7 +202,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63210,
+      "followersCount": 63213,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -247,11 +247,26 @@
   },
   {
     "user": {
+      "screenName": "FredA2025",
+      "name": "Fred Alexander",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1900569100759314432/T4Yo5P2S_normal.jpg",
+      "description": "Musings of a true American, from a Northeast perspective.",
+      "followersCount": 29,
+      "friendsCount": 3,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FredA2025/status/2024660847125995547",
+    "fullText": "FOR AN AI‑AUGMENTED HUMAN FUTURE\n\nIn the spirit of the United States Constitution...\n\nWe, the people of the United States, in order to promote the general welfare, secure the blessings of liberty, and preserve the dignity and purpose of every individual, do affirm a new principle"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10965,
+      "followersCount": 10966,
       "friendsCount": 2651,
       "location": ""
     },
@@ -268,7 +283,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23875,
+      "followersCount": 23872,
       "friendsCount": 5081,
       "location": ""
     },
@@ -283,7 +298,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10960,
+      "followersCount": 10983,
       "friendsCount": 522,
       "location": "杭州"
     },
@@ -431,7 +446,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183722,
+      "followersCount": 183729,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -446,7 +461,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183722,
+      "followersCount": 183729,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -463,7 +478,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65194,
+      "followersCount": 65192,
       "friendsCount": 519,
       "location": ""
     },
@@ -540,7 +555,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65194,
+      "followersCount": 65192,
       "friendsCount": 519,
       "location": ""
     },
@@ -608,7 +623,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 117672,
+      "followersCount": 117688,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -625,7 +640,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10965,
+      "followersCount": 10966,
       "friendsCount": 2651,
       "location": ""
     },
@@ -1097,7 +1112,7 @@
       "name": "CPAC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1557787797095944195/DfSt96Bi_normal.jpg",
       "description": "The latest in the CPAC Freedom First Movement 🇺🇸 Home to the most influential gatherings of FREEDOM FIGHTERS in the world 🌎",
-      "followersCount": 251193,
+      "followersCount": 251200,
       "friendsCount": 5038,
       "location": "Where Globalism Goes to Die"
     },
@@ -1107,6 +1122,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/CPAC/status/2024189318789513665",
     "fullText": "Confirmed: Franklin Graham for CPAC USA 2026, March 25-28, in Grapevine, Texas. https://t.co/c9R5fyB7NQ"
+  },
+  {
+    "user": {
+      "screenName": "marquismurry100",
+      "name": "marquismurry100",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961107086156120064/iqsNgO7B_normal.jpg",
+      "description": "https://t.co/W2vGOoegom\n6ft 205lbs (ATH) 4x 1st Team All-District Bench Press-325lbs\n LegSquat-405lbs\n  NCAA ID# 2107266129",
+      "followersCount": 427,
+      "friendsCount": 388,
+      "location": "Austin, TX"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2024188331718836224/pu/vid/avc1/1280x720/DsdxbfKC2jYMhGej.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/marquismurry100/status/2024188760414453908",
+    "fullText": "Final Regular season game\n15 game winning streak\nUndefeated in District\n\nMVP Marquis \"BIG Chief\" Murry\n@LBJJagsHoops @LBJSports @joe_rauls @dctf @mcknight_m65248 @uiltexas @statesman @streetziam @Cory_Mose @JeffJonesSports @varsity_news @RivalsHS https://t.co/kt3jzaRf2a"
   },
   {
     "user": {
@@ -1131,8 +1163,8 @@
       "name": "andrew chen",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1610236905643249664/OdYs6aWP_normal.jpg",
       "description": "🇺🇸 a16z speedrun",
-      "followersCount": 333060,
-      "friendsCount": 14216,
+      "followersCount": 333283,
+      "friendsCount": 14219,
       "location": ""
     },
     "images": [],
