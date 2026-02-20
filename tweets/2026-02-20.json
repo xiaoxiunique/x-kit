@@ -1,12 +1,61 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 63172,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2024684568033566720/vid/avc1/1468x956/xLkx-ESmmppCgmOw.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/2024684816931959249",
+    "fullText": "昨天，网易有道悄悄开源了一个非常有意思的国产 AI Agent —— LobsterAI 。 体验完后最大的感慨：这简直就是带 GUI 的中国版 OpenClaw，但门槛被拉低到了普通人也能轻松把玩的程度。\n\n现在的 AI 产品有两个痛点：要么纯云端（常遇延迟和断网），要么纯聊天（没法进行深度的交互和操作）。而 LobsterAI https://t.co/tzDoBmtF3Y"
+  },
+  {
+    "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9160,
+      "friendsCount": 310,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBkeLOdbUAUg7aL.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2024683039520153828",
+    "fullText": "做一个功能， Claude Code 每次都会触发「Output blocked by content filtering policy」然后就中断了，换提示词了也是这样。 https://t.co/otiw3bHBQF"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76687,
+      "friendsCount": 3534,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2024682336747737315",
+    "fullText": "我的天。。。最喜欢的博主一口气更新了 16 篇博客。\nhttps://t.co/p4LdxhHcUq"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10965,
-      "friendsCount": 2651,
+      "followersCount": 10960,
+      "friendsCount": 2650,
       "location": ""
     },
     "images": [
@@ -22,7 +71,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23876,
+      "followersCount": 23873,
       "friendsCount": 5080,
       "location": ""
     },
@@ -37,7 +86,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10511,
+      "followersCount": 10572,
       "friendsCount": 522,
       "location": "杭州"
     },
@@ -116,7 +165,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183571,
+      "followersCount": 183578,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -131,7 +180,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183571,
+      "followersCount": 183578,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -214,7 +263,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49667,
+      "followersCount": 49663,
       "friendsCount": 290,
       "location": "China"
     },
@@ -231,7 +280,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 117556,
+      "followersCount": 117554,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -248,8 +297,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10965,
-      "friendsCount": 2651,
+      "followersCount": 10960,
+      "friendsCount": 2650,
       "location": ""
     },
     "images": [
@@ -265,7 +314,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18615,
+      "followersCount": 18614,
       "friendsCount": 1245,
       "location": ""
     },
@@ -280,8 +329,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76689,
-      "friendsCount": 3535,
+      "followersCount": 76687,
+      "friendsCount": 3534,
       "location": ""
     },
     "images": [],
@@ -295,7 +344,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 10511,
+      "followersCount": 10572,
       "friendsCount": 522,
       "location": "杭州"
     },
@@ -310,7 +359,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18615,
+      "followersCount": 18614,
       "friendsCount": 1245,
       "location": ""
     },
@@ -378,7 +427,7 @@
       "name": "ruanyf",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
       "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
-      "followersCount": 192802,
+      "followersCount": 192812,
       "friendsCount": 374,
       "location": "Shanghai, China"
     },
@@ -395,7 +444,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18615,
+      "followersCount": 18614,
       "friendsCount": 1245,
       "location": ""
     },
@@ -412,7 +461,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63170,
+      "followersCount": 63172,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -429,7 +478,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183571,
+      "followersCount": 183578,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -446,7 +495,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49667,
+      "followersCount": 49663,
       "friendsCount": 290,
       "location": "China"
     },
@@ -466,7 +515,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49667,
+      "followersCount": 49663,
       "friendsCount": 290,
       "location": "China"
     },
@@ -483,7 +532,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18615,
+      "followersCount": 18614,
       "friendsCount": 1245,
       "location": ""
     },
@@ -528,11 +577,26 @@
   },
   {
     "user": {
+      "screenName": "FreshTechTherpy",
+      "name": "Fresh",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889918218141052928/xZJd-MPR_normal.jpg",
+      "description": "I run https://t.co/ybspmfq8R5 to connect and help first time PC Builders. We run monthly giveaways to drive engagement. Please join and help us build.",
+      "followersCount": 206,
+      "friendsCount": 155,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FreshTechTherpy/status/2024348642014843032",
+    "fullText": "I'm giving away a brand new Logitech G PRO X2 SUPERSTRIKE 🖱️$180 mouse. World's first haptic inductive switches. Already backordered everywhere.\n\nLightweight 10/10\n\nI'm old school and I want my mouse to make a sound if I throw it across the room.\n\nRage throw 0/10\n\nI've got one."
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18615,
+      "followersCount": 18614,
       "friendsCount": 1245,
       "location": ""
     },
@@ -577,7 +641,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23876,
+      "followersCount": 23873,
       "friendsCount": 5080,
       "location": ""
     },
@@ -602,6 +666,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/2024284821074432153",
     "fullText": "春节期间不要天天写代码，早上出去拜访下许久未见的亲朋好友，中午出去寻访点美食，下午找个山清水秀的地方租辆自行车骑一骑，晚上和老同学们聚一聚，随便聊点啥，睡觉前再找一两本很久就想看的书看一看，这一天下来你就会发现，还是写代码最有意思！"
+  },
+  {
+    "user": {
+      "screenName": "matpatriotparty",
+      "name": "The Patriot Party 🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965806204912844800/LO1wR1_f_normal.jpg",
+      "description": "The 1st Movement in American History to Unite Media, Constitutional Activism, Education & Legislation under: Truth, Transparency & The Constitution👍💪💯🇺🇸",
+      "followersCount": 12784,
+      "friendsCount": 135,
+      "location": "Bossier City, LA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2024284090745102336/vid/avc1/560x560/13JQuEkhxui36dMh.mp4?tag=24"
+    ],
+    "tweetUrl": "https://x.com/matpatriotparty/status/2024284140615463337",
+    "fullText": "Watch these COOL New Graphics https://t.co/2yb43fXBX3"
   },
   {
     "user": {
@@ -746,5 +827,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2024147662233010385",
     "fullText": "未来生产力的上限取决于人类的决策时间与输入速度"
+  },
+  {
+    "user": {
+      "screenName": "mazdakz",
+      "name": "Dr. Mazdak Zamani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1603392434167316481/htxbIc2T_normal.jpg",
+      "description": "استاد امنیت سایبری دانشگاه نیویورک (NYU) - کتابهای غیرعلمی من: ۱- چنین گفت مزدک (فلسفه و اندیشه‌) ۲- از پوچ تا هیچ (شعر سپید) ۳- دختران شراب پسران سراب (داستان)",
+      "followersCount": 2316,
+      "friendsCount": 629,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mazdakz/status/2024118860496965921",
+    "fullText": "همه‌ی ما بازمانده‌ایم.\n\nبازمانده‌ی \n                   ده‌ها هزار\n                                     فرزند ِایران \n                                                      و جان‌فدای میهن."
   }
 ]
