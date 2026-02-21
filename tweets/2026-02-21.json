@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
+      "followersCount": 63326,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBrnUMUbgAAPeUp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2025185392220340668",
+    "fullText": "React Grab 作者的新作品 React Doctor https://t.co/5bYqcFVA44\n\n一个命令检查你现在 React 项目中的各种问题，给你打个分，然后可以继续使用你熟悉的 Coding Agent 修复这些问题，并且安装对应的 React skills。\n\n在我的项目上试了一下，很不错的小工具，看起来实现也不是很复杂，React https://t.co/PVWYdeTEQa"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -128,7 +145,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63341,
+      "followersCount": 63326,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -177,7 +194,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65324,
+      "followersCount": 65316,
       "friendsCount": 521,
       "location": ""
     },
@@ -226,7 +243,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18625,
+      "followersCount": 18623,
       "friendsCount": 1245,
       "location": ""
     },
@@ -275,7 +292,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183881,
+      "followersCount": 183883,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -305,7 +322,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65324,
+      "followersCount": 65316,
       "friendsCount": 521,
       "location": ""
     },
@@ -350,7 +367,7 @@
       "name": "Starlink",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
       "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
-      "followersCount": 1549746,
+      "followersCount": 1549723,
       "friendsCount": 30,
       "location": ""
     },
@@ -380,7 +397,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65324,
+      "followersCount": 65316,
       "friendsCount": 521,
       "location": ""
     },
@@ -532,7 +549,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65324,
+      "followersCount": 65316,
       "friendsCount": 521,
       "location": ""
     },
@@ -626,7 +643,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65324,
+      "followersCount": 65316,
       "friendsCount": 521,
       "location": ""
     },
@@ -710,7 +727,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18625,
+      "followersCount": 18623,
       "friendsCount": 1245,
       "location": ""
     },
@@ -744,7 +761,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18625,
+      "followersCount": 18623,
       "friendsCount": 1245,
       "location": ""
     },
@@ -761,7 +778,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 118022,
+      "followersCount": 118031,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -795,7 +812,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63341,
+      "followersCount": 63326,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1054,7 +1071,7 @@
       "name": "Howie Liu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908611434898206720/CRup1_nM_normal.jpg",
       "description": "Cofounder/CEO @ Airtable",
-      "followersCount": 46646,
+      "followersCount": 46684,
       "friendsCount": 1320,
       "location": "SF"
     },
