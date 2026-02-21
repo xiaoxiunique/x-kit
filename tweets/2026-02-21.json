@@ -1,6 +1,25 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 22131,
+      "friendsCount": 1059,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HBq3-x3bIAAnLGL.jpg",
+      "https://pbs.twimg.com/media/HBq4NUtboAElZ4P.jpg",
+      "https://pbs.twimg.com/media/HBq4NUxbgAY8N_3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/2025135850129162358",
+    "fullText": "下个版本的 Noi 将支持文件管理器，可以打开常见的音、图、视频文件，csv、db、log、以及常见内容的高亮显示（文件预览对 Noi 来说只是一个 Tab 资源解析而已）。\n\n最近也一直在研究 OpenClaw IM，感觉 Noi 也可以实现类似功能。这样的话，Noi 将支持 human/bot 两种运行模式。 https://t.co/LC9lrjaOKe"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -22,7 +41,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23887,
+      "followersCount": 23889,
       "friendsCount": 5083,
       "location": ""
     },
@@ -39,7 +58,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63330,
+      "followersCount": 63331,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -71,7 +90,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10975,
+      "followersCount": 10974,
       "friendsCount": 2653,
       "location": ""
     },
@@ -88,7 +107,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65312,
+      "followersCount": 65317,
       "friendsCount": 521,
       "location": ""
     },
@@ -154,7 +173,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23887,
+      "followersCount": 23889,
       "friendsCount": 5083,
       "location": ""
     },
@@ -186,7 +205,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183850,
+      "followersCount": 183856,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -201,7 +220,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42524,
+      "followersCount": 42525,
       "friendsCount": 802,
       "location": "Hong Kong"
     },
@@ -216,7 +235,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65312,
+      "followersCount": 65317,
       "friendsCount": 521,
       "location": ""
     },
@@ -276,7 +295,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65312,
+      "followersCount": 65317,
       "friendsCount": 521,
       "location": ""
     },
@@ -364,7 +383,7 @@
       "name": "TCL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972589963372802048/ott0LqNd_normal.jpg",
       "description": "TCL commits itself to providing ultimate service and experience with our premium electronics and smart tech products.",
-      "followersCount": 17307,
+      "followersCount": 17308,
       "friendsCount": 43,
       "location": "Guangdong,China"
     },
@@ -428,7 +447,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65312,
+      "followersCount": 65317,
       "friendsCount": 521,
       "location": ""
     },
@@ -443,7 +462,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10975,
+      "followersCount": 10974,
       "friendsCount": 2653,
       "location": ""
     },
@@ -522,7 +541,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65312,
+      "followersCount": 65317,
       "friendsCount": 521,
       "location": ""
     },
@@ -623,7 +642,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹",
-      "followersCount": 7873,
+      "followersCount": 7872,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -657,7 +676,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 118011,
+      "followersCount": 118013,
       "friendsCount": 252,
       "location": "Singapore"
     },
@@ -691,7 +710,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63330,
+      "followersCount": 63331,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -706,7 +725,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23887,
+      "followersCount": 23889,
       "friendsCount": 5083,
       "location": ""
     },
@@ -721,7 +740,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183850,
+      "followersCount": 183856,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -950,8 +969,8 @@
       "name": "Howie Liu",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1908611434898206720/CRup1_nM_normal.jpg",
       "description": "Cofounder/CEO @ Airtable",
-      "followersCount": 45861,
-      "friendsCount": 1321,
+      "followersCount": 46460,
+      "friendsCount": 1320,
       "location": "SF"
     },
     "images": [],
@@ -1027,6 +1046,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/TreasurySuite/status/2024582999715844586",
     "fullText": "Work–life balance isn’t optional. It directly impacts performance, health, and long-term success.\n\nWhen treasury teams reduce manual tasks and gain real-time visibility, they don’t just work smarter, they reclaim time.\n\nHayden Olsen explains how the right systems make that"
+  },
+  {
+    "user": {
+      "screenName": "ILfamilyaction",
+      "name": "IL Family Action",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/489816660711206912/TC5vGsu5_normal.jpeg",
+      "description": "Illinois Family Action, the 501c4 political action arm of IFI. We work to promote Christian pro-family issues & candidates in Illinois.",
+      "followersCount": 1684,
+      "friendsCount": 509,
+      "location": "Mokena, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ILfamilyaction/status/2024571359104311344",
+    "fullText": "Calling federal agents “authoritarian” while obstructing their lawful work isn’t leadership — it’s demagoguery. Illinois helped create the enforcement chaos, then used it as a campaign prop. Facts matter.\n\nhttps://t.co/cAx3yl5Vrx"
   },
   {
     "user": {
