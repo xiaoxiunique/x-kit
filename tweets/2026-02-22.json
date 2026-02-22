@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11285,
+      "friendsCount": 522,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2025400932075536399",
+    "fullText": "我过年这段时间的体验，让我一直想教育会不会被 AI 进一步拉开差距，有钱的富人可以让自己小孩用上最牛逼的最前沿的最贵的 AI 进行学习和训练；而穷人家的孩子可能接触的都是免费的 AI"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -22,7 +37,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11284,
+      "followersCount": 11285,
       "friendsCount": 522,
       "location": "杭州"
     },
@@ -37,7 +52,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11284,
+      "followersCount": 11285,
       "friendsCount": 522,
       "location": "杭州"
     },
@@ -63,11 +78,26 @@
   },
   {
     "user": {
+      "screenName": "LilianGeorge_US",
+      "name": "Lilian George US",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004317475593191425/pMfBTrbr_normal.jpg",
+      "description": "Author: The Cuban Manuscript\nhttps://t.co/3mGgylqFd1\n\nEn Español:\nEl Manuscrito Cubano\nhttps://t.co/i2Ur5NikKp",
+      "followersCount": 1,
+      "friendsCount": 65,
+      "location": "🇺🇸 "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LilianGeorge_US/status/2025361479885545886",
+    "fullText": "The Cuban Manuscript available in Spanish! \n\nhttps://t.co/B7Mb4vB9X8"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183958,
+      "followersCount": 183966,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -97,7 +127,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6986,
+      "followersCount": 6992,
       "friendsCount": 746,
       "location": "San Jose, CA"
     },
@@ -112,7 +142,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6986,
+      "followersCount": 6992,
       "friendsCount": 746,
       "location": "San Jose, CA"
     },
@@ -163,7 +193,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183958,
+      "followersCount": 183966,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -189,11 +219,28 @@
   },
   {
     "user": {
+      "screenName": "MainStreetEco",
+      "name": "MainStreetEconomics",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935771186077548544/jxaqebzV_normal.jpg",
+      "description": "Educating on economics. Exposing America’s debt bomb. Sounding the alarm on runaway spending—and what we must do to fix it.",
+      "followersCount": 5265,
+      "friendsCount": 5241,
+      "location": "Clearwater, Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2025273155271430144/vid/avc1/640x360/JeQ8Th3808-lmR1I.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MainStreetEco/status/2025273279649644709",
+    "fullText": "Frustrated with sky-high costs, insane interest rates, and homes feeling completely out of reach? You're not alone — but these problems ARE solvable. This short video breaks it down clearly: no easy fixes, but good governing + sound economics can get us back on track to a stable https://t.co/CqND9qEHMA"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65349,
+      "followersCount": 65348,
       "friendsCount": 521,
       "location": ""
     },
@@ -262,7 +309,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -277,7 +324,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -292,7 +339,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22127,
+      "followersCount": 22126,
       "friendsCount": 1060,
       "location": ""
     },
@@ -320,11 +367,28 @@
   },
   {
     "user": {
+      "screenName": "CortesSteve",
+      "name": "Steve Cortes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1724056934955765760/DDHvzSst_normal.jpg",
+      "description": "Born for a Storm. Bad Hombre. Founder: League of American Workers, Senior Advisor: Catholic Vote. Former: Trump 2016 & 2020, Vance 2022, Fox & CNN.",
+      "followersCount": 525940,
+      "friendsCount": 815,
+      "location": "Tennessee"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2025229190216454144/vid/avc1/876x1280/_-91TrGUbkMojxXp.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CortesSteve/status/2025229257736356027",
+    "fullText": "Govt Housing policies ruined my hometown!\n\nPark Forest IL was full of happy middle class families, with lots of kids, living in large affordable homes.\n\nIt’s struggling now and has 16% of kids reading at grade level. \n\nStop the war on families and suburbs! https://t.co/xF2mdKHKnC"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -339,7 +403,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -354,7 +418,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -384,7 +448,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 118220,
+      "followersCount": 118242,
       "friendsCount": 253,
       "location": "Singapore"
     },
@@ -399,7 +463,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -414,7 +478,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -446,7 +510,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -464,7 +528,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -479,7 +543,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -499,7 +563,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49676,
+      "followersCount": 49678,
       "friendsCount": 290,
       "location": "China"
     },
@@ -516,7 +580,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22127,
+      "followersCount": 22126,
       "friendsCount": 1060,
       "location": ""
     },
@@ -535,7 +599,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76707,
+      "followersCount": 76705,
       "friendsCount": 3536,
       "location": ""
     },
@@ -552,7 +616,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23888,
+      "followersCount": 23887,
       "friendsCount": 5083,
       "location": ""
     },
@@ -586,7 +650,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76707,
+      "followersCount": 76705,
       "friendsCount": 3536,
       "location": ""
     },
@@ -601,7 +665,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10977,
+      "followersCount": 10978,
       "friendsCount": 2653,
       "location": ""
     },
@@ -618,7 +682,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65349,
+      "followersCount": 65348,
       "friendsCount": 521,
       "location": ""
     },
@@ -669,7 +733,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23888,
+      "followersCount": 23887,
       "friendsCount": 5083,
       "location": ""
     },
@@ -680,11 +744,26 @@
   },
   {
     "user": {
+      "screenName": "rtpr222",
+      "name": "Trevor Prater",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930652656453697536/s91mwn14_normal.jpg",
+      "description": "",
+      "followersCount": 30,
+      "friendsCount": 92,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rtpr222/status/2025067689543098756",
+    "fullText": "Dropped two today from Fugue Labs:\n\nGollem — Go-native agent framework: type-safe, zero deps, guardrails, multi-agent orch, 561+ tests. What if Pydantic AI + LangChain deepagents + Autogen + CrewAI had a baby... but compiled and got a job in HFT.\n\n+ monty-go: Safely run"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 183958,
+      "followersCount": 183966,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -699,7 +778,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 42528,
+      "followersCount": 42529,
       "friendsCount": 802,
       "location": "Hong Kong"
     },
@@ -714,7 +793,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65349,
+      "followersCount": 65348,
       "friendsCount": 521,
       "location": ""
     },
@@ -729,7 +808,7 @@
       "name": "Starlink",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
       "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
-      "followersCount": 1550301,
+      "followersCount": 1550403,
       "friendsCount": 30,
       "location": ""
     },
@@ -744,7 +823,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65349,
+      "followersCount": 65348,
       "friendsCount": 521,
       "location": ""
     },
@@ -757,6 +836,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2024982374963183741",
     "fullText": "【数据：对冲基金高管收入排行榜 &amp; 收入分析】\n本文原始数据来自于Bloomberg\n\nPoint72的老板，69岁的Steve Cohen在2025年对冲基金高管收入排行榜第一：2025收入高达34亿美金\n\n1. 前十收入及其所在公司的名字详见下图👇\n68 岁的大卫·泰珀(David Tepper) 主要在阿帕卢萨 (Appaloosa) 管理自己的资金，以 https://t.co/ddSjre4Lns"
+  },
+  {
+    "user": {
+      "screenName": "IndieWire",
+      "name": "IndieWire",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1695163759176863747/lr_ue0WQ_normal.jpg",
+      "description": "The definitive outlet for film and TV news, reviews, and industry analysis.",
+      "followersCount": 815551,
+      "friendsCount": 3022,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2024972927939346433/vid/avc1/1920x1080/fJ-YFwdLEbQyWrKP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/IndieWire/status/2024977473797325173",
+    "fullText": "Casting director Cassandra Kulukundis recalls her expansive search for the role of Willa in \"One Battle After Another,\" and highlights Chase Infiniti's breakthrough performance.⁠ ⁠ \n\nCraft Considerations | Presented in Partnership with @warnerbros https://t.co/QwJTvd9CmI"
   },
   {
     "user": {
@@ -855,5 +951,54 @@
     "videos": [],
     "tweetUrl": "https://x.com/xiongchun007/status/2024884778613584159",
     "fullText": "今天从陕西韩城出发，穿越山西一路黄土高坡，终于夜里抵达京城。休息一晚，明天去爬长城！ https://t.co/Sqguy6pTRO"
+  },
+  {
+    "user": {
+      "screenName": "ashu_trv",
+      "name": "Ashu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2022627283329323009/iOCRu5W5_normal.jpg",
+      "description": "Building @videodb_io. Fundamental systems for AI. Deep thoughts on tech, science, philosophy & human nature. 4am magic.",
+      "followersCount": 472,
+      "friendsCount": 532,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2024858983459368960/vid/avc1/1856x1080/b_ioINIW4lxD5M8o.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ashu_trv/status/2024870911103623582",
+    "fullText": "AI is escaping the chatbot.\n\nNext it lives on your desktop.\nThen in your room.\nAgentic systems don’t need “more prompts”\nThey need real time sight + sound. https://t.co/4EmLdQzVRy"
+  },
+  {
+    "user": {
+      "screenName": "QuantumFDN",
+      "name": "Quantum",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021165748052512768/-dTL25GK_normal.png",
+      "description": "The World’s Quantum Secure Blockchain",
+      "followersCount": 63197,
+      "friendsCount": 16,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2024592868564738049/vid/avc1/3840x2160/i1G8n9MGk6-MlbIO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QuantumFDN/status/2024868911703789950",
+    "fullText": "Quantum is one of the most powerful emerging technologies and it’s already driving a government-led encryption transition. \n\nPrivate keys are at risk, and most blockchains aren’t ready.\n\nIntroducing Quantum Litepaper: https://t.co/cVBvuaLXC5"
+  },
+  {
+    "user": {
+      "screenName": "DominoTheoryMag",
+      "name": "Domino Theory",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1624015757083553799/-CviBNxc_normal.jpg",
+      "description": "Geopolitics around the Taiwan Strait.\n\ninquiries@dominotheory.com",
+      "followersCount": 1272,
+      "friendsCount": 1974,
+      "location": "Taipei, Taiwan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DominoTheoryMag/status/2024702157367439460",
+    "fullText": "OP-ED: As Taiwan celebrates lunar new year this week, America’s two most famous populists spent the week undercutting the basic pillars of U.S.–Taiwan policy. @redharryng\nhttps://t.co/iJEsY3Z2de"
   }
 ]
