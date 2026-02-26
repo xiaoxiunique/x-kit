@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 45027,
+      "friendsCount": 806,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2026906974856867840/vid/avc1/2560x1440/Hq0Fp8FJF2jNMOEr.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yihui_indie/status/2026907791445914082",
+    "fullText": "🥳Seedance2.0 提示词小程序，接入微信支付的课程录制完了，明天发布到课程中。\n\n这是全网少有的AI编程接入官方微信支付的视频，学员可以免费获取源码自己部署！ https://t.co/hxj4zsPuXj"
+  },
+  {
+    "user": {
       "screenName": "goocarlos",
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22676,
+      "followersCount": 22679,
       "friendsCount": 902,
       "location": "San Jose, CA"
     },
@@ -22,7 +39,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49860,
+      "followersCount": 49862,
       "friendsCount": 290,
       "location": "China"
     },
@@ -42,7 +59,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76676,
+      "followersCount": 76673,
       "friendsCount": 3536,
       "location": ""
     },
@@ -76,7 +93,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49860,
+      "followersCount": 49862,
       "friendsCount": 290,
       "location": "China"
     },
@@ -108,7 +125,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49860,
+      "followersCount": 49862,
       "friendsCount": 290,
       "location": "China"
     },
@@ -125,7 +142,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11370,
+      "followersCount": 11373,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -142,7 +159,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49860,
+      "followersCount": 49862,
       "friendsCount": 290,
       "location": "China"
     },
@@ -159,7 +176,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11370,
+      "followersCount": 11373,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -223,7 +240,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11370,
+      "followersCount": 11373,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -284,11 +301,26 @@
   },
   {
     "user": {
+      "screenName": "VIX",
+      "name": "ViX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1997427371511578625/NvpOTPWh_normal.jpg",
+      "description": "El servicio de streaming en español más grande del mundo 🧡🎬 ¿Tienes preguntas? @ViXayuda está aquí para ayudarte.",
+      "followersCount": 110511,
+      "friendsCount": 42,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VIX/status/2026785868816724192",
+    "fullText": "All the drama, zero fillers. Imagina que el drama de tu novela favorita met the speed of a K-drama. \n\nThat’s Microcontenidos on ViX. Short stories, big emotions, and enough to last all week."
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187013,
+      "followersCount": 187026,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -352,7 +384,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65458,
+      "followersCount": 65457,
       "friendsCount": 530,
       "location": ""
     },
@@ -369,7 +401,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65458,
+      "followersCount": 65457,
       "friendsCount": 530,
       "location": ""
     },
@@ -382,11 +414,28 @@
   },
   {
     "user": {
+      "screenName": "augmentcode",
+      "name": "Augment Code",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951036943090761728/7M36efud_normal.jpg",
+      "description": "The only AI coding Agent built for professional software engineers and large codebases.",
+      "followersCount": 20099,
+      "friendsCount": 42,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2026395325993463808/vid/avc1/1920x1080/IjtpN8bjUZwm5Ghu.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/augmentcode/status/2026704377260683457",
+    "fullText": "So what would you say....you do here? https://t.co/bWnfNI0C2F"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11370,
+      "followersCount": 11373,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -418,7 +467,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18633,
+      "followersCount": 18635,
       "friendsCount": 1229,
       "location": ""
     },
@@ -435,7 +484,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26466,
+      "followersCount": 26467,
       "friendsCount": 332,
       "location": "Guangdong"
     },
@@ -450,7 +499,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49860,
+      "followersCount": 49862,
       "friendsCount": 290,
       "location": "China"
     },
@@ -467,7 +516,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18633,
+      "followersCount": 18635,
       "friendsCount": 1229,
       "location": ""
     },
@@ -482,7 +531,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11370,
+      "followersCount": 11373,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -497,7 +546,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18633,
+      "followersCount": 18635,
       "friendsCount": 1229,
       "location": ""
     },
@@ -529,7 +578,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18633,
+      "followersCount": 18635,
       "friendsCount": 1229,
       "location": ""
     },
@@ -546,7 +595,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18633,
+      "followersCount": 18635,
       "friendsCount": 1229,
       "location": ""
     },
@@ -563,7 +612,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76676,
+      "followersCount": 76673,
       "friendsCount": 3536,
       "location": ""
     },
@@ -1072,6 +1121,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/KevinStankiewi5/status/2026386994365112619",
     "fullText": "@NealCarterAZ @andybiggs4az\n@RepAndyBiggsAZ @sherifflamb1\nInterview with Neal Carter, Speaker Pro Tempore of the Arizona House of Representatives, Part 1 about Road &amp; Water Policy in Arizona (&lt;3min)! 🏜\nhttps://t.co/1XmxudNNSW"
+  },
+  {
+    "user": {
+      "screenName": "americanedge",
+      "name": "American Edge Project",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1298344082708869122/RqW5VKhi_normal.jpg",
+      "description": "A coalition dedicated to the proposition that American innovators are an essential part of U.S. economic health, national security & individual freedoms.",
+      "followersCount": 6019,
+      "friendsCount": 273,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2026318612533784576/vid/avc1/1080x1080/QMIr94b2_UlBHZbG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/americanedge/status/2026382099960279551",
+    "fullText": "Our family business is thriving, growing, and hiring. We’re a case study for how AI is strengthening American manufacturing. https://t.co/7dS5ikmQNF"
   },
   {
     "user": {
