@@ -1,11 +1,75 @@
 [
   {
     "user": {
+      "screenName": "lencx_",
+      "name": "lencx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+      "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+      "followersCount": 22139,
+      "friendsCount": 1062,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCC-O-JaMAUiwac.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lencx_/status/2026829002439274879",
+    "fullText": "元技能：让 AI 像你一样思考\nhttps://t.co/dNd4qY8uYu\n\n它不是一套帮你“更会用 AI” 的技巧，而是一种让你把判断力从头脑里搬到系统里的方法。让你第一次有机会把经验变成秩序，把直觉变成结构，把“我觉得”变成“我能验证”。直觉变成规则，能力才会复利。AI 改变的从来不只是工具，而是你看世界的方式。 https://t.co/7u6rG9Yh2F"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7003,
+      "followersCount": 7002,
+      "friendsCount": 747,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2026828557276881099",
+    "fullText": "如果你告诉一个中国人不要「迷信」科学，他们大多会认为你是神棍。\n\n确实，如果订好了一个五年，十年，二十年的目标，然后去执行，你就得尊重科学。但有一件事没法靠科学，就是面对死亡。如何在必死的情况下寻找生命的意义，如何不陷入自我毁灭和物质利己的牛角尖。这就是不要「迷信科学」。"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
+      "followersCount": 23899,
+      "friendsCount": 5086,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCC6MusaMAI2_oO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2026824562453934325",
+    "fullText": "花了 2 天时间，深度研究了关雅荻从 2015 到 2026 的完整商业路径。\n\n他用 10 年时间，从电影制片人转型为内容型一人公司，用一套可复制的方法论实现可持续增长。\n\n这也是我见过最完整、最真实的超级个体 or 一人公司 案例。\n\n以下是 10 个核心洞察 👇 https://t.co/VOfZy9WS25"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11363,
+      "friendsCount": 523,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2026824375425736732",
+    "fullText": "感觉应该把 AI Coding 和健身结合起来，比如一边骑动感单车，一边语音 AI Coding，这样既解决了健康问题，又解决了 AI Coding 等待无聊的问题。\n\n从这个场景出发，再想想，其实是需要把 AI Coding 脱离电脑甚至手机，解放双手，目前载体是什么？还是智能眼镜。\n\n想想一下，坐着高铁和飞机，戴着 Vision"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 7002,
       "friendsCount": 747,
       "location": "San Jose, CA"
     },
@@ -37,7 +101,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 186912,
+      "followersCount": 186922,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -118,7 +182,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11362,
+      "followersCount": 11363,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -133,7 +197,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18631,
+      "followersCount": 18630,
       "friendsCount": 1229,
       "location": ""
     },
@@ -182,7 +246,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18631,
+      "followersCount": 18630,
       "friendsCount": 1229,
       "location": ""
     },
@@ -197,7 +261,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11362,
+      "followersCount": 11363,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -212,7 +276,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18631,
+      "followersCount": 18630,
       "friendsCount": 1229,
       "location": ""
     },
@@ -229,7 +293,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18631,
+      "followersCount": 18630,
       "friendsCount": 1229,
       "location": ""
     },
@@ -246,7 +310,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18631,
+      "followersCount": 18630,
       "friendsCount": 1229,
       "location": ""
     },
@@ -278,7 +342,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23898,
+      "followersCount": 23899,
       "friendsCount": 5086,
       "location": ""
     },
@@ -293,7 +357,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11362,
+      "followersCount": 11363,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -357,7 +421,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23898,
+      "followersCount": 23899,
       "friendsCount": 5086,
       "location": ""
     },
@@ -408,7 +472,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23898,
+      "followersCount": 23899,
       "friendsCount": 5086,
       "location": ""
     },
@@ -423,7 +487,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 186912,
+      "followersCount": 186922,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
@@ -438,7 +502,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18631,
+      "followersCount": 18630,
       "friendsCount": 1229,
       "location": ""
     },
@@ -453,7 +517,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23898,
+      "followersCount": 23899,
       "friendsCount": 5086,
       "location": ""
     },
@@ -519,7 +583,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9170,
+      "followersCount": 9169,
       "friendsCount": 341,
       "location": ""
     },
@@ -534,7 +598,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23898,
+      "followersCount": 23899,
       "friendsCount": 5086,
       "location": ""
     },
@@ -732,7 +796,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 186912,
+      "followersCount": 186922,
       "friendsCount": 1555,
       "location": "Chicago, IL"
     },
