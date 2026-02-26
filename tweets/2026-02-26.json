@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 187209,
+      "friendsCount": 1556,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCHoBfpWsAATUzk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2027156511555027252",
+    "fullText": "2026 年 “Harness Engineering” 这个词要火。\n\n“Harness” 这个词，字面意思是“马具”，就是套在马身上、让人能控制马匹方向和力量的那套装备。\n\n用在 AI 编程的语境里，它的比喻再贴切不过：AI Agent 就像一匹动力十足但不太守规矩的马，而 Harness 就是那套让它既能跑得快、又不会跑偏的缰绳和马鞍。 https://t.co/mT2SvKuOqz"
+  },
+  {
+    "user": {
       "screenName": "mattswider",
       "name": "Matt Swider (The Shortcut)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/709482071060647938/BCA4Dps2_normal.jpg",
@@ -84,7 +101,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63663,
+      "followersCount": 63664,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -165,7 +182,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 159463,
+      "followersCount": 159461,
       "friendsCount": 514,
       "location": "東京 港区"
     },
@@ -212,7 +229,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49976,
+      "followersCount": 49977,
       "friendsCount": 290,
       "location": "China"
     },
@@ -229,7 +246,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49976,
+      "followersCount": 49977,
       "friendsCount": 290,
       "location": "China"
     },
@@ -261,7 +278,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 159463,
+      "followersCount": 159461,
       "friendsCount": 514,
       "location": "東京 港区"
     },
@@ -276,7 +293,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45254,
+      "followersCount": 45257,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -293,7 +310,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45254,
+      "followersCount": 45257,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -310,7 +327,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22691,
+      "followersCount": 22692,
       "friendsCount": 902,
       "location": "San Jose, CA"
     },
@@ -327,7 +344,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49976,
+      "followersCount": 49977,
       "friendsCount": 290,
       "location": "China"
     },
@@ -398,7 +415,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49976,
+      "followersCount": 49977,
       "friendsCount": 290,
       "location": "China"
     },
@@ -430,7 +447,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49976,
+      "followersCount": 49977,
       "friendsCount": 290,
       "location": "China"
     },
@@ -447,7 +464,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11404,
+      "followersCount": 11403,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -464,7 +481,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49976,
+      "followersCount": 49977,
       "friendsCount": 290,
       "location": "China"
     },
@@ -481,7 +498,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11404,
+      "followersCount": 11403,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -562,7 +579,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11404,
+      "followersCount": 11403,
       "friendsCount": 523,
       "location": "杭州"
     },
@@ -585,6 +602,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/middlefeng/status/2026808399967777259",
     "fullText": "如果用拉丁词根，-speaking 是 -phone。讲中文叫做 Sinophone。"
+  },
+  {
+    "user": {
+      "screenName": "Heartflow",
+      "name": "Heartflow",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894586910476996608/Aqj6taTn_normal.png",
+      "description": "Heartflow’s non-invasive AI-driven personalized 3D heart models empower clinicians to detect and manage coronary artery disease. #Heartflow #FFRCT #Plaque #CCTA",
+      "followersCount": 12488,
+      "friendsCount": 839,
+      "location": "Mountain View, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Heartflow/status/2026808335211930015",
+    "fullText": "1/ The era of \"AI as a novelty\" in cardiology is over. As we enter 2026, the question isn’t if you use AI, but how that AI was built and verified.\n\nTo move the needle on patient outcomes, AI must master these three pillars. 👇"
   },
   {
     "user": {
@@ -635,6 +667,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/VIX/status/2026785868816724192",
     "fullText": "All the drama, zero fillers. Imagina que el drama de tu novela favorita met the speed of a K-drama. \n\nThat’s Microcontenidos on ViX. Short stories, big emotions, and enough to last all week."
+  },
+  {
+    "user": {
+      "screenName": "tickerplus",
+      "name": "TickerTrends 🔬",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968414690893017088/cY-t4vYc_normal.jpg",
+      "description": "Turning consumer behavior into alpha\n\nInquiries: admin@tickertrends.io\n\nResearch: https://t.co/FZdL5MaQd3\n\nPlatform: https://t.co/4dWj3PD4H7",
+      "followersCount": 7039,
+      "friendsCount": 344,
+      "location": "Dallas, Texas"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCB8oLyWoAAyJwM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tickerplus/status/2026756915867291732",
+    "fullText": "$ROOT Root Insurance has seen a recovery in App Review growth https://t.co/ylcjmJIbPC"
   },
   {
     "user": {
@@ -797,6 +846,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2026703847931129897",
     "fullText": "我好像都不太追求什么手机 App vibe coding 了，不知道有没有人跟我想法一样。\n\n理由就是说：我既然要 vibe coding，我必然是进入一种专注的状态，那我肯定是要在电脑前，有个办公环境的。\n\n有什么情况是我只有手机，又想工作的时候呢？可能只有上厕所的时候。"
+  },
+  {
+    "user": {
+      "screenName": "ACC_National",
+      "name": "American Conservation Coalition",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869814322655887361/Ttgmnb64_normal.jpg",
+      "description": "Building the conservative environmental movement 🇺🇸 Protecting our natural heritage 🏞️ Unleashing American energy ⚡️",
+      "followersCount": 52092,
+      "friendsCount": 1927,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCBD2bbWsAAdP6g.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ACC_National/status/2026694475108504071",
+    "fullText": "Florida is on the front lines of America's invasive species crisis.\n\nFrom falling iguanas to python hunts, here's what's happening 🧵 https://t.co/Jql9UNTeqK"
   },
   {
     "user": {
