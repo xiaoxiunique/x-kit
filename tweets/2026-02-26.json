@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "新年愿望：请你吃饭",
+      "followersCount": 18634,
+      "friendsCount": 1228,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2026919866469593195",
+    "fullText": "以前难以抉择，现在我会选屎味巧克力"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 159389,
+      "friendsCount": 515,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2026917916311195685",
+    "fullText": "云端 sandbox 并发是超级智能出现在 AI DC 前最后几块短板，而这个短板也快被解决了。"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
-      "followersCount": 45027,
+      "followersCount": 45029,
+      "friendsCount": 806,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCEOVHEaMAE0i85.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2026917678968082519",
+    "fullText": "好消息：腾讯的火龙漫剧开放了个人创作者的权限！\n\n已经认证成功了，准备开始使用 https://t.co/IRPGgrwnGd 创作漫剧发布到\n\n就盼着Seedance2.0上线了，到时候基于MkAnime创作漫剧拿收益，起飞！ https://t.co/4z3Z8s8HJj"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "AI Coding Courses (https://t.co/9ftg2pTRTj) · Bilibilier & Youtuber · Build & Iterate",
+      "followersCount": 45029,
       "friendsCount": 806,
       "location": "Hong Kong"
     },
@@ -22,7 +69,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22679,
+      "followersCount": 22680,
       "friendsCount": 902,
       "location": "San Jose, CA"
     },
@@ -39,7 +86,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49862,
+      "followersCount": 49866,
       "friendsCount": 290,
       "location": "China"
     },
@@ -93,7 +140,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49862,
+      "followersCount": 49866,
       "friendsCount": 290,
       "location": "China"
     },
@@ -125,7 +172,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49862,
+      "followersCount": 49866,
       "friendsCount": 290,
       "location": "China"
     },
@@ -159,7 +206,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49862,
+      "followersCount": 49866,
       "friendsCount": 290,
       "location": "China"
     },
@@ -191,7 +238,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22140,
+      "followersCount": 22141,
       "friendsCount": 1062,
       "location": ""
     },
@@ -223,7 +270,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23903,
+      "followersCount": 23902,
       "friendsCount": 5085,
       "location": ""
     },
@@ -320,7 +367,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187026,
+      "followersCount": 187035,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -362,6 +409,21 @@
     ],
     "tweetUrl": "https://x.com/Zebec_HQ/status/2026718149811515686",
     "fullText": "🟢 The Zebec SuperApp is live!\n\nPayroll for individuals is now available on desktop, built on Zebec rails, powered by @circle’s USDC, and utilizing ZBCN for fees.\n\nThe mobile consumer version and enterprise-grade app will be released in the coming weeks. https://t.co/WbMVkuAu4t"
+  },
+  {
+    "user": {
+      "screenName": "BelleTire",
+      "name": "Belle Tire",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2014074421779042304/zxRzSAcx_normal.jpg",
+      "description": "Belle Tire is your one-stop shop, offering tires, wheels & complete auto care service at more than 180 locations in Michigan, Ohio, Indiana & Illinois.",
+      "followersCount": 4276,
+      "friendsCount": 2138,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BelleTire/status/2026714187947454960",
+    "fullText": "An unserviced car at Belle Tire? We don’t even want to joke about such a thing.  Brake service. Oil service. And services for the services that often go unserviced."
   },
   {
     "user": {
@@ -467,8 +529,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18635,
-      "friendsCount": 1229,
+      "followersCount": 18634,
+      "friendsCount": 1228,
       "location": ""
     },
     "images": [
@@ -484,7 +546,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26467,
+      "followersCount": 26465,
       "friendsCount": 332,
       "location": "Guangdong"
     },
@@ -499,7 +561,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49862,
+      "followersCount": 49866,
       "friendsCount": 290,
       "location": "China"
     },
@@ -516,8 +578,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18635,
-      "friendsCount": 1229,
+      "followersCount": 18634,
+      "friendsCount": 1228,
       "location": ""
     },
     "images": [],
@@ -546,8 +608,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18635,
-      "friendsCount": 1229,
+      "followersCount": 18634,
+      "friendsCount": 1228,
       "location": ""
     },
     "images": [
@@ -578,8 +640,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "新年愿望：请你吃饭",
-      "followersCount": 18635,
-      "friendsCount": 1229,
+      "followersCount": 18634,
+      "friendsCount": 1228,
       "location": ""
     },
     "images": [
@@ -706,7 +768,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23903,
+      "followersCount": 23902,
       "friendsCount": 5085,
       "location": ""
     },
