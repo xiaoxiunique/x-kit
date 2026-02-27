@@ -1,6 +1,42 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 45318,
+      "friendsCount": 807,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCJEecgbEAAcKjz.jpg",
+      "https://pbs.twimg.com/media/HCJErjnaQAAikyC.jpg",
+      "https://pbs.twimg.com/media/HCJFBOebgAA-XcZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2027259112241905778",
+    "fullText": "这个时代能有多幸福呢？此时此刻：\n- ChatCut在帮我剪辑视频\n- YouMind在帮我写SEO的文章\n- OpenClaw在操作Semrush帮我做竞品调研\n\n而我，在喝着咖啡，刷着x发了这条推特 https://t.co/HlrGaZjxfb"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 49997,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCJCVeGakAA8deT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2027255823114907827",
+    "fullText": "AI太牛逼了，修bug就好好修，非要给我 “最后一刀“ 😂 https://t.co/cHh1APUjpq"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
@@ -54,7 +90,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49994,
+      "followersCount": 49997,
       "friendsCount": 290,
       "location": "China"
     },
@@ -108,7 +144,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49994,
+      "followersCount": 49997,
       "friendsCount": 290,
       "location": "China"
     },
@@ -125,7 +161,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49994,
+      "followersCount": 49997,
       "friendsCount": 290,
       "location": "China"
     },
@@ -157,7 +193,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187309,
+      "followersCount": 187315,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -189,7 +225,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49994,
+      "followersCount": 49997,
       "friendsCount": 290,
       "location": "China"
     },
@@ -254,7 +290,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 9320,
+      "followersCount": 9321,
       "friendsCount": 589,
       "location": ""
     },
@@ -269,7 +305,7 @@
       "name": "xushiwei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1923576841215905792/OAco0pZx_normal.jpg",
       "description": "Creator of XGo (https://t.co/i0rVuQXRRO) and LLGo. Our vision is to enable everyone to become a builder of the world. Qiniu Limited CEO.",
-      "followersCount": 9320,
+      "followersCount": 9321,
       "friendsCount": 589,
       "location": ""
     },
@@ -314,7 +350,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187309,
+      "followersCount": 187315,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -425,6 +461,23 @@
   },
   {
     "user": {
+      "screenName": "SummitBullion",
+      "name": "Summit Bullion Inc.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2012005609290215424/aVMTm2W-_normal.jpg",
+      "description": "Physical metals for the next generation of investors—clear prices, real inventory, fast fulfillment. Payment rails for traditional and modern investors.",
+      "followersCount": 182,
+      "friendsCount": 42,
+      "location": "Jacksonville, Florida "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027121230470336512/vid/avc1/3072x2160/ySoJf1R-gQlH4znD.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SummitBullion/status/2027121406333308938",
+    "fullText": "We just pushed a massive infrastructure update to Summit Bullion, making it easier than ever to turn digital liquidity into physical wealth.\n\nWe’ve officially migrated to @privy_io embedded wallets. What does that mean for you? \n\nNo seed phrases. \nNo complex setups. \n\nJust log in https://t.co/wUgRdwBIeR"
+  },
+  {
+    "user": {
       "screenName": "lexhr",
       "name": "Alex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2018797062943379457/13IZQelU_normal.jpg",
@@ -523,6 +576,21 @@
   },
   {
     "user": {
+      "screenName": "MichaelBurnsAZ",
+      "name": "Michael Burns",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2012945443248857092/0nlQEUDG_normal.jpg",
+      "description": "Independent writer, independent thinker, Starship Hunter.",
+      "followersCount": 1592,
+      "friendsCount": 568,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MichaelBurnsAZ/status/2027061089331298491",
+    "fullText": "Here is what Mark Lane wrote about Iran in his excellent book, Last Word: My Indictment Of The CIA In The Murder Of JFK:\n\nUnlike some others who found themselves in the crosshairs of the CIA, Mohammad Mossadegh was relatively fortunate. He was the democratically elected prime"
+  },
+  {
+    "user": {
       "screenName": "UpRockCom",
       "name": "UpRock",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1784834575807500288/7-Xyd0bX_normal.jpg",
@@ -617,11 +685,45 @@
   },
   {
     "user": {
+      "screenName": "RedChip",
+      "name": "RedChip",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770098886046109697/nt4im3nh_normal.jpg",
+      "description": "The World Leader in Small-Cap Investor Relations.\nRead our Disclosures: https://t.co/A2Fge25eX2",
+      "followersCount": 6249,
+      "friendsCount": 3688,
+      "location": "Orlando, Florida"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027019586466426881/vid/avc1/720x1280/DXbzyTieqInX7JWe.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/RedChip/status/2027019691667968495",
+    "fullText": "🎙️ Investor Spotlight: Why Calidi Biotherapeutics $CLDI Is a Company to Watch\n\nEric Poma, PhD, CEO of @CalidiBio, breaks down the company’s innovative approach to fighting cancer using proprietary stem cell-based platforms to deliver powerful oncolytic viruses.\n\nWhy It Matters https://t.co/CccJaHqRk3"
+  },
+  {
+    "user": {
+      "screenName": "CenterConsult",
+      "name": "The Center Consulting Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1111634677373243393/YQDXCvjS_normal.png",
+      "description": "A nonprofit Christian consulting group passionate about advancing leadership and organizational health. Serving clients across the US and internationally.",
+      "followersCount": 1461,
+      "friendsCount": 1572,
+      "location": "Dublin, PA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2026998812296740864/vid/avc1/1080x1080/OXMNK3QoGDA0wH9d.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CenterConsult/status/2027010248502911377",
+    "fullText": "Across generations, employees want to understand why their work matters and how it connects to the bigger picture. https://t.co/bu2JleeEn2"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63670,
+      "followersCount": 63671,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -685,7 +787,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 159468,
+      "followersCount": 159469,
       "friendsCount": 514,
       "location": "東京 港区"
     },
@@ -732,7 +834,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49994,
+      "followersCount": 49997,
       "friendsCount": 290,
       "location": "China"
     },
@@ -749,7 +851,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 49994,
+      "followersCount": 49997,
       "friendsCount": 290,
       "location": "China"
     },
@@ -781,7 +883,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 159468,
+      "followersCount": 159469,
       "friendsCount": 514,
       "location": "東京 港区"
     },
@@ -1048,7 +1150,7 @@
       "name": "Zebec Network",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1773695810464841728/JJV-0p2A_normal.jpg",
       "description": "ZBCN | AI-Based PayFi and RWA",
-      "followersCount": 276907,
+      "followersCount": 276918,
       "friendsCount": 485,
       "location": "California, USA"
     },
@@ -1157,6 +1259,21 @@
   },
   {
     "user": {
+      "screenName": "dwai_banerjee",
+      "name": "dwai banerjee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1988877016393797632/WYalxHtS_normal.jpg",
+      "description": "Associate Professor, Science, Technology & Society @ MIT\n@dwaipayanbanerjee.bsky.social",
+      "followersCount": 8354,
+      "friendsCount": 5821,
+      "location": "Massachusetts, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dwai_banerjee/status/2026650938639859994",
+    "fullText": "My new book is out from @PrincetonUPress.\n\n\"Computing in the Age of Decolonization\" tells the story of India's attempt to build sovereign computing capacity — from the 1950s through the 1980s — and why it failed.\n\nIt's a story about what decolonization could have meant for"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -1206,7 +1323,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "⚡️「BIP 订阅制真人秀」｜💻 独立开发者｜\n🎨 造物矩阵 @ZaoWuJuZhen ｜🎙️ 小火炉播客 @XiaohuoluFM ｜\n🎯 关注 AI & Crypto ·  探索个体与社区的更多可能 ｜\n🌐 English: @CellNomad ｜💬 cellinlab001",
-      "followersCount": 23940,
+      "followersCount": 23938,
       "friendsCount": 5086,
       "location": ""
     },
