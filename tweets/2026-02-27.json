@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+      "followersCount": 50008,
+      "friendsCount": 290,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027285760416821248/vid/avc1/360x640/xOuTpzCcq34dmOSu.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2027285995897631070",
+    "fullText": "RGB已经开始“入侵”到充电头了？🤣\n\n别说还挺带感的。 https://t.co/bDscmCRNWS"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "I’m fine. Thank you. And you?",
+      "followersCount": 18624,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2027283016528417165",
+    "fullText": "让我搭个龙虾不是刮风就是下雨的，随时准备抢险救灾。claude 什么时候整出自己的龙虾啊俺不中嘞"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45450,
+      "followersCount": 45518,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -37,7 +69,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45450,
+      "followersCount": 45518,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -54,7 +86,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11413,
+      "followersCount": 11412,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -86,7 +118,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187364,
+      "followersCount": 187381,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -101,7 +133,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45450,
+      "followersCount": 45518,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -137,7 +169,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Java · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 打工人 · 职场小故事 · 人间百态",
-      "followersCount": 10985,
+      "followersCount": 10983,
       "friendsCount": 2654,
       "location": ""
     },
@@ -154,7 +186,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65464,
+      "followersCount": 65463,
       "friendsCount": 531,
       "location": ""
     },
@@ -171,7 +203,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11413,
+      "followersCount": 11412,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -220,7 +252,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65464,
+      "followersCount": 65463,
       "friendsCount": 531,
       "location": ""
     },
@@ -274,7 +306,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "I’m fine. Thank you. And you?",
-      "followersCount": 18627,
+      "followersCount": 18624,
       "friendsCount": 1229,
       "location": ""
     },
@@ -289,7 +321,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187364,
+      "followersCount": 187381,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -353,7 +385,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45450,
+      "followersCount": 45518,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -371,7 +403,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65464,
+      "followersCount": 65463,
       "friendsCount": 531,
       "location": ""
     },
@@ -386,7 +418,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65464,
+      "followersCount": 65463,
       "friendsCount": 531,
       "location": ""
     },
@@ -478,7 +510,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187364,
+      "followersCount": 187381,
       "friendsCount": 1556,
       "location": "Chicago, IL"
     },
@@ -537,6 +569,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/official_throne/status/2027132454327251413",
     "fullText": "We protect your privacy and we hit eternity on marvel Rivals. \n\nWe don’t lose our 1s. 😤 https://t.co/RCSxivSruO"
+  },
+  {
+    "user": {
+      "screenName": "TayeSuave",
+      "name": "TAV",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1993160653385650176/xh8qMW4q_normal.jpg",
+      "description": "👑🎣\n\nISRAELITE",
+      "followersCount": 1631,
+      "friendsCount": 214,
+      "location": "Memphis, TN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TayeSuave/status/2027128664115015962",
+    "fullText": "You were a troll before troll was even a thing.\n\n- My sister 🩶"
   },
   {
     "user": {
@@ -653,6 +700,26 @@
   },
   {
     "user": {
+      "screenName": "PeloSwing",
+      "name": "PeloSwing🎯👸🏻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006949950303715328/kXqxu0kU_normal.jpg",
+      "description": "Options Trading 🏛 Bringing Wall St to Main St💪 *Not financial advice* (Parody/not affiliated with Nancy) Est. Dec 2021",
+      "followersCount": 33757,
+      "friendsCount": 299,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCG1mVAWQAEzOV1.jpg",
+      "https://pbs.twimg.com/media/HCG1oSraQAAzEZf.jpg",
+      "https://pbs.twimg.com/media/HCG1tqHa8AAIgld.jpg",
+      "https://pbs.twimg.com/media/HCG1013W4AAA6HI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PeloSwing/status/2027102505755099320",
+    "fullText": "Your Environment Dictates Your Actions &amp; Results More Than You Realize\n\nSurround Yourself With Winners &amp; You Too Will Become One 💰 https://t.co/974LMNntET"
+  },
+  {
+    "user": {
       "screenName": "UnlimitedIRL",
       "name": "UnlimitedIRL",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1997998400747278336/_5ddo9Vc_normal.png",
@@ -708,7 +775,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6996,
+      "followersCount": 6994,
       "friendsCount": 748,
       "location": "San Jose, CA"
     },
@@ -753,7 +820,7 @@
       "name": "UpRock",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1784834575807500288/7-Xyd0bX_normal.jpg",
       "description": "The premier DePIN network fueling AI || Available on iOS, Android & Mac || Download to earn $UPT in less than 2 mins! || Support: https://t.co/5Hstswkf1I",
-      "followersCount": 334413,
+      "followersCount": 334415,
       "friendsCount": 1346,
       "location": "Web3"
     },
@@ -798,7 +865,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6996,
+      "followersCount": 6994,
       "friendsCount": 748,
       "location": "San Jose, CA"
     },
@@ -913,7 +980,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63671,
+      "followersCount": 63672,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -930,7 +997,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "I’m fine. Thank you. And you?",
-      "followersCount": 18627,
+      "followersCount": 18624,
       "friendsCount": 1229,
       "location": ""
     },
@@ -947,7 +1014,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "I’m fine. Thank you. And you?",
-      "followersCount": 18627,
+      "followersCount": 18624,
       "friendsCount": 1229,
       "location": ""
     },
@@ -962,7 +1029,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "I’m fine. Thank you. And you?",
-      "followersCount": 18627,
+      "followersCount": 18624,
       "friendsCount": 1229,
       "location": ""
     },
@@ -977,8 +1044,8 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 159470,
-      "friendsCount": 514,
+      "followersCount": 159475,
+      "friendsCount": 513,
       "location": "東京 港区"
     },
     "images": [],
@@ -992,7 +1059,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "I’m fine. Thank you. And you?",
-      "followersCount": 18627,
+      "followersCount": 18624,
       "friendsCount": 1229,
       "location": ""
     },
@@ -1088,7 +1155,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 45450,
+      "followersCount": 45518,
       "friendsCount": 807,
       "location": "Hong Kong"
     },
@@ -1472,7 +1539,7 @@
       "name": "American Conservation Coalition",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1869814322655887361/Ttgmnb64_normal.jpg",
       "description": "Building the conservative environmental movement 🇺🇸 Protecting our natural heritage 🏞️ Unleashing American energy ⚡️",
-      "followersCount": 52165,
+      "followersCount": 52169,
       "friendsCount": 1927,
       "location": "United States"
     },
@@ -1522,6 +1589,23 @@
   },
   {
     "user": {
+      "screenName": "dvorakbotanical",
+      "name": "Dvorak Botanicals",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890114634595569664/WJ99--rr_normal.jpg",
+      "description": "🍃 THC Infused Hemp Gummies (21+)\nShop online or in store at 👇\nSoberish | The Zero Co | Ghost Apothecary",
+      "followersCount": 13,
+      "friendsCount": 7,
+      "location": "Atlanta"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCAnDKIWEAA_jyv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dvorakbotanical/status/2026662910206824569",
+    "fullText": "Tiny Treat. Total Vibe Shift. https://t.co/VJwdcG7QRy"
+  },
+  {
+    "user": {
       "screenName": "Klarna",
       "name": "Klarna",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985297598240923648/179wQcHY_normal.jpg",
@@ -1556,7 +1640,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "I’m fine. Thank you. And you?",
-      "followersCount": 18627,
+      "followersCount": 18624,
       "friendsCount": 1229,
       "location": ""
     },
