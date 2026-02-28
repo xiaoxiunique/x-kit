@@ -1,11 +1,58 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 11418,
+      "friendsCount": 524,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2027604189313106125",
+    "fullText": "AI Coding 现在的状态让我想起了以前的一个段子：\n怕你不来，又怕你乱来"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 159555,
+      "friendsCount": 513,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2027598936530424099",
+    "fullText": "有人发邮件给我要花 $1k 买我在 npm 上的一个包，让我突然想起来 2016 年还是 17 年有人问我在 npm 上的 btc 包卖不卖😂其实好多不维护的包我后来都在 npm 上送给其他开发者了，但这事儿让我想起来我是不是还有很多不错的 namespace 没有拿来用"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "",
+      "followersCount": 18629,
+      "friendsCount": 1229,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCN3dxhbEAACqh7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2027596141999886548",
+    "fullText": "好久没用的 Cursor 突然扣了我一笔费🙄\n\n订阅了太多服务了，根本记不清自己订了哪些，不再使用的服务要等扣费之后才后知后觉找客服去退。\n\n想知道大家是怎么做订阅管理的？ https://t.co/RZw4jhobYp"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 188027,
+      "followersCount": 188075,
       "friendsCount": 1558,
       "location": "Chicago, IL"
     },
@@ -37,7 +84,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11416,
+      "followersCount": 11418,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -52,7 +99,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46277,
+      "followersCount": 46293,
       "friendsCount": 820,
       "location": "Hong Kong"
     },
@@ -86,7 +133,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46277,
+      "followersCount": 46293,
       "friendsCount": 820,
       "location": "Hong Kong"
     },
@@ -103,7 +150,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50028,
+      "followersCount": 50030,
       "friendsCount": 290,
       "location": "China"
     },
@@ -137,7 +184,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46277,
+      "followersCount": 46293,
       "friendsCount": 820,
       "location": "Hong Kong"
     },
@@ -193,11 +240,43 @@
   },
   {
     "user": {
+      "screenName": "DirtyBoxing_",
+      "name": "Dirty Boxing Championship",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863614963153002496/qzv61rUP_normal.jpg",
+      "description": "Rob \"The Wolf\" Perez Vs. Michael Garcia | Miami, FL | April 10th\n\nGet Your DBX 6 Tickets Here!",
+      "followersCount": 19153,
+      "friendsCount": 231,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HCMFw_vbIAA0IGh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DirtyBoxing_/status/2027473863072727371",
+    "fullText": "🚨 MIAMI, WE’RE BACK!\n\nApril 10th, we’re bringing it back home to where it all started with a STACKED card from top to bottom.\n\nIn the main event, we have the most polarizing man in the organization, Rob \"The Wolf\" Perez who is 3-0 in Dirty Boxing, taking on the always exciting https://t.co/aJkeiyliZu"
+  },
+  {
+    "user": {
+      "screenName": "fluidstack",
+      "name": "Fluidstack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982771755845320704/hf488qx0_normal.png",
+      "description": "Infrastructure for Abundant Intelligence",
+      "followersCount": 2051,
+      "friendsCount": 13,
+      "location": "New York"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fluidstack/status/2027473168714306047",
+    "fullText": "SemiAnalysis x Fluidstack is kicking off GTC with a Power to Prefill, Dirt to Decode, Transformers to Transformers: A Full-Stack AI Infrastructure Hackathon.\n\nBuild with the best. Bring your project, win prizes, and listen to insights from top industry leaders like @marksaroufim"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 65475,
+      "followersCount": 65476,
       "friendsCount": 531,
       "location": ""
     },
@@ -207,6 +286,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2027472510779056301",
     "fullText": "【美伊局势观察】\n\n700架飞机目前正包围着伊朗🇮🇷\n\n100架第五代隐形战斗机\n100架加油 机\n20架预警机\n18架电子战飞机\n两个航母打击群\n\n加油机已经从卡塔尔转移到特拉维夫... https://t.co/RW7PdXZcIx"
+  },
+  {
+    "user": {
+      "screenName": "helium",
+      "name": "Helium🎈",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920868640997441537/M0nCsR17_normal.jpg",
+      "description": "World’s largest decentralized wireless network, built and owned by the people 🎈Powered by HNT — the currency of connectivity.",
+      "followersCount": 224211,
+      "friendsCount": 2073,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027460463567523840/vid/avc1/1080x1080/EXlVUtb37AFw2DmU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/helium/status/2027460513517457544",
+    "fullText": "The Helium Merch store is live.\n\nRepresent Helium with The Network Collection https://t.co/2LoU26nawa"
   },
   {
     "user": {
@@ -246,7 +342,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11416,
+      "followersCount": 11418,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -263,7 +359,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4649818,
+      "followersCount": 4649930,
       "friendsCount": 4,
       "location": ""
     },
@@ -278,7 +374,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63701,
+      "followersCount": 63703,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -456,7 +552,7 @@
       "name": "SinnersMovie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929934557677268997/iIJtwJV-_normal.jpg",
       "description": "Own #SinnersMovie Now on Digital.",
-      "followersCount": 12896,
+      "followersCount": 12895,
       "friendsCount": 5,
       "location": ""
     },
@@ -490,7 +586,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11416,
+      "followersCount": 11418,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -635,6 +731,21 @@
   },
   {
     "user": {
+      "screenName": "CrimsonDesert_",
+      "name": "Crimson Desert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694060125785358336/cg_Ki7te_normal.jpg",
+      "description": "The official account of open-world action-adventure #CrimsonDesert. \nReclaim Power. Reach Beyond.\nComing to PS5, Xbox Series X|S, Steam, Mac, and EGS March 19.",
+      "followersCount": 51592,
+      "friendsCount": 7,
+      "location": "Pywel"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CrimsonDesert_/status/2027201962014630370",
+    "fullText": "The continent of Pywel is full of untold tales, interesting encounters, and hidden challenges that all shape your adventure.\n \n Become a part of the journey and follow for the latest updates."
+  },
+  {
+    "user": {
       "screenName": "SinnersMovie",
       "name": "SinnersMovie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929934557677268997/iIJtwJV-_normal.jpg",
@@ -656,7 +767,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50028,
+      "followersCount": 50030,
       "friendsCount": 290,
       "location": "China"
     },
@@ -673,7 +784,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50028,
+      "followersCount": 50030,
       "friendsCount": 290,
       "location": "China"
     },
@@ -690,7 +801,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
-      "followersCount": 50028,
+      "followersCount": 50030,
       "friendsCount": 290,
       "location": "China"
     },
@@ -703,6 +814,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2026897759782244678",
     "fullText": "早上开会的间隙，我跟AI说了一下需求，我开完会以后半个小时，AI自动把代码全部搞完了\n\n这就是AI时代的生产力啊 https://t.co/xoF8fj4ni7"
+  },
+  {
+    "user": {
+      "screenName": "CoachGeoffNJ",
+      "name": "coach geoff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947455814718885888/9xHRg8d1_normal.jpg",
+      "description": "Former coach and ref, current hockey museum curator, recreation level sports evangelist.",
+      "followersCount": 145,
+      "friendsCount": 528,
+      "location": "Newark, NJ"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2026894741913116672/pu/vid/avc1/720x1280/BFP4fqYZQx6LMOgW.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/CoachGeoffNJ/status/2026894765560615172",
+    "fullText": "These friends are electric\nPucks and Pixels. Coming this spring. \nWhat's your fav NHL game? https://t.co/vpq287tJPS"
   },
   {
     "user": {
