@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 46196,
+      "friendsCount": 820,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2027551312817377773",
+    "fullText": "这个时代太美好了，每天都能享受创作的愉悦感！心流的快乐已经不重要了！"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6995,
+      "followersCount": 6994,
       "friendsCount": 748,
       "location": "San Jose, CA"
     },
@@ -37,7 +52,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 22743,
+      "followersCount": 22744,
       "friendsCount": 902,
       "location": "San Jose, CA"
     },
@@ -69,7 +84,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11415,
+      "followersCount": 11416,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -86,7 +101,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4649553,
+      "followersCount": 4649555,
       "friendsCount": 4,
       "location": ""
     },
@@ -101,7 +116,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 63701,
+      "followersCount": 63699,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -136,7 +151,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹",
-      "followersCount": 8207,
+      "followersCount": 8225,
       "friendsCount": 180,
       "location": "Shanghai"
     },
@@ -217,7 +232,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11415,
+      "followersCount": 11416,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -264,7 +279,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46171,
+      "followersCount": 46196,
       "friendsCount": 820,
       "location": "Hong Kong"
     },
@@ -275,11 +290,28 @@
   },
   {
     "user": {
+      "screenName": "SinnersMovie",
+      "name": "SinnersMovie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1929934557677268997/iIJtwJV-_normal.jpg",
+      "description": "Own #SinnersMovie Now on Digital.",
+      "followersCount": 12895,
+      "friendsCount": 5,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2027274353143115777/vid/avc1/1080x1350/CrRK809mtHp3XwJh.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SinnersMovie/status/2027274656101831052",
+    "fullText": "Some stories are seen. Others you feel it in your soul. SINNERS, recognized with a record-breaking 16 Academy Award® nominations including Best Picture. https://t.co/gJBZvzbTh0"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 46171,
+      "followersCount": 46196,
       "friendsCount": 820,
       "location": "Hong Kong"
     },
@@ -296,7 +328,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 11415,
+      "followersCount": 11416,
       "friendsCount": 524,
       "location": "杭州"
     },
@@ -328,7 +360,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 187849,
+      "followersCount": 187894,
       "friendsCount": 1557,
       "location": "Chicago, IL"
     },
