@@ -1,11 +1,61 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12072,
+      "friendsCount": 2951,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2036306929711210883",
+    "fullText": "为什么会有这么多人为命令行招魂？你们该不是想回到 Dos 时代吧 😁\n\nAI Coding 工具火箭速度发展，不是它们不想给你弄个 UI，而是真的没时间弄啊。只要它们一有空，你看各种网页端、桌面版、插件版不都在安排了吗？(⊙o⊙)\n\n可是，还是有人鼓吹 GUI 已死，命令行永生。照你这逻辑脑机接口早就普及了！"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18478,
+      "friendsCount": 1207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEJoyaxa0AAxRyy.jpg",
+      "https://pbs.twimg.com/media/HEJoya9asAANz9r.jpg",
+      "https://pbs.twimg.com/media/HEJoyaqaIAA0ibp.jpg",
+      "https://pbs.twimg.com/media/HEJoyataIAU-uz2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2036305233509491093",
+    "fullText": "谢谢你带我吃饭带我去逛大阪城，开心！ https://t.co/BhqTgv4dhw"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13020,
+      "friendsCount": 538,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2036303176828432599",
+    "fullText": "有个问题非常好奇，古法编程者目前占比是多数还是少数。开个贴统计一下：\n\n目前你所有编程（或相关行为）里 AI Coding 占比是多少？\n1. 100% 坚定 AI Coding 信仰者\n2. X% AI 可以有效辅助我的工作\n3. 0% 崇尚手搓的古法编程工匠"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64610,
+      "followersCount": 64611,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -20,8 +70,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24769,
-      "friendsCount": 5170,
+      "followersCount": 24766,
+      "friendsCount": 5171,
       "location": ""
     },
     "images": [
@@ -39,7 +89,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13019,
+      "followersCount": 13020,
       "friendsCount": 538,
       "location": "杭州"
     },
@@ -64,6 +114,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2036281468889211147",
     "fullText": "嚯，苹果官宣了今年 WWDC 的时间：2026年6月8日。\n\n我就一个想法：几年前画的 Apple Intelligence 的饼烙熟了吗，能不能给国内用户吃上了🤡\n\n海外这次应该是会全量更新为基于 Gemini 的了吧。 https://t.co/k3eMrJyJif"
+  },
+  {
+    "user": {
+      "screenName": "Replicatsai",
+      "name": "Replicats",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894815444181360644/hm07Ay0a_normal.jpg",
+      "description": "Smart Wealth Companions: Agents that manages your portfolio 24/7 combining Quant and AI. Join our Beta. | $RCAT",
+      "followersCount": 40471,
+      "friendsCount": 17,
+      "location": "Replicats.ai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Replicatsai/status/2036280295112995026",
+    "fullText": "Most portfolios aren't built. They're accidents — random buys made on random days.\n\nAn AI agent doesn't forget your goals. It doesn't panic. It doesn't get bored. It just manages."
   },
   {
     "user": {
@@ -105,7 +170,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12066,
+      "followersCount": 12072,
       "friendsCount": 2951,
       "location": ""
     },
@@ -120,8 +185,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24769,
-      "friendsCount": 5170,
+      "followersCount": 24766,
+      "friendsCount": 5171,
       "location": ""
     },
     "images": [
@@ -269,8 +334,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24769,
-      "friendsCount": 5170,
+      "followersCount": 24766,
+      "friendsCount": 5171,
       "location": ""
     },
     "images": [],
@@ -286,7 +351,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 201497,
+      "followersCount": 201511,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -318,8 +383,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24769,
-      "friendsCount": 5170,
+      "followersCount": 24766,
+      "friendsCount": 5171,
       "location": ""
     },
     "images": [],
@@ -333,7 +398,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67233,
+      "followersCount": 67237,
       "friendsCount": 561,
       "location": ""
     },
@@ -395,7 +460,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4692315,
+      "followersCount": 4692278,
       "friendsCount": 4,
       "location": ""
     },
@@ -427,7 +492,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67233,
+      "followersCount": 67237,
       "friendsCount": 561,
       "location": ""
     },
@@ -474,7 +539,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165659,
+      "followersCount": 165647,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -504,7 +569,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13019,
+      "followersCount": 13020,
       "friendsCount": 538,
       "location": "杭州"
     },
@@ -536,7 +601,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67233,
+      "followersCount": 67237,
       "friendsCount": 561,
       "location": ""
     },
@@ -553,7 +618,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67233,
+      "followersCount": 67237,
       "friendsCount": 561,
       "location": ""
     },
@@ -571,7 +636,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67233,
+      "followersCount": 67237,
       "friendsCount": 561,
       "location": ""
     },
@@ -588,7 +653,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12066,
+      "followersCount": 12072,
       "friendsCount": 2951,
       "location": ""
     },
@@ -653,7 +718,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64610,
+      "followersCount": 64611,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -704,7 +769,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12066,
+      "followersCount": 12072,
       "friendsCount": 2951,
       "location": ""
     },
@@ -772,7 +837,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64610,
+      "followersCount": 64611,
       "friendsCount": 280,
       "location": "Shanghai"
     },
