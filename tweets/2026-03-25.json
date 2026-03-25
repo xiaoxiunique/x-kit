@@ -1,11 +1,93 @@
 [
   {
     "user": {
+      "screenName": "plusyip",
+      "name": "Plusye",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
+      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
+      "followersCount": 9290,
+      "friendsCount": 381,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/plusyip/status/2036615324947333511",
+    "fullText": "微信可以接入 OpenClaw 之后，我用 OpenClaw 的频率增加了，因为我每天打开微信次数很频繁，顺手就用了，在 Telegram 不怎么想打开，几天才打开一次。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51068,
+      "friendsCount": 298,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEOCS_hbgAAptOG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2036614871832506831",
+    "fullText": "我们小的时候，这个物质没那么丰富。所以说\n\n有一本书看，有一首歌听，有一张海报，都会超级开心，长大的时候，在回忆那些物质匮乏的年代，真的是回忆满满、细节满满\n\n所以有时候在想，我们的下一代，他们的人生是不是AI就是他们的图书，就是他们的歌，就是他们的海报 https://t.co/7Urw4GtXtj"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64635,
+      "friendsCount": 280,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEN_IOWa4AAud8h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2036611310579048552",
+    "fullText": "发现一个 homebrew 的替代品 - nanobrew，主打就是快，轻量级。https://t.co/Z2U3mWunbA\n号称 The fastest macOS package manager。用 zig 写的。\n\nhomebrew 安装 ffmpeg 要14.252s，它只要 1.624s，同时 Binary size 只有 1.2 MB，非常轻量级。官网也有一系列它为什么这么快的原因。\n\n确实 homebrew https://t.co/OMp0I1gFyn"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51068,
+      "friendsCount": 298,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2036610327153119397",
+    "fullText": "赚钱的核心其实就是三个事情，这件事情你喜欢做，这件事情你长期做，赚钱要先学会分钱\n\n推特上大多数人都是投机倒把的人，所以说每天都在分析各种赚钱的投机的方法\n\n历史教我们，投机的人很难赚钱。很难持续"
+  },
+  {
+    "user": {
+      "screenName": "BryceDuszak",
+      "name": "Bryce Duszak",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1483985577552793601/jy5duP9G_normal.jpg",
+      "description": "920-858-1630/ 6’1 / 210lbs / Pop time 1.84 / Pearl River CC",
+      "followersCount": 573,
+      "friendsCount": 1199,
+      "location": "Hattiesburg, MS"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036583114475028481/vid/avc1/888x500/GuSfbHfwjYaABFb-.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2036583114588499968/vid/avc1/1080x1920/K8SaKnF6ial_5oQc.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/BryceDuszak/status/2036583842442576104",
+    "fullText": "2 Backside HRs from lives today with some throw downs from this week at 83+MPH\n\nRedshirt Freshman Catcher 6'1 215lbs\nGPA 3.9\n\nMore at @BryceDuszak\n920-858-1630\nduszak4@gmail.com\n@brooks_dubose @coachavie @HickmanTriston https://t.co/bSmsgUqRzC"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 201864,
+      "followersCount": 201892,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -20,8 +102,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18481,
-      "friendsCount": 1207,
+      "followersCount": 18482,
+      "friendsCount": 1208,
       "location": ""
     },
     "images": [],
@@ -35,7 +117,7 @@
       "name": "Analogue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
       "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
-      "followersCount": 109720,
+      "followersCount": 109724,
       "friendsCount": 251,
       "location": "usa"
     },
@@ -52,7 +134,7 @@
       "name": "Chase",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/748885874516094980/ywt_aKRx_normal.jpg",
       "description": "We're here to help you manage your money today and tomorrow. For customer service, Tweet @ChaseSupport. https://t.co/DeanxLEogq",
-      "followersCount": 388448,
+      "followersCount": 388453,
       "friendsCount": 1097,
       "location": "New York, NY"
     },
@@ -69,7 +151,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 201864,
+      "followersCount": 201892,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -84,7 +166,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67243,
+      "followersCount": 67244,
       "friendsCount": 561,
       "location": ""
     },
@@ -99,7 +181,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165709,
+      "followersCount": 165711,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -144,7 +226,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165709,
+      "followersCount": 165711,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -159,7 +241,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47503,
+      "followersCount": 47510,
       "friendsCount": 869,
       "location": "Hong Kong"
     },
@@ -176,7 +258,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67243,
+      "followersCount": 67244,
       "friendsCount": 561,
       "location": ""
     },
@@ -193,7 +275,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64634,
+      "followersCount": 64635,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -208,7 +290,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67243,
+      "followersCount": 67244,
       "friendsCount": 561,
       "location": ""
     },
@@ -257,7 +339,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 201864,
+      "followersCount": 201892,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -272,7 +354,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165709,
+      "followersCount": 165711,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -287,7 +369,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64634,
+      "followersCount": 64635,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -317,7 +399,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12103,
+      "followersCount": 12106,
       "friendsCount": 2958,
       "location": ""
     },
@@ -330,11 +412,28 @@
   },
   {
     "user": {
+      "screenName": "Davidwoounbound",
+      "name": "David Woo Unbound",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962440313080856576/UvizlBic_normal.jpg",
+      "description": "Independent provider of macro research and investment strategy. We offer institutional and retail services. Our only goal: help our clients to beat the market",
+      "followersCount": 10277,
+      "friendsCount": 23,
+      "location": "New York, London, Tel-Aviv"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036432537564622848/vid/avc1/1080x1920/LqWkgPWZJPt6NRUG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Davidwoounbound/status/2036433210947576113",
+    "fullText": "The world didn’t fall apart overnight.\nIt spun out of control.\n Merry-Go-Round Broke Down is the story of how it happened.” https://t.co/H5aRY88seA"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12103,
+      "followersCount": 12106,
       "friendsCount": 2958,
       "location": ""
     },
@@ -349,7 +448,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12103,
+      "followersCount": 12106,
       "friendsCount": 2958,
       "location": ""
     },
@@ -366,7 +465,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12103,
+      "followersCount": 12106,
       "friendsCount": 2958,
       "location": ""
     },
@@ -383,7 +482,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64634,
+      "followersCount": 64635,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -417,7 +516,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12103,
+      "followersCount": 12106,
       "friendsCount": 2958,
       "location": ""
     },
@@ -434,7 +533,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64634,
+      "followersCount": 64635,
       "friendsCount": 280,
       "location": "Shanghai"
     },
@@ -451,7 +550,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47503,
+      "followersCount": 47510,
       "friendsCount": 869,
       "location": "Hong Kong"
     },
@@ -485,8 +584,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18481,
-      "friendsCount": 1207,
+      "followersCount": 18482,
+      "friendsCount": 1208,
       "location": ""
     },
     "images": [
@@ -537,7 +636,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24899,
+      "followersCount": 24904,
       "friendsCount": 5179,
       "location": ""
     },
@@ -650,7 +749,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 165709,
+      "followersCount": 165711,
       "friendsCount": 521,
       "location": "東京 港区"
     },
