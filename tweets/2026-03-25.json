@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18485,
+      "friendsCount": 1207,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEP2m5HaoAE8rQI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2036742611177034216",
+    "fullText": "为什么国内的哈根达斯那么贵！\n\n老家当地有个冻品批发市场，夏天会去买一些冰棒到家里来慢慢吃，这个时候冰棒还是批发价¥0.3 ¥0.5 ¥0.7 ¥1的，只有哈根达斯单独摆了一个柜子\n\n我还记得是一个椭圆形的小纸盒，摆满了整个柜子，十几年前吧，一盒50块钱，我都震惊了，看那柜子和看金条一样 https://t.co/WNuzKyLOgB"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -57,7 +74,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12117,
+      "followersCount": 12114,
       "friendsCount": 2959,
       "location": ""
     },
@@ -123,7 +140,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24931,
+      "followersCount": 24933,
       "friendsCount": 5180,
       "location": ""
     },
@@ -157,7 +174,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47592,
+      "followersCount": 47593,
       "friendsCount": 870,
       "location": "Hong Kong"
     },
@@ -191,7 +208,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47592,
+      "followersCount": 47593,
       "friendsCount": 870,
       "location": "Hong Kong"
     },
@@ -225,7 +242,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24931,
+      "followersCount": 24933,
       "friendsCount": 5180,
       "location": ""
     },
@@ -233,6 +250,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/cellinlab/status/2036686003553943757",
     "fullText": "成长这件事有个很奇怪的地方，\n就是你会变得特别擅长「视而不见」。\n\n你的大脑搞了一整套过滤系统，\n把 99% 的信息都屏蔽掉，这样你才能正常运转。\n\n然后等你想搞艺术的时候，\n又得花好几年去卸载这个技能。"
+  },
+  {
+    "user": {
+      "screenName": "EnterProAI",
+      "name": "Enter Pro - Vibe Coding AI Agent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017676161963454464/748GdN-N_normal.jpg",
+      "description": "Enterpro Official Account - Your No-Code AI Dev Agent: One subscription, all models, turn anyone into a full-stack developer. Chat to build apps. #enterpro",
+      "followersCount": 29,
+      "friendsCount": 5,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EnterProAI/status/2036683978875248851",
+    "fullText": "Someone had an idea, opened Enter, and built it.\nNo dev team. No coding. Just AI.\nThis is what our community creates—and why we built Enter.\nYou don’t need permission to ship. Just the right tool.\nWe can’t wait to see what you build next."
   },
   {
     "user": {
@@ -257,7 +289,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 202093,
+      "followersCount": 202100,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -272,7 +304,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 202093,
+      "followersCount": 202100,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -302,7 +334,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12117,
+      "followersCount": 12114,
       "friendsCount": 2959,
       "location": ""
     },
@@ -334,7 +366,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24931,
+      "followersCount": 24933,
       "friendsCount": 5180,
       "location": ""
     },
@@ -351,7 +383,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13108,
+      "followersCount": 13106,
       "friendsCount": 538,
       "location": "杭州"
     },
@@ -482,7 +514,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 24931,
+      "followersCount": 24933,
       "friendsCount": 5180,
       "location": ""
     },
@@ -677,7 +709,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 202093,
+      "followersCount": 202100,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -717,6 +749,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/analogue/status/2036562455598432721",
     "fullText": "Analogue Pocket &amp; Analogue Dock - restock.\n\nA tribute to portable gaming. Out of the box, Pocket is compatible with the 2,780+ Game Boy, Game Boy Color &amp; Game Boy Advance game cartridge library and more. \n\nAvailable March 4th, 8am PST. \nShips June 2026. https://t.co/MorjOcXSMo"
+  },
+  {
+    "user": {
+      "screenName": "michaelmovie",
+      "name": "Michael",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2018006533422895105/_0EBaOEG_normal.jpg",
+      "description": "MICHAEL - in theaters & IMAX April 24, 2026.",
+      "followersCount": 29890,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/michaelmovie/status/2036557098620760512",
+    "fullText": "MICHAEL - in theaters &amp; IMAX April 24. Early access tickets on sale NOW!"
   },
   {
     "user": {
