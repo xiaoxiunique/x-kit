@@ -1,12 +1,44 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12359,
+      "friendsCount": 2962,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEbm0bCagAA9s-Z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2037569678781079583",
+    "fullText": "淘宝啥时候开始支持微信支付了啊？今天才发现🤦‍♂️\n\n感觉早该支持了，这下终于可以卸载支付宝了。😂 https://t.co/bekXnP9I0k"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 47674,
+      "friendsCount": 872,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2037567259980529715",
+    "fullText": "有时看 SOTA 模型的 thinking 过程，其实挺绝望的...\n会感到人类这个物种，也就这样🥲"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25003,
-      "friendsCount": 5191,
+      "followersCount": 25010,
+      "friendsCount": 5192,
       "location": ""
     },
     "images": [
@@ -22,7 +54,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67290,
+      "followersCount": 67293,
       "friendsCount": 562,
       "location": ""
     },
@@ -37,8 +69,8 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47671,
-      "friendsCount": 871,
+      "followersCount": 47674,
+      "friendsCount": 872,
       "location": "Hong Kong"
     },
     "images": [
@@ -69,8 +101,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25003,
-      "friendsCount": 5191,
+      "followersCount": 25010,
+      "friendsCount": 5192,
       "location": ""
     },
     "images": [],
@@ -101,7 +133,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13257,
+      "followersCount": 13259,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -112,11 +144,26 @@
   },
   {
     "user": {
+      "screenName": "Lenovo",
+      "name": "Lenovo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2032476052795142144/pzp0Fm03_normal.jpg",
+      "description": "Providing #smarter technology for all. Need Help? Contact @LenovoSupport",
+      "followersCount": 713846,
+      "friendsCount": 1527,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Lenovo/status/2037514978270327028",
+    "fullText": "Take a look inside the tech that powers performance from the Ducati Lenovo Remote Garage.\n\nHere's a first look with the @DucatiCorse vehicle development manager ahead of the US GP. \n\nClick the video below to read the @wearetherace interview. 👇"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64707,
+      "followersCount": 64705,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -133,7 +180,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64707,
+      "followersCount": 64705,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -150,7 +197,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18487,
+      "followersCount": 18486,
       "friendsCount": 1209,
       "location": ""
     },
@@ -183,8 +230,8 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47671,
-      "friendsCount": 871,
+      "followersCount": 47674,
+      "friendsCount": 872,
       "location": "Hong Kong"
     },
     "images": [
@@ -203,7 +250,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18487,
+      "followersCount": 18486,
       "friendsCount": 1209,
       "location": ""
     },
@@ -220,8 +267,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25003,
-      "friendsCount": 5191,
+      "followersCount": 25010,
+      "friendsCount": 5192,
       "location": ""
     },
     "images": [],
@@ -235,7 +282,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51219,
+      "followersCount": 51218,
       "friendsCount": 299,
       "location": "China"
     },
@@ -253,8 +300,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25003,
-      "friendsCount": 5191,
+      "followersCount": 25010,
+      "friendsCount": 5192,
       "location": ""
     },
     "images": [
@@ -270,7 +317,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18487,
+      "followersCount": 18486,
       "friendsCount": 1209,
       "location": ""
     },
@@ -304,8 +351,8 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47671,
-      "friendsCount": 871,
+      "followersCount": 47674,
+      "friendsCount": 872,
       "location": "Hong Kong"
     },
     "images": [
@@ -336,7 +383,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18487,
+      "followersCount": 18486,
       "friendsCount": 1209,
       "location": ""
     },
@@ -402,7 +449,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13257,
+      "followersCount": 13259,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -419,7 +466,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18487,
+      "followersCount": 18486,
       "friendsCount": 1209,
       "location": ""
     },
@@ -438,8 +485,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25003,
-      "friendsCount": 5191,
+      "followersCount": 25010,
+      "friendsCount": 5192,
       "location": ""
     },
     "images": [
@@ -455,7 +502,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13257,
+      "followersCount": 13259,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -598,7 +645,7 @@
       "name": "G123 – Play browser games easily for free",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2034559299041792000/xayauVip_normal.jpg",
       "description": "G123 offers a wide selection of popular and latest anime games, now available to play ✨\nPlus, pre-registration campaigns for games based on hugely po\n🔽Play now",
-      "followersCount": 670,
+      "followersCount": 677,
       "friendsCount": 1,
       "location": "\u001f日本"
     },
@@ -613,7 +660,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18487,
+      "followersCount": 18486,
       "friendsCount": 1209,
       "location": ""
     },
@@ -630,7 +677,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51219,
+      "followersCount": 51218,
       "friendsCount": 299,
       "location": "China"
     },
@@ -647,7 +694,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51219,
+      "followersCount": 51218,
       "friendsCount": 299,
       "location": "China"
     },
@@ -664,7 +711,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51219,
+      "followersCount": 51218,
       "friendsCount": 299,
       "location": "China"
     },
@@ -1333,6 +1380,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2037010784950321251",
     "fullText": "全新奥迪 A6L 价格挺有诚意的，按照 4S 店套路终端价估计还有得谈。\n\n亮点在于 e-tron 有两个版本居然搭载了华为乾崑智驾。算识时务者为俊杰？🤣\n\n仔细想了想国内能对外提供且智驾属于第一梯队的，可能也就华为了。 https://t.co/yOw5wCbs2H"
+  },
+  {
+    "user": {
+      "screenName": "MLB",
+      "name": "MLB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_normal.jpg",
+      "description": "The official account of Major League Baseball ⚾",
+      "followersCount": 12881252,
+      "friendsCount": 3743,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036991755200159745/vid/avc1/1920x1080/pBljjHR5--Xvqg0G.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/MLB/status/2036991814872240184",
+    "fullText": "Max Fried exits after a stellar performance on Opening Night! 👏 https://t.co/lAZKJ82rLM"
   },
   {
     "user": {
