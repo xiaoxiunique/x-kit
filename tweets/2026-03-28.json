@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13289,
+      "friendsCount": 543,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2037873951154815301",
+    "fullText": "刚才在问 Opus，用 Claude Code 的时候，分别什么情况下适合直接聊天、用 plan 模式、subagents 和 team agents？\n\n他最后的总结还是很清晰的：\n简单的事直接聊，不确定的先 plan mode，能并行拆的用 subagents，需要辩论讨论的上 team agents。\n\n───\n\n决策流程\n\n你的任务是什么？\n│\n├─"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -86,7 +101,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 48004,
+      "followersCount": 48020,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -172,7 +187,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 48004,
+      "followersCount": 48020,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -191,7 +206,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12358,
+      "followersCount": 12360,
       "friendsCount": 2960,
       "location": ""
     },
@@ -206,7 +221,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 48004,
+      "followersCount": 48020,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -224,7 +239,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13285,
+      "followersCount": 13289,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -299,11 +314,26 @@
   },
   {
     "user": {
+      "screenName": "GrayZoneWarfare",
+      "name": "Gray Zone Warfare",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720006470320701440/XOLxznf4_normal.jpg",
+      "description": "A high-stakes PvE-first open-world tactical shooter set on a quarantined Southeast Asian island torn apart by faction warfare.\n\nDeveloped by @MADFINGERGames",
+      "followersCount": 67840,
+      "friendsCount": 932,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GrayZoneWarfare/status/2037801473787245051",
+    "fullText": "Enter Lamang and fight to earn your reputation. \n\nA game-changing update arrives March 31. \n\nGet Gray Zone Warfare at -33% off on Steam."
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166041,
+      "followersCount": 166042,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -323,7 +353,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64741,
+      "followersCount": 64742,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -370,7 +400,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 203545,
+      "followersCount": 203552,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -402,7 +432,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12358,
+      "followersCount": 12360,
       "friendsCount": 2960,
       "location": ""
     },
@@ -417,7 +447,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12358,
+      "followersCount": 12360,
       "friendsCount": 2960,
       "location": ""
     },
@@ -451,7 +481,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166041,
+      "followersCount": 166042,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -534,7 +564,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12358,
+      "followersCount": 12360,
       "friendsCount": 2960,
       "location": ""
     },
@@ -551,7 +581,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12358,
+      "followersCount": 12360,
       "friendsCount": 2960,
       "location": ""
     },
@@ -568,7 +598,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166041,
+      "followersCount": 166042,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -588,7 +618,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13285,
+      "followersCount": 13289,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -603,7 +633,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12358,
+      "followersCount": 12360,
       "friendsCount": 2960,
       "location": ""
     },
@@ -651,8 +681,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25052,
-      "friendsCount": 5194,
+      "followersCount": 25054,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -666,8 +696,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25052,
-      "friendsCount": 5194,
+      "followersCount": 25054,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -698,7 +728,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 48004,
+      "followersCount": 48020,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -715,7 +745,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 48004,
+      "followersCount": 48020,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -752,7 +782,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166041,
+      "followersCount": 166042,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -772,8 +802,8 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6253,
-      "friendsCount": 662,
+      "followersCount": 6254,
+      "friendsCount": 663,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [
@@ -1587,7 +1617,7 @@
       "name": "G123 – Play browser games easily for free",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2034559299041792000/xayauVip_normal.jpg",
       "description": "G123 offers a wide selection of popular and latest anime games, now available to play ✨\nPlus, pre-registration campaigns for games based on hugely po\n🔽Play now",
-      "followersCount": 716,
+      "followersCount": 732,
       "friendsCount": 1,
       "location": "\u001f日本"
     },
