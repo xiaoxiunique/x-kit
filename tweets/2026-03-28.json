@@ -1,6 +1,26 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 166031,
+      "friendsCount": 521,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEe2-p2acAAN2TO.jpg",
+      "https://pbs.twimg.com/media/HEe2-p1bcAAcpfH.jpg",
+      "https://pbs.twimg.com/media/HEe2-pzagAAw140.jpg",
+      "https://pbs.twimg.com/media/HEe2-p0aYAAbUXW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2037798555864486271",
+    "fullText": "不是吧，在 F1 都能看到 claude code？？ https://t.co/fCDMEs1dZH"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -52,7 +72,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 203500,
+      "followersCount": 203506,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -84,7 +104,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -99,7 +119,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -133,7 +153,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166031,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -146,11 +166,28 @@
   },
   {
     "user": {
+      "screenName": "MarchMadnessWBB",
+      "name": "NCAA March Madness",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2031578154301521920/gHba9Koy_normal.jpg",
+      "description": "The official account of NCAA DI Women’s Basketball.\n#NCAAWBB x #MarchMadness x #WFinalFour",
+      "followersCount": 670988,
+      "friendsCount": 777,
+      "location": "Indianapolis, IN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2037737418494029824/vid/avc1/1280x720/5g63U4xrhiDpYocU.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/MarchMadnessWBB/status/2037751535065563465",
+    "fullText": "Collecting dimes and cashing in 🪙 https://t.co/Uu59hPsKXz"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26965,
+      "followersCount": 26964,
       "friendsCount": 339,
       "location": "Guangdong"
     },
@@ -182,7 +219,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -199,7 +236,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -216,7 +253,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166031,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -236,7 +273,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13273,
+      "followersCount": 13274,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -251,7 +288,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -299,7 +336,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25038,
+      "followersCount": 25039,
       "friendsCount": 5194,
       "location": ""
     },
@@ -314,7 +351,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25038,
+      "followersCount": 25039,
       "friendsCount": 5194,
       "location": ""
     },
@@ -346,7 +383,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47899,
+      "followersCount": 47905,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -363,7 +400,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47899,
+      "followersCount": 47905,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -400,7 +437,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166031,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -484,7 +521,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67315,
+      "followersCount": 67313,
       "friendsCount": 563,
       "location": ""
     },
@@ -516,7 +553,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67315,
+      "followersCount": 67313,
       "friendsCount": 563,
       "location": ""
     },
@@ -549,7 +586,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -566,7 +603,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47899,
+      "followersCount": 47905,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -598,7 +635,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25038,
+      "followersCount": 25039,
       "friendsCount": 5194,
       "location": ""
     },
@@ -632,7 +669,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67315,
+      "followersCount": 67313,
       "friendsCount": 563,
       "location": ""
     },
@@ -647,7 +684,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47899,
+      "followersCount": 47905,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -664,7 +701,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -679,7 +716,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25038,
+      "followersCount": 25039,
       "friendsCount": 5194,
       "location": ""
     },
@@ -694,7 +731,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12357,
+      "followersCount": 12358,
       "friendsCount": 2960,
       "location": ""
     },
@@ -711,7 +748,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13273,
+      "followersCount": 13274,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -795,7 +832,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22097,
+      "followersCount": 22099,
       "friendsCount": 1067,
       "location": ""
     },
@@ -1111,6 +1148,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/s1ntone/status/2037373253707280472",
     "fullText": "这个哥们关注我干啥？ https://t.co/rZuON9Jq5V"
+  },
+  {
+    "user": {
+      "screenName": "tokyo_vibes_x",
+      "name": "G123 – Play browser games easily for free",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2034559299041792000/xayauVip_normal.jpg",
+      "description": "G123 offers a wide selection of popular and latest anime games, now available to play ✨\nPlus, pre-registration campaigns for games based on hugely po\n🔽Play now",
+      "followersCount": 715,
+      "friendsCount": 1,
+      "location": "\u001f日本"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tokyo_vibes_x/status/2037358807496720676",
+    "fullText": "Experience hit anime \"Kakegurui\" like never before\n\n100 free dice giveaway\nClaim $350 worth of items, FREE!"
   },
   {
     "user": {
