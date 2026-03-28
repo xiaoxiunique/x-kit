@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "s1ntone",
+      "name": "野原新之栋 Sintone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
+      "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
+      "followersCount": 6252,
+      "friendsCount": 655,
+      "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEdWzO6bMAApLaX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/s1ntone/status/2037692809457873112",
+    "fullText": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日\n3年！ https://t.co/JuNn1LQFsL"
+  },
+  {
+    "user": {
+      "screenName": "deepsource",
+      "name": "DeepSource",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2019671153762267139/2Yb4xs53_normal.png",
+      "description": "The AI code review platform for fast-moving teams and their agents.",
+      "followersCount": 1728,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/deepsource/status/2037675178998792618",
+    "fullText": "We tested AI code review tools against 165+ real-world CVEs.\n\nDeepSource: 82% accuracy\nCodeRabbit: 61%\nSemgrep: 58%\n\nThe difference? 5,000+ static analyzers run first, then AI reviews with structural context. Not AI-only guessing."
+  },
+  {
+    "user": {
       "screenName": "BookBub",
       "name": "BookBub",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/464429967795687425/YySjh4QC_normal.png",
@@ -20,7 +52,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67306,
+      "followersCount": 67309,
       "friendsCount": 562,
       "location": ""
     },
@@ -31,11 +63,28 @@
   },
   {
     "user": {
+      "screenName": "analogue",
+      "name": "Analogue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
+      "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
+      "followersCount": 110180,
+      "friendsCount": 251,
+      "location": "usa"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEb0KjVbIAA-4-i.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/analogue/status/2037586136936116512",
+    "fullText": "Analogue Pocket. The ultimate tribute to portable gaming. Play your original Game Boy, Game Boy Color &amp; Game Boy Advance games and more. \nAvailable now.\n \n🏅\n@IGN - 9/10 \n@verge - 9/10\n@PCMag - 4.5/5 - Editors Choice Award\n@guardian - 4/5\nRed Dot Design Award \nGood Design Award https://t.co/JCvHtFiCQH"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67306,
+      "followersCount": 67309,
       "friendsCount": 562,
       "location": ""
     },
@@ -49,12 +98,27 @@
   },
   {
     "user": {
+      "screenName": "edmunds",
+      "name": "Edmunds",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/816438276416360448/VYk99HIJ_normal.jpg",
+      "description": "The global authority for unbiased, unvarnished automotive advice, news, reviews and deals for over 50 years. We will help you find your perfect car.",
+      "followersCount": 112793,
+      "friendsCount": 6029,
+      "location": "Santa Monica, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/edmunds/status/2037581917315543303",
+    "fullText": "Porsche's most powerful production model ever is an electric Cayenne. \n\nThis is what it's like to drive."
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12360,
-      "friendsCount": 2962,
+      "friendsCount": 2961,
       "location": ""
     },
     "images": [
@@ -70,7 +134,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47692,
+      "followersCount": 47693,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -85,7 +149,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25023,
+      "followersCount": 25026,
       "friendsCount": 5192,
       "location": ""
     },
@@ -98,11 +162,28 @@
   },
   {
     "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+      "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+      "followersCount": 5709438,
+      "friendsCount": 332,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEbXpCRXEAA7a73.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/okx/status/2037553002072924538",
+    "fullText": "US traders, take note ↓\n\nAutomation in trading used to mean learning how to code. \n\nNow it means opening OKX. https://t.co/ZX6uB7Pqb6"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67306,
+      "followersCount": 67309,
       "friendsCount": 562,
       "location": ""
     },
@@ -117,7 +198,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47692,
+      "followersCount": 47693,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -135,7 +216,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12360,
-      "friendsCount": 2962,
+      "friendsCount": 2961,
       "location": ""
     },
     "images": [],
@@ -149,7 +230,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25023,
+      "followersCount": 25026,
       "friendsCount": 5192,
       "location": ""
     },
@@ -165,7 +246,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12360,
-      "friendsCount": 2962,
+      "friendsCount": 2961,
       "location": ""
     },
     "images": [],
@@ -196,7 +277,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64719,
+      "followersCount": 64718,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -213,7 +294,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64719,
+      "followersCount": 64718,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -230,7 +311,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18483,
+      "followersCount": 18485,
       "friendsCount": 1209,
       "location": ""
     },
@@ -263,7 +344,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47692,
+      "followersCount": 47693,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -283,7 +364,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18483,
+      "followersCount": 18485,
       "friendsCount": 1209,
       "location": ""
     },
@@ -300,7 +381,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25023,
+      "followersCount": 25026,
       "friendsCount": 5192,
       "location": ""
     },
@@ -333,7 +414,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25023,
+      "followersCount": 25026,
       "friendsCount": 5192,
       "location": ""
     },
@@ -350,7 +431,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18483,
+      "followersCount": 18485,
       "friendsCount": 1209,
       "location": ""
     },
@@ -367,7 +448,24 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47692,
+      "followersCount": 47693,
+      "friendsCount": 872,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEZgxXKb0AAsLtC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2037422332516679900",
+    "fullText": "也欢迎大家进入交流群交流！ https://t.co/gCg7tyX7Aq"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 47693,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -385,7 +483,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12360,
-      "friendsCount": 2962,
+      "friendsCount": 2961,
       "location": ""
     },
     "images": [],
@@ -399,7 +497,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18483,
+      "followersCount": 18485,
       "friendsCount": 1209,
       "location": ""
     },
@@ -434,7 +532,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12360,
-      "friendsCount": 2962,
+      "friendsCount": 2961,
       "location": ""
     },
     "images": [],
@@ -449,7 +547,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12360,
-      "friendsCount": 2962,
+      "friendsCount": 2961,
       "location": ""
     },
     "images": [
@@ -482,7 +580,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18483,
+      "followersCount": 18485,
       "friendsCount": 1209,
       "location": ""
     },
@@ -501,7 +599,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25023,
+      "followersCount": 25026,
       "friendsCount": 5192,
       "location": ""
     },
@@ -537,8 +635,8 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6251,
-      "friendsCount": 654,
+      "followersCount": 6252,
+      "friendsCount": 655,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [
@@ -547,6 +645,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/s1ntone/status/2037373253707280472",
     "fullText": "这个哥们关注我干啥？ https://t.co/rZuON9Jq5V"
+  },
+  {
+    "user": {
+      "screenName": "tokyo_vibes_x",
+      "name": "G123 – Play browser games easily for free",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2034559299041792000/xayauVip_normal.jpg",
+      "description": "G123 offers a wide selection of popular and latest anime games, now available to play ✨\nPlus, pre-registration campaigns for games based on hugely po\n🔽Play now",
+      "followersCount": 703,
+      "friendsCount": 1,
+      "location": "\u001f日本"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tokyo_vibes_x/status/2037358542651629705",
+    "fullText": "Experience hit anime \"Kakegurui\" like never before\n\n100 free dice giveaway\nClaim $350 worth of items, FREE!"
   },
   {
     "user": {
