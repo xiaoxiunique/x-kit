@@ -1,11 +1,143 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12360,
+      "friendsCount": 2961,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2037724839176515952",
+    "fullText": "我发现一种可以有效防治老年痴呆的办法，亲测有效。就是写 Java 代码的时候，尽量使用 Java Stream API，就算是 AI 帮你写的，你也做到一眼看懂。那大脑运转速度飞起来的姿势，我估计肯定不会得老年痴呆，或者至少推迟 30 年吧。"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51214,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEdxg1DbMAA3Mrk.jpg",
+      "https://pbs.twimg.com/media/HEdxlQcbsAAkevg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2037722462402871663",
+    "fullText": "早上把 lazycat-terminal 牛逼的分屏终端变成标签的功能移植到LightOS Webshell上啦，爽啊\n\n以后手机AI编程更方便了 https://t.co/OVMYU9T5ZK"
+  },
+  {
+    "user": {
+      "screenName": "Aniimo_EN",
+      "name": "Aniimo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999407240374046720/nUKWaUr__normal.png",
+      "description": "A free-to-play, next-gen creature-catching open-world RPG, coming to Steam, console, PC & mobile in 2026! Join our Discord: https://t.co/uuABLjxL82",
+      "followersCount": 17919,
+      "friendsCount": 2,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Aniimo_EN/status/2037717970949165550",
+    "fullText": "Aniimo is officially coming to  PlayStation®5!\nStep into a vibrant creature-catching open-world RPG, where unique creatures and new adventures await.\nAdd Aniimo to your PlayStation wishlist."
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25032,
+      "friendsCount": 5193,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2037717268713390301",
+    "fullText": "周六不监工了，让 CC 和 Codex 自己 Vibe，\n人应该出去走走，看看花花草草山山水水"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25032,
+      "friendsCount": 5193,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2037570760202387456/vid/avc1/3840x2160/NNcU-KK4zykGI4Nd.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2037715652526436653",
+    "fullText": "不知道为啥，这种看了就想收藏&gt;&gt;\n\n如何生成最终幻想战略版风格的等距视角精灵图\nhttps://t.co/TtBPW7RKQ5"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51214,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2037711969021751454",
+    "fullText": "早上起来用 codex 半个小时修了30多个产品细节，爽啊\n\n现在每天早上起来不吸点tokens，感觉浑身不舒服，哪里都不对了🤪"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 47701,
+      "friendsCount": 872,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEdkuMjbwAAO5Ox.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2037708367687528759",
+    "fullText": "竞品关键词广告拦截确实很有效果，我这几天已经不止一次的想点击Gamma，点到了AnyGen https://t.co/HK6HmmkYjB"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 47701,
+      "friendsCount": 872,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEdjE27aQAAOqwq.jpg",
+      "https://pbs.twimg.com/media/HEdjGziawAAnbE_.jpg",
+      "https://pbs.twimg.com/media/HEdjIGfaYAATj-O.jpg",
+      "https://pbs.twimg.com/media/HEdjJzCakAACkxg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2037707528642199907",
+    "fullText": "和B站合作真的太猛了，所有的Vibe Coding关键词搜索，都指向了我的课程。感觉享受到了「影视飓风」Tim的待遇🤣\n\n我下周会做一场直播，会讲到2026年关于个人AI编程+出海的趋势，也会讲到小龙虾。欢迎大家进入交流群，预约直播~ https://t.co/PfbpmLCTNv"
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166025,
+      "followersCount": 166031,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -25,8 +157,8 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6250,
-      "friendsCount": 655,
+      "followersCount": 6252,
+      "friendsCount": 658,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [
@@ -68,12 +200,29 @@
   },
   {
     "user": {
+      "screenName": "solflare",
+      "name": "Solflare - The Solana Wallet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013205496321265664/b9b4uPU0_normal.jpg",
+      "description": "Unchain Your Money with The #1 @Solana Wallet. ◎🔥",
+      "followersCount": 268033,
+      "friendsCount": 787,
+      "location": "Solana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEcHhKJbEAAUil0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/solflare/status/2037605627183456293",
+    "fullText": "Why would you Send Privately?\n\n• Keep your activity from trackers\n• Reduce unwanted attention on your wallet\n• Avoid getting targeted after transactions\n• Move without broadcasting your next move\n• Choose when to stay visible\n\nMore privacy = Less exposure https://t.co/Wm1AGYqISV"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67311,
-      "friendsCount": 562,
+      "followersCount": 67310,
+      "friendsCount": 563,
       "location": ""
     },
     "images": [],
@@ -104,8 +253,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67311,
-      "friendsCount": 562,
+      "followersCount": 67310,
+      "friendsCount": 563,
       "location": ""
     },
     "images": [
@@ -154,7 +303,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47694,
+      "followersCount": 47701,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -169,8 +318,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25027,
-      "friendsCount": 5192,
+      "followersCount": 25032,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [
@@ -203,8 +352,8 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67311,
-      "friendsCount": 562,
+      "followersCount": 67310,
+      "friendsCount": 563,
       "location": ""
     },
     "images": [],
@@ -218,7 +367,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47694,
+      "followersCount": 47701,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -250,8 +399,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25027,
-      "friendsCount": 5192,
+      "followersCount": 25032,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -282,7 +431,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13268,
+      "followersCount": 13270,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -314,7 +463,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64721,
+      "followersCount": 64725,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -331,7 +480,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64721,
+      "followersCount": 64725,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -348,7 +497,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18485,
+      "followersCount": 18481,
       "friendsCount": 1209,
       "location": ""
     },
@@ -366,7 +515,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22101,
+      "followersCount": 22100,
       "friendsCount": 1067,
       "location": ""
     },
@@ -381,7 +530,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47694,
+      "followersCount": 47701,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -401,7 +550,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18485,
+      "followersCount": 18481,
       "friendsCount": 1209,
       "location": ""
     },
@@ -418,8 +567,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25027,
-      "friendsCount": 5192,
+      "followersCount": 25032,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -433,7 +582,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51217,
+      "followersCount": 51214,
       "friendsCount": 299,
       "location": "China"
     },
@@ -451,8 +600,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25027,
-      "friendsCount": 5192,
+      "followersCount": 25032,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [
@@ -468,7 +617,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18485,
+      "followersCount": 18481,
       "friendsCount": 1209,
       "location": ""
     },
@@ -485,7 +634,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47693,
+      "followersCount": 47701,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -502,7 +651,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47694,
+      "followersCount": 47701,
       "friendsCount": 872,
       "location": "Hong Kong"
     },
@@ -534,7 +683,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18485,
+      "followersCount": 18481,
       "friendsCount": 1209,
       "location": ""
     },
@@ -551,7 +700,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9298,
+      "followersCount": 9297,
       "friendsCount": 391,
       "location": ""
     },
@@ -600,7 +749,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13268,
+      "followersCount": 13270,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -696,6 +845,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/tokyo_vibes_x/status/2037358542651629705",
+    "fullText": "Experience hit anime \"Kakegurui\" like never before\n\n100 free dice giveaway\nClaim $350 worth of items, FREE!"
+  },
+  {
+    "user": {
+      "screenName": "tokyo_vibes_x",
+      "name": "G123 – Play browser games easily for free",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2034559299041792000/xayauVip_normal.jpg",
+      "description": "G123 offers a wide selection of popular and latest anime games, now available to play ✨\nPlus, pre-registration campaigns for games based on hugely po\n🔽Play now",
+      "followersCount": 708,
+      "friendsCount": 1,
+      "location": "\u001f日本"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tokyo_vibes_x/status/2037357977628504174",
     "fullText": "Experience hit anime \"Kakegurui\" like never before\n\n100 free dice giveaway\nClaim $350 worth of items, FREE!"
   },
   {
