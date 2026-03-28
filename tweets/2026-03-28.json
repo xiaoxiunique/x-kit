@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51210,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEfdPY2aoAA9pAO.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2037840634653155652",
+    "fullText": "对了，刚才根据用户需求新增功能的时候，发现第一句话和第二句话之间的听书有一点延迟。研究了下算法，顺手修复了。\n\n强迫症开发者一定要把性能拉到极限才满意😎 https://t.co/9nzcADTCYh"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51210,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEfbbyNboAAanhe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2037838688626061375",
+    "fullText": "如果习惯了在 iPhone 上使用第三方的语音输入法，那么可以考虑是否立马升级 iOS26.4 。\n\n我现在升级后发现一个问题，就是开启豆包语音输入后不会自动跳转了，必须手动点击屏幕左上角才能回去，很不方便。\n\n而微信已经全面内置了语音输入法，直接在输入框点击即可。这一波太利好微信了。 https://t.co/MNmTFkjNQ1"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47944,
+      "followersCount": 47957,
+      "friendsCount": 874,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEfXOsZaAAAJ1HU.jpg",
+      "https://pbs.twimg.com/media/HEfXOu2acAADiU7.jpg",
+      "https://pbs.twimg.com/media/HEfXOwraoAARRMT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2037834053626520003",
+    "fullText": "因为有KPI，这两天营销有点猛。\n我来运营一点人味儿😁\n\n这两天如有打扰敬请谅解，到下周二结束，你们熟悉的熠辉会回来！ https://t.co/M37mQXZKZ0"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12357,
+      "friendsCount": 2960,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2037833613069500776",
+    "fullText": "你在 AI Coding 的时候是不是也会遇到这 3 个问题？\n\n1. 发现 AI 生成的代码不理想，而退回代码补全的半自动模式。\n2. AI 生成的代码与预期不符合，需要做人工修改或者反复 prompt 沟通，实际花费的时间精力可能超过了纯手搓。\n3. AI 生成的代码可维护性差，有一种离开 AI 就维护不下去的无力感。"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 47957,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -38,7 +106,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51213,
+      "followersCount": 51210,
       "friendsCount": 299,
       "location": "China"
     },
@@ -55,7 +123,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51213,
+      "followersCount": 51210,
       "friendsCount": 299,
       "location": "China"
     },
@@ -68,11 +136,26 @@
   },
   {
     "user": {
+      "screenName": "GrayZoneWarfare",
+      "name": "Gray Zone Warfare",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720006470320701440/XOLxznf4_normal.jpg",
+      "description": "A high-stakes PvE-first open-world tactical shooter set on a quarantined Southeast Asian island torn apart by faction warfare.\n\nDeveloped by @MADFINGERGames",
+      "followersCount": 67829,
+      "friendsCount": 932,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GrayZoneWarfare/status/2037801748757364938",
+    "fullText": "Fight, survive, and earn your place as an elite operator in a high-stakes open world.\n\nThe biggest update yet hits March 31. \n\nGet Gray Zone Warfare at -33% off on Steam."
+  },
+  {
+    "user": {
       "screenName": "turingou",
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166037,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -92,7 +175,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64740,
+      "followersCount": 64739,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -124,7 +207,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51213,
+      "followersCount": 51210,
       "friendsCount": 299,
       "location": "China"
     },
@@ -139,7 +222,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 203526,
+      "followersCount": 203531,
       "friendsCount": 1590,
       "location": "Chicago, IL"
     },
@@ -220,7 +303,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166037,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -254,7 +337,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26963,
+      "followersCount": 26965,
       "friendsCount": 339,
       "location": "Guangdong"
     },
@@ -320,7 +403,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166037,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -370,7 +453,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51213,
+      "followersCount": 51210,
       "friendsCount": 299,
       "location": "China"
     },
@@ -404,7 +487,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25046,
-      "friendsCount": 5194,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -419,7 +502,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25046,
-      "friendsCount": 5194,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -435,7 +518,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51213,
+      "followersCount": 51210,
       "friendsCount": 299,
       "location": "China"
     },
@@ -450,7 +533,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47944,
+      "followersCount": 47957,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -467,7 +550,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47944,
+      "followersCount": 47957,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -504,7 +587,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166033,
+      "followersCount": 166037,
       "friendsCount": 521,
       "location": "東京 港区"
     },
@@ -605,7 +688,7 @@
       "name": "ESPN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
       "description": "Serving Sports Fans. Anytime. Anywhere.\n\nSign up for ESPN! https://t.co/SsALNN0g8C\nQuestions about your subscription? https://t.co/RHwMSWojUL",
-      "followersCount": 58031367,
+      "followersCount": 58032442,
       "friendsCount": 444,
       "location": ""
     },
@@ -721,7 +804,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47944,
+      "followersCount": 47957,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -754,7 +837,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25046,
-      "friendsCount": 5194,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [
@@ -802,7 +885,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 47944,
+      "followersCount": 47957,
       "friendsCount": 874,
       "location": "Hong Kong"
     },
@@ -835,7 +918,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25046,
-      "friendsCount": 5194,
+      "friendsCount": 5193,
       "location": ""
     },
     "images": [],
@@ -1288,7 +1371,7 @@
       "name": "G123 – Play browser games easily for free",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2034559299041792000/xayauVip_normal.jpg",
       "description": "G123 offers a wide selection of popular and latest anime games, now available to play ✨\nPlus, pre-registration campaigns for games based on hugely po\n🔽Play now",
-      "followersCount": 715,
+      "followersCount": 716,
       "friendsCount": 1,
       "location": "\u001f日本"
     },
