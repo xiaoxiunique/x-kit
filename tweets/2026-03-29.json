@@ -31,6 +31,23 @@
   },
   {
     "user": {
+      "screenName": "NASCAR",
+      "name": "NASCAR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2038326700694704128/GInaH0bN_normal.jpg",
+      "description": "Can we getta hell yeah?",
+      "followersCount": 3509500,
+      "friendsCount": 377,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038352106927599617/vid/avc1/720x720/NZ7zLEofNnCRMRHl.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/NASCAR/status/2038352130344366339",
+    "fullText": "Pit road can be perilous at @MartinsvilleSwy. https://t.co/2vJvtVk51c"
+  },
+  {
+    "user": {
       "screenName": "espn",
       "name": "ESPN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
@@ -62,6 +79,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2038303522069131746",
     "fullText": "开源社区补丁：\n\n1. 第一个：伸手党，直接回复 PR are welcome\n2. 第二个：高质量补丁，直接合并\n3. 第三个：Hacking way， 告知开发者加选项\n4. 第四个：技术原理不支持，回复后关闭issue\n\n开源社区，主要看代码质量，拒绝伸手党，拒绝Hacking Patch，拒绝不合理的需求 https://t.co/i3DzMDcRHh"
+  },
+  {
+    "user": {
+      "screenName": "SeasidePubFL",
+      "name": "Seaside Publications",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1853788411829583872/lN9A-UT1_normal.jpg",
+      "description": "Publisher in Fort Lauderdale, FL, creating joyful stories and games that bring families together.",
+      "followersCount": 5,
+      "friendsCount": 19,
+      "location": "Fort Lauderdale, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeasidePubFL/status/2038285673132965962",
+    "fullText": "Luau Rummy is easy to learn and fun for both kids and adults."
   },
   {
     "user": {
@@ -295,7 +327,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76429,
+      "followersCount": 76427,
       "friendsCount": 3555,
       "location": ""
     },
@@ -674,7 +706,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 49881,
+      "followersCount": 49891,
       "friendsCount": 878,
       "location": "Hong Kong"
     },
