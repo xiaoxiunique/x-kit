@@ -18,11 +18,28 @@
   },
   {
     "user": {
+      "screenName": "figma",
+      "name": "Figma",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950251644467490817/MiHVMqAM_normal.jpg",
+      "description": "Agents, meet the canvas",
+      "followersCount": 550482,
+      "friendsCount": 189,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038649650769723392/vid/avc1/1920x1080/Zv1UA2fLrbLziYS3.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/figma/status/2038650229638213672",
+    "fullText": "The new AI image tools, now rolling out in FigJam, Buzz, &amp; Slides: \n→ Expand image\n→ Isolate object\n→ Erase object\n→ Vectorize image https://t.co/9fkBw3j919"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25105,
+      "followersCount": 25104,
       "friendsCount": 5207,
       "location": ""
     },
@@ -82,6 +99,21 @@
   },
   {
     "user": {
+      "screenName": "rosenstein",
+      "name": "Justin Rosenstein",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1015318155315458048/W4jy5RaI_normal.jpg",
+      "description": "@OneProject & @Asana co-founder @humanetech_ advisor\n\ndesigner of systems, software, & culture in service of all beings",
+      "followersCount": 17187,
+      "friendsCount": 342,
+      "location": "California"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/rosenstein/status/2038617167176851618",
+    "fullText": "I helped build Facebook. I watched it become a machine for addicting people. Because addiction was more profitable.\n\nNow the same logic is driving AI. I wrote about what we do about it. 🧵"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
@@ -103,7 +135,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50639,
+      "followersCount": 50643,
       "friendsCount": 879,
       "location": "Hong Kong"
     },
@@ -120,7 +152,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166076,
+      "followersCount": 166077,
       "friendsCount": 522,
       "location": "東京 港区"
     },
@@ -150,7 +182,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25105,
+      "followersCount": 25104,
       "friendsCount": 5207,
       "location": ""
     },
@@ -167,7 +199,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18471,
+      "followersCount": 18469,
       "friendsCount": 1210,
       "location": ""
     },
@@ -184,7 +216,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18471,
+      "followersCount": 18469,
       "friendsCount": 1210,
       "location": ""
     },
@@ -267,7 +299,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 157217,
+      "followersCount": 157218,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -282,7 +314,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64817,
+      "followersCount": 64819,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -320,7 +352,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166076,
+      "followersCount": 166077,
       "friendsCount": 522,
       "location": "東京 港区"
     },
@@ -335,7 +367,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18471,
+      "followersCount": 18469,
       "friendsCount": 1210,
       "location": ""
     },
@@ -352,7 +384,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18471,
+      "followersCount": 18469,
       "friendsCount": 1210,
       "location": ""
     },
@@ -419,7 +451,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50639,
+      "followersCount": 50643,
       "friendsCount": 879,
       "location": "Hong Kong"
     },
@@ -436,7 +468,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18471,
+      "followersCount": 18469,
       "friendsCount": 1210,
       "location": ""
     },
@@ -451,7 +483,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13341,
+      "followersCount": 13343,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -466,7 +498,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13341,
+      "followersCount": 13343,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -498,7 +530,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25105,
+      "followersCount": 25104,
       "friendsCount": 5207,
       "location": ""
     },
@@ -513,7 +545,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166076,
+      "followersCount": 166077,
       "friendsCount": 522,
       "location": "東京 港区"
     },
@@ -533,7 +565,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 204162,
+      "followersCount": 204168,
       "friendsCount": 1591,
       "location": "Chicago, IL"
     },
@@ -741,7 +773,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18471,
+      "followersCount": 18469,
       "friendsCount": 1210,
       "location": ""
     },
@@ -843,7 +875,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 204162,
+      "followersCount": 204168,
       "friendsCount": 1591,
       "location": "Chicago, IL"
     },
@@ -920,6 +952,23 @@
   },
   {
     "user": {
+      "screenName": "YouWareAI",
+      "name": "YouWare",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982449183937191937/9KKzNslR_normal.jpg",
+      "description": "Build your own software. Your vibe coding community. \nAvailable on web, iOS and Android.",
+      "followersCount": 3716,
+      "friendsCount": 28,
+      "location": "youware.com"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038330925197443073/vid/avc1/1280x720/pTj1RE1MCkNjPRc9.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/YouWareAI/status/2038330952200405126",
+    "fullText": "Voice creation. Photo-to-prototype. Instant notifications. Build anywhere on iOS and Android. The YouWare mobile app puts full-stack development in your pocket. https://t.co/8WShQx8SiZ"
+  },
+  {
+    "user": {
       "screenName": "MLB",
       "name": "MLB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_normal.jpg",
@@ -934,6 +983,21 @@
     ],
     "tweetUrl": "https://x.com/MLB/status/2038329326978933187",
     "fullText": "Yordan Alvarez adds on for the @Astros! https://t.co/qyqIjbijnj"
+  },
+  {
+    "user": {
+      "screenName": "CliftonSellers",
+      "name": "Clifton Sellers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979002438263664641/0evUDL6Y_normal.jpg",
+      "description": "Girl Dad x3 | Founder x2 | 4+ years of scaling founder-led content @legacybuilder | Everything you want is on the other side of massive action",
+      "followersCount": 366907,
+      "friendsCount": 3969,
+      "location": "Social + Video + Newsletter:"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CliftonSellers/status/2038325818967892399",
+    "fullText": "6 months of relentless execution is worth it if you want a breakthrough to the next level\n\nMost just don’t have the stomach for it"
   },
   {
     "user": {
