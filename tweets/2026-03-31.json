@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51206,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEw2r3BbsAAT_md.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2039065512437862581",
+    "fullText": "我让AI对所有qwen模型做时间预测的性能测试，简单来说，就是根据用户创建的任务，去预测截止时间\n\n先说结论，qwen3:30b-a3b 还是很厉害的， 评论区有qwen3:30b 和 gpt-oss:20b 的横向比较结果 https://t.co/ssJhKxjWJg"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -22,7 +39,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -48,11 +65,31 @@
   },
   {
     "user": {
+      "screenName": "VictorRenajlj",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
+      "followersCount": 11113,
+      "friendsCount": 1424,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEwQBqVasAAFqdu.png",
+      "https://pbs.twimg.com/media/HEwQFX7agAA-Gl_.png"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039022189509513216/vid/avc1/1080x1920/0CUzh20-hryZemlC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/VictorRenajlj/status/2039022928767954954",
+    "fullText": "$IBM + $NASDAQ + $DVLT = FINANCIAL REVOLUTION \n\nWhy $DVLT - DYOR \n\nPrice Target $8 thats over +1000% upside potential ! \n\nDatavault AI Inc is now trading around $0.6066–$0.6078, maintaining a strong intraday uptrend with structure intact.\n\nThe chart shows a clean ascending https://t.co/e1LJWaSVLH"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -69,7 +106,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -101,7 +138,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166105,
+      "followersCount": 166102,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -118,7 +155,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -136,7 +173,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25124,
-      "friendsCount": 5210,
+      "friendsCount": 5209,
       "location": ""
     },
     "images": [
@@ -232,7 +269,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166105,
+      "followersCount": 166102,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -247,7 +284,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -281,7 +318,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -394,7 +431,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -409,7 +446,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -440,7 +477,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25124,
-      "friendsCount": 5210,
+      "friendsCount": 5209,
       "location": ""
     },
     "images": [
@@ -456,7 +493,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166105,
+      "followersCount": 166102,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -486,7 +523,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -548,7 +585,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -565,7 +602,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166105,
+      "followersCount": 166102,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -580,7 +617,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166105,
+      "followersCount": 166102,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -595,7 +632,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -613,7 +650,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25124,
-      "friendsCount": 5210,
+      "friendsCount": 5209,
       "location": ""
     },
     "images": [
@@ -629,7 +666,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -663,7 +700,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -678,7 +715,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -729,7 +766,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166105,
+      "followersCount": 166102,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -744,7 +781,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
@@ -761,7 +798,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51207,
+      "followersCount": 51206,
       "friendsCount": 299,
       "location": "China"
     },
