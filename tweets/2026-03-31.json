@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51238,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEtbVmBaEAEqnGV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2038823690318835771",
+    "fullText": "AI时代，我发现有一个特别好的编程方式，就是不要坐在办公室里面写代码，就在路上走路，拿个手机就可以编程了。这样的效率很高，而且还顺便锻炼身体，呼吸新鲜空气 https://t.co/EBahvXNkdc"
+  },
+  {
+    "user": {
+      "screenName": "goocarlos",
+      "name": "Luyu Zhang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
+      "description": "CEO&Founder of @dify_ai",
+      "followersCount": 25623,
+      "friendsCount": 917,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/goocarlos/status/2038818865619284270",
+    "fullText": "每周一早上，你有没有花一小时\"整理 Excel\"？\n\n扫描每一行，回忆\"这条到哪了\"，手动标状态，给该催的人发消息。\n\n你不是在管理数据。你是在人肉执行一个生命周期引擎——用大脑当 CPU，用 Excel 当内存。\n\n这件事之所以需要你来做，不是因为你擅长，而是因为承载这个能力的基础设施从未被建造过。"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -23,8 +55,8 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 204298,
-      "friendsCount": 1593,
+      "followersCount": 204318,
+      "friendsCount": 1594,
       "location": "Chicago, IL"
     },
     "images": [],
@@ -132,7 +164,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76417,
+      "followersCount": 76415,
       "friendsCount": 3556,
       "location": ""
     },
@@ -147,7 +179,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67363,
+      "followersCount": 67361,
       "friendsCount": 565,
       "location": ""
     },
@@ -164,7 +196,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67363,
+      "followersCount": 67361,
       "friendsCount": 565,
       "location": ""
     },
@@ -177,12 +209,29 @@
   },
   {
     "user": {
+      "screenName": "analogue",
+      "name": "Analogue",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1214698931348803585/GJ1bjmdO_normal.jpg",
+      "description": "We make products to celebrate and explore the history of video games with the respect it deserves. Customer support: https://t.co/D5CwukrVBZ",
+      "followersCount": 110721,
+      "friendsCount": 251,
+      "location": "usa"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEqvFwha4AAmMhX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/analogue/status/2038639974816289080",
+    "fullText": "Analogue 3D. A reimaging of the N64. In 4K. \n\nPlay your original game cartridges &amp; accessories out of the box on modern 4K displays. Engineered in FPGA. Available now.\n\n🏅\n@WIRED- 9/10\n@CNET - 8.5/10\n@Engadget - 4/5\n@Gizmodo - 4.5/5\n@GamesRadar - 5/5\n@PCMag - 4.5/5 - Editor's https://t.co/ClXLrXxEqj"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25112,
-      "friendsCount": 5207,
+      "followersCount": 25114,
+      "friendsCount": 5208,
       "location": ""
     },
     "images": [],
@@ -196,7 +245,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76417,
+      "followersCount": 76415,
       "friendsCount": 3556,
       "location": ""
     },
@@ -211,7 +260,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67363,
+      "followersCount": 67361,
       "friendsCount": 565,
       "location": ""
     },
@@ -228,7 +277,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12378,
+      "followersCount": 12379,
       "friendsCount": 2961,
       "location": ""
     },
@@ -245,7 +294,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50688,
+      "followersCount": 50697,
       "friendsCount": 879,
       "location": "Hong Kong"
     },
@@ -262,7 +311,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166097,
+      "followersCount": 166098,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -277,8 +326,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25112,
-      "friendsCount": 5207,
+      "followersCount": 25114,
+      "friendsCount": 5208,
       "location": ""
     },
     "images": [
@@ -294,7 +343,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1210,
       "location": ""
     },
@@ -311,7 +360,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1210,
       "location": ""
     },
@@ -362,7 +411,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76417,
+      "followersCount": 76415,
       "friendsCount": 3556,
       "location": ""
     },
@@ -394,7 +443,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64831,
+      "followersCount": 64834,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -412,7 +461,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76417,
+      "followersCount": 76415,
       "friendsCount": 3556,
       "location": ""
     },
@@ -432,7 +481,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166097,
+      "followersCount": 166098,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -447,7 +496,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1210,
       "location": ""
     },
@@ -464,7 +513,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1210,
       "location": ""
     },
@@ -514,7 +563,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50688,
+      "followersCount": 50697,
       "friendsCount": 879,
       "location": "Hong Kong"
     },
@@ -531,7 +580,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1210,
       "location": ""
     },
@@ -662,7 +711,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51240,
+      "followersCount": 51238,
       "friendsCount": 299,
       "location": "China"
     },
@@ -682,7 +731,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51240,
+      "followersCount": 51238,
       "friendsCount": 299,
       "location": "China"
     },
@@ -716,7 +765,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51240,
+      "followersCount": 51238,
       "friendsCount": 299,
       "location": "China"
     },
@@ -733,7 +782,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18468,
+      "followersCount": 18464,
       "friendsCount": 1210,
       "location": ""
     },
@@ -760,5 +809,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2038406683865624800",
     "fullText": "飞书 CLI 开源了，为什么 AI Agent 时代，大家都在做命令行工具？\n\n飞书刚开源了一个命令行工具 lark-cli，能让 AI Agent 直接操作飞书：发消息、查日历、写文档、建多维表格、发邮件、管任务。你跟 AI 说一句话，它自己去操作飞书完成任务。\n\n类似的 CLI 还很多，三周前 Google 也开源了 gws，让 AI https://t.co/IRiBN8I3EB"
+  },
+  {
+    "user": {
+      "screenName": "lovart_ai",
+      "name": "LovartAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2012911781404958721/n4DSHAUq_normal.png",
+      "description": "The design agent. Ideate, create & deliver - all in one place.\n🎨🎙️🎞️",
+      "followersCount": 27481,
+      "friendsCount": 199,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2038229408558075904/vid/avc1/3774x2160/ab7mvUyLTCBZJxPU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/lovart_ai/status/2038230167412510913",
+    "fullText": "Where every stroke brings an idea to life🎨 https://t.co/JTlOxdYtJ6"
   }
 ]
