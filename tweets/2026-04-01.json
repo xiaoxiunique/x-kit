@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "EMPD_BTC",
+      "name": "Empery Digital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1975645313567498242/ILcquxET_normal.jpg",
+      "description": "Publicly traded company NASDAQ: EMPD",
+      "followersCount": 3294,
+      "friendsCount": 65,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2036449915426000896/vid/avc1/720x1280/ybkLXQDmc6XhD6q1.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/EMPD_BTC/status/2039440471827911095",
+    "fullText": "$25M Equity Raise https://t.co/XOt3pxFIhP"
+  },
+  {
+    "user": {
+      "screenName": "BullMooseProj",
+      "name": "The Bull Moose Project",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1572971447831724035/ud40zkm9_normal.jpg",
+      "description": "Relentlessly advocating for a dominant American future.\n\nFrom ideas to action with @MooseInstitute.",
+      "followersCount": 27342,
+      "friendsCount": 663,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BullMooseProj/status/2039431802058604919",
+    "fullText": "ICYMI: Watch the Fireside chat with White House Crypto Official Patrick Witt!"
+  },
+  {
+    "user": {
       "screenName": "sidelinrsports",
       "name": "Sidelinr Sports",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939579564298018816/mTxcjNTB_normal.jpg",
@@ -67,7 +99,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205150,
+      "followersCount": 205157,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -199,7 +231,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64898,
+      "followersCount": 64901,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -214,7 +246,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64898,
+      "followersCount": 64901,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -231,7 +263,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76390,
+      "followersCount": 76389,
       "friendsCount": 3556,
       "location": ""
     },
@@ -668,7 +700,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205150,
+      "followersCount": 205157,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -880,8 +912,8 @@
       "name": "McDonald's",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2038984397395820544/dm3-RvLm_normal.jpg",
       "description": "am i the only one struggling to pick a side?",
-      "followersCount": 4564445,
-      "friendsCount": 12859,
+      "followersCount": 4564539,
+      "friendsCount": 12858,
       "location": ""
     },
     "images": [],
