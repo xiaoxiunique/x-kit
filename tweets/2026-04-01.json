@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 205107,
+      "friendsCount": 1596,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039364639541383168/vid/avc1/1920x1080/7u1xkY-SN4WRIERT.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2039365135140077765",
+    "fullText": "这个可视化看claude code原理、功能的网站不错，尤其是 Agent Loop 动画，很直观\nhttps://t.co/z7P2DB8TCm https://t.co/p3a1QRlCjl"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67325,
+      "followersCount": 67324,
       "friendsCount": 566,
       "location": ""
     },
@@ -24,7 +41,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26991,
+      "followersCount": 26990,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -41,7 +58,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166144,
+      "followersCount": 166145,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -52,11 +69,28 @@
   },
   {
     "user": {
+      "screenName": "drinkgaragebeer",
+      "name": "Garage Beer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2038608754313478144/2CCP0MWH_normal.jpg",
+      "description": "Beer Flavored Beer®️",
+      "followersCount": 46689,
+      "friendsCount": 1056,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE01fUEbAAAEXk1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/drinkgaragebeer/status/2039345025650171995",
+    "fullText": "Not joking https://t.co/DZP1C2X21v"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18463,
+      "followersCount": 18462,
       "friendsCount": 1210,
       "location": ""
     },
@@ -71,7 +105,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18463,
+      "followersCount": 18462,
       "friendsCount": 1210,
       "location": ""
     },
@@ -86,7 +120,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64895,
+      "followersCount": 64897,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -101,7 +135,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64895,
+      "followersCount": 64897,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -133,7 +167,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18463,
+      "followersCount": 18462,
       "friendsCount": 1210,
       "location": ""
     },
@@ -150,7 +184,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18463,
+      "followersCount": 18462,
       "friendsCount": 1210,
       "location": ""
     },
@@ -231,7 +265,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166144,
+      "followersCount": 166145,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -246,7 +280,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18463,
+      "followersCount": 18462,
       "friendsCount": 1210,
       "location": ""
     },
@@ -297,7 +331,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166144,
+      "followersCount": 166145,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -522,7 +556,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64895,
+      "followersCount": 64897,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -555,7 +589,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205088,
+      "followersCount": 205107,
       "friendsCount": 1596,
       "location": "Chicago, IL"
     },
