@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67328,
+      "friendsCount": 566,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE06ZC8acAAf4At.jpg",
+      "https://pbs.twimg.com/media/HE06ZC9b0AAbUVW.jpg",
+      "https://pbs.twimg.com/media/HE06ZD-bEAAvkES.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2039350416127959356",
+    "fullText": "有完没完，有完没完啦？ https://t.co/HR6QYo0r9W"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26991,
+      "friendsCount": 338,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HE04CxLbEAEcT3S.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2039348229675126984",
+    "fullText": "有的公司到现在还在用 Python 2.7，有的公司 Win11 下面还在用 Cygwin https://t.co/g0S7aZIT9G"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 166139,
+      "friendsCount": 523,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2039345362784395283",
+    "fullText": "最近用 codex 比较多，第一次用到提醒我 ⚠ Selected model is at capacity. Please try a different model. 这是触发限额了？？"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -180,7 +231,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166138,
+      "followersCount": 166139,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -246,7 +297,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166138,
+      "followersCount": 166139,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -276,7 +327,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25140,
+      "followersCount": 25143,
       "friendsCount": 5210,
       "location": ""
     },
@@ -325,7 +376,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67329,
+      "followersCount": 67328,
       "friendsCount": 566,
       "location": ""
     },
@@ -358,7 +409,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13468,
-      "friendsCount": 543,
+      "friendsCount": 544,
       "location": "杭州"
     },
     "images": [],
@@ -373,7 +424,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13468,
-      "friendsCount": 543,
+      "friendsCount": 544,
       "location": "杭州"
     },
     "images": [],
@@ -388,7 +439,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13468,
-      "friendsCount": 543,
+      "friendsCount": 544,
       "location": "杭州"
     },
     "images": [
@@ -438,7 +489,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25140,
+      "followersCount": 25143,
       "friendsCount": 5210,
       "location": ""
     },
@@ -486,7 +537,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67329,
+      "followersCount": 67328,
       "friendsCount": 566,
       "location": ""
     },
@@ -504,7 +555,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205048,
+      "followersCount": 205067,
       "friendsCount": 1596,
       "location": "Chicago, IL"
     },
@@ -649,7 +700,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 11315,
+      "followersCount": 11344,
       "friendsCount": 1424,
       "location": "New York, USA"
     },
