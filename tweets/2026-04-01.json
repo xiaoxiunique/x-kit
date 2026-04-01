@@ -1,12 +1,42 @@
 [
   {
     "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 166122,
+      "friendsCount": 523,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2039248967217856674",
+    "fullText": "今天的电视拍摄结束了！原来 NHK 这个是快一个小时的电视节目，怪不得需要连续拍这么多天"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51209,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2039243904424489404",
+    "fullText": "看到还有推友煞费苦心的买这么多台 Mac 分开部署 Agent 我就觉得自己失职，没能让更多人知道懒猫微服的优势\n\n在懒猫微服里，大家可以克隆“无数”OpenClaw分开运行，只要内存和硬盘足够大，至少视频里的3个 agent 简直小意思；\n\n其次是配合算力舱就能提供本地无限 Token，现在Qwen3.5 35B 就挺不错。配合"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25130,
-      "friendsCount": 5209,
+      "followersCount": 25134,
+      "friendsCount": 5210,
       "location": ""
     },
     "images": [],
@@ -86,7 +116,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13460,
+      "followersCount": 13461,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -101,7 +131,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13460,
+      "followersCount": 13461,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -116,7 +146,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13460,
+      "followersCount": 13461,
       "friendsCount": 543,
       "location": "杭州"
     },
@@ -167,8 +197,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25130,
-      "friendsCount": 5209,
+      "followersCount": 25134,
+      "friendsCount": 5210,
       "location": ""
     },
     "images": [],
@@ -200,7 +230,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64873,
+      "followersCount": 64876,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -233,7 +263,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 204920,
+      "followersCount": 204937,
       "friendsCount": 1596,
       "location": "Chicago, IL"
     },
@@ -312,7 +342,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4703353,
+      "followersCount": 4703450,
       "friendsCount": 4,
       "location": ""
     },
@@ -361,7 +391,7 @@
       "name": "Victor Renard",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
       "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
-      "followersCount": 11144,
+      "followersCount": 11159,
       "friendsCount": 1424,
       "location": "New York, USA"
     },
@@ -411,7 +441,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -421,6 +451,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2039017099566461400",
     "fullText": "一个从小玩到大的朋友超级胖，280斤往上，每天在家就打游戏睡觉，减肥多次都减不下来，现在要强制减肥了\n\n我现在帮他好好查查，如果是军事化管理那就算了，如果是正规科学减肥营，我祝他成功，身体健康是一辈子的大事 https://t.co/FUMq7lpeM6"
+  },
+  {
+    "user": {
+      "screenName": "McDonalds",
+      "name": "McDonald's",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2038984397395820544/dm3-RvLm_normal.jpg",
+      "description": "am i the only one struggling to pick a side?",
+      "followersCount": 4564445,
+      "friendsCount": 12859,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/McDonalds/status/2039009851209130453",
+    "fullText": "Are you Team Saja Boys or Team HUNTR/X? Pick a meal to pick a side. Look to the sky to see who takes it."
   },
   {
     "user": {
@@ -460,7 +505,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166116,
+      "followersCount": 166122,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -477,7 +522,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18459,
+      "followersCount": 18460,
       "friendsCount": 1210,
       "location": ""
     },
@@ -494,8 +539,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25130,
-      "friendsCount": 5209,
+      "followersCount": 25134,
+      "friendsCount": 5210,
       "location": ""
     },
     "images": [
@@ -512,7 +557,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26982,
+      "followersCount": 26983,
       "friendsCount": 338,
       "location": "Guangdong"
     },
