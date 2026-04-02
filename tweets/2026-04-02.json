@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 7007,
+      "friendsCount": 758,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2039505462295716343",
+    "fullText": "让 Claude 分析一个 bug，它很快陷入了自我矛盾的循环中。这时候我感觉它一开始 thinking 的时候絮絮叨叨里有一句话似乎有用，就按照这个方向「古法」分析，最后找到原因了。\n\n看来 AI 不仅不能当 delegate，就算当 team member 也只是那种你得听着他絮絮叨叨才能有点启发的 pair peer。"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13477,
+      "friendsCount": 545,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039499777789014016/vid/avc1/1080x1080/B_Z6wO1RCLMKbXJi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fkysly/status/2039499838757409140",
+    "fullText": "Claude Code 更新了一项实验性的全屏渲染模式，通过 CLAUDE_CODE_NO_FLICKER=1 即可开启。\n\n从技术上来说，就是采取 Vim、htop 这一类常见终端应用的渲染方法：从普通终端程序 -&gt; 类 Vim 全屏应用。技术上没上好说的，也不是啥新技术，而且我觉得为啥不干脆切到 GUI 渲染？非要拖着所有人走向 Vim… https://t.co/cHJOKFO0t9"
+  },
+  {
+    "user": {
       "screenName": "NYSE",
       "name": "NYSE 🏛",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1505733102148145153/w2gDOam4_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67328,
+      "followersCount": 67329,
       "friendsCount": 566,
       "location": ""
     },
@@ -39,7 +71,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67328,
+      "followersCount": 67329,
       "friendsCount": 566,
       "location": ""
     },
@@ -88,7 +120,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166146,
+      "followersCount": 166147,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -103,7 +135,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205172,
+      "followersCount": 205204,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -120,7 +152,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67328,
+      "followersCount": 67329,
       "friendsCount": 566,
       "location": ""
     },
@@ -139,7 +171,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26992,
+      "followersCount": 26991,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -156,7 +188,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166146,
+      "followersCount": 166147,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -201,7 +233,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64901,
+      "followersCount": 64906,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -216,7 +248,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64901,
+      "followersCount": 64906,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -233,7 +265,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76389,
+      "followersCount": 76390,
       "friendsCount": 3556,
       "location": ""
     },
@@ -302,6 +334,21 @@
       "location": "China"
     },
     "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2039278419889041871",
+    "fullText": "视频来源：Nicksey0"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51199,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [],
     "videos": [
       "https://video.twimg.com/amplify_video/2039278302213685248/vid/avc1/360x640/SmsLLOG-eWFUwVAb.mp4?tag=21"
     ],
@@ -331,7 +378,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166146,
+      "followersCount": 166147,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -397,7 +444,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 166146,
+      "followersCount": 166147,
       "friendsCount": 523,
       "location": "東京 港区"
     },
@@ -544,7 +591,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205172,
+      "followersCount": 205204,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -554,6 +601,26 @@
     ],
     "tweetUrl": "https://x.com/dotey/status/2039147493355634989",
     "fullText": "SentrySearch：用自然语言搜索视频内容的开源工具\n\n在几个小时的行车记录仪视频里找到\"一辆红色卡车闯了停牌\"那个画面，SentrySearch 能让你像搜文字一样搜视频，输入描述，直接导出对应片段。\n\n这个开源命令行工具的原理并不复杂：把视频切成带重叠的片段，用 Google Gemini Embedding API 或本地的 https://t.co/AMwLFveKTj"
+  },
+  {
+    "user": {
+      "screenName": "VictorRenajlj",
+      "name": "Victor Renard",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1789488551589040128/a8Ocu_zY_normal.jpg",
+      "description": "Disclaimer: I am a content creator focused on financial markets, business, and stocks. Do your own research!  You should always conduct your own research!",
+      "followersCount": 11684,
+      "friendsCount": 1427,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEwlMPlbgAACK7f.jpg",
+      "https://pbs.twimg.com/media/HEwlMPDXcAANllQ.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039045623807414272/vid/avc1/1080x1920/_B-KFM63w8uzuWoi.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/VictorRenajlj/status/2039045821866340679",
+    "fullText": "Poetic ! This video explains why DVLT is flying https://t.co/3d0QIjNQXt"
   },
   {
     "user": {
