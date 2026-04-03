@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64968,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2040029092201000981",
+    "fullText": "Axios 发布了整个供应链攻击的流程：https://t.co/m9xgIZ7KHb\n\n仔细阅读一下发现非常有趣，有个学名叫AI辅助社会工程攻击：\n1 黑客伪装成一家真实公司的创始人\n2 邀请维护者进入一个精心伪造的 Slack 工作区，模仿真实公司的品牌、频道、LinkedIn 帖子，甚至伪造团队成员和其他 OSS 维护者资料\n3 通过"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
@@ -135,7 +150,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9302,
+      "followersCount": 9301,
       "friendsCount": 396,
       "location": ""
     },
@@ -186,7 +201,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27017,
+      "followersCount": 27018,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -201,7 +216,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27017,
+      "followersCount": 27018,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -352,6 +367,23 @@
   },
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2039918716599816193/2xilFiiM_normal.jpg",
+      "description": "FRIDAY on NBA TV:\n🏀 7:30pm/et: @chicagobulls/@nyknicks",
+      "followersCount": 46323485,
+      "friendsCount": 2037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2039923312835411968/vid/avc1/1920x1080/XpNqsUr497aKdPiy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/2039924014022348947",
+    "fullText": "James Harden iso-ball in the clutch 👏\n\nCavs win on the road! https://t.co/R4lMZMAIKF"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -489,7 +521,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205621,
+      "followersCount": 205631,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -504,7 +536,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205621,
+      "followersCount": 205631,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -519,7 +551,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205621,
+      "followersCount": 205631,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -1257,7 +1289,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205621,
+      "followersCount": 205631,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
