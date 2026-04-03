@@ -1,6 +1,36 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13519,
+      "friendsCount": 545,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2040206400065003566",
+    "fullText": "现在 AI 订阅充值多了之后，感觉自己习惯美元计价了。\n\n现在把国内价格换算一下美元，再想想自己的 AI 订阅价格，感觉都没那么贵了。"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13519,
+      "friendsCount": 545,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2040204519540400285",
+    "fullText": "我在想一个问题：AI Coding 时代 PM 怎么排需求🤔？按需求 Tokens 消耗量来算？"
+  },
+  {
+    "user": {
       "screenName": "Polymarket",
       "name": "Polymarket",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
@@ -167,8 +197,8 @@
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
       "description": "🖥️ macOS 独立开发者 | 效率工具爱好者\n📹 @ScreenSageApp Mac 录屏- 让录屏直出课程变得简单\n🔧 @cleanclipapp 创造者 - 重新定义剪贴板管理\n🧠 @macaify 开发者 - 让 ChatGPT 融入 macOS 生态\n🌊 独立开发航海日志 | 分享出海心得与技巧",
-      "followersCount": 6296,
-      "friendsCount": 667,
+      "followersCount": 6297,
+      "friendsCount": 668,
       "location": "🟩🟩🟩🟩🟩🟧🟨🟨🟨🟨 $100k Rev"
     },
     "images": [
@@ -218,7 +248,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 157344,
+      "followersCount": 157346,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -268,7 +298,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50862,
+      "followersCount": 50863,
       "friendsCount": 878,
       "location": "Hong Kong"
     },
@@ -427,7 +457,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22091,
+      "followersCount": 22092,
       "friendsCount": 1067,
       "location": ""
     },
@@ -593,7 +623,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27029,
+      "followersCount": 27025,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -608,7 +638,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27029,
+      "followersCount": 27025,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -815,7 +845,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 157344,
+      "followersCount": 157346,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -864,7 +894,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50862,
+      "followersCount": 50863,
       "friendsCount": 878,
       "location": "Hong Kong"
     },
@@ -930,7 +960,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205696,
+      "followersCount": 205704,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -1232,7 +1262,7 @@
       "name": "Salesforce",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_normal.jpg",
       "description": "We're the #1 AI CRM—where humans with agents drive customer success together with AI, data, and Customer 360 apps on one platform. Tweet @AskSalesforce for help",
-      "followersCount": 580987,
+      "followersCount": 580991,
       "friendsCount": 69,
       "location": "San Francisco, CA"
     },
