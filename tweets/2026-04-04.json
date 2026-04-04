@@ -1,6 +1,38 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
+      "followersCount": 51192,
+      "friendsCount": 299,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFDhKQOaIAArYkm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2040378201772634454",
+    "fullText": "这种香肠，吃过的人很少\n\n有没有识货的？😋 https://t.co/ccoEGKjMxR"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13523,
+      "friendsCount": 546,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2040370598141153706",
+    "fullText": "Claude 今天送的 Extra Credits，大家如果容易封号的也小心点。\n\n因为这玩意要打开网页领\n\n目前看到两个兄弟已经刚领完就封了"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -22,7 +54,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -39,7 +71,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
@@ -56,7 +88,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 25645,
+      "followersCount": 25646,
       "friendsCount": 918,
       "location": "San Jose, CA"
     },
@@ -74,7 +106,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -89,7 +121,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
@@ -108,7 +140,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -124,7 +156,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13523,
-      "friendsCount": 545,
+      "friendsCount": 546,
       "location": "杭州"
     },
     "images": [],
@@ -138,7 +170,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
@@ -172,7 +204,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
@@ -206,7 +238,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -302,7 +334,7 @@
       "name": "ESPN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
       "description": "Serving Sports Fans. Anytime. Anywhere.\n\nSign up for ESPN! https://t.co/SsALNN0g8C\nQuestions about your subscription? https://t.co/RHwMSWojUL",
-      "followersCount": 58090037,
+      "followersCount": 58089942,
       "friendsCount": 444,
       "location": ""
     },
@@ -336,7 +368,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67296,
+      "followersCount": 67297,
       "friendsCount": 570,
       "location": ""
     },
@@ -403,7 +435,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -438,7 +470,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -455,7 +487,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
@@ -485,7 +517,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -502,7 +534,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -518,7 +550,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13523,
-      "friendsCount": 545,
+      "friendsCount": 546,
       "location": "杭州"
     },
     "images": [],
@@ -533,7 +565,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13523,
-      "friendsCount": 545,
+      "friendsCount": 546,
       "location": "杭州"
     },
     "images": [],
@@ -598,7 +630,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
@@ -647,7 +679,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12393,
+      "followersCount": 12395,
       "friendsCount": 2971,
       "location": ""
     },
@@ -698,7 +730,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67296,
+      "followersCount": 67297,
       "friendsCount": 570,
       "location": ""
     },
@@ -715,7 +747,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67296,
+      "followersCount": 67297,
       "friendsCount": 570,
       "location": ""
     },
@@ -732,7 +764,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 157354,
+      "followersCount": 157341,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -764,7 +796,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67296,
+      "followersCount": 67297,
       "friendsCount": 570,
       "location": ""
     },
@@ -799,7 +831,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS\n关注小号抽奖 https://t.co/OjwSfdlyu8",
-      "followersCount": 51209,
+      "followersCount": 51192,
       "friendsCount": 299,
       "location": "China"
     },
