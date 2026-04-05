@@ -1,12 +1,61 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18412,
+      "friendsCount": 1212,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFHr3dXbYAAkEpp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2040671461745246589",
+    "fullText": "夏天，是吃凉拌菜的季节 https://t.co/Z3aEgKCdWX"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25221,
-      "friendsCount": 5219,
+      "followersCount": 25223,
+      "friendsCount": 5220,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFHnf3yWYAAjv8o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2040666724937109894",
+    "fullText": "最近，在李诞新书封面看到一句话：\n\n全民自媒体时代，成功的秘诀就是 ：\n持续输出、高频输出、诚实输出。\n\n所以，保持在场，持续输出。 https://t.co/nDZf93WEwT"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13510,
+      "friendsCount": 546,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2040664202222948386",
+    "fullText": "OpenCLI 风波我说实话真没看明白，关键时候，只能请出 X 上相对公正的裁判：\n\n@grok 你怎么看 OpenCLI 和 OpenCLI-rs fork 事件"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25223,
+      "friendsCount": 5220,
       "location": ""
     },
     "images": [
@@ -22,7 +71,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 205827,
+      "followersCount": 205830,
       "friendsCount": 1597,
       "location": "Chicago, IL"
     },
@@ -37,8 +86,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12396,
-      "friendsCount": 2974,
+      "followersCount": 12399,
+      "friendsCount": 2973,
       "location": ""
     },
     "images": [],
@@ -52,7 +101,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50753,
+      "followersCount": 50748,
       "friendsCount": 879,
       "location": "Hong Kong"
     },
@@ -87,7 +136,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64905,
+      "followersCount": 64899,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -234,7 +283,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -249,7 +298,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67232,
+      "followersCount": 67225,
       "friendsCount": 570,
       "location": ""
     },
@@ -266,7 +315,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -300,7 +349,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -317,7 +366,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9288,
+      "followersCount": 9286,
       "friendsCount": 394,
       "location": ""
     },
@@ -351,7 +400,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -403,7 +452,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -499,7 +548,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67232,
+      "followersCount": 67225,
       "friendsCount": 570,
       "location": ""
     },
@@ -533,8 +582,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12396,
-      "friendsCount": 2974,
+      "followersCount": 12399,
+      "friendsCount": 2973,
       "location": ""
     },
     "images": [],
@@ -548,8 +597,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25221,
-      "friendsCount": 5219,
+      "followersCount": 25223,
+      "friendsCount": 5220,
       "location": ""
     },
     "images": [],
@@ -563,7 +612,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64905,
+      "followersCount": 64899,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -578,7 +627,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -595,8 +644,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12396,
-      "friendsCount": 2974,
+      "followersCount": 12399,
+      "friendsCount": 2973,
       "location": ""
     },
     "images": [],
@@ -610,7 +659,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18414,
+      "followersCount": 18412,
       "friendsCount": 1212,
       "location": ""
     },
@@ -657,7 +706,7 @@
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
       "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。希望早日成为自宅警備員。",
-      "followersCount": 9288,
+      "followersCount": 9286,
       "friendsCount": 394,
       "location": ""
     },
@@ -674,8 +723,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12396,
-      "friendsCount": 2974,
+      "followersCount": 12399,
+      "friendsCount": 2973,
       "location": ""
     },
     "images": [
@@ -708,7 +757,7 @@
       "name": "Luyu Zhang",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818806780039168/nOwgrMVE_normal.jpg",
       "description": "CEO&Founder of @dify_ai",
-      "followersCount": 26029,
+      "followersCount": 26040,
       "friendsCount": 918,
       "location": "San Jose, CA"
     },
@@ -726,8 +775,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12396,
-      "friendsCount": 2974,
+      "followersCount": 12399,
+      "friendsCount": 2973,
       "location": ""
     },
     "images": [],
@@ -1051,5 +1100,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/turingou/status/2040244927658115276",
     "fullText": "终于完成连续三天的主要拍摄！今天从宮古島返回東京啦 https://t.co/4PzsGSc7yR"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDfF3x",
+      "followersCount": 1334708,
+      "friendsCount": 5582,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFAGT0da4AADyS4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2040142434328269040",
+    "fullText": "In celebration of America's 250th anniversary, we're launching Freedom Watch 🦅\n\nRight now, two bald eagles named Harry &amp; Harriet are taking turns keeping three eggs warm — 200 feet up in a white pine on the shores of Lake Michigan. https://t.co/AqnvQJ3lqZ"
   }
 ]
