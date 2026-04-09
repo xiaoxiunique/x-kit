@@ -1,11 +1,31 @@
 [
   {
     "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67099,
+      "friendsCount": 573,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFe8d7jbQAQFw0i.jpg",
+      "https://pbs.twimg.com/media/HFe7pG7bQAEjcV0.jpg",
+      "https://pbs.twimg.com/media/HFe8WlIbQAA_mue.jpg",
+      "https://pbs.twimg.com/media/HFe-MMdbQAIAWjg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2042311994133627244",
+    "fullText": "【严肃八卦：CZ离婚了吗？什么时候离的？CZ自己对此的赌注已经达到10亿美金】\n\n这么重要的八卦，必须分几点来说明：\n\n1.  赵长鹏（CZ）于 2024 年 4 月在美国接受判决前，共有 161 位 他的家人、朋友及行业伙伴向法官 Richard A. Jones 提交了求情信 https://t.co/plxnJwrDZ2"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4708951,
+      "followersCount": 4708981,
       "friendsCount": 4,
       "location": ""
     },
@@ -16,11 +36,28 @@
   },
   {
     "user": {
+      "screenName": "overworld_ai",
+      "name": "Overworld",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2012607727193751552/jj02QFpw_normal.jpg",
+      "description": "Simulate Anything on Anything. Overworld builds AI that dreams playable worlds — 60 FPS, sub-20ms latency, actually fun. No affiliation with any token.",
+      "followersCount": 2289,
+      "friendsCount": 11,
+      "location": "Providence, RI"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042286541880627200/vid/avc1/1280x720/k30hBZYJyKRAPm7c.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/overworld_ai/status/2042287199513952563",
+    "fullText": "Today we’re releasing Waypoint-1.5.\n\nAn update to our real-time diffusion world model designed to run interactively on consumer hardware. https://t.co/iD5nOV8lFK"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18286,
+      "followersCount": 18283,
       "friendsCount": 1213,
       "location": ""
     },
@@ -35,7 +72,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 206906,
+      "followersCount": 206889,
       "friendsCount": 1602,
       "location": "Chicago, IL"
     },
@@ -117,7 +154,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -166,7 +203,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -183,7 +220,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18286,
+      "followersCount": 18283,
       "friendsCount": 1213,
       "location": ""
     },
@@ -200,7 +237,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -215,7 +252,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18286,
+      "followersCount": 18283,
       "friendsCount": 1213,
       "location": ""
     },
@@ -234,7 +271,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -266,7 +303,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -281,7 +318,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -314,7 +351,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -331,7 +368,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50911,
+      "followersCount": 50905,
       "friendsCount": 881,
       "location": "Hong Kong"
     },
@@ -351,7 +388,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -366,7 +403,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -398,7 +435,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -415,7 +452,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -432,7 +469,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13597,
+      "followersCount": 13602,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -447,7 +484,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13597,
+      "followersCount": 13602,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -724,7 +761,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -741,7 +778,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51196,
+      "followersCount": 51193,
       "friendsCount": 300,
       "location": "China"
     },
@@ -948,6 +985,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2041906217501782103",
     "fullText": "有人来问转租的事情，我知道ta不会买的前提下还和ta说了很多，给ta介绍房东什么的，希望ta早点找到合适的房子\n\n后面想起来我后面也要找新房子，我就问ta一般咋挑，啥渠道找比较好，已读不回了\n\n付出应该是不图回报才是，付出后总想着是不是能得到一点什么，什么都好，我太坏了"
+  },
+  {
+    "user": {
+      "screenName": "SportsonPrime",
+      "name": "Sports on Prime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2028963633590411264/aUMa0MbS_normal.jpg",
+      "description": "@TheMasters now begins on @PrimeVideo, starting Thursday at 1PM ET ⛳️",
+      "followersCount": 17273,
+      "friendsCount": 283,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SportsonPrime/status/2041905133592654303",
+    "fullText": "Welcome to Augusta National. The Masters now begins on Prime, starting today at 1PM ET."
   },
   {
     "user": {
