@@ -1,6 +1,53 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64775,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2042599980532404523",
+    "fullText": "请问一下各位 我在 iPhone 上通过媒体和购买项目切换 AppleID （美区）的时候，发双重验证短信的时候有时候（不是每次都出现，几次会出现一次）会显示发送代码次数过多，关键是也根本没发过短信啊，请问这种问题怎么解决？"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12287,
+      "friendsCount": 2985,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2042598608932081766",
+    "fullText": "公司每个月给了几百刀的 AI Coding 配额，都快两个月了，我今天看了下消费情况，我花了 68，还是人民币，部门排名前三。😂"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51211,
+      "friendsCount": 300,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFjEJLmakAEapRJ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2042598152616956234",
+    "fullText": "不是...你怎么....是正经豆包吗？🥲\n\n我是正经人。 https://t.co/I7OIwnSetD"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -40,7 +87,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12287,
-      "friendsCount": 2984,
+      "friendsCount": 2985,
       "location": ""
     },
     "images": [
@@ -104,7 +151,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12287,
-      "friendsCount": 2984,
+      "friendsCount": 2985,
       "location": ""
     },
     "images": [
@@ -120,7 +167,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13614,
+      "followersCount": 13615,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -155,7 +202,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12287,
-      "friendsCount": 2984,
+      "friendsCount": 2985,
       "location": ""
     },
     "images": [],
@@ -299,7 +346,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25254,
+      "followersCount": 25255,
       "friendsCount": 5226,
       "location": ""
     },
@@ -350,7 +397,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12287,
-      "friendsCount": 2984,
+      "friendsCount": 2985,
       "location": ""
     },
     "images": [],
@@ -364,7 +411,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25254,
+      "followersCount": 25255,
       "friendsCount": 5226,
       "location": ""
     },
@@ -428,7 +475,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13614,
+      "followersCount": 13615,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -511,7 +558,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13614,
+      "followersCount": 13615,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -526,7 +573,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 75980,
+      "followersCount": 75972,
       "friendsCount": 3561,
       "location": ""
     },
@@ -642,7 +689,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67137,
+      "followersCount": 67141,
       "friendsCount": 573,
       "location": ""
     },
@@ -660,7 +707,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67137,
+      "followersCount": 67141,
       "friendsCount": 573,
       "location": ""
     },
@@ -680,7 +727,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4710933,
+      "followersCount": 4711010,
       "friendsCount": 4,
       "location": ""
     },
@@ -688,6 +735,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/OpenAI/status/2042295688323875316",
     "fullText": "We’re updating our ChatGPT Pro and Plus subscriptions to better support the growing use of Codex.\n\nWe’re introducing a new $100/month Pro tier. This new tier offers 5x more Codex usage than Plus and is best for longer, high-effort Codex sessions. \n\nIn ChatGPT, this new Pro tier"
+  },
+  {
+    "user": {
+      "screenName": "Wendys",
+      "name": "Wendy’s",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2030020800963592192/NnAcvwdw_normal.jpg",
+      "description": "We like our tweets the way we like our tendys: hot, crispy, and better than anyone expects from a fast food restaurant.",
+      "followersCount": 3592532,
+      "friendsCount": 455,
+      "location": "Sir This Is A "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFefvZaWoAMu7ZX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Wendys/status/2042276646711894177",
+    "fullText": "WE’VE GOT OUR WINNER🏆 the Pretzel Bacon Pub Burger is coming back to the menu soon https://t.co/jdeIQgJBnp"
   },
   {
     "user": {
