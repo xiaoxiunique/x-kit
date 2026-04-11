@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64742,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2042961127391531289",
+    "fullText": "总是有朋友问我的录屏是什么做的，再给大家总结一遍：\n\n假如是简单的浏览器录屏，直接用 Cursorful 这个浏览器插件，\nhttps://t.co/6Z03u9MePe\n非商用是完全免费，效果很棒，基本原理就是直接模拟分享浏览器录屏，录一个网页的视频非常方便。\n\n如果稍微复杂交互复杂一点可以用"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67092,
+      "followersCount": 67089,
+      "friendsCount": 575,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2042945995424829443/vid/avc1/1920x1080/zRd-IhpaBVVZg470.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2042956338314223758",
+    "fullText": "大卫·萨克斯：“Anthropic 已经证明了它在两件事上非常擅长——一是产品发布，二是吓唬人……每当他们推出一个新模型时……他们也会同时发布一些研究，展示这项技术可能导致的最糟糕后果。”\n\n大卫.萨克斯是硅谷最有影响力的投资人和创业者，现在是特朗普政府的AI和加密货币主管 https://t.co/281ghHp0OX"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67089,
       "friendsCount": 575,
       "location": ""
     },
@@ -54,8 +86,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18206,
-      "friendsCount": 1214,
+      "followersCount": 18205,
+      "friendsCount": 1215,
       "location": ""
     },
     "images": [
@@ -105,8 +137,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18206,
-      "friendsCount": 1214,
+      "followersCount": 18205,
+      "friendsCount": 1215,
       "location": ""
     },
     "images": [],
@@ -137,8 +169,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18206,
-      "friendsCount": 1214,
+      "followersCount": 18205,
+      "friendsCount": 1215,
       "location": ""
     },
     "images": [
@@ -214,8 +246,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18206,
-      "friendsCount": 1214,
+      "followersCount": 18205,
+      "friendsCount": 1215,
       "location": ""
     },
     "images": [
@@ -280,8 +312,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18206,
-      "friendsCount": 1214,
+      "followersCount": 18205,
+      "friendsCount": 1215,
       "location": ""
     },
     "images": [],
@@ -312,8 +344,8 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18206,
-      "friendsCount": 1214,
+      "followersCount": 18205,
+      "friendsCount": 1215,
       "location": ""
     },
     "images": [
@@ -329,7 +361,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26868,
+      "followersCount": 26869,
       "friendsCount": 337,
       "location": "Guangdong"
     },
@@ -408,7 +440,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67092,
+      "followersCount": 67089,
       "friendsCount": 575,
       "location": ""
     },
@@ -425,7 +457,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50814,
+      "followersCount": 50807,
       "friendsCount": 880,
       "location": "Hong Kong"
     },
@@ -442,7 +474,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67092,
+      "followersCount": 67089,
       "friendsCount": 575,
       "location": ""
     },
@@ -476,7 +508,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67092,
+      "followersCount": 67089,
       "friendsCount": 575,
       "location": ""
     },
@@ -493,7 +525,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4712310,
+      "followersCount": 4712381,
       "friendsCount": 4,
       "location": ""
     },
@@ -508,7 +540,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4712310,
+      "followersCount": 4712381,
       "friendsCount": 4,
       "location": ""
     },
@@ -523,7 +555,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4712310,
+      "followersCount": 4712381,
       "friendsCount": 4,
       "location": ""
     },
@@ -538,7 +570,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4712310,
+      "followersCount": 4712381,
       "friendsCount": 4,
       "location": ""
     },
@@ -553,7 +585,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4712310,
+      "followersCount": 4712381,
       "friendsCount": 4,
       "location": ""
     },
@@ -568,7 +600,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4712310,
+      "followersCount": 4712381,
       "friendsCount": 4,
       "location": ""
     },
@@ -598,7 +630,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67092,
+      "followersCount": 67089,
       "friendsCount": 575,
       "location": ""
     },
@@ -613,7 +645,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67092,
+      "followersCount": 67089,
       "friendsCount": 575,
       "location": ""
     },
