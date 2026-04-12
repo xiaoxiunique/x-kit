@@ -1,11 +1,26 @@
 [
   {
     "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26843,
+      "friendsCount": 337,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2043380852307206189",
+    "fullText": "前几次 anthropic 旧模型降智都对应着稍后的新模型推出，grok4 发布前也一样，本来还稍微能用一下的 grok3 突然就傻不拉几的，然后 4 出来，让你对比之下发现哇真厉害，实际是只比原来的 3 好用了一点，但对比傻掉以后的 3 给你感觉好厉害，sonnet 4.5 之前有段时间也是突然傻掉，然后 opus 4.6 又真香"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13669,
+      "followersCount": 13668,
       "friendsCount": 546,
       "location": "杭州"
     },
@@ -22,7 +37,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25197,
+      "followersCount": 25194,
       "friendsCount": 5229,
       "location": ""
     },
@@ -37,7 +52,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -71,7 +86,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -103,7 +118,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -120,7 +135,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -135,7 +150,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -150,7 +165,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -168,7 +183,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26845,
+      "followersCount": 26843,
       "friendsCount": 337,
       "location": "Guangdong"
     },
@@ -203,7 +218,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -220,7 +235,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -237,7 +252,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25197,
+      "followersCount": 25194,
       "friendsCount": 5229,
       "location": ""
     },
@@ -306,7 +321,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 207169,
+      "followersCount": 207174,
       "friendsCount": 1601,
       "location": "Chicago, IL"
     },
@@ -371,7 +386,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -418,7 +433,7 @@
       "name": "Mott & Bow",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/897810295300739073/dc99V7YT_normal.jpg",
       "description": "Elevated Basics. Grounded Price.",
-      "followersCount": 19168,
+      "followersCount": 19172,
       "friendsCount": 249,
       "location": "NYC"
     },
@@ -433,7 +448,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67009,
+      "followersCount": 67007,
       "friendsCount": 577,
       "location": ""
     },
@@ -448,7 +463,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -493,7 +508,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67009,
+      "followersCount": 67007,
       "friendsCount": 577,
       "location": ""
     },
@@ -510,7 +525,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18139,
+      "followersCount": 18140,
       "friendsCount": 1216,
       "location": ""
     },
@@ -527,7 +542,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13669,
+      "followersCount": 13668,
       "friendsCount": 546,
       "location": "杭州"
     },
