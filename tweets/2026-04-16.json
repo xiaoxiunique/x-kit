@@ -1,11 +1,46 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51276,
+      "friendsCount": 304,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF_eR2Ia8AAAapV.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044597181500559475",
+    "fullText": "还有什么更魔幻的事情吗？\n\n一家卖鞋的宣布转型 AI 企业后\n\n股价暴涨582%\n\n离谱他妈给离谱开门，离谱到家了。 https://t.co/XAX7uvnmfZ"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67070,
+      "friendsCount": 579,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF_ZEfKaMAAaAZK.jpg",
+      "https://pbs.twimg.com/media/HF_ZEfIaIAAlaOl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2044591430648348684",
+    "fullText": "针对Claude的KYC认证要求\n\n闲鱼上已经推出相关认证服务\n\n不得不服…… https://t.co/dv4yWZksBA"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 207984,
+      "followersCount": 207999,
       "friendsCount": 1603,
       "location": "Chicago, IL"
     },
@@ -20,7 +55,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67066,
+      "followersCount": 67070,
       "friendsCount": 579,
       "location": ""
     },
@@ -105,7 +140,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67066,
+      "followersCount": 67070,
       "friendsCount": 579,
       "location": ""
     },
@@ -140,7 +175,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67066,
+      "followersCount": 67070,
       "friendsCount": 579,
       "location": ""
     },
@@ -189,7 +224,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64785,
+      "followersCount": 64786,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -206,7 +241,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67066,
+      "followersCount": 67070,
       "friendsCount": 579,
       "location": ""
     },
@@ -216,6 +251,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2044404682198757804",
     "fullText": "【美国财政部：本报税季家庭平均退款3400美元】The following content is from the announcement of the United States Department of the Treasury.\n\n•In households across America, over 53 million filers claimed at least one of President Trump's signature new tax cuts.\n\n•The average https://t.co/b8BuR4PbaL"
+  },
+  {
+    "user": {
+      "screenName": "DarkHoursGame",
+      "name": "Dark Hours 👻 OUT NOW ⭐",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861438842105966592/58Cs0i6h_normal.png",
+      "description": "Your heist has been disrupted by an evil entity! Find a way to survive in this co-op survival horror game. By @PoC_studios\nPlay it now: https://t.co/JdVcLkSk23",
+      "followersCount": 2869,
+      "friendsCount": 74,
+      "location": "France"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DarkHoursGame/status/2044402226815217889",
+    "fullText": "💀 Fear is better with friends. Team up for the co-op horror heist in Dark Hours! \n\nAvailable April 22 on PS5."
   },
   {
     "user": {
@@ -281,6 +331,21 @@
   },
   {
     "user": {
+      "screenName": "degencom",
+      "name": "Degen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1977041013848879104/NmO5f7wJ_normal.jpg",
+      "description": "Built for Degens. Bigger Bonuses. Better Odds. 18+",
+      "followersCount": 28722,
+      "friendsCount": 6,
+      "location": "Coming Soon"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/degencom/status/2044348367036150147",
+    "fullText": "Ok it's been a while $2000 24 hours Giveaway, 10x $200 each. RT + Tag a friend"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -315,7 +380,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156816,
+      "followersCount": 156817,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
