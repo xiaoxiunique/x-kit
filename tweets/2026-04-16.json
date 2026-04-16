@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208667,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044848708655915008/vid/avc1/3840x2160/GvwjsnCyVIiDdX0X.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2044886304597344672",
+    "fullText": "Codex 现在能做类似 Cowork 的事，还不像 Cowork 那样被沙盒限制，能做的事很多，能力挺强\nhttps://t.co/E39rwyU2vj"
+  },
+  {
+    "user": {
+      "screenName": "BoysClubWorld",
+      "name": "Boys Club™",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1913288346765328384/qcwfdKor_normal.jpg",
+      "description": "for dumb smart people and smart dumb people",
+      "followersCount": 28941,
+      "friendsCount": 2736,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BoysClubWorld/status/2044863672724721681",
+    "fullText": "Boys Club LIVE | Live from @a16z in San Francisco | with Special Co-Host @_juliarosenberg and guests @feedthejim of @vercel and @computabeast | Shoutout to our sponsors: @OctantApp @0xPolygon @Vercel https://t.co/OjbqOVqdga"
+  },
+  {
+    "user": {
       "screenName": "OpenAI",
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4722949,
+      "followersCount": 4723050,
       "friendsCount": 4,
       "location": ""
     },
@@ -15,6 +47,21 @@
     ],
     "tweetUrl": "https://x.com/OpenAI/status/2044861690911850863",
     "fullText": "Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine. https://t.co/PubLU0FkSv"
+  },
+  {
+    "user": {
+      "screenName": "edmunds",
+      "name": "Edmunds",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/816438276416360448/VYk99HIJ_normal.jpg",
+      "description": "The global authority for unbiased, unvarnished automotive advice, news, reviews and deals for over 50 years. We will help you find your perfect car.",
+      "followersCount": 112486,
+      "friendsCount": 6030,
+      "location": "Santa Monica, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/edmunds/status/2044859162736160986",
+    "fullText": "Why Volvo killed its best car"
   },
   {
     "user": {
@@ -37,7 +84,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208671,
+      "followersCount": 208667,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -52,7 +99,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4722949,
+      "followersCount": 4723050,
       "friendsCount": 4,
       "location": ""
     },
@@ -116,7 +163,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13677,
+      "followersCount": 13676,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -180,7 +227,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13677,
+      "followersCount": 13676,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -197,7 +244,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13677,
+      "followersCount": 13676,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -231,7 +278,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64824,
+      "followersCount": 64825,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -282,7 +329,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64824,
+      "followersCount": 64825,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -331,7 +378,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64824,
+      "followersCount": 64825,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -348,7 +395,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13677,
+      "followersCount": 13676,
       "friendsCount": 547,
       "location": "杭州"
     },
@@ -380,7 +427,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18112,
+      "followersCount": 18111,
       "friendsCount": 1216,
       "location": ""
     },
@@ -397,7 +444,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18112,
+      "followersCount": 18111,
       "friendsCount": 1216,
       "location": ""
     },
@@ -412,7 +459,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18112,
+      "followersCount": 18111,
       "friendsCount": 1216,
       "location": ""
     },
