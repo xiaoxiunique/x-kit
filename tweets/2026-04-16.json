@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208691,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGEHVlyW4AADIUf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2044923892087587309",
+    "fullText": "GitHub Copilot 里面 Opus 4.7 居然是 7.5x，Opus 4.6 是 3x https://t.co/Tl97fQjfcf"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208691,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044881872849965056/vid/avc1/2114x1466/IRRL7n1LHYnr8jP6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2044917716893467109",
+    "fullText": "Codex Computer Use Mac 版本这交互确实很赞👍\nhttps://t.co/gvGh6duDX2"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
@@ -52,7 +86,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208685,
+      "followersCount": 208691,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -101,7 +135,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4723412,
+      "followersCount": 4723546,
       "friendsCount": 4,
       "location": ""
     },
@@ -133,7 +167,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67122,
+      "followersCount": 67121,
       "friendsCount": 578,
       "location": ""
     },
@@ -148,7 +182,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208685,
+      "followersCount": 208691,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -163,7 +197,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4723412,
+      "followersCount": 4723546,
       "friendsCount": 4,
       "location": ""
     },
@@ -180,7 +214,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67122,
+      "followersCount": 67121,
       "friendsCount": 578,
       "location": ""
     },
@@ -359,7 +393,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64826,
+      "followersCount": 64825,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -410,7 +444,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64826,
+      "followersCount": 64825,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -459,7 +493,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 64826,
+      "followersCount": 64825,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -1379,6 +1413,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/DarkHoursGame/status/2044402226815217889",
     "fullText": "💀 Fear is better with friends. Team up for the co-op horror heist in Dark Hours! \n\nAvailable April 22 on PS5."
+  },
+  {
+    "user": {
+      "screenName": "DarkHoursGame",
+      "name": "Dark Hours 👻 OUT NOW ⭐",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861438842105966592/58Cs0i6h_normal.png",
+      "description": "Your heist has been disrupted by an evil entity! Find a way to survive in this co-op survival horror game. By @PoC_studios\nPlay it now: https://t.co/JdVcLkSk23",
+      "followersCount": 2889,
+      "friendsCount": 74,
+      "location": "France"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DarkHoursGame/status/2044402226748133635",
+    "fullText": "👻 Dark Hours, the co-op horror heist where you break into haunted places and try to survive the horrors inside. \n\nAvailable April 22 on PS5."
   },
   {
     "user": {
