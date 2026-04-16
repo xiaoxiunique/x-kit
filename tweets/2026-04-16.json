@@ -1,6 +1,72 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51269,
+      "friendsCount": 305,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HGBwcs5bYAAoM78.mp4"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044758187799359986",
+    "fullText": "我的AI编程效率已经非常高了，今天发现了一个命令行的工具，直接让我可以并行开发项目中的各种功能，不用等了\n\n效率又提升了10倍，太强了！\n\n工具名称在评论区 https://t.co/D38T6faSdA"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64811,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBwRAxbIAAtRqA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2044757828213379454",
+    "fullText": "我觉得独立开发者假如是做出海产品的话是时候放弃 ProductHunt 了，随便看每天排名前几名的产品就知道，甚至前30名都是特别强的产品，个人开发的项目怎么和它们玩？精心准备的一系列内容，文案/图片甚至视频，发红包拉票半天也根本不可能拍到前面去，还不如在 Reddit 和 X https://t.co/AtRgrVpFiq"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13678,
+      "friendsCount": 546,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBvJRmbEAAFTd7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2044756444088840308",
+    "fullText": "最新 @elonmusk 表示 Grok CLI(Terminal) 于下周推出 Beta 版本。\n\nAnthropic 犹如看到了原子弹爆炸，瘫坐在地上 https://t.co/MYSX43m1EW"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51269,
+      "friendsCount": 305,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044753570936049897",
+    "fullText": "Hermes 和 OpenClaw 一样费钱啊\n\n我用 Vercel 的 Opus 4.6 喂Hermes， 让它配置了一下 MCP 工具， 直接20美金没了 😭"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
@@ -271,7 +337,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67089,
+      "followersCount": 67096,
       "friendsCount": 578,
       "location": ""
     },
@@ -291,7 +357,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67089,
+      "followersCount": 67096,
       "friendsCount": 578,
       "location": ""
     },
@@ -328,7 +394,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156831,
+      "followersCount": 156833,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -379,7 +445,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50713,
+      "followersCount": 50714,
       "friendsCount": 887,
       "location": "Hong Kong"
     },
@@ -394,7 +460,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25234,
+      "followersCount": 25235,
       "friendsCount": 5236,
       "location": ""
     },
@@ -456,7 +522,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25234,
+      "followersCount": 25235,
       "friendsCount": 5236,
       "location": ""
     },
@@ -471,7 +537,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 21956,
+      "followersCount": 21958,
       "friendsCount": 1066,
       "location": ""
     },
@@ -486,7 +552,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25234,
+      "followersCount": 25235,
       "friendsCount": 5236,
       "location": ""
     },
@@ -570,7 +636,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67089,
+      "followersCount": 67096,
       "friendsCount": 578,
       "location": ""
     },
@@ -588,7 +654,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208447,
+      "followersCount": 208466,
       "friendsCount": 1604,
       "location": "Chicago, IL"
     },
@@ -630,6 +696,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/IBKR/status/2044530098838049144",
     "fullText": "Trade prediction markets with the confidence of a platform trusted by millions."
+  },
+  {
+    "user": {
+      "screenName": "MWBTCSummit",
+      "name": "Midwest Bitcoin Summit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2003840884547174400/jA2Fo_B__normal.jpg",
+      "description": "Midwest #Bitcoin Summit: Sept 23-24, 2026 in Columbus, OH!  Top speakers, adoption talks, innovation panels & epic networking. Revitalization of the Midwest.",
+      "followersCount": 426,
+      "friendsCount": 133,
+      "location": "Columbus, OH"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF9iTEqWUAA-Z-a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MWBTCSummit/status/2044472836065022347",
+    "fullText": "We're attending Bitcoin Vegas 2026 as a speaker, and we're giving away a FREE GA PASS ($549.00 value) to celebrate.\n\nAndrew Tilmann (@AndrewTilmann) is taking the stage. One of the most important voices in the Midwest Bitcoin scene right now.\n\nTo enter: \n1. Follow @MWBTCSummit https://t.co/HZaaFwshwq"
   },
   {
     "user": {
