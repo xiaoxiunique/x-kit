@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51271,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGGPQCdbEAE1gbs.jpg",
+      "https://pbs.twimg.com/media/HGGPQCiaUAAi46Z.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2045073473996034118",
+    "fullText": "刚同事兴冲冲跑过来说，他支付宝被灰度到了，出来了个 AClaw 小龙虾，默认自带 MiniMax-M2.5、Kimi-2.5、GLM-5和 Qwen3.5 四个模型。\n\n只是，他递给我手机后，我第一时间看到了亮点。\n\n复杂的看了一眼他，希望他能领会🤨\n\n支付宝做社交之心不死啊 https://t.co/LLLDjL8MyE"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18121,
+      "followersCount": 18120,
       "friendsCount": 1216,
       "location": ""
     },
@@ -20,7 +38,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18121,
+      "followersCount": 18120,
       "friendsCount": 1216,
       "location": ""
     },
@@ -186,7 +204,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18121,
+      "followersCount": 18120,
       "friendsCount": 1216,
       "location": ""
     },
@@ -287,7 +305,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18121,
+      "followersCount": 18120,
       "friendsCount": 1216,
       "location": ""
     },
@@ -353,7 +371,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209023,
+      "followersCount": 209046,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -387,7 +405,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18121,
+      "followersCount": 18120,
       "friendsCount": 1216,
       "location": ""
     },
@@ -419,7 +437,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156860,
+      "followersCount": 156863,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -535,7 +553,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209023,
+      "followersCount": 209046,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -552,7 +570,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209023,
+      "followersCount": 209046,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -616,7 +634,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209023,
+      "followersCount": 209046,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -633,7 +651,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4725692,
+      "followersCount": 4725822,
       "friendsCount": 4,
       "location": ""
     },
