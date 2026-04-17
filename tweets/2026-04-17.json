@@ -1,11 +1,94 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51266,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGFjqi6awAA9fV5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2045026065366802713",
+    "fullText": "都Get起来，防止npm install供应链投毒的一个小技巧\n\n假设某个项目被投毒，只要7天内被其他人发现，那么存在病毒的npm包大概率会被删除，到你这一层就不会被安装\n\n@Livid 来自V2ex站长的方案 https://t.co/KIj1FAdZ5w"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64834,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2045025832457187800",
+    "fullText": "有人深度体验了 Opus 4.7 觉得强吗？粗略的使用感受怎么和没降智时候的 4.6 感觉差不多，没有什么质的提升？就是感觉 token 消耗比之前多了。不知道有没有深度使用的朋友有什么感受吗？"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25233,
+      "friendsCount": 5236,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGFiuyfa8AAqXih.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2045024301439721690",
+    "fullText": "笑死，试着搜了 下 造物矩阵 ，\n看看 品牌词 的 SEO 情况，结果发现？？？！！ https://t.co/Wn65f2VDjk"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51266,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGFekRsb0AA-EmT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2045019907163906393",
+    "fullText": "不是，这合理吗？Claude Opus4.7 刚发布就降智？\n\n原帖链接放评论区了 https://t.co/7fChRoA2Y3"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18117,
+      "friendsCount": 1215,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGFcvAJbwAAgeuy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2045017728919245095",
+    "fullText": "抓到一只电耗子。罗技你在干嘛？ https://t.co/8Pl0eKDTEa"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67133,
+      "followersCount": 67136,
       "friendsCount": 578,
       "location": ""
     },
@@ -40,7 +123,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25234,
+      "followersCount": 25233,
       "friendsCount": 5236,
       "location": ""
     },
@@ -72,7 +155,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67133,
+      "followersCount": 67136,
       "friendsCount": 578,
       "location": ""
     },
@@ -104,7 +187,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25234,
+      "followersCount": 25233,
       "friendsCount": 5236,
       "location": ""
     },
@@ -155,7 +238,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208915,
+      "followersCount": 208939,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -221,7 +304,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156854,
+      "followersCount": 156856,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -337,7 +420,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208915,
+      "followersCount": 208939,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -354,7 +437,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208915,
+      "followersCount": 208939,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -418,7 +501,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208915,
+      "followersCount": 208939,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -435,7 +518,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4725032,
+      "followersCount": 4725217,
       "friendsCount": 4,
       "location": ""
     },
@@ -452,7 +535,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67133,
+      "followersCount": 67136,
       "friendsCount": 578,
       "location": ""
     },
@@ -467,7 +550,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 208915,
+      "followersCount": 208939,
       "friendsCount": 1607,
       "location": "Chicago, IL"
     },
@@ -482,7 +565,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4725032,
+      "followersCount": 4725217,
       "friendsCount": 4,
       "location": ""
     },
@@ -499,7 +582,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67133,
+      "followersCount": 67136,
       "friendsCount": 578,
       "location": ""
     },
@@ -987,6 +1070,21 @@
   },
   {
     "user": {
+      "screenName": "IBKR",
+      "name": "Interactive Brokers",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/865584067152150528/KQPfL4Zd_normal.jpg",
+      "description": "Rated #1 Active Traders and #1 International Trading in 2025 by https://t.co/56Z2dpehaW. Trade more worldwide from a single unified platform. Visit https://t.co/hC01mZaVCb",
+      "followersCount": 436857,
+      "friendsCount": 62,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/IBKR/status/2044506506297512206",
+    "fullText": "Don’t just watch the elections. Trade the ballot on Interactive Brokers."
+  },
+  {
+    "user": {
       "screenName": "PIF_en",
       "name": "Public Investment Fund",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1749839189296717824/N-BeqnjB_normal.jpg",
@@ -999,6 +1097,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/PIF_en/status/2044492667883487593",
     "fullText": "H.E. Yasir Al‑Rumayyan, Governor of PIF, addressed the Government Press Conference for the launch of the PIF Strategy 2026-2030, highlighting how Saudi Arabia’s strategic location and fiscal strengths reinforce PIF’s ability to attract global investment and capital."
+  },
+  {
+    "user": {
+      "screenName": "chrisbairdfilms",
+      "name": "Chris Baird",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1570140327918407682/fuID1XvT_normal.jpg",
+      "description": "Filmmaker & Photographer // Ghosts @ YouTube (108K) // Dirtbikes & Trophy Trucks // Carnivore",
+      "followersCount": 30802,
+      "friendsCount": 282,
+      "location": "Sauquoit, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/chrisbairdfilms/status/2044490942774936032",
+    "fullText": "AD I spend most of my time in haunted spots but this hit different. I’ve never felt dread like this in a theater. Lee Cronin really tapped into something dark. It’s legitimately terrifying. Lee Cronin’s The Mummy – Only in Theaters this Friday. Get tickets now!"
   },
   {
     "user": {
