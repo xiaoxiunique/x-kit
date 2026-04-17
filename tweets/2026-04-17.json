@@ -1,0 +1,639 @@
+[
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208704,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGEHVlyW4AADIUf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2044923892087587309",
+    "fullText": "GitHub Copilot 里面 Opus 4.7 居然是 7.5x，Opus 4.6 是 3x https://t.co/Tl97fQjfcf"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208704,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044881872849965056/vid/avc1/2114x1466/IRRL7n1LHYnr8jP6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2044917716893467109",
+    "fullText": "Codex Computer Use Mac 版本这交互确实很赞👍\nhttps://t.co/gvGh6duDX2"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6965,
+      "friendsCount": 759,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2044914836157743298",
+    "fullText": "我家门口的小学开了 60 年以上，具体多久没人知道。我住的小区还是一片农田的时候就有这所小学。今年这所小学要关闭了。加州被民主党治理的很好。"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 75758,
+      "friendsCount": 3565,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGD1WBvbQAAwxGD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2044903998596198660",
+    "fullText": "这个月读到的最好的一篇博客，让我对国内医生多了几分敬佩。\n\nhttps://t.co/IgfzZeVeqW https://t.co/eYkTE64a3g"
+  },
+  {
+    "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
+      "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
+      "followersCount": 10476,
+      "friendsCount": 179,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/2044903981688947149",
+    "fullText": "简单用了下claude opus 4.7，目前两个主观感受：\n1. review代码的能力还是远远不如codex；\n2. 要思考更久，速度比4.6慢很多（都开max effort）。"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208704,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044848708655915008/vid/avc1/3840x2160/GvwjsnCyVIiDdX0X.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dotey/status/2044886304597344672",
+    "fullText": "Codex 现在能做类似 Cowork 的事，还不像 Cowork 那样被沙盒限制，能做的事很多，能力挺强\nhttps://t.co/E39rwyU2vj"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4723677,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044853802382303232/vid/avc1/1920x1080/C0BjlPP4q3PeBnio.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2044861690911850863",
+    "fullText": "Introducing GPT-Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine. https://t.co/PubLU0FkSv"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67124,
+      "friendsCount": 578,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2044842750156411164",
+    "fullText": "非常讨厌AI客服，问一堆问题，但目的并不是为了简化流程，反而是为了设置障碍，给能够解决问题的人工客服提供一个长长的坡道和缓冲带\n\n很多人受不了AI客服的，被AI客服打败而中途放弃的就是被系统解决掉的人\n\n我与AI客服对战的记录还可以，基本上都可以顺利通关，找到那个要帮我解决问题的活人....."
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 208704,
+      "friendsCount": 1607,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2044829447732261063",
+    "fullText": "请问有没有好用的 Ralph Loop for Codex？\n类似于 Claude Code 的 Ralph Wiggum Plugin https://t.co/hBJFsEv8il\n\n用过 oh my codex，给我装了一坨 MCP，魔改了我的 codex Custom instructions，我个人很不喜欢这种。"
+  },
+  {
+    "user": {
+      "screenName": "OpenAI",
+      "name": "OpenAI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followersCount": 4723677,
+      "friendsCount": 4,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044827559339413504/vid/avc1/1280x720/CtnxVfp_mYp5xH5-.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/OpenAI/status/2044827705406062670",
+    "fullText": "Codex for (almost) everything.\n\nIt can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks. https://t.co/UEEsYBDYfo"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67124,
+      "friendsCount": 578,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2044814103202660429",
+    "fullText": "I’m now listening to the Bloomberg Surveillance, they talk about the equity market action like “ bad news is good news, good news is good news, and no news is good news” 😂 \n\nIs there a monster waiting ahead, not far away?"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12257,
+      "friendsCount": 2991,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2044802450587312502",
+    "fullText": "明天又是星期五，摸会鱼下班又是大周末(つ°ω°)つ 🐟\n\n打工牛马觉得一个星期过得非常快是什么原因？\n\n是工作量不饱和还是工作太忙了，都忘记时钟齿轮的转动了呢？"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13676,
+      "friendsCount": 547,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCYD1tbcAADyqC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2044801432772284627",
+    "fullText": "Claude Code 也更新了！\nclaude update 一下。\n\nv2.1.111 版本，4.7 可以跑了。 https://t.co/7vv9yts4Bh"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12257,
+      "friendsCount": 2991,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2044792217538355505",
+    "fullText": "#MySQL 的 UNIQUE KEY 是带 约束语义 的 UNIQUE INDEX，本质完全相同，只是语法和意图不同。前者侧重约束后者侧重索引。"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 26893,
+      "friendsCount": 336,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCO2uSaUAAGIhr.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2044791315402203358",
+    "fullText": "Github Copilot Pro 太不禁用了，两天半： https://t.co/fLaWTEFNQR"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12257,
+      "friendsCount": 2991,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2044789269961785366",
+    "fullText": "#AICoding 每日分享\n\n今晚我体会到了AICoding 过程中硅基智能注意力分散的问题。这个应该和模型自身关系很大。"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13676,
+      "friendsCount": 547,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCMiF0a4AAsxTH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2044788755991855225",
+    "fullText": "Opus 4.7 的视觉能力也l大幅提升。它能够以超过三倍的分辨率查看图像，并因此生成更高质量的界面、幻灯片和文档。 https://t.co/07CCiDqN2x"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13676,
+      "friendsCount": 547,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCKcMkbgAA7Xdr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2044786455143412122",
+    "fullText": "来了！公布了 Claude Opus 4.7！ https://t.co/IyIk5msg17"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART IMAGE 聚合 20+ AI 生图模型：https://t.co/22QUvDwKin\nNano-Banana-Pro 500+ 提示词案例：https://t.co/KTBeuTPETI",
+      "followersCount": 892,
+      "friendsCount": 584,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCI0k4bcAAEPrr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/2044784762594918516",
+    "fullText": "gpt-image-2 很溜啊，文字渲染能力强了不是一个档次，直接和 Nano Banana Pro 对打。\n测试提示词如下：\n9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！ https://t.co/ESwDC13leX"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64825,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCAym3aMAEfobh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2044775894083146007",
+    "fullText": "盼星星盼月亮，Cloudflare 的 Email 发送服务进入 public beta 了！https://t.co/FA6IzIEx3V\n在 worker 中可以直接用native Workers binding 一行代码发送，不在 worker 中也可以用 REST API 发送。\n\n我很关心的价格是这样的：\n* 免费（仅限你自己验证的域名地址，这个没啥用，只能用来测试）\n* $0.35 https://t.co/22C1BN7keo"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGB_uQtb0AI4Eh2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044774675243507785",
+    "fullText": "今年已经确定有好几家大厂推出类 Pocket4 形态的产品，大疆显然也开始防御性应对，新品直接增配降价—加入107G机内存储，起售价反而降了500。\n\n叠加各渠道推送广告轰炸，至少在京东，第一波货已卖光🤯 https://t.co/sGzhzqkCwE"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGB8964aIAI4lHQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044771644674330901",
+    "fullText": "影石跟大疆的这商战也太朴实无华了吧哈哈哈\n\n大疆今天发布 Pocket4，于是影石创始人提前几个小时在微博公布了自家类 Pocket 产品的拍摄样片，还着重说明了自家是1到6倍拍摄效果😂\n\n大疆：你点谁呢？是不是提前知道我参数了？ https://t.co/sbpZf7Fi2Y"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64825,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2044769616082423983",
+    "fullText": "Impeccable 升级到 2.0 了，这应该是目前我觉得最好的 design skills 了，anti AI slop\nhttps://t.co/r1KA87Y6FY \n\n推出了CLI 工具，无需 LLM 即可扫描代码，检测 25 种 AI slop 设计。\nChrome 扩展，一键检测任意网页。\n各种升级和精简的命令。\n全新的文档界面，有前后设计对比图，有 Visual Mode"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGB7DkfbEAAhnqL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044769543759990881",
+    "fullText": "人生就是一个个选择\n\n建筑行业红火的时候，纷纷搞土木，削尖脑袋了进设计院。\n\n现在，三个月关了近200家，何其惨烈…\n\n现在 AI 的爆发又何尝不是新的十字路口\n\n拥抱 AI，学习 AI ，借力 AI的人适者生存\n\n对 AI 恐惧，不愿意接触的人可能终将淘汰\n\n学习吧，别停止脚步 https://t.co/RTxqA3kp7p"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HGBwcs5bYAAoM78.mp4"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044758187799359986",
+    "fullText": "我的AI编程效率已经非常高了，今天发现了一个命令行的工具，直接让我可以并行开发项目中的各种功能，不用等了\n\n效率又提升了10倍，太强了！\n\n工具名称在评论区 https://t.co/D38T6faSdA"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 64825,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBwRAxbIAAtRqA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2044757828213379454",
+    "fullText": "我觉得独立开发者假如是做出海产品的话是时候放弃 ProductHunt 了，随便看每天排名前几名的产品就知道，甚至前30名都是特别强的产品，个人开发的项目怎么和它们玩？精心准备的一系列内容，文案/图片甚至视频，发红包拉票半天也根本不可能拍到前面去，还不如在 Reddit 和 X https://t.co/AtRgrVpFiq"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13676,
+      "friendsCount": 547,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBvJRmbEAAFTd7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2044756444088840308",
+    "fullText": "最新 @elonmusk 表示 Grok CLI(Terminal) 于下周推出 Beta 版本。\n\nAnthropic 犹如看到了原子弹爆炸，瘫坐在地上 https://t.co/MYSX43m1EW"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044753570936049897",
+    "fullText": "Hermes 和 OpenClaw 一样费钱啊\n\n我用 Vercel 的 Opus 4.6 喂Hermes， 让它配置了一下 MCP 工具， 直接20美金没了 😭"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18111,
+      "friendsCount": 1216,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBpEsUboAAE_0p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2044749785950036433",
+    "fullText": "哦可爱的海底捞，哦可爱的巴沙鱼 https://t.co/4kZNO5i7nA"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18111,
+      "friendsCount": 1216,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2044747925302165778",
+    "fullText": "“一人食”的表述好奇怪，就像有人说“一人睡”，听多了说不定就好了"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18111,
+      "friendsCount": 1216,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2044742157882540535",
+    "fullText": "MacBook Pro 14寸 2021款，M1 Pro芯片，32G内存+1T硬盘，无拆修无锁无暗病，电池健康度85%\n\n6999，贵吗？"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBWTMlbwAALcXx.jpg",
+      "https://pbs.twimg.com/media/HGBWXGCacAEFi0K.jpg",
+      "https://pbs.twimg.com/media/HGBWhPpbUAAT-8n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044729395127185612",
+    "fullText": "发现一个神器Skill，全自动下音乐技能，赫妹Hermes：这下真要买NAS搭建私有云音乐了😂\n\n/joox-music-download 歌手名 专辑/歌名，想要技能的扣“1”，我给你发\n\n推荐大家交给赫妹安装，她会自动检索并且下载好落盘。 https://t.co/eSdcoe1spr"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2044719844755705856/pu/vid/avc1/1280x720/79bhfuWzlKHrT8gE.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044721831173828993",
+    "fullText": "还是你们会玩，把深度桌面移植到微服里运行了😐\n\n一键启动植物大战僵尸，摸鱼神器啊哈哈哈哈 https://t.co/ZIOJKfXPgv"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBKGX2aUAAuSLE.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044715963585864055",
+    "fullText": "抛开小米的事情不谈，仅说雷军这个人，还是十分值得钦佩的。\n\n你能看到有几个千亿富翁在镜头前这么拼？ https://t.co/MXW1i5lH4C"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBIYgAbkAAd70u.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044713988374859880",
+    "fullText": "同事给我展示了一个神器，作用是提醒你 CodeX 已完成，快去 review😅\n\n可以把 CodeX 提醒 review 的通知发到手机上，推荐大家去玩玩，这个项目叫WxPusher https://t.co/CTxFvdrZ8h"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBAtGnasAAMzZX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044705432611217428",
+    "fullText": "DJI OSMO Pocket3 就是一款真正打中了用户痛点从而卖爆的产品。足够好用、易用和差异化，懒猫微服也是如此。\n\n虽然几年过去了，但感觉今晚的 Pocket4 不太会有变革性的更新，更可能是查漏补缺，更加水桶化。\n\n有蹲的推友吗？ https://t.co/DbXOuICOsd"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044702895720030412",
+    "fullText": "最近怎么这么多“心源性猝死”的报道，是背后有什么深意吗？"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51267,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGA33vYbkAA12cM.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2044695839541801147",
+    "fullText": "微信还是太克制了\n\n考虑了15年才给电脑端的微信加上语音发送功能🙃 https://t.co/HZCfdbCAKY"
+  },
+  {
+    "user": {
+      "screenName": "DarkHoursGame",
+      "name": "Dark Hours 👻 OUT NOW ⭐",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1861438842105966592/58Cs0i6h_normal.png",
+      "description": "Your heist has been disrupted by an evil entity! Find a way to survive in this co-op survival horror game. By @PoC_studios\nPlay it now: https://t.co/JdVcLkSk23",
+      "followersCount": 2889,
+      "friendsCount": 74,
+      "location": "France"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DarkHoursGame/status/2044404056668402160",
+    "fullText": "👻 Dark Hours, the co-op horror heist where you break into haunted places and try to survive the horrors inside. \n\nAvailable April 22 on Xbox Series X|S."
+  }
+]
