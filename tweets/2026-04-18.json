@@ -1,11 +1,41 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51286,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2045561572387610933",
+    "fullText": "应届毕业生在AI时代，除了专业技能，最重要的就是要更偏向客户，理解真正的需求，这样能更准确的向AI表述目标，边界和架构\n\n在AI之前，产品需求主要由产品经理和项目经理去承担，AI之后，沟通链条大大缩短，每个个体都是需求链的重要一环，因为执行的成本已经低到忽略不计"
+  },
+  {
+    "user": {
+      "screenName": "SwimCodeAi",
+      "name": "Swim Code",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2031022669072670720/t9OyYOi3_normal.jpg",
+      "description": "Swim Code is an AI-native Kanban IDE. Pick a model, drop a task on the board, and watch agents plan, code, test, and commit while you\nreview at each stage.",
+      "followersCount": 56,
+      "friendsCount": 13,
+      "location": "  Swim Code is an AI-native Ka"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SwimCodeAi/status/2045533616080384075",
+    "fullText": "The next wave of AI coding is going to be about writing better code. In order to do so you need a strong governance component for your coding tools to reduce drift. Without a good harness you get a slop factory and in the long term the codebase becomes unmaintainable"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -20,7 +50,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -329,7 +359,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -346,7 +376,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51284,
+      "followersCount": 51286,
       "friendsCount": 306,
       "location": "China"
     },
@@ -398,7 +428,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51284,
+      "followersCount": 51286,
       "friendsCount": 306,
       "location": "China"
     },
@@ -449,7 +479,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209562,
+      "followersCount": 209566,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -515,7 +545,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209562,
+      "followersCount": 209566,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -669,7 +699,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51284,
+      "followersCount": 51286,
       "friendsCount": 306,
       "location": "China"
     },
@@ -704,7 +734,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -798,7 +828,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -815,7 +845,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -941,7 +971,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -958,7 +988,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50733,
+      "followersCount": 50731,
       "friendsCount": 887,
       "location": "Hong Kong"
     },
@@ -1010,7 +1040,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51284,
+      "followersCount": 51286,
       "friendsCount": 306,
       "location": "China"
     },
@@ -1193,7 +1223,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67222,
+      "followersCount": 67224,
       "friendsCount": 578,
       "location": ""
     },
@@ -1643,7 +1673,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51284,
+      "followersCount": 51286,
       "friendsCount": 306,
       "location": "China"
     },
@@ -1660,7 +1690,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209562,
+      "followersCount": 209566,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
