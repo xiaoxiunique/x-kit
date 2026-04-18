@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13682,
+      "friendsCount": 548,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGKxckNWgAArEa2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2045392298331058676",
+    "fullText": "Anthropic 官方开放了 Claude Claude/Cowork 的蓝牙 BLE 协议，方便开发者构建生态硬件产品。\n\n如图所示，这个是官方的实例演示，构建了一个 AI 桌搭宠物外设，可以和Claude 进行交互，在需要权限许可的时候进行通知。\n\n这一套可能利好深圳硬件出海？\n\nhttps://t.co/kBFdfOWlg9 https://t.co/5oK5d4fQFb"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -20,7 +37,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67199,
       "friendsCount": 578,
       "location": ""
     },
@@ -37,7 +54,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -89,7 +106,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -102,11 +119,28 @@
   },
   {
     "user": {
+      "screenName": "Racer_5o5_",
+      "name": "Racer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2043116888818089984/pjubbubJ_normal.jpg",
+      "description": "Just a silly cat!\nI like playing vr games, duh\n\nThrone: https://t.co/MV50dMfBsS",
+      "followersCount": 1,
+      "friendsCount": 44,
+      "location": "Behind you"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGKOzNKbEAAu7nm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Racer_5o5_/status/2045354343034241048",
+    "fullText": "What’s your favorite song from Cyberpunk? https://t.co/nXRqRBaqTl"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -123,7 +157,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209333,
+      "followersCount": 209339,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -138,7 +172,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -172,7 +206,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -189,7 +223,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209333,
+      "followersCount": 209339,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -281,7 +315,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -316,7 +350,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67199,
       "friendsCount": 578,
       "location": ""
     },
@@ -333,7 +367,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -393,7 +427,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67199,
       "friendsCount": 578,
       "location": ""
     },
@@ -410,7 +444,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67199,
       "friendsCount": 578,
       "location": ""
     },
@@ -457,7 +491,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25242,
+      "followersCount": 25243,
       "friendsCount": 5236,
       "location": ""
     },
@@ -489,7 +523,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67199,
       "friendsCount": 578,
       "location": ""
     },
@@ -506,7 +540,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 50724,
+      "followersCount": 50725,
       "friendsCount": 887,
       "location": "Hong Kong"
     },
@@ -527,7 +561,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13682,
-      "friendsCount": 547,
+      "friendsCount": 548,
       "location": "杭州"
     },
     "images": [
@@ -558,7 +592,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -592,7 +626,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12251,
+      "followersCount": 12250,
       "friendsCount": 2989,
       "location": ""
     },
@@ -607,7 +641,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -624,7 +658,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12251,
+      "followersCount": 12250,
       "friendsCount": 2989,
       "location": ""
     },
@@ -658,7 +692,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -675,7 +709,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -724,7 +758,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67197,
+      "followersCount": 67199,
       "friendsCount": 578,
       "location": ""
     },
@@ -739,7 +773,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 168114,
+      "followersCount": 168115,
       "friendsCount": 529,
       "location": "東京 港区"
     },
@@ -759,7 +793,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -776,7 +810,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 156884,
+      "followersCount": 156885,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -792,7 +826,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
       "followersCount": 13682,
-      "friendsCount": 547,
+      "friendsCount": 548,
       "location": "杭州"
     },
     "images": [],
@@ -806,7 +840,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -840,7 +874,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12251,
+      "followersCount": 12250,
       "friendsCount": 2989,
       "location": ""
     },
@@ -857,7 +891,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -875,7 +909,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -890,7 +924,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18115,
+      "followersCount": 18113,
       "friendsCount": 1215,
       "location": ""
     },
@@ -905,7 +939,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -922,7 +956,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -1039,7 +1073,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -1174,7 +1208,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51283,
+      "followersCount": 51285,
       "friendsCount": 306,
       "location": "China"
     },
@@ -1191,7 +1225,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 209333,
+      "followersCount": 209339,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -1204,11 +1238,26 @@
   },
   {
     "user": {
+      "screenName": "RobHeinze",
+      "name": "Rob Heinze",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2044045121243537408/ipnVDjb2_normal.jpg",
+      "description": "i really don’t know why I am here.  I resisted social media for 44 years.  Guess I’ll share some (free) ideas, sell some (shitty?) books, and waste my time.",
+      "followersCount": 424,
+      "friendsCount": 108,
+      "location": "Caught Somewhere in Earth-Time"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RobHeinze/status/2044847056771023273",
+    "fullText": "Peace and happiness…\n\nBuddha said that the source of all suffering is desire. \n\nI found that to be irrefutably true. \n\nIn my 20s, I was determined to be the next Stephen King. I wanted to earn millions and become famous for my writing.\n\nAs I continued to fail at achieving that,"
+  },
+  {
+    "user": {
       "screenName": "ObedientBread",
       "name": "Obedient Bread",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2045345697373843456/jD8ZKJ95_normal.jpg",
       "description": "Money, behavior, and biblical wisdom\nHelping you think differently\nand live with less financial pressure",
-      "followersCount": 55,
+      "followersCount": 56,
       "friendsCount": 106,
       "location": ""
     },
