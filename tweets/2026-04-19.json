@@ -1,11 +1,48 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18244,
+      "friendsCount": 1219,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGRzd4obkAAh4e-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2045887155084611932",
+    "fullText": "没吃饱，再点份卤味，吃完今天早点睡😪 https://t.co/ghlKyRpqD6"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67538,
+      "friendsCount": 581,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGRwdV1aAAAfuMe.jpg",
+      "https://pbs.twimg.com/media/HGRwdVwb0AA1T-U.jpg",
+      "https://pbs.twimg.com/media/HGRwdVsbgAATkGP.jpg",
+      "https://pbs.twimg.com/media/HGRwdVtbYAEosuY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2045883783921242471",
+    "fullText": "昨晚，来自伍德兰希尔斯的44岁女子沙米姆·马菲在洛杉矶国际机场因代表伊朗政府贩运武器而被捕。\n\n她被指控违反50 U.S.C. § 1705，罪名是促成伊朗制造的无人机、炸弹、炸弹引信以及数百万发弹药的销售，这些武器被卖给了苏丹。\n\n如果罪名成立，她将面临联邦监狱最高20年的法定刑期。 https://t.co/vyqKZ78PVi"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12334,
+      "followersCount": 12333,
       "friendsCount": 2990,
       "location": ""
     },
@@ -139,7 +176,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65103,
+      "followersCount": 65106,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -207,7 +244,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65103,
+      "followersCount": 65106,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -239,7 +276,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12334,
+      "followersCount": 12333,
       "friendsCount": 2990,
       "location": ""
     },
@@ -288,7 +325,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65103,
+      "followersCount": 65106,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -305,7 +342,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18233,
+      "followersCount": 18244,
       "friendsCount": 1219,
       "location": ""
     },
@@ -428,7 +465,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 210655,
+      "followersCount": 210695,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -463,7 +500,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18233,
+      "followersCount": 18244,
       "friendsCount": 1219,
       "location": ""
     },
@@ -532,7 +569,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65103,
+      "followersCount": 65106,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -631,7 +668,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18233,
+      "followersCount": 18244,
       "friendsCount": 1219,
       "location": ""
     },
@@ -813,7 +850,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26982,
+      "followersCount": 26983,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -830,7 +867,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67534,
+      "followersCount": 67538,
       "friendsCount": 581,
       "location": ""
     },
@@ -847,7 +884,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67534,
+      "followersCount": 67538,
       "friendsCount": 581,
       "location": ""
     },
@@ -887,6 +924,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2045585593200210172",
     "fullText": "今天小朋友美术艺考，在等她艺考的过程中，我和我家领导在车上商量了小朋友的未来\n\n我说以后的世界变化真的太快了，高中，就让她彻底放松吧，正常学习就行了\n\n千万不要卷，因为在AI时代，你卷知识的多寡，一点意义都没有，你背诵了十几年的东西，AI可能5分钟就回答了"
+  },
+  {
+    "user": {
+      "screenName": "jony_bee",
+      "name": "Johnny Betancourt 🐸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1668284069048664075/i1GQlZSy_normal.jpg",
+      "description": "Prev. Co-Founder @clutchprep ➡️ Pearson #miamitech Doctorate from @UF Punk #6469",
+      "followersCount": 4124,
+      "friendsCount": 5310,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGNWZitWwAAzYLQ.jpg",
+      "https://pbs.twimg.com/media/HGNWqLCboAIhYjw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jony_bee/status/2045575498445521386",
+    "fullText": "Picked up this ape in Jan and took me meeting the club last night in Miami to realize I still hadn't made my purchase public. Would love to connect with other apes in Miami or elsewhere. Feeling welcomed @WelcomeApes @TheMiamiApe @illaDaProducer @0xdort @ShaniceBest @mutant33ETH https://t.co/qLRuQzvNUx"
   },
   {
     "user": {
@@ -990,7 +1045,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67534,
+      "followersCount": 67538,
       "friendsCount": 581,
       "location": ""
     },
@@ -1000,6 +1055,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2045517166435606723",
     "fullText": "太惨了，应该是一家阿根廷的有60人的创业公司，被Anthropic封掉了Claude的全部账户……\n\n创始人说公司可能“无限期停摆”，并提醒那些用别人的AI基座模型创业的软件公司：不要把“鸡蛋放在同一个篮子里”\n\n（我的问题是中国来源模型是不是更有市场了呢？来源模型公司怎么赚钱呢？） https://t.co/6QWee0cp1e"
+  },
+  {
+    "user": {
+      "screenName": "KateOserHere",
+      "name": "Kate Oser",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1955609640068087808/Z5oKHNkT_normal.jpg",
+      "description": "mom, wife, former children’s librarian, lover of great music, literature, & art. Lead singer of the @riflebirdsofpdx",
+      "followersCount": 70,
+      "friendsCount": 95,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KateOserHere/status/2045485881729991026",
+    "fullText": "Our new album is available song-by-song on YouTube FOR FREE! Give it a listen:\n\nhttps://t.co/QTgZ0JAQtN"
   },
   {
     "user": {
