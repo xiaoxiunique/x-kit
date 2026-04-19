@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51509,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2045409583087443968/pu/vid/avc1/638x360/4pGBHYtRFrVtLMiy.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2045865855335256442",
+    "fullText": "跟 AI 比 Coding 速度？\n\n不，要学会正确的驾驭它们。\nhttps://t.co/5kQ5hTbvKq"
+  },
+  {
+    "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 65083,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGRfB5zbEAEnhiH.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2045864733392474310",
+    "fullText": "Codex 更新了一个我最想要的功能，可以不添加项目直接进行聊天（在新建 session 的时候选 don't work in a project），有的时候我就想问和项目无关的一些问题，还需要打开网页版进行问，现在我可以在一个应用中完成了，唯一缺点就是用的是 Codex 的额度而不是 ChatGPT 的额度，不过问几个问题耗费的 https://t.co/rezqXHBF6l"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51509,
+      "friendsCount": 306,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2045167748792385536/vid/avc1/540x960/lhrxxo2wh4D0RefG.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2045864090846036157",
+    "fullText": "没想到现在当程序员这么累，AI要写得好，还要跑得赢机器人🤣\nhttps://t.co/U8yTsUtulo"
+  },
+  {
+    "user": {
       "screenName": "alanblogsooo",
       "name": "世界是棵树",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
@@ -39,7 +90,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65080,
+      "followersCount": 65083,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -71,8 +122,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12330,
-      "friendsCount": 2992,
+      "followersCount": 12334,
+      "friendsCount": 2990,
       "location": ""
     },
     "images": [
@@ -120,7 +171,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65080,
+      "followersCount": 65083,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -185,7 +236,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10503,
+      "followersCount": 10504,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -260,7 +311,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 210620,
+      "followersCount": 210631,
       "friendsCount": 1609,
       "location": "Chicago, IL"
     },
@@ -364,7 +415,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65080,
+      "followersCount": 65083,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -645,7 +696,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 26974,
+      "followersCount": 26982,
       "friendsCount": 336,
       "location": "Guangdong"
     },
