@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12347,
+      "friendsCount": 2995,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGXMWYNaAAIskot.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2046266314382245925",
+    "fullText": "开源模型 Kimi K2.6 实测成绩出炉：多项基准登顶 🔥\nHLE、DeepSearchQA、Toolathlon、SWE-Bench Pro 等全面领先，长任务、多工具调用、Agent 能力明显超越同级模型。\n\n👉 不只是会写代码，而是开始自己完成复杂系统。 https://t.co/tU9GXns4u8"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -13,6 +30,25 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2046247951157399636",
     "fullText": "日常已经几乎听不到 Gemini 了，感觉这玩意消失很久了"
+  },
+  {
+    "user": {
+      "screenName": "miceandmold",
+      "name": "OfMiceandMold",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002118163912171520/9KkC1Kkp_normal.jpg",
+      "description": "Info on the Metropole and EJF",
+      "followersCount": 15,
+      "friendsCount": 27,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGW3IwzXwAA3ZGR.jpg",
+      "https://pbs.twimg.com/media/HGW3IwxX0AA964O.jpg",
+      "https://pbs.twimg.com/media/HGW3Iw0WAAAgMlK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/miceandmold/status/2046242971461251259",
+    "fullText": "The HOA pays for mold testing in 716 and 705 despite ignoring active mold in 704. Is this becoming a discrimination case? https://t.co/9v1Ufa0y2Z"
   },
   {
     "user": {
@@ -72,7 +108,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
       "followersCount": 12347,
-      "friendsCount": 2994,
+      "friendsCount": 2995,
       "location": ""
     },
     "images": [
@@ -155,7 +191,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25422,
+      "followersCount": 25423,
       "friendsCount": 5243,
       "location": ""
     },
@@ -275,7 +311,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25422,
+      "followersCount": 25423,
       "friendsCount": 5243,
       "location": ""
     },
@@ -292,7 +328,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25422,
+      "followersCount": 25423,
       "friendsCount": 5243,
       "location": ""
     },
@@ -307,7 +343,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25422,
+      "followersCount": 25423,
       "friendsCount": 5243,
       "location": ""
     },
@@ -358,7 +394,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 157353,
+      "followersCount": 157356,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -535,7 +571,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25422,
+      "followersCount": 25423,
       "friendsCount": 5243,
       "location": ""
     },
