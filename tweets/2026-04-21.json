@@ -1,11 +1,45 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13766,
+      "friendsCount": 550,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGasIv3WIAEO0HN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2046512355945693210",
+    "fullText": "苹果下一任 CEO 应该是他\n\nApple’s next CEO should be him https://t.co/JmYuy840B0"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51590,
+      "friendsCount": 307,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGal5ECbkAEJ0Tp.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2046505770972536850",
+    "fullText": "看 V 友发帖吐槽，Claude Opus4.7 5X 还没 GPT-5.4 耐用.....Claude 这么干也太离谱了啊 https://t.co/qeyGk2R3ne"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51036,
+      "followersCount": 51039,
       "friendsCount": 889,
       "location": "Hong Kong"
     },
@@ -73,7 +107,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -88,7 +122,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51036,
+      "followersCount": 51039,
       "friendsCount": 889,
       "location": "Hong Kong"
     },
@@ -103,7 +137,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -118,7 +152,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13767,
+      "followersCount": 13766,
       "friendsCount": 550,
       "location": "杭州"
     },
@@ -152,7 +186,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51036,
+      "followersCount": 51039,
       "friendsCount": 889,
       "location": "Hong Kong"
     },
@@ -285,7 +319,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13767,
+      "followersCount": 13766,
       "friendsCount": 550,
       "location": "杭州"
     },
@@ -431,7 +465,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -467,7 +501,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -522,7 +556,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211431,
+      "followersCount": 211447,
       "friendsCount": 1611,
       "location": "Chicago, IL"
     },
@@ -554,7 +588,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -564,6 +598,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/2046315586465267904",
     "fullText": "【关键事件：下一任美联储主席听证会及其背后角力】\n\n提醒一下大家，明天（4月21日，周二），特朗普提名的美联储主席凯文.沃什将参加参议院银行委员会的听证会，这是他在获得提名后，第一次在公开场合回答公众和议员们所关注的对美国经济，货币政策及美联储地位的看法 https://t.co/1FV25shElP"
+  },
+  {
+    "user": {
+      "screenName": "NBAonPrime",
+      "name": "NBA on Prime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942700015220150272/DvNI7qLF_normal.jpg",
+      "description": "April 23 🏀 #NBAPlayoffs \nKnicks @ Hawks | 6PM ET \nCavaliers @ Raptors | 8PM ET\nNuggets @ Timberwolves | 9:30PM ET",
+      "followersCount": 43565,
+      "friendsCount": 76,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NBAonPrime/status/2046312026423615891",
+    "fullText": "Round 1 of the NBA Playoffs presented by Google continues with a tripleheader Thursday on Prime, 6:30PM ET."
   },
   {
     "user": {
@@ -616,7 +665,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -683,7 +732,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13767,
+      "followersCount": 13766,
       "friendsCount": 550,
       "location": "杭州"
     },
@@ -728,7 +777,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67607,
+      "followersCount": 67606,
       "friendsCount": 581,
       "location": ""
     },
@@ -856,6 +905,21 @@
     ],
     "tweetUrl": "https://x.com/cellinlab/status/2046208721987272890",
     "fullText": "我靠，好丝滑啊\nhttps://t.co/rR8G0OvTJv"
+  },
+  {
+    "user": {
+      "screenName": "SteveReinharz",
+      "name": "Steve Reinharz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529821898460344320/e96szASf_normal.jpg",
+      "description": "Founder & CEO $AITX. Can see my tweets at https://t.co/pNnUjGGg3b if you can't on this page. Self-described 'AI Agitator' https://t.co/TLw8ttSnkv",
+      "followersCount": 15458,
+      "friendsCount": 227,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SteveReinharz/status/2046206497336488363",
+    "fullText": "$AITX Forecasts!!! $ 20m ARR? That's what we're thinking but read for the details! https://t.co/xPNyQ6miaC"
   },
   {
     "user": {
