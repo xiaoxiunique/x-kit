@@ -1,11 +1,63 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25439,
+      "friendsCount": 5257,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046628511687798784/vid/avc1/2018x1344/7BRGMu3TgdugucTH.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2046734298519339500",
+    "fullText": "有华人研究员刚刚发布了 OpenGame！\n\n这个 AI 代理可以从一个提示构建完整的可玩网页游戏。\n\n100% 开源，代码在评论区\n\n比如，鱿鱼游戏：红灯，绿灯 https://t.co/qUe0ARgMV2"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25439,
+      "friendsCount": 5257,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046623229364830208/vid/avc1/1920x1080/rA6z7Y92ykCMQy0E.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2046732739584655866",
+    "fullText": "Google 正在开源 DESIGN.md 的草案规范，这样就可以让它在任何工具或平台上使用。 \n\n不管是 Cursor 、Claude Code 、Codex，还是 Trae 都可以用了。 https://t.co/KuAJJ5ynbj"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 211518,
+      "friendsCount": 1613,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGdy9R1WkAAO-3y.jpg",
+      "https://pbs.twimg.com/media/HGdzDKqWcAAWjXR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2046731062643249454",
+    "fullText": "Anthropic 悄悄在定价页面上把 Claude Code 从 20 美元的 Pro 套餐中移除了，没有发任何公告。\n\n有人发现 https://t.co/7JG4DUXhn6 的功能对比表里，Pro 套餐对应的 Claude Code 一栏变成了叉号。与此同时，多篇帮助文档也已经删掉了\"Pro 套餐包含 Claude Code\"的表述，老版本在 Wayback Machine https://t.co/tj2AUWZSbg"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67657,
+      "followersCount": 67661,
       "friendsCount": 581,
       "location": ""
     },
@@ -22,7 +74,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744550,
+      "followersCount": 4744713,
       "friendsCount": 4,
       "location": ""
     },
@@ -71,7 +123,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744550,
+      "followersCount": 4744713,
       "friendsCount": 4,
       "location": ""
     },
@@ -88,7 +140,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744550,
+      "followersCount": 4744713,
       "friendsCount": 4,
       "location": ""
     },
@@ -105,7 +157,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744550,
+      "followersCount": 4744713,
       "friendsCount": 4,
       "location": ""
     },
@@ -120,7 +172,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67657,
+      "followersCount": 67661,
       "friendsCount": 581,
       "location": ""
     },
@@ -135,7 +187,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10526,
+      "followersCount": 10528,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -152,7 +204,7 @@
       "name": "Inc.",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1611131974160089099/y-e3qQ_Y_normal.jpg",
       "description": "Everything you need to know to start and grow your business now. Sign up for our daily newsletters: https://t.co/XAE0ET9Cq2",
-      "followersCount": 2627936,
+      "followersCount": 2627932,
       "friendsCount": 2113,
       "location": "New York City"
     },
@@ -268,7 +320,7 @@
       "name": "Amir",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2043042564974993408/d-J0cbb4_normal.jpg",
       "description": "Founder & CEO building First Chair. From inspiration to a real home you love. prev product @Apple @Meta, CPO @ampfitness. \nRecovering architect. 3 boys+redhead",
-      "followersCount": 562,
+      "followersCount": 563,
       "friendsCount": 221,
       "location": "Israel"
     },
@@ -371,7 +423,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25439,
-      "friendsCount": 5256,
+      "friendsCount": 5257,
       "location": ""
     },
     "images": [
@@ -435,7 +487,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744550,
+      "followersCount": 4744713,
       "friendsCount": 4,
       "location": ""
     },
@@ -518,7 +570,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27198,
+      "followersCount": 27196,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -536,7 +588,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25439,
-      "friendsCount": 5256,
+      "friendsCount": 5257,
       "location": ""
     },
     "images": [],
@@ -617,7 +669,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27198,
+      "followersCount": 27196,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -685,7 +737,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10526,
+      "followersCount": 10528,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -774,7 +826,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
       "followersCount": 25439,
-      "friendsCount": 5256,
+      "friendsCount": 5257,
       "location": ""
     },
     "images": [],
@@ -805,7 +857,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51055,
+      "followersCount": 51056,
       "friendsCount": 889,
       "location": "Hong Kong"
     },
@@ -2282,7 +2334,7 @@
       "name": "Beau Knows",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930346307207512064/MjYdRfVA_normal.jpg",
       "description": "Attorney I CEO of https://t.co/eHCjbxB9Pt | 👑“Beau Knows”👑| Featured in @ESPN @NYPost @Washingtonpost | JOIN The Best Sports Discord ⬇️ in the 🌎",
-      "followersCount": 170652,
+      "followersCount": 170657,
       "friendsCount": 24,
       "location": "Chicago, IL"
     },
