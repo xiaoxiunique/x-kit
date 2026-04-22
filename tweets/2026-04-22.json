@@ -5,7 +5,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211884,
+      "followersCount": 211883,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -57,7 +57,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4752922,
+      "followersCount": 4753082,
       "friendsCount": 4,
       "location": ""
     },
@@ -209,7 +209,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27201,
+      "followersCount": 27200,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -414,7 +414,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27201,
+      "followersCount": 27200,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -422,6 +422,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/2046937315994751387",
     "fullText": "现在信奥这些题最恶心的一点是有的数组和编号还有坐标是从 1 开始的，但有的是从 0 开始的，Pascal 时代遗留痕迹严重，一题是 0，一题 1，对应循环条件一题是 &lt; n 一题又是 &lt;= n，小孩在这上面栽了无数跟斗了。。。"
+  },
+  {
+    "user": {
+      "screenName": "CoyoteACMEMovie",
+      "name": "Coyote vs. ACME",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2042641571125039110/xlLUu1pc_normal.jpg",
+      "description": "In theaters August 28.",
+      "followersCount": 15058,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046727580880089088/vid/avc1/1920x1080/t9LNF9_C0s9cMSlA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/CoyoteACMEMovie/status/2046935891068006804",
+    "fullText": "The trailer ACME doesn’t want you to see. Coyote vs. ACME. In theaters August 28. https://t.co/8ADr6p9w1V"
   },
   {
     "user": {
@@ -580,7 +597,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@evanyou 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 122326,
+      "followersCount": 122327,
       "friendsCount": 258,
       "location": "Singapore"
     },
@@ -922,7 +939,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25491,
+      "followersCount": 25493,
       "friendsCount": 5263,
       "location": ""
     },
@@ -1415,7 +1432,7 @@
       "name": "CultivatedSoul",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972854347437666304/l44xpk-h_normal.jpg",
       "description": "Your online librarian for the Great Books | Liberal education | University of Chicago Basic Program",
-      "followersCount": 982,
+      "followersCount": 983,
       "friendsCount": 382,
       "location": "Colorado, USA"
     },
