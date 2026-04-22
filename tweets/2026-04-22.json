@@ -1,6 +1,58 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 65235,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046752133438169088/vid/avc1/1920x1080/PkFW7Z57pMcR842M.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/vikingmute/status/2046755895615656268",
+    "fullText": "网易邮箱新推出的这个 ClawEmail 很有趣，非常 AI Native，它是一个专门给 AI Agent 用的邮箱，有一个单独独特邮件域名，当有用户给这个地址发邮件后，ClawEmail 提供了两个核心组件，一个是 Email Channel，Channel 收件并且解析发来的邮件，然后触发 Agent 理解内容、执行并回复。一个是 https://t.co/QPJFnR9Jzt"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25439,
+      "friendsCount": 5257,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeIExAbkAAkzUv.jpg",
+      "https://pbs.twimg.com/media/HGeIExBaAAATcuC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2046754192170369090",
+    "fullText": "来河北朋友结婚接亲，\n第一次遇到撒盐的习俗，\n没防住… 发如雪了😆 https://t.co/VBKARvmmN4"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6987,
+      "friendsCount": 762,
+      "location": "San Jose, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGd-SyTbgAAgbNI.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2046743549560111367",
+    "fullText": "macOS 不同 app 的窗口圆角不同是为了让你们用户自己用心排列出美丽的布局。 https://t.co/7TOfyImav5"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
@@ -39,7 +91,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211527,
+      "followersCount": 211543,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -57,7 +109,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67665,
+      "followersCount": 67670,
       "friendsCount": 581,
       "location": ""
     },
@@ -74,7 +126,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744893,
+      "followersCount": 4745243,
       "friendsCount": 4,
       "location": ""
     },
@@ -104,11 +156,28 @@
   },
   {
     "user": {
+      "screenName": "bennbuilds",
+      "name": "Ben Nowack ☀️🌎🪞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2027338491089313792/F1e2Hkmx_normal.jpg",
+      "description": "Bringing sunshine to save lives and the planet",
+      "followersCount": 11936,
+      "friendsCount": 430,
+      "location": "Los Angeles, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGdI7hlXAAAe0eJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bennbuilds/status/2046686045811442076",
+    "fullText": "Such a pleasure meeting Chairman @BrendanCarrFCC and so many great folks at the @FCC !! https://t.co/2vLeT03gFW"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51576,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -125,7 +194,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744893,
+      "followersCount": 4745243,
       "friendsCount": 4,
       "location": ""
     },
@@ -142,7 +211,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744893,
+      "followersCount": 4745243,
       "friendsCount": 4,
       "location": ""
     },
@@ -159,7 +228,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744893,
+      "followersCount": 4745243,
       "friendsCount": 4,
       "location": ""
     },
@@ -174,7 +243,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67665,
+      "followersCount": 67670,
       "friendsCount": 581,
       "location": ""
     },
@@ -189,7 +258,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10530,
+      "followersCount": 10534,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -217,6 +286,23 @@
   },
   {
     "user": {
+      "screenName": "RealKidPoker",
+      "name": "Daniel Negreanu",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/564260692916596736/8zLttX4f_normal.jpeg",
+      "description": "🌱 🇺🇸 🇨🇦 🇷🇴 @GGPoker Ambassador Join me @ https://t.co/2RtrnF87ka My YouTube channel here: https://t.co/ZRpUcQigk2",
+      "followersCount": 561469,
+      "friendsCount": 1929,
+      "location": "Las Vegas, NV"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046611229343629312/vid/avc1/720x1280/IWPyzDUZCV3h5D_n.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/RealKidPoker/status/2046616124650074427",
+    "fullText": "I broke 80 from the red tees…\n\nNow I’m playing the TIPS (6,918 yards)\n\nI’m a 10 handicap who drives it ~210…\n\nDo I break 100? 😅\n\n💰 $5,000 on the line\n\nWatch 👇\nhttps://t.co/8tWrUOO9iN https://t.co/6uDH71TYfS"
+  },
+  {
+    "user": {
       "screenName": "adam__helmick",
       "name": "Adam Helmick",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1564284852161204227/DqtkWnDp_normal.jpg",
@@ -229,6 +315,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/adam__helmick/status/2046615075608477874",
     "fullText": "She is on the lookout for a 4 year school.  Elementary education major, future coach and would love to learn from the best in the business.  Starting middle infielder with great stats on a team that went to the njcaa World Series last year.   https://t.co/rp8G02ZdAu"
+  },
+  {
+    "user": {
+      "screenName": "AmandaHead",
+      "name": "Amanda Head",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981857479139954688/-xOYQQE5_normal.jpg",
+      "description": "@WhiteHouse Correspondent @JustTheNews. Host of @FurthermorePod. Co-host with @jsolomonreports on @RealAmVoice. @CPInst fellow. Miniature wrecking ball. War 🦅",
+      "followersCount": 32227,
+      "friendsCount": 4768,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGcD9jkWsAAXwjD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmandaHead/status/2046613079828361595",
+    "fullText": "🔥New @FurthermorePod Episode! \n\nJohn Minadakis, co-owner of @JimmysSeafood, joined me to talk hard work, patriotism, going viral on X, and why the American Dream is still alive.\n\nListen here on Apple Podcasts &gt; https://t.co/c8caIYhPNy\n\nSpotify &gt; https://t.co/WzrTc4kneA https://t.co/Cbq5vahgxE"
   },
   {
     "user": {
@@ -339,7 +442,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4744893,
+      "followersCount": 4745243,
       "friendsCount": 4,
       "location": ""
     },
@@ -356,7 +459,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51576,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -373,7 +476,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27196,
+      "followersCount": 27197,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -405,7 +508,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65232,
+      "followersCount": 65235,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -422,7 +525,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51576,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -439,7 +542,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65232,
+      "followersCount": 65235,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -454,7 +557,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27196,
+      "followersCount": 27197,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -505,7 +608,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51576,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -522,7 +625,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10530,
+      "followersCount": 10534,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -635,5 +738,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2046518615189721595",
     "fullText": "现在运营商限速真的是千奇百怪，很多时候你看着像直连，但其实被限速了，所以我们也在持续与运营商斗法，只为给懒猫微服用户最稳定快速和无感的内网穿透😎\n\n想了解具体内容的推友评论区回复，我来介绍。 https://t.co/SyaCggUVFf"
+  },
+  {
+    "user": {
+      "screenName": "BeauLWagner",
+      "name": "Beau Knows",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930346307207512064/MjYdRfVA_normal.jpg",
+      "description": "Attorney I CEO of https://t.co/eHCjbxB9Pt | 👑“Beau Knows”👑| Featured in @ESPN @NYPost @Washingtonpost | JOIN The Best Sports Discord ⬇️ in the 🌎",
+      "followersCount": 170659,
+      "friendsCount": 25,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGUdzNgbMAAq7K3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BeauLWagner/status/2046074375103807600",
+    "fullText": "Great opening weekend of the NBA Playoffs🌺 https://t.co/UnH97qkU3p"
   }
 ]
