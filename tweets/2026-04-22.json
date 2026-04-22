@@ -1,11 +1,80 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12338,
+      "friendsCount": 2997,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGe8rs_aMAADXN8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2046812016942481840",
+    "fullText": "国内全网下架关于马斯克 XChat 的所有相关内容！\n\n想用？🤪\n\n没门，连讨论都不行。 🈲 https://t.co/JxfHd0m9nS"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51575,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGe2suyacAA0V0M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2046806160955818021",
+    "fullText": "我们这一代程序员非常焦虑，好不容易学了几十年，终于一展身手的时候，AI把我们都干趴下了\n\n所以，我们这一代程序员非常的焦虑，焦虑在强大对手面前，何去何从？\n\n但是我昨天突然想清楚了，不焦虑了，思路要打开呀： https://t.co/bZjYUlYsTl"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13761,
+      "friendsCount": 550,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGe09x8aIAAsikD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2046803535610945672",
+    "fullText": "GPT-5.5 刚刚在客户端里泄漏了，目前疑似已下线回滚。 https://t.co/FA2iqyw6p8"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51575,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGewQGCagAAEVzH.png",
+      "https://pbs.twimg.com/media/HGewoj8bAAAqzkI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2046798822685422069",
+    "fullText": "手机都需要上风冷了？\n\n我有一计\n\n增大屏幕、加上实体按键、内部空间增大后就能顺势加风冷和电池了。\n\n这样你就拥有了......笔记本电脑🤡 https://t.co/ADv3FC6b8E"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -38,7 +107,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -68,11 +137,28 @@
   },
   {
     "user": {
+      "screenName": "iAligator",
+      "name": "Ali Haghani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1752614564645294080/Q7fR4149_normal.jpg",
+      "description": "building @circlebackai (yc w24). previously built things @stripe and @twitter, a campervan, https://t.co/IaKhUNiwIZ.",
+      "followersCount": 1079,
+      "friendsCount": 393,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGekUKmbgAAoSX1.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/iAligator/status/2046785412426006647",
+    "fullText": "we're hosting a canadian demo night on april 30 at our office in SF 🇨🇦\n\ncome see what the canadians have been building, meet some nice folks, and win some prizes\n\n→ best demo gets a mac\n→ best canadian tuxedo gets a levi's gift card https://t.co/sf0HF7XFyI"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -89,7 +175,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25444,
+      "followersCount": 25445,
       "friendsCount": 5259,
       "location": ""
     },
@@ -106,7 +192,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -123,7 +209,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -140,7 +226,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51573,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -157,7 +243,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51573,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -172,7 +258,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -189,7 +275,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25444,
+      "followersCount": 25445,
       "friendsCount": 5259,
       "location": ""
     },
@@ -206,7 +292,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6987,
+      "followersCount": 6988,
       "friendsCount": 762,
       "location": "San Jose, CA"
     },
@@ -223,7 +309,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51573,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -240,7 +326,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13763,
+      "followersCount": 13761,
       "friendsCount": 550,
       "location": "杭州"
     },
@@ -257,7 +343,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 75949,
+      "followersCount": 75946,
       "friendsCount": 3566,
       "location": ""
     },
@@ -267,6 +353,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/yihong0618/status/2046764669663354905",
     "fullText": "别的还好 image-2 的这张图还是震撼了我一下 https://t.co/hhO5hV1lSU"
+  },
+  {
+    "user": {
+      "screenName": "ShirasLeif",
+      "name": "Leif Shiras",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1291783338483576834/CnOcCCOZ_normal.jpg",
+      "description": "Born '59. SHS Greyhound '77. PU Tiger '81. ATP '92. Married '88. Father '90,'92. TC '03.  Hall of Fame Voter.  This is the real ME...not a hacked version.",
+      "followersCount": 705,
+      "friendsCount": 947,
+      "location": "Laguna Hills, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeRH3RaYAAvjZB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ShirasLeif/status/2046764432571908566",
+    "fullText": "Last week @BenShelton won @BMWOpen500 and Elena Rybakina drove off in a Porsche in Stuttgart.  Winning the Fukuoka challenger 40 years ago earned me the keys to a luxurious Mitsubishi Galante😃 – A modest sedan instead a supercar, I was born too early. Happy tho, to get an https://t.co/Y9H427x5Bq"
   },
   {
     "user": {
@@ -291,7 +394,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25444,
+      "followersCount": 25445,
       "friendsCount": 5259,
       "location": ""
     },
@@ -309,7 +412,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6987,
+      "followersCount": 6988,
       "friendsCount": 762,
       "location": "San Jose, CA"
     },
@@ -341,7 +444,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25444,
+      "followersCount": 25445,
       "friendsCount": 5259,
       "location": ""
     },
@@ -358,7 +461,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25444,
+      "followersCount": 25445,
       "friendsCount": 5259,
       "location": ""
     },
@@ -375,7 +478,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211590,
+      "followersCount": 211613,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -442,7 +545,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67689,
+      "followersCount": 67697,
       "friendsCount": 581,
       "location": ""
     },
@@ -459,7 +562,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4746255,
+      "followersCount": 4746767,
       "friendsCount": 4,
       "location": ""
     },
@@ -530,7 +633,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51573,
+      "followersCount": 51575,
       "friendsCount": 309,
       "location": "China"
     },
@@ -547,7 +650,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4746255,
+      "followersCount": 4746767,
       "friendsCount": 4,
       "location": ""
     },
@@ -1143,6 +1246,40 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2046518615189721595",
     "fullText": "现在运营商限速真的是千奇百怪，很多时候你看着像直连，但其实被限速了，所以我们也在持续与运营商斗法，只为给懒猫微服用户最稳定快速和无感的内网穿透😎\n\n想了解具体内容的推友评论区回复，我来介绍。 https://t.co/SyaCggUVFf"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51575,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046184222738534400/vid/avc1/720x1280/UZ_KgLiWrM_q5q_K.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2046476543791358016",
+    "fullText": "应该没有哪个程序员能拒绝这种 PC 整合设计\n\n噪音跟功耗都不算事儿😍\nhttps://t.co/XS10vJSV3C"
+  },
+  {
+    "user": {
+      "screenName": "ImSpartacus18",
+      "name": "Jack Downing",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1707470733407092736/X23Ww4v0_normal.jpg",
+      "description": "Political Satirist",
+      "followersCount": 719,
+      "friendsCount": 236,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2045928275390910464/vid/avc1/720x1280/Ll6auPYca-W3fyO3.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ImSpartacus18/status/2046368333436760181",
+    "fullText": "When Scott Wiener says we need to do things differently I agree with him. San Francisco needs a change. Luckily for us there are other options on the ballot. https://t.co/r59oWT2Tm4"
   },
   {
     "user": {
