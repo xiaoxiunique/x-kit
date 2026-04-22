@@ -1,6 +1,57 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51578,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeYZ_aa0AAxGBl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2046772387279229304",
+    "fullText": "华为的智驾已经牛逼到这个地步了？\n\n人不在旁边都能远程遥控自主找车位泊车？\n\n安全吗？😦 https://t.co/q39IW7Xu8B"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13763,
+      "friendsCount": 550,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeWyOvakAA8CsO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2046771434559778995",
+    "fullText": "Anthropic 刚刚在价格页的显示上，从 Pro Plan 中移出了对 Claude Code 的访问，只允许 Max Plan 用户使用 Claude Code。\n\n这一举措引起了社区的注意，引发了巨大的讨论。\n\nAnthropic 的增长负责人刚刚承认并回应了这一举措：\n为了清晰起见，我们正在对大约 2% 的新 prosumer https://t.co/tnVeKoldaQ"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 75948,
+      "friendsCount": 3566,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeRndPbMAECWU4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2046764669663354905",
+    "fullText": "别的还好 image-2 的这张图还是震撼了我一下 https://t.co/hhO5hV1lSU"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
@@ -22,8 +73,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25439,
-      "friendsCount": 5257,
+      "followersCount": 25445,
+      "friendsCount": 5258,
       "location": ""
     },
     "images": [
@@ -53,12 +104,27 @@
   },
   {
     "user": {
+      "screenName": "HankThomasDC",
+      "name": "Hank Thomas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747300545340088320/AR88ASL8_normal.jpg",
+      "description": "Washingtonian & VC @SCV_cyber - Investing in the future of Cyber & National Security 🇺🇸 | Army Vet",
+      "followersCount": 5746,
+      "friendsCount": 1987,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HankThomasDC/status/2046738673870250190",
+    "fullText": "The problem with most of the world right now is that they don’t know how to negotiate with a superpower that isn’t woke 🇺🇸"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25439,
-      "friendsCount": 5257,
+      "followersCount": 25445,
+      "friendsCount": 5258,
       "location": ""
     },
     "images": [],
@@ -74,8 +140,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25439,
-      "friendsCount": 5257,
+      "followersCount": 25445,
+      "friendsCount": 5258,
       "location": ""
     },
     "images": [],
@@ -91,7 +157,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211543,
+      "followersCount": 211577,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -105,11 +171,43 @@
   },
   {
     "user": {
+      "screenName": "BillyFlynt5853",
+      "name": "billyflynt.base.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046632489322475520/JSbtbYVN_normal.jpg",
+      "description": "reasoning is untrusted, execution is earned. designed for admissible decisions, not forced outputs.",
+      "followersCount": 674,
+      "friendsCount": 55,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BillyFlynt5853/status/2046727453444342026",
+    "fullText": "lintel is not another agent system or coding tool.\n\nit’s a protocol for ensuring that meaning, authority, intent, boundaries, and accountability remain durable in systems that involve heavy automation, ai reasoning, or agentic execution.\n\nit’s addressing:\n\ntoday’s ai/agent"
+  },
+  {
+    "user": {
+      "screenName": "AIScottAdams",
+      "name": "AI Coffee with Scott Adams",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2017410596346478592/5PddBfQH_normal.jpg",
+      "description": "The original Scott Adams is gone, but the conversation continues.  This channel is a daily way to get the news with what Scott might have said.",
+      "followersCount": 3847,
+      "friendsCount": 318,
+      "location": "Austin"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGdZDzLWoAATB2F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AIScottAdams/status/2046702563555180926",
+    "fullText": "AI Scott Adams now on Spotify! https://t.co/Lbq9iLtWil"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67670,
+      "followersCount": 67683,
       "friendsCount": 581,
       "location": ""
     },
@@ -126,7 +224,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4745243,
+      "followersCount": 4745735,
       "friendsCount": 4,
       "location": ""
     },
@@ -156,6 +254,26 @@
   },
   {
     "user": {
+      "screenName": "robeloff",
+      "name": "rob eloff",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2046684678766407681/q68IDj6o_normal.jpg",
+      "description": "adventure capitalist in the techno industrial universe",
+      "followersCount": 319,
+      "friendsCount": 340,
+      "location": "Los Angeles, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGdK102bgAAE9hM.jpg",
+      "https://pbs.twimg.com/media/HGdK107a4AAOSqU.jpg",
+      "https://pbs.twimg.com/media/HGdK101a4AAMYkJ.jpg",
+      "https://pbs.twimg.com/media/HGdK103bUAAb3d8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/robeloff/status/2046686849394192426",
+    "fullText": "Little known fact about El Segundo founders - they can walk on water. Last week’s cohort of @DiscipulusVent builders put their physics and judgement skills on display for a pre-demo day liquidity event with fearless leader @jakobdiepen and @KingJamieLee @tamarackglobal. Your move https://t.co/6NMRlh9srW"
+  },
+  {
+    "user": {
       "screenName": "bennbuilds",
       "name": "Ben Nowack ☀️🌎🪞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2027338491089313792/F1e2Hkmx_normal.jpg",
@@ -177,7 +295,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51575,
+      "followersCount": 51578,
       "friendsCount": 309,
       "location": "China"
     },
@@ -194,7 +312,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4745243,
+      "followersCount": 4745735,
       "friendsCount": 4,
       "location": ""
     },
@@ -211,7 +329,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4745243,
+      "followersCount": 4745735,
       "friendsCount": 4,
       "location": ""
     },
@@ -228,7 +346,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4745243,
+      "followersCount": 4745735,
       "friendsCount": 4,
       "location": ""
     },
@@ -243,7 +361,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67670,
+      "followersCount": 67683,
       "friendsCount": 581,
       "location": ""
     },
@@ -258,7 +376,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10534,
+      "followersCount": 10540,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -390,8 +508,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25439,
-      "friendsCount": 5257,
+      "followersCount": 25445,
+      "friendsCount": 5258,
       "location": ""
     },
     "images": [
@@ -409,7 +527,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18266,
-      "friendsCount": 1222,
+      "friendsCount": 1221,
       "location": ""
     },
     "images": [
@@ -442,7 +560,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4745243,
+      "followersCount": 4745735,
       "friendsCount": 4,
       "location": ""
     },
@@ -459,7 +577,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51575,
+      "followersCount": 51578,
       "friendsCount": 309,
       "location": "China"
     },
