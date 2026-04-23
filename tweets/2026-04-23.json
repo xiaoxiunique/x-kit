@@ -1,6 +1,124 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 211964,
+      "friendsCount": 1614,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGkGivKXUAAhkTK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047174895293849972",
+    "fullText": "GPT Image 2 Prompt:\n\nSoft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large https://t.co/orjygpImmY"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18260,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGkFHXFbUAA5mLn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2047173162299990233",
+    "fullText": "吃上四个菜了，丰盛日 https://t.co/Vi4DQu83gu"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51585,
+      "friendsCount": 308,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGkCLsPbAAAPf7P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047170353781452886",
+    "fullText": "只有行业内的人才知道的 “内网穿透的秘密”\n\n内网穿透主要应用在两个场景，企业 VPN 用来做零信任的防护和外网访问。 第二个是 NAS 外出访问。 其实就是对应两个群体，C 端和 B 端用户。\n\n现在很多 NAS 的内网穿透，其实是中转内网穿透。 流量先经过 NAS 厂商的云服务器，然后再下发给外出时的手机 https://t.co/p85PVR875a"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13757,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGj_6RFaEAAGhim.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047167415541485694",
+    "fullText": "GPT Image2 团队全是华人？ https://t.co/UDfM3CYbEv"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13757,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047166742133366926",
+    "fullText": "现在如果从 Claude Code 迁移到 Codex，有没有啥好用的迁移工具或者方法之类的。万一 GPT 5.5 特别牛逼，到时候怎么一键把工作流转移过去呢？🤔"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51585,
+      "friendsCount": 308,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGj9juQaYAAmB_p.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047164872740491610",
+    "fullText": "今昔是何年\n\n传闻 NVIDIA 要复产 RTX 3060 了......🤡 https://t.co/6VfCwEUs8T"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51585,
+      "friendsCount": 308,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGj6VmEaAAAKKXF.png",
+      "https://pbs.twimg.com/media/HGj6W2iaoAAadk4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047163440230498417",
+    "fullText": "绷不住了....在 Linux do 看到分享，广东移动搞的移动智算包（里面有 MiniMax M2.5），用的竟然是 HTTP 传输......\n\n但凡让 AI 给你规划下都不至于如此草台班子🤣 https://t.co/1ecePrWwWJ"
+  },
+  {
+    "user": {
       "screenName": "s1ntone",
       "name": "野原新之栋 Sintone",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1734300834824101888/BkwPmmxT_normal.jpg",
@@ -22,7 +140,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51585,
       "friendsCount": 308,
       "location": "China"
     },
@@ -73,7 +191,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51585,
       "friendsCount": 308,
       "location": "China"
     },
@@ -90,7 +208,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211949,
+      "followersCount": 211964,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -122,7 +240,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51065,
+      "followersCount": 51067,
       "friendsCount": 891,
       "location": "Hong Kong"
     },
@@ -137,7 +255,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211949,
+      "followersCount": 211964,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -154,8 +272,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25547,
-      "friendsCount": 5266,
+      "followersCount": 25559,
+      "friendsCount": 5267,
       "location": ""
     },
     "images": [
@@ -173,7 +291,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211949,
+      "followersCount": 211964,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -190,7 +308,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211949,
+      "followersCount": 211964,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -207,7 +325,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51585,
       "friendsCount": 308,
       "location": "China"
     },
@@ -319,7 +437,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211949,
+      "followersCount": 211964,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -454,7 +572,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4754916,
+      "followersCount": 4755365,
       "friendsCount": 4,
       "location": ""
     },
@@ -471,7 +589,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51065,
+      "followersCount": 51067,
       "friendsCount": 891,
       "location": "Hong Kong"
     },
@@ -508,7 +626,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51065,
+      "followersCount": 51067,
       "friendsCount": 891,
       "location": "Hong Kong"
     },
@@ -588,7 +706,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 75936,
+      "followersCount": 75935,
       "friendsCount": 3567,
       "location": ""
     },
@@ -814,6 +932,23 @@
   },
   {
     "user": {
+      "screenName": "JimLambUSA",
+      "name": "James Lamb",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2030671382770528256/JxamxDsy_normal.jpg",
+      "description": "Proud American Conservative \nTweets R/Ts reflect my own personal opinions, not necessarily those of groups I am affiliated with.",
+      "followersCount": 2183,
+      "friendsCount": 3552,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGf7PTNawAAioRm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JimLambUSA/status/2046880801133125996",
+    "fullText": "@SecDuffy @FAA_Bryan I am on a @united flight right now. About an hour ago, I was verbally harassed by a female flight attendant who would not identify herself after I asked \"Liam\" for a beer in First Class who responded rudely because I mentioned I had just filed one complaint https://t.co/TyW1JJm6Rn"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -974,6 +1109,26 @@
     ],
     "tweetUrl": "https://x.com/manateelazycat/status/2046838225747243291",
     "fullText": "Anker 在海外卖得好是有原因的，愿意动脑筋啊\n\n你们不是嫌桌上没位置，固定也不方便吗？\n\n那我直接给产品加上桌面固定的装置\n\n你们开始掏钱吧😂\nhttps://t.co/RvBiAo9Oj7"
+  },
+  {
+    "user": {
+      "screenName": "hanbangtypequiz",
+      "name": "Hanbang Type",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2016208014165082112/M_qXtZNl_normal.jpg",
+      "description": "Your personality has a type (MBTI). Your body & skin deserves one too (Hanbang)\nFind out why popular K-beauty products and foods don’t work for you",
+      "followersCount": 0,
+      "friendsCount": 7,
+      "location": "Free Korean Body Type Quiz"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGfJjXebAAAgVHZ.jpg",
+      "https://pbs.twimg.com/media/HGfJpNjb0AAshC7.jpg",
+      "https://pbs.twimg.com/media/HGfJX27aYAA0eqi.jpg",
+      "https://pbs.twimg.com/media/HGfJX3AaIAAGemg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hanbangtypequiz/status/2046826583147827357",
+    "fullText": "What is your Korean Body Type? https://t.co/haQ0ZRSmEN"
   },
   {
     "user": {
