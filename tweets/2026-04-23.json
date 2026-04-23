@@ -1,11 +1,113 @@
 [
   {
     "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 51060,
+      "friendsCount": 891,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2047116697287754054",
+    "fullText": "现在有一个很直观判断自己状态的标准：\n1.状态好：用语音输入得BalaBala的~\n2.状态差： 古法打字吧"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 211911,
+      "friendsCount": 1613,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGjPrWPW0AAb789.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047114473253838969",
+    "fullText": "GPT Image 2 Prompt:\n\nthe Straw Hat crew gathered on the deck of the Thousand Sunny at golden hour, each character mid-laugh, in motion, or relaxing. Luffy leans over the rail with a grin, Nami charts something on the table, and Chopper clutches a cotton candy stick. The ship’s https://t.co/RS4IzxKf7d"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 25520,
+      "friendsCount": 5266,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGgp2SiboAAl5Tg.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046932043339276288/vid/avc1/1920x1080/61z4gPHNXw_emHwP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2047113113405907400",
+    "fullText": "GPT-Image2 × Seedance2\n\n从分镜制作宣传广告\n\n准备实际商品的图像的话，精度会大幅提升 https://t.co/04Zsevf7q5"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 211911,
+      "friendsCount": 1613,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGjNSBlXUAE6cN5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047111812664197284",
+    "fullText": "GPT 2 Image Prompt:\nDetailed Ghibli-style portrait of a princess kneeling beside a koi pond brimming with glowing lotus blossoms. She wears a soft blue and cream kimono embroidered with swirling waves and fox spirits. A delicate paper parasol rests against her shoulder, and her https://t.co/QuqnJp7JNH"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 211911,
+      "friendsCount": 1613,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGjM0cdWIAAq-lB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047111319719948589",
+    "fullText": "GPT Image 2 Prompt:\nDelicate Japanese-inspired art of two blue and teal cranes flying among oversized pink chrysanthemums and indigo foliage. Background of soft gradients fading into a pale sun. Elegant gold outlines, pastel gradients, and serene, traditional composition. Perfect https://t.co/rolhm01jPR"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51582,
+      "friendsCount": 308,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGjJmBTaIAEpLZo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047107697695399960",
+    "fullText": "好久没有吃热干面了，来碗这个牛肚热干面❤️ https://t.co/vbq58zxJBC"
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67727,
+      "followersCount": 67730,
       "friendsCount": 580,
       "location": ""
     },
@@ -23,7 +125,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67727,
+      "followersCount": 67730,
       "friendsCount": 580,
       "location": ""
     },
@@ -36,11 +138,41 @@
   },
   {
     "user": {
+      "screenName": "ALERTenergyUSA",
+      "name": "Energy ALERT",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953147284868251649/KpAKSwuX_normal.png",
+      "description": "ALERT unites local transmission providers to educate and advocate for a reliable, affordable, community-driven electric grid through education and sound policy.",
+      "followersCount": 124,
+      "friendsCount": 351,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ALERTenergyUSA/status/2047077927586550217",
+    "fullText": "Speed to Power. The FERC filing aims to accelerate transmission and remove 16–20 month delays. Local providers are ready to build faster and keep electricity affordable."
+  },
+  {
+    "user": {
+      "screenName": "DKSportsbook",
+      "name": "DraftKings Sportsbook",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1765461348467511296/9KvXr5Y4_normal.jpg",
+      "description": "The Crown is Yours 🫴👑 | 18+ DC/KY/NH/WY. 21+ other eligible U.S. states | 19+ONT | Gambling problem? 1-800-GAMBLER or visit https://t.co/fWBV83VofD | @DK_Assist",
+      "followersCount": 380269,
+      "friendsCount": 2019,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DKSportsbook/status/2047061423948452168",
+    "fullText": "EARLY EXIT ENCORE IS HERE!\n\nAfter last night’s Wemby news, 1,000,000 customers have now had their bets saved by Early Exit. We just dropped some surprises into accounts to celebrate.\n\nCheck your app and reply with a screenshot if you got one ⬇️"
+  },
+  {
+    "user": {
       "screenName": "BOXINGnBBQ",
       "name": "BOXING n BBQ",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1985356144236220416/Jgpzlcvc_normal.jpg",
       "description": "Holistic boxing coverage made easy to follow. Covering the full sports world from fight week to gameday, with a side of BBQ. \nSponsored by @rainbetcom",
-      "followersCount": 57025,
+      "followersCount": 57035,
       "friendsCount": 28954,
       "location": ""
     },
@@ -55,7 +187,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 211901,
+      "followersCount": 211911,
       "friendsCount": 1613,
       "location": "Chicago, IL"
     },
@@ -104,7 +236,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67727,
+      "followersCount": 67730,
       "friendsCount": 580,
       "location": ""
     },
@@ -122,7 +254,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67727,
+      "followersCount": 67730,
       "friendsCount": 580,
       "location": ""
     },
@@ -190,7 +322,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4753697,
+      "followersCount": 4754004,
       "friendsCount": 4,
       "location": ""
     },
@@ -207,7 +339,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51057,
+      "followersCount": 51060,
       "friendsCount": 891,
       "location": "Hong Kong"
     },
@@ -222,11 +354,29 @@
   },
   {
     "user": {
+      "screenName": "rawsalerts",
+      "name": "R A W S A L E R T S",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999972200779005953/JP18SAS8_normal.jpg",
+      "description": "RawsAlerts is your go-to source for fast, accurate breaking news Powered by @Polymarket. More coverage on @RawsGlobal",
+      "followersCount": 1727944,
+      "friendsCount": 2270,
+      "location": "United states "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGhn3wKXwAAGQkx.jpg",
+      "https://pbs.twimg.com/media/HGhoUYuXoAAxOTr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/rawsalerts/status/2047001067129352600",
+    "fullText": "🚨 BREAKING: Democrats now projected to impeach Trump — 66% chance. https://t.co/TWlSUz6xH1"
+  },
+  {
+    "user": {
       "screenName": "yihui_indie",
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51057,
+      "followersCount": 51060,
       "friendsCount": 891,
       "location": "Hong Kong"
     },
@@ -259,7 +409,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67727,
+      "followersCount": 67730,
       "friendsCount": 580,
       "location": ""
     },
@@ -274,7 +424,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10565,
+      "followersCount": 10566,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -289,7 +439,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18259,
+      "followersCount": 18260,
       "friendsCount": 1221,
       "location": ""
     },
@@ -306,8 +456,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 75937,
-      "friendsCount": 3566,
+      "followersCount": 75935,
+      "friendsCount": 3567,
       "location": ""
     },
     "images": [],
@@ -323,7 +473,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12342,
+      "followersCount": 12341,
       "friendsCount": 2998,
       "location": ""
     },
@@ -349,11 +499,28 @@
   },
   {
     "user": {
+      "screenName": "aquavault",
+      "name": "AquaVault Inc. (Shark Tank Brand)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1920184198234566656/_qSRlljN_normal.jpg",
+      "description": "Premium Travel & Mobile Phone Accessories\nGet AquaVault, ChargeCard, FlexSafe, & ClickGrip Today.",
+      "followersCount": 1691,
+      "friendsCount": 337,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046934985316167681/vid/avc1/1820x1024/XpYs-HV42GkXBJMS.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/aquavault/status/2046935742740303969",
+    "fullText": "Rich Music + All Day Power in One Device ⚡🔊\nDon't carry a separate speaker AND a charger everywhere you go? 😩\nSay hello to SoundCharge — the world’s first compact speaker that plays immersive Hi-Fi sound and MagSafe charges your iPhone at the same time.\n✅ Crystal-clear https://t.co/43KTkaL40K"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18259,
+      "followersCount": 18260,
       "friendsCount": 1221,
       "location": ""
     },
@@ -370,7 +537,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18259,
+      "followersCount": 18260,
       "friendsCount": 1221,
       "location": ""
     },
@@ -388,7 +555,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18259,
+      "followersCount": 18260,
       "friendsCount": 1221,
       "location": ""
     },
@@ -406,7 +573,7 @@
       "name": "尤雨溪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904818433897984000/0K6AhwWU_normal.jpg",
       "description": "@evanyou 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 122331,
+      "followersCount": 122330,
       "friendsCount": 258,
       "location": "Singapore"
     },
@@ -421,7 +588,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
@@ -455,7 +622,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
@@ -487,7 +654,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
@@ -504,7 +671,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
@@ -521,7 +688,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
@@ -554,7 +721,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18259,
+      "followersCount": 18260,
       "friendsCount": 1221,
       "location": ""
     },
@@ -569,7 +736,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
@@ -650,7 +817,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51584,
+      "followersCount": 51582,
       "friendsCount": 308,
       "location": "China"
     },
