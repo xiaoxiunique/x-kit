@@ -1,11 +1,150 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 212208,
+      "friendsCount": 1614,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGo6fL6WsAAl9GM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047513320094044673",
+    "fullText": "DeepSeek 今天发布了全新的 V4 系列模型预览版，同步开源。最大的变化是把百万（1M）上下文直接变成了所有官方服务的标配，不分版本、不分价位。\n\nV4 分两个型号：V4-Pro 是旗舰版，V4-Flash 是轻量版。按照 DeepSeek 自己公布的评测，V4-Pro 的推理能力已经追平顶级闭源模型，世界知识仅次于 https://t.co/kl95nFk6e5"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13799,
+      "followersCount": 13800,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGo5jAVaEAA_1wd.jpg",
+      "https://pbs.twimg.com/media/HGo5kgGbcAAJem7.jpg",
+      "https://pbs.twimg.com/media/HGo5lsOaUAACZZ9.jpg",
+      "https://pbs.twimg.com/media/HGo5oNLawAAwTIp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047512873661018187",
+    "fullText": "DeepSeek V4 正式开源发布了！\n\n共有2个版本：\n* DeepSeek-V4-Pro 1.6T\n* DeepSeek-V4-Flash 284B\n均为 1M 上下文，支持 Thinking 模式\n\n官方表示 V4-Pro 据评测反馈使用体验优于 Sonnet 4.5，交付质量接近 Opus 4.6 非思考模式，但仍与 Opus 4.6 思考模式存在一定差距。\n\n目前 Huggingface https://t.co/f3aenpa1qe"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51588,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGo4dQEbEAAHZeY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047512410844745939",
+    "fullText": "这也太出人意料了\n\nDeepSeek V4 就这样悄无声息地发布了？\n\n啥情况，是想精准狙击 OpenAI 的 GPT-5.5？🤣\n\n官方 API 文档里已经可以看到调用价格\n\n网页端对话已升级到 1M 上下文，但无法说出自己是哪个版本。 https://t.co/o0643t8sJa"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13800,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGo3Ihva4AAOedZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047509610257584266",
+    "fullText": "DeepSeek 官网已上线 V4 API\n\nhttps://t.co/MAaYngV5V8 https://t.co/iV1vfDdMc2"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13800,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGo16F9aUAAKxlZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047508260245381575",
+    "fullText": "今天还有高手？\nDeepSeek V4 今天晚上要正式发布了？ https://t.co/dGmSKd1uZ8"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51588,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGoyWyiakAAnJXV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047504870517977286",
+    "fullText": "为什么现在很多人怀念小时候的闭路电视\n\n还不是因为打开即看，没有开机广告，没有复杂的界面\n\n更重要的\n\n没有套娃式收费🙄\n\n所以一体化电视重要吗？重要，但不是重中之重，个人之见。 https://t.co/Y5t8FYVDiA"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART IMAGE 聚合 20+ AI 生图模型：https://t.co/22QUvDwKin\nNano-Banana-Pro 500+ 提示词案例：https://t.co/KTBeuTPETI",
+      "followersCount": 898,
+      "friendsCount": 587,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGotfU0a4AAB2GG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/2047500016617709684",
+    "fullText": "活动日 Day 1：\nhttps://t.co/kees3CFcwc 重磅活动即时开启，累计赠送 100,000 万张 GPT-image-2 模型免费生图，想要体验的朋友来看看哇，欢迎扩散转发~~~，把福利转发给你的小伙伴啦！🥰🥰🥰 https://t.co/zCEzEgiv7R"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36304602,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047499769312907264/vid/avc1/1920x1080/4nfu2O94zKushqya.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2047499970828501421",
+    "fullText": "The @Chargers make Akheem Mesidor the 22nd overall pick!\n\n2026 NFL Draft starts on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/2WFvWTF0IU"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13800,
       "friendsCount": 551,
       "location": "杭州"
     },
@@ -20,7 +159,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13799,
+      "followersCount": 13800,
       "friendsCount": 551,
       "location": "杭州"
     },
@@ -38,7 +177,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212180,
+      "followersCount": 212208,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -70,7 +209,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51589,
+      "followersCount": 51588,
       "friendsCount": 309,
       "location": "China"
     },
@@ -87,7 +226,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51589,
+      "followersCount": 51588,
       "friendsCount": 309,
       "location": "China"
     },
@@ -104,7 +243,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6988,
+      "followersCount": 6986,
       "friendsCount": 763,
       "location": "San Jose, CA"
     },
@@ -136,7 +275,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25841,
+      "followersCount": 25854,
       "friendsCount": 5275,
       "location": ""
     },
@@ -153,7 +292,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25841,
+      "followersCount": 25854,
       "friendsCount": 5275,
       "location": ""
     },
@@ -185,7 +324,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25841,
+      "followersCount": 25854,
       "friendsCount": 5275,
       "location": ""
     },
@@ -228,11 +367,26 @@
   },
   {
     "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+      "followersCount": 1593852,
+      "friendsCount": 30,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2047455998449737944",
+    "fullText": "Fast, reliable internet no matter how remote.\n\nExperience speeds up to 400+ Mbps to enjoy streaming your favorite shows and sports, video calling, browsing forums and weather apps—even in the most rural areas.\n\nOrder online in under 2 minutes."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67752,
+      "followersCount": 67753,
       "friendsCount": 580,
       "location": ""
     },
@@ -249,7 +403,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67752,
+      "followersCount": 67753,
       "friendsCount": 580,
       "location": ""
     },
@@ -266,7 +420,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67752,
+      "followersCount": 67753,
       "friendsCount": 580,
       "location": ""
     },
@@ -283,7 +437,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4765601,
+      "followersCount": 4766492,
       "friendsCount": 4,
       "location": ""
     },
@@ -337,7 +491,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212180,
+      "followersCount": 212208,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -354,7 +508,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212180,
+      "followersCount": 212208,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -371,7 +525,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67752,
+      "followersCount": 67753,
       "friendsCount": 580,
       "location": ""
     },
@@ -389,7 +543,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 6988,
+      "followersCount": 6986,
       "friendsCount": 763,
       "location": "San Jose, CA"
     },
@@ -404,7 +558,7 @@
       "name": "Gatorade",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2012221936483397633/T5uvzZy2_normal.jpg",
       "description": "Fueling your feed",
-      "followersCount": 312164,
+      "followersCount": 312196,
       "friendsCount": 300,
       "location": "Chicago, IL"
     },
@@ -421,7 +575,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25841,
+      "followersCount": 25854,
       "friendsCount": 5275,
       "location": ""
     },
@@ -436,7 +590,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51589,
+      "followersCount": 51588,
       "friendsCount": 309,
       "location": "China"
     },
@@ -850,7 +1004,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212180,
+      "followersCount": 212208,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -882,7 +1036,7 @@
       "name": "Netflix",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996301804053868544/Xrwvbe1q_normal.jpg",
       "description": "IT'S RUNNING POINT SEASON",
-      "followersCount": 27148837,
+      "followersCount": 27149375,
       "friendsCount": 2239,
       "location": "California, USA"
     },
