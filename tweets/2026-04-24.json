@@ -1,11 +1,142 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13799,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047497035847491725",
+    "fullText": "多方体验都证实：GPT-5.5 黑话不多了，开始说人话了！\n\n这意味着要变天了，兄弟们。A 社快判死刑了"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13799,
+      "friendsCount": 551,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGopXhMbsAACwhr.jpg",
+      "https://pbs.twimg.com/media/HGopXhMbEAAzDDF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047494614710690170",
+    "fullText": "1. GPT-5.5 发布了，不过既然强调各种花边能力，我就知道大概率代码跑分不如 Opus 4.7。果不其然，代码跑分跟 5.4 差不多吧，离 Opus 4.7 还有差距，这一块只能等 GPT-6 了。\n2. Anthropic 正式承认了在从3月初开始的降智问题，主要是几个 Bug https://t.co/b9UIaw5Nso"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 212180,
+      "friendsCount": 1614,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGokHxXWwAE52f1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047493663580659734",
+    "fullText": "GPT Image 2 Prompt：one-page hand-drawn educational infographic\n\n--- Prompt ---\n\nCreate a one-page hand-drawn educational infographic.\n\nStyle:\nWarm cream paper background (#F5F0E8), clean sketchnote style with slight hand-drawn wobble. No realistic elements. Looks like a https://t.co/XMDEZZnS0J"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18257,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2047493391701942673",
+    "fullText": "醒来后发现双手的指头都肿了，握拳有紧绷感，一搜还挺多病能导致这个，明早再观察一次，还有问题周末去看看"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51589,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047489229845127168/vid/avc1/2536x1080/kXmDlaVdsYYp2WUp.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047490898712559926",
+    "fullText": "怎么觉得AI比人拍的还好啊？\n\n这个AI太厉害了，我第一次看广告坚持到最后🤣 https://t.co/5GC7vpFSTe"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51589,
+      "friendsCount": 309,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGof_LRbkAATARU.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047484306030030916",
+    "fullText": "今天全球 AI 领域最大的两件事\n1. GPT-5.5 发布；\n2. Claude Opus 4.7 突然变聪明了；\n\n你说巧不巧🤡 https://t.co/YR7PcWkry6"
+  },
+  {
+    "user": {
+      "screenName": "middlefeng",
+      "name": "FENG DONG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
+      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
+      "followersCount": 6988,
+      "friendsCount": 763,
+      "location": "San Jose, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/middlefeng/status/2047483053661155733",
+    "fullText": "在 Apple Card 上结算完 daily cash reward 之后，还款额度立刻变成了去掉 reward 之后的 remaining payment。这么个功能，其它银行的卡和 app 就还没做到。所以很多时候就算 reward 低一点也喜欢用 Apple Card。"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36303572,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047473015214972928/vid/avc1/1920x1080/368bES_eXV3YHTk1.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2047474356876677380",
+    "fullText": "\"I feel very honored to represent the running backs. And I'm gonna put on for 'em.\" - @JeremiyahLove 🗣️\n\n2026 NFL Draft starts on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/2e48G99euT"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25831,
+      "followersCount": 25841,
       "friendsCount": 5275,
       "location": ""
     },
@@ -22,7 +153,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25831,
+      "followersCount": 25841,
       "friendsCount": 5275,
       "location": ""
     },
@@ -54,7 +185,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25831,
+      "followersCount": 25841,
       "friendsCount": 5275,
       "location": ""
     },
@@ -82,11 +213,26 @@
   },
   {
     "user": {
+      "screenName": "Starlink",
+      "name": "Starlink",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+      "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+      "followersCount": 1593716,
+      "friendsCount": 30,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Starlink/status/2047455998453936609",
+    "fullText": "Starlink’s high-speed internet is available in your area.\n\nExperience speeds up to 400+ Mbps to stream your favorite shows and sports, work from home, browse social media and more."
+  },
+  {
+    "user": {
       "screenName": "yuyy614893671",
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67748,
+      "followersCount": 67752,
       "friendsCount": 580,
       "location": ""
     },
@@ -103,7 +249,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67748,
+      "followersCount": 67752,
       "friendsCount": 580,
       "location": ""
     },
@@ -120,7 +266,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67748,
+      "followersCount": 67752,
       "friendsCount": 580,
       "location": ""
     },
@@ -137,7 +283,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4764924,
+      "followersCount": 4765601,
       "friendsCount": 4,
       "location": ""
     },
@@ -191,7 +337,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212167,
+      "followersCount": 212180,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -208,7 +354,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212167,
+      "followersCount": 212180,
       "friendsCount": 1614,
       "location": "Chicago, IL"
     },
@@ -225,7 +371,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67748,
+      "followersCount": 67752,
       "friendsCount": 580,
       "location": ""
     },
@@ -275,7 +421,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25831,
+      "followersCount": 25841,
       "friendsCount": 5275,
       "location": ""
     },
@@ -290,7 +436,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51590,
+      "followersCount": 51589,
       "friendsCount": 309,
       "location": "China"
     },
@@ -305,7 +451,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12366,
+      "followersCount": 12367,
       "friendsCount": 3001,
       "location": ""
     },
@@ -320,7 +466,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67748,
+      "followersCount": 67752,
       "friendsCount": 580,
       "location": ""
     },
@@ -337,7 +483,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12366,
+      "followersCount": 12367,
       "friendsCount": 3001,
       "location": ""
     },
@@ -354,7 +500,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18256,
+      "followersCount": 18257,
       "friendsCount": 1221,
       "location": ""
     },
@@ -371,7 +517,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65298,
+      "followersCount": 65300,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -388,7 +534,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10570,
+      "followersCount": 10571,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -405,7 +551,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25831,
+      "followersCount": 25841,
       "friendsCount": 5275,
       "location": ""
     },
@@ -423,7 +569,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51590,
+      "followersCount": 51589,
       "friendsCount": 309,
       "location": "China"
     },
@@ -440,7 +586,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18256,
+      "followersCount": 18257,
       "friendsCount": 1221,
       "location": ""
     },
@@ -455,7 +601,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 157454,
+      "followersCount": 157460,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -700,6 +846,23 @@
   },
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 212180,
+      "friendsCount": 1614,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGjNSBlXUAE6cN5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2047111812664197284",
+    "fullText": "GPT 2 Image Prompt:\nDetailed Ghibli-style portrait of a princess kneeling beside a koi pond brimming with glowing lotus blossoms. She wears a soft blue and cream kimono embroidered with swirling waves and fox spirits. A delicate paper parasol rests against her shoulder, and her https://t.co/QuqnJp7JNH"
+  },
+  {
+    "user": {
       "screenName": "netflix",
       "name": "Netflix",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996301804053868544/Xrwvbe1q_normal.jpg",
@@ -712,6 +875,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/netflix/status/2047068680186417582",
     "fullText": "\"‘Beef’ Season 2 Review: Bigger is actually better in Lee Sung Jin’s searing Netflix sequel.\" - IndieWire"
+  },
+  {
+    "user": {
+      "screenName": "netflix",
+      "name": "Netflix",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996301804053868544/Xrwvbe1q_normal.jpg",
+      "description": "IT'S RUNNING POINT SEASON",
+      "followersCount": 27148837,
+      "friendsCount": 2239,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/netflix/status/2047067611058311625",
+    "fullText": "\"Beef season 2 is, hands down, the best TV show of the year. Creator Lee Sung Jin lands at a grand theory of modern love—and it's quietly revolutionary.\" - Esquire"
   },
   {
     "user": {
