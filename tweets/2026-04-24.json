@@ -1,11 +1,79 @@
 [
   {
     "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18254,
+      "friendsCount": 1223,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGrzpbia0AAfInB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2047716884532126197",
+    "fullText": "吃一点卤味睡觉 https://t.co/90MTgHKMO8"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12377,
+      "friendsCount": 3005,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGryJFBaIAA6qvp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047715852603310285",
+    "fullText": "目前来看，@opencode 是适配 DS V4 最快的 Coding Agent，发版当天就适配。而且桌面版也非常很好用。刚才手贱，安装了 CC 的桌面版，被恶心得不行。赶紧卸载了。 https://t.co/vWgnZ69xBV"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12377,
+      "friendsCount": 3005,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGrvZLUaoAAZ_wd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047713255582527526",
+    "fullText": "#AICoding 每日实战分享\n\nDeepSeek V4 发布当日，我迫不及待的尝试在各种 Coding Agent 上试用，轻松完成我的各种编码任务。\n\ndeepseek-v4-pro 和 deepseek-v4-flash 累计工消耗 4 百万 tokens，消费人民币 ¥2.02 元。\n\n哈哈，性价比爆棚。AI 成为一项人人消费得起的国民基础设施，已经实现。 https://t.co/Mg9A9cnR8a"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51703,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGrwPN7bYAQyfG9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047713127287185843",
+    "fullText": "未来的公司会是哪三个人？\n\n我想到的是，肯定要有个行政美女，然后一个码农，第三个是谁？ https://t.co/vRAeKWT22X"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27219,
+      "followersCount": 27220,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -37,8 +105,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -84,8 +152,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -120,7 +188,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65329,
+      "followersCount": 65332,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -138,7 +206,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1222,
+      "friendsCount": 1223,
       "location": ""
     },
     "images": [
@@ -172,7 +240,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1222,
+      "friendsCount": 1223,
       "location": ""
     },
     "images": [],
@@ -186,8 +254,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -203,8 +271,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -220,7 +288,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65329,
+      "followersCount": 65332,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -250,7 +318,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51140,
+      "followersCount": 51141,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -265,8 +333,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [],
@@ -281,7 +349,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1222,
+      "friendsCount": 1223,
       "location": ""
     },
     "images": [
@@ -297,8 +365,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -314,7 +382,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 25986,
+      "followersCount": 25987,
       "friendsCount": 5285,
       "location": ""
     },
@@ -349,7 +417,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212414,
+      "followersCount": 212419,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -366,8 +434,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [],
@@ -398,8 +466,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -416,8 +484,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -465,7 +533,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212414,
+      "followersCount": 212419,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -566,8 +634,8 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51700,
-      "friendsCount": 309,
+      "followersCount": 51703,
+      "friendsCount": 310,
       "location": "China"
     },
     "images": [
@@ -1001,6 +1069,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Starlink/status/2047455998399357312",
     "fullText": "Starlink’s high-speed internet is available in your area.\n\nExperience speeds up to 400+ Mbps to stream your favorite shows and sports, work from home, browse social media and more."
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36309279,
+      "friendsCount": 2805,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047454568888541184/vid/avc1/1920x1080/h4zYKpTzJ0gdTEBP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2047455568843989008",
+    "fullText": "Fernando Mendoza is gearing up to hear his name called with friends, family, and the Heisman Trophy 🙌 @IndianaFootball\n\n2026 NFL Draft starts at 8pm ET on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/2sbG8Ez5jr"
   },
   {
     "user": {
@@ -1752,7 +1837,7 @@
       "name": "Netflix",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996301804053868544/Xrwvbe1q_normal.jpg",
       "description": "IT'S RUNNING POINT SEASON",
-      "followersCount": 27160701,
+      "followersCount": 27161039,
       "friendsCount": 2239,
       "location": "California, USA"
     },
