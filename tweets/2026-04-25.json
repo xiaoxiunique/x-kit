@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 213248,
+      "friendsCount": 1616,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2048135262606393777",
+    "fullText": "https://t.co/nFca1Ce6xh"
+  },
+  {
+    "user": {
       "screenName": "skywind3000",
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
@@ -15,6 +30,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/skywind3000/status/2048105648156741696",
     "fullText": "今天 vibe 了一个 redis/msgpack/json 协议的增量式编解码器，正确性使用三个开源库完整交叉验证，同时性能全面碾压这些成熟的开源库： https://t.co/HYEzgB9vbB"
+  },
+  {
+    "user": {
+      "screenName": "Avenorcom",
+      "name": "Avenorcom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2043415038665560064/23dJmj2q_normal.jpg",
+      "description": "Minimal input. Maximum execution.\nSystems that think, adapt, and act. Built for control, not noise.",
+      "followersCount": 15988,
+      "friendsCount": 61,
+      "location": "Paris, France"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Avenorcom/status/2048104712520479090",
+    "fullText": "Avenor — the most powerful AI agent you’ll ever use, installed in one click\n\nFrom planning your day and handling everyday tasks to generating photos and videos, it does it all in one place."
   },
   {
     "user": {
@@ -54,7 +84,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67945,
+      "followersCount": 67946,
       "friendsCount": 580,
       "location": ""
     },
@@ -119,7 +149,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67945,
+      "followersCount": 67946,
       "friendsCount": 580,
       "location": ""
     },
@@ -219,7 +249,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51348,
+      "followersCount": 51368,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -495,7 +525,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26198,
+      "followersCount": 26200,
       "friendsCount": 5291,
       "location": ""
     },
@@ -564,7 +594,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67945,
+      "followersCount": 67946,
       "friendsCount": 580,
       "location": ""
     },
@@ -872,7 +902,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 170321,
+      "followersCount": 170330,
       "friendsCount": 533,
       "location": "東京 港区"
     },
@@ -1029,7 +1059,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67945,
+      "followersCount": 67946,
       "friendsCount": 580,
       "location": ""
     },
