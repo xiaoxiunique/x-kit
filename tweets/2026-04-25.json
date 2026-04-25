@@ -1,11 +1,73 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 26012,
+      "friendsCount": 5285,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2047839331134403063",
+    "fullText": "我发现，我是一个\n能量状态很受周围人影响的人。\n\n之前，如果见面第一眼，\n感觉这个人气场不合，还一起做事，\n最后的结局都往往很差，很多内耗。\n\n初中和英语老师气场不合英语几乎没学，\n到了高中遇到喜欢的英语老师，\n一学期干到了校第一…\n\n工作也是一样，有几次裸辞\n都是感觉 ld 工作模式让人窒息。"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047836035669954968",
+    "fullText": "GPT 5.5 王者回归， 不要用Claude Code了\n\n理由如下\n\n1. 编程能力和Agent能力超级强大\n\n2. GPT 5.5 现在终于说人话了，不用每天一刀，二刀，刀刀刀的我头皮发麻\n\n3. 算力充足，不像 Claude 那样经常玩降智的小把戏"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51782,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2047834702275576005",
+    "fullText": "这两年买过幸福感最强的电子好物\n\n1. Nuphy Air75 V2 青轴， 矮轴长时间打字不累，Nuphy 独特挤泡泡的声音，越打字越解压\n\n2. Vivo 折叠屏手机，配合懒猫微服的LightOS，我现在真的是移动编程的僧人，只用给我30秒空闲时间配合豆包输入法，我就可以编码全世界\n\n3."
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36313411,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047822311995191296/vid/avc1/1920x1080/R-fJPwufF9FFzKbO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2047822502328467939",
+    "fullText": ".@Browns head coach Todd Monken made sure he got the fist bump from GM Andrew Berry 😂\n\nNFL Draft on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/dUCRRiqrOh"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -35,7 +97,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212453,
+      "followersCount": 212462,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -52,7 +114,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212453,
+      "followersCount": 212462,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -69,7 +131,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212453,
+      "followersCount": 212462,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -86,7 +148,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -104,7 +166,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1223,
+      "friendsCount": 1222,
       "location": ""
     },
     "images": [
@@ -120,8 +182,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12377,
-      "friendsCount": 3008,
+      "followersCount": 12379,
+      "friendsCount": 3009,
       "location": ""
     },
     "images": [
@@ -137,8 +199,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12377,
-      "friendsCount": 3008,
+      "followersCount": 12379,
+      "friendsCount": 3009,
       "location": ""
     },
     "images": [
@@ -154,7 +216,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -171,7 +233,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27223,
+      "followersCount": 27224,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -186,8 +248,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12377,
-      "friendsCount": 3008,
+      "followersCount": 12379,
+      "friendsCount": 3009,
       "location": ""
     },
     "images": [
@@ -203,7 +265,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -235,7 +297,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -254,8 +316,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12377,
-      "friendsCount": 3008,
+      "followersCount": 12379,
+      "friendsCount": 3009,
       "location": ""
     },
     "images": [
@@ -271,7 +333,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65349,
+      "followersCount": 65353,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -289,7 +351,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1223,
+      "friendsCount": 1222,
       "location": ""
     },
     "images": [
@@ -305,8 +367,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12377,
-      "friendsCount": 3008,
+      "followersCount": 12379,
+      "friendsCount": 3009,
       "location": ""
     },
     "images": [
@@ -323,7 +385,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1223,
+      "friendsCount": 1222,
       "location": ""
     },
     "images": [],
@@ -337,7 +399,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -354,7 +416,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -371,7 +433,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65349,
+      "followersCount": 65353,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -401,7 +463,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51151,
+      "followersCount": 51152,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -416,7 +478,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -432,7 +494,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
       "followersCount": 18254,
-      "friendsCount": 1223,
+      "friendsCount": 1222,
       "location": ""
     },
     "images": [
@@ -448,7 +510,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -465,7 +527,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26011,
+      "followersCount": 26012,
       "friendsCount": 5285,
       "location": ""
     },
@@ -483,7 +545,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212453,
+      "followersCount": 212462,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -500,7 +562,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -532,7 +594,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -550,7 +612,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51768,
+      "followersCount": 51782,
       "friendsCount": 310,
       "location": "China"
     },
@@ -599,7 +661,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212453,
+      "followersCount": 212462,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -607,5 +669,20 @@
     "videos": [],
     "tweetUrl": "https://x.com/dotey/status/2047537778959778209",
     "fullText": "https://t.co/c53sSkOPTr"
+  },
+  {
+    "user": {
+      "screenName": "BandaiNamcoUS",
+      "name": "Bandai Namco US",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1992280122142097408/AA_zezbs_normal.jpg",
+      "description": "Official account of Bandai Namco Entertainment America! Promoting console & PC video games. Our Support Team is here to help: https://t.co/ccIMBDh9QX",
+      "followersCount": 1080983,
+      "friendsCount": 302,
+      "location": "Irvine, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BandaiNamcoUS/status/2047127000305791423",
+    "fullText": "Little Nightmares VR: Altered Echoes is out now on PlayStation VR2, Meta Quest, and Steam VR."
   }
 ]
