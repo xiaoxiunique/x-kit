@@ -1,11 +1,43 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12404,
+      "friendsCount": 3014,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvrsHIaIAAX9Fi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047989622333141444",
+    "fullText": "老黄对面那个大胡子把我彻底逗乐了。他居然把英伟达的算力比作浓缩铀在质问老黄为什么想把 AI 芯片卖给中国？\n\n虽然老黄已经努力给他解释，就算我们不卖，对方也有能力发展起来。这只会让我们失去本属于我们的市场和 AI 生态技术栈的全球影响力！ https://t.co/8I9TC6Pgz0"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 27253,
+      "friendsCount": 336,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2047985442130366609",
+    "fullText": "CC 也好 opencode 也好，都有一些很小的 bug 一直修不好，比如 opencode 网页版的消息历史看不到，比如 cc 几个月前引入 edit file 工具修改 \\r\\n 换行的文件时经常 Error editing file，要退化成 sed/python 去修改，这些随手可修的小 bug 长期修不好，莫非它们的开发者已经完全不认识自己的代码了？"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13880,
+      "followersCount": 13885,
       "friendsCount": 552,
       "location": "杭州"
     },
@@ -22,7 +54,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27248,
+      "followersCount": 27253,
       "friendsCount": 336,
       "location": "Guangdong"
     },
@@ -39,7 +71,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13880,
+      "followersCount": 13885,
       "friendsCount": 552,
       "location": "杭州"
     },
@@ -54,7 +86,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12403,
+      "followersCount": 12404,
       "friendsCount": 3014,
       "location": ""
     },
@@ -86,8 +118,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26082,
-      "friendsCount": 5287,
+      "followersCount": 26087,
+      "friendsCount": 5288,
       "location": ""
     },
     "images": [
@@ -106,7 +138,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -123,7 +155,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12403,
+      "followersCount": 12404,
       "friendsCount": 3014,
       "location": ""
     },
@@ -140,7 +172,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12403,
+      "followersCount": 12404,
       "friendsCount": 3014,
       "location": ""
     },
@@ -172,7 +204,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13880,
+      "followersCount": 13885,
       "friendsCount": 552,
       "location": "杭州"
     },
@@ -189,7 +221,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -204,7 +236,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13880,
+      "followersCount": 13885,
       "friendsCount": 552,
       "location": "杭州"
     },
@@ -219,8 +251,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26082,
-      "friendsCount": 5287,
+      "followersCount": 26087,
+      "friendsCount": 5288,
       "location": ""
     },
     "images": [],
@@ -234,7 +266,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65416,
+      "followersCount": 65431,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -254,8 +286,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26082,
-      "friendsCount": 5287,
+      "followersCount": 26087,
+      "friendsCount": 5288,
       "location": ""
     },
     "images": [],
@@ -269,7 +301,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12403,
+      "followersCount": 12404,
       "friendsCount": 3014,
       "location": ""
     },
@@ -286,8 +318,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26082,
-      "friendsCount": 5287,
+      "followersCount": 26087,
+      "friendsCount": 5288,
       "location": ""
     },
     "images": [],
@@ -303,7 +335,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -318,7 +350,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -335,7 +367,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51921,
+      "followersCount": 51925,
       "friendsCount": 310,
       "location": "China"
     },
@@ -350,7 +382,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13880,
+      "followersCount": 13885,
       "friendsCount": 552,
       "location": "杭州"
     },
@@ -399,8 +431,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 75987,
-      "friendsCount": 3566,
+      "followersCount": 75999,
+      "friendsCount": 3568,
       "location": ""
     },
     "images": [],
@@ -414,7 +446,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -429,7 +461,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 169579,
+      "followersCount": 169610,
       "friendsCount": 533,
       "location": "東京 港区"
     },
@@ -449,7 +481,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -466,7 +498,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -518,7 +550,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51921,
+      "followersCount": 51925,
       "friendsCount": 310,
       "location": "China"
     },
@@ -567,8 +599,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26082,
-      "friendsCount": 5287,
+      "followersCount": 26087,
+      "friendsCount": 5288,
       "location": ""
     },
     "images": [],
@@ -582,7 +614,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51921,
+      "followersCount": 51925,
       "friendsCount": 310,
       "location": "China"
     },
@@ -597,7 +629,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51921,
+      "followersCount": 51925,
       "friendsCount": 310,
       "location": "China"
     },
@@ -661,7 +693,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51921,
+      "followersCount": 51925,
       "friendsCount": 310,
       "location": "China"
     },
@@ -691,7 +723,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212805,
+      "followersCount": 212850,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -708,7 +740,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212805,
+      "followersCount": 212850,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -725,7 +757,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 212805,
+      "followersCount": 212850,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -742,7 +774,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 51921,
+      "followersCount": 51925,
       "friendsCount": 310,
       "location": "China"
     },
@@ -759,7 +791,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -1287,7 +1319,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18298,
+      "followersCount": 18300,
       "friendsCount": 1222,
       "location": ""
     },
@@ -1329,6 +1361,23 @@
     ],
     "tweetUrl": "https://x.com/NFL/status/2047450018718880033",
     "fullText": "\"A once in a lifetime opportunity.\"\n\n@AlabamaFTBL QB Ty Simpson hopes to hear his named called on night 1️⃣\n\n2026 NFL Draft starts at 8pm ET on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/kU74Wty5bs"
+  },
+  {
+    "user": {
+      "screenName": "useKled",
+      "name": "Kled AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925318984465047552/K7IXDX-V_normal.jpg",
+      "description": "The first data marketplace. Sourcing the largest licensable multimodal datasets on the planet.",
+      "followersCount": 18771,
+      "friendsCount": 30,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047368833522917376/vid/avc1/1920x1080/hfnmsQb6y7-lEo98.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/useKled/status/2047370922802151563",
+    "fullText": "We created the world’s best captcha.\n\nThe first captcha that is: free for companies, pays you to solve it, impossible to bot, and instead of showing you images of random traffic lights, you’re shown real AI training data to validate.\n\nData is provided exclusively by Kled, and https://t.co/EZjhDg73j3"
   },
   {
     "user": {
