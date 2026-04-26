@@ -1,0 +1,611 @@
+[
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 213320,
+      "friendsCount": 1616,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2048135262606393777",
+    "fullText": "https://t.co/nFca1Ce6xh"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 27281,
+      "friendsCount": 338,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGxTthnbQAAT8P7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2048105648156741696",
+    "fullText": "今天 vibe 了一个 redis/msgpack/json 协议的增量式编解码器，正确性使用三个开源库完整交叉验证，同时性能全面碾压这些成熟的开源库： https://t.co/HYEzgB9vbB"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12458,
+      "friendsCount": 3027,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGxALgRb0AApvvT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2048084476517810240",
+    "fullText": "OpenAI GPT 5.5 发布已经 2 天了。今天看到大部分 Coding Agent 都已经适配完成。\n\n1.1M 的上下文容量略胜 DeepSeek V4 一筹，可这 $180/百万 Tokens 单价可真是遥遥领先啊！\n\n其实官方 API 报价输出是 30 刀了，但对于编码而言，会有很多隐形推理，所以 Coding Agent 会按 worst-case https://t.co/HQFcOHWF20"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67976,
+      "friendsCount": 580,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGw8ciDaEAMwqK8.jpg",
+      "https://pbs.twimg.com/media/HGw8ciEa8AAbD2z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2048078402981368092",
+    "fullText": "在看这篇报道，Bloomberg对美国前副国务卿，也是2015年核协议的设计师温迪·谢尔曼的采访\n\n她认为，此刻美国在面对伊朗时，局势更加严峻、风险更大，并且在战略上被误判……\n\n等看完了，再跟大家分享她的观点 https://t.co/dLW2pacv9b"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76086,
+      "friendsCount": 3571,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2048056125661327605",
+    "fullText": "https://t.co/VUa0A4t6mn"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12458,
+      "friendsCount": 3027,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwgG5MbUAAwRlj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2048048315187818958",
+    "fullText": "好消息：DeepSeek V4 Pro 大降价了\n\ndeepseek-v4-pro 模型限时 2.5 折，优惠期至北京时间 2026/05/05 23:59\n\n大家甩开膀子加油干！日烧一个亿的 tokens，大力出奇迹！ https://t.co/iaWIKxEYrA"
+  },
+  {
+    "user": {
+      "screenName": "yihong0618",
+      "name": "yihong0618",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+      "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
+      "followersCount": 76086,
+      "friendsCount": 3571,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihong0618/status/2048039740889538639",
+    "fullText": "#selected 这个是我对 LLM 生成的视频改观的一个视频，甚至做为 AI 视频分水岭都不为过，里面想一下作者不经意间的解构主义也特别有趣\nhttps://t.co/RuwRGxBuiA"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67976,
+      "friendsCount": 580,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwYhqWa4AIw-CW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2048038900166459644",
+    "fullText": "美国能源出口创新高，根据美国能源署的数据每天出口量达到1200桶（原油当量）；下图是开往美国的空运油船的数量（都是来美国买油的）\n\n那句话叫啥来着？要爆了 https://t.co/PHGE9uI2i0"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18358,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwXk1obkAAXqHo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2048037861690425380",
+    "fullText": "亲爱的小哥哥/小姐姐，让宝贝久等了，\n终于收到的美食希望您喜欢，\n若有任何不满意的地方，\n请与我们联系！ https://t.co/YVDu2XDI1z"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52072,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwVI95bUAAiIML.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048035185783103964",
+    "fullText": "上次打印有点纹路跟翘边，你们教育我说要涂胶，耗材要烘干…还有热心推友建议我去闲鱼买果干机烘干🥲神奇操作\n\n不过我最后还是买了这种看上去很正经的专门烘干3D打印耗材的烘干机。\n\n据说这牌子是给拓竹代工3D打印耗材的？有没有懂的推友科普科普。 https://t.co/zF6BIpWO4m"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18358,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2048032493321011392",
+    "fullText": "鸭嘴兽是世界上又会产蛋又会产乳的动物，是唯一一可以自己做蛋挞的"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52072,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwQgFsaAAAzBgU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048030113070256368",
+    "fullText": "XChat 推迟一次：老马肯定在憋大招，毕竟要对标微信；\n\nXChat 推迟两次：什么情况，想做的多导致太复杂了？\n\nXChat 现已上线：是不是在逗我？这不就是把推特的私信单列出去了？？？🥲 https://t.co/77FGu4NYtn"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52072,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwHKNwa0AAkb1E.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048020290849083454",
+    "fullText": "一声唏嘘，大 F 居然要没了\n\n相当于键盘圈流行退烧就买大 F\n\n我司现在还有人在用 Filco，质量确实好\n\n只不过现在国内机械键盘百花齐放，各种轴体层出不穷，确实把体验干得更好了，当然也更便宜。 https://t.co/ywBUUCOao3"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 51391,
+      "friendsCount": 893,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwCpkzbYAA6bew.jpg",
+      "https://pbs.twimg.com/media/HGwCqaIaMAAWOZP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2048014871950983305",
+    "fullText": "今天去看了阿那亚雾灵山三期的联排别墅的项目，精装修交房，总价350－420万，销售说预计做民宿年收益回报率在5％－10％，不考虑房价预期，就这个收益率还挺心动的。\n\n这个项目有意思的是，他的楼梯是在户外，所以一套别墅可以分两套出租，互不干扰，也可以拿一层自住。 https://t.co/7It2dkckiK"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52072,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwCcjtbQAAX16W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048014629931233540",
+    "fullText": "让 GPT Image2 联网搜索给我画了张懒猫微服的五一劳动节宣传图\n\n是不是感觉还可以？\n\n资深设计师没个1天画不出来吧？\n\n唯一的问题是\n\n图片的产品是哪家的？这瞄的不是懒猫微服啊🥲 https://t.co/mebIHsgaPd"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52072,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGv-iiCasAArN4z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048010591412113799",
+    "fullText": "键盘带屏幕我能理解\n\n但鼠标.....何意味？\n\n不如带个麦克风来 Vibe Coding 🥲 https://t.co/YYQsxG0Nku"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13927,
+      "friendsCount": 553,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2048006957643038843",
+    "fullText": "今天在特斯拉店里修车，听到非常小的小女孩被爷爷教去用豆包 AI。\n\n小女孩👧很自然的就开始跟豆包问问题，说什么豆包豆包，求求你了🥺，教教我怎么画xxx，我下次带零食给你吃。\n\n我就感觉真是牛逼大了"
+  },
+  {
+    "user": {
+      "screenName": "alanblogsooo",
+      "name": "世界是棵树",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1694598436153339904/Y8kaqjAG_normal.jpg",
+      "description": "产品经理、设计师。\nYOOART IMAGE 聚合 20+ AI 生图模型：https://t.co/22QUvDwKin\nNano-Banana-Pro 500+ 提示词案例：https://t.co/KTBeuTPETI",
+      "followersCount": 903,
+      "friendsCount": 600,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGv2vs8boAEizZ4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alanblogsooo/status/2048002476578922574",
+    "fullText": "YOOART IMAGE 第一个版本就是用的 Cursor 开发出来的，还是蛮喜欢 Cursor 的，今天又下载了新版本，发现 Agent 模式和 Codex 很像，但是感觉很轻巧，反应速度非常快，还想深度体验下，看到 Cursor 在赠送体验额度，可以随便给我也来点么 😜😜\n@edwinarbus  @cursor_ai https://t.co/57E3GTRswK"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13927,
+      "friendsCount": 553,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2048001927032533381",
+    "fullText": "到底是雇佣个大学生更便宜，还是搞个 Agent 员工更便宜？"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12458,
+      "friendsCount": 3027,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvrsHIaIAAX9Fi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047989622333141444",
+    "fullText": "老黄对面那个大胡子把我彻底逗乐了。他居然把英伟达的算力比作浓缩铀在质问老黄为什么想把 AI 芯片卖给中国？\n\n虽然老黄已经努力给他解释，就算我们不卖，对方也有能力发展起来。这只会让我们失去本属于我们的市场和 AI 生态技术栈的全球影响力！ https://t.co/8I9TC6Pgz0"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 27281,
+      "friendsCount": 338,
+      "location": "Guangdong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2047985442130366609",
+    "fullText": "CC 也好 opencode 也好，都有一些很小的 bug 一直修不好，比如 opencode 网页版的消息历史看不到，比如 cc 几个月前引入 edit file 工具修改 \\r\\n 换行的文件时经常 Error editing file，要退化成 sed/python 去修改，这些随手可修的小 bug 长期修不好，莫非它们的开发者已经完全不认识自己的代码了？"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13927,
+      "friendsCount": 553,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvdWVNaQAADfRR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047973954028245051",
+    "fullText": "Cursor 这个新的 Agents 模式还不错啊（不花钱的东西就是好用） https://t.co/wxyZSrhl26"
+  },
+  {
+    "user": {
+      "screenName": "skywind3000",
+      "name": "LIN WEI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+      "followersCount": 27281,
+      "friendsCount": 338,
+      "location": "Guangdong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvbUeta8AA2w8Y.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/skywind3000/status/2047971696385404960",
+    "fullText": "这游戏居然才 32MB，挺好玩 https://t.co/JPBqKV8DpC"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13927,
+      "friendsCount": 553,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047971202614821237",
+    "fullText": "感觉 Cursor 送的一万刀又给我造成了新的 Tokens 焦虑，又在不断地用，不断地烧。"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12458,
+      "friendsCount": 3027,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047969389815963903",
+    "fullText": "说实话，周末两天休息对于打工牛马真的太重要了。我想我再也回不到周六要上班的公司了。\n\n只有 2 天才能充分得到充电和放松，想学习的在家学习，想出去玩的出去玩。\n\n我非常享受目前公司的周末双休，我可以充分的利用周末时间写点我喜欢写的代码。"
+  },
+  {
+    "user": {
+      "screenName": "nateleex",
+      "name": "李自然 Nate Lee",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
+      "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
+      "followersCount": 10651,
+      "friendsCount": 179,
+      "location": "Shanghai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvW5VjbgAEmq4z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nateleex/status/2047966738411884984",
+    "fullText": "看看什么眼镜能配上我今天做的发型 https://t.co/NrlAxZlYej"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 26233,
+      "friendsCount": 5291,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvT35rbYAAdvXC.jpg",
+      "https://pbs.twimg.com/media/HGvT4S4bIAALK4P.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047963424303554560/vid/avc1/958x720/tGZ_9OPC-aHz45A2.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/cellinlab/status/2047963476178657613",
+    "fullText": "卧槽，这个必须分享！！！「附详细提示词」🔥\n\n终于用 Rita 把脑洞里的 K-pop 女团 MV 直接干出来了！\n\n全程零剪辑、零换工具，从分镜到成片不到 10 分钟就丝滑出炉！\n\n过程超简单：\n1）先用 GPT Image 2 一键生成 12 帧高端分镜，每帧都自带电影感、时尚感和女团专属氛围。\n\n2）再把分镜丢进 Seedance https://t.co/SYWgPIHkma"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18358,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvRki0b0AE4hb3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2047960894047650115",
+    "fullText": "吃的最爽的除了疯狂星期四的香骨鸡就是塔斯汀的十翅一桶，饿了是真的能吃过瘾 https://t.co/TG5dfRzeRm"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12458,
+      "friendsCount": 3027,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGu2SDaaMAAIhm8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047932322541175143",
+    "fullText": "#AICoding 每日实战分享\n\n这个周末愉快的用 ClaudeCode + DeepSeek V4 疯狂输出。有点大力出奇迹的感觉。\n\n玩了一段时间各种组合模式的AICoding，简单心得就是一个 Coding Agent 好不好用，得看如下 3 方面的能力：\n\n🥑Agent壳子的执行力行不行\n\n🍓LLM 的推理决策能力行不行 https://t.co/ScXhWAxFpx"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12458,
+      "friendsCount": 3027,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2047915159272976623",
+    "fullText": "就我这么一个小米渣，还有人专门艾特我，让我别吹 DeepSeek 了，经他测试 DS V4 如何的差劲。\n\n我就想问问，你看得明白 DS V4 发布背后的真实意义吗？如果看不明白，我给你摘录一段美国发布的关于赢得 AI 竞赛行动计划政策文件中的一句话，给你补补课。\n\n“要确保美国在全球 AI"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67976,
+      "friendsCount": 580,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGuiYDkb0AA3WAP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2047911107491508391",
+    "fullText": "【书和电影】\n《天才雷普利》的故事大家都看过吧，马特.戴蒙演的电影大家也都看过吧？\n\n不过我要推荐的是奈飞上的这部剧，把罪案片拍得如此美，如此克制又疯狂；那疏离的，眼睁睁看着命运舒展在自己眼前，毫不费力滑向深渊的那必然，怎么对抗......\n\n想起毛尖老师的那本影评的名字《非常罪，非常美》 https://t.co/jG1tYObQUI"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13927,
+      "friendsCount": 553,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGuWUnvbUAAc1R2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047896576333602878",
+    "fullText": "如果现在希望从 Claude Code 切换到 Codex，感觉已经很方便了。现在在任何项目启动 Codex 的时候，都会主动提示你迁移相关的 Claude Code 配置和内容，如：settings、skills、Claude.md 到 Agents.md。你只只需要一键确认，Claude Code 基本的配置就能迁移到 Codex 了，非\n\n你只只需要一键确认，Claude https://t.co/35kj2KgDNU"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18358,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2047891936292536669",
+    "fullText": "有建个 XChat 的冲动，后一想人多了太杂，其实也没什么好聊的\n\n这样吧，dm 我加微，有什么微群也可以拉我一下，感恩的心"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13927,
+      "friendsCount": 553,
+      "location": "杭州"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2047890465404395894",
+    "fullText": "经过昨天的高强度使用，现在 GPT-5.5 已经取代 Opus 4.7 成为了我的心头好。\n\n大家能不能评论区给我发点 GPT、Codex 相关的表情包，以后我可能会经常用到。"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 170462,
+      "friendsCount": 533,
+      "location": "東京 港区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGsxVNabAAE5w8x.jpg",
+      "https://pbs.twimg.com/media/HGsxWG6aQAAjBpT.jpg",
+      "https://pbs.twimg.com/media/HGsxa7QaYAAG5vT.jpg",
+      "https://pbs.twimg.com/media/HGsxc0cboAAbNR1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/turingou/status/2047860898560373246",
+    "fullText": "今天非常高兴和大家正式介绍并开源我的第 14 款 vibe 产品 https://t.co/KF6aPxWo89\n\n它的理念很简单，让世界上所有人，都能在 AI agents 团队的帮助下，从零创办或接管任何组织，围绕用户的核心意图，持续自动化地运营一人公司。\n\n为了实践这种理念，wanman 必须设计的尽可能简单，不需部署，不用买 https://t.co/ohcez1YwFW"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 67976,
+      "friendsCount": 580,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2047844287526969428",
+    "fullText": "最近的苦闷是，手边没有什么中文的好书可以看\n\n母语阅读与我，就像儿时家乡的荠菜馄饨，隔一段时间不吃就想念得紧；隔一段时间，没有中文好书阅读，也会觉得人生百无聊赖\n\n是不是要把李开元老师的《秦崩》三部曲拿出来再看一遍"
+  },
+  {
+    "user": {
+      "screenName": "NBAonPrime",
+      "name": "NBA on Prime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1942700015220150272/DvNI7qLF_normal.jpg",
+      "description": "April 24 🏀 #NBAPlayoffs \nCeltics @ 76ers | 6:30PM ET \nLakers @ Rockets | 8PM ET\nSpurs @ Trail Blazers | 10:30PM ET",
+      "followersCount": 44555,
+      "friendsCount": 77,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NBAonPrime/status/2047767726123266443",
+    "fullText": "The NBA Playoffs presented by Google continue Wednesday on Prime."
+  }
+]
