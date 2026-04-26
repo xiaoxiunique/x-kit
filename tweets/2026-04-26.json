@@ -1,12 +1,81 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52107,
+      "friendsCount": 310,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGzOdthaAAAl2QL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048238943188271453",
+    "fullText": "打印了一个厨房收纳架，领导好评🥰 https://t.co/YlAZuGXgv6"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 51451,
+      "friendsCount": 893,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGzGyd6agAAa4pC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2048231652825166296",
+    "fullText": "蛋疼，Claude Design 的用量太容易触发限额了。Max的订阅，备课我就尝试了4个项目就触发限额了，然后需要等一周。\n\n昨天恢复了，尝试了2个项目 + 2个Design System又触发了限额...我本来今天准备录课的🫠 https://t.co/ZbgttCX4If"
+  },
+  {
+    "user": {
       "screenName": "xiongchun007",
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12462,
-      "friendsCount": 3027,
+      "followersCount": 12474,
+      "friendsCount": 3035,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2048225208327360956",
+    "fullText": "就在昨天，matharena 已将 DeepSeek-V4-Pro 的测试成绩添加到排行榜中。\n\n所有模型榜单\nGPT 第一名\nGemini 第二名\nDeepSeek 第三名\n\n开源模型榜单\nDeepSeek  第一名 🥇\n后面前十基本是中国队选手\n\n提示：matharena"
+  },
+  {
+    "user": {
+      "screenName": "turingou",
+      "name": "郭宇 guoyu.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+      "description": "Retired. 只活一次等于没活。",
+      "followersCount": 170641,
+      "friendsCount": 533,
+      "location": "東京 港区"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048154031298928640/vid/avc1/860x1864/scJsl-6CI8cN-m48.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2048154031361871872/vid/avc1/860x1864/k-Mq88qzCgeJPWy2.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2048154031303127040/vid/avc1/860x1864/DcBmcIPyLX30HoDp.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/2048154031315619840/vid/avc1/860x1864/HdtCVVgaPR5PhxyR.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/turingou/status/2048225048092414042",
+    "fullText": "很高兴和大家介绍我的第 15 款 Vibe 产品「摇曳电台」 https://t.co/VaGDy2ZQ4n\n\n这款产品的灵感来自于两周前和啵啵在上海看法兰克福头盔和 Frank Bretschneider 的现场 live 时，我意识到许多艺术家使用可视化技术来进行音乐表达。\n\n那么，为什么没有人为艺术家、音乐现场和自媒体做一款基于 AI https://t.co/WsNl3XMTjJ"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12474,
+      "friendsCount": 3035,
       "location": ""
     },
     "images": [
@@ -22,7 +91,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67990,
+      "followersCount": 67993,
       "friendsCount": 580,
       "location": ""
     },
@@ -33,11 +102,28 @@
   },
   {
     "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36335208,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048160027756670976/vid/avc1/1920x1080/OUA4TtWLiedAa6un.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2048160392048779580",
+    "fullText": "A moment on stage for the 226th pick, also known as the Pat Tillman pick 🙌 @pattillmanfnd https://t.co/vlGrrEqd12"
+  },
+  {
+    "user": {
       "screenName": "dotey",
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 213389,
+      "followersCount": 213434,
       "friendsCount": 1616,
       "location": "Chicago, IL"
     },
@@ -69,7 +155,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27286,
+      "followersCount": 27289,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -86,8 +172,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12462,
-      "friendsCount": 3027,
+      "followersCount": 12474,
+      "friendsCount": 3035,
       "location": ""
     },
     "images": [
@@ -103,7 +189,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67990,
+      "followersCount": 67993,
       "friendsCount": 580,
       "location": ""
     },
@@ -121,8 +207,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76103,
-      "friendsCount": 3571,
+      "followersCount": 76119,
+      "friendsCount": 3572,
       "location": ""
     },
     "images": [],
@@ -136,8 +222,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12462,
-      "friendsCount": 3027,
+      "followersCount": 12474,
+      "friendsCount": 3035,
       "location": ""
     },
     "images": [
@@ -153,8 +239,8 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76103,
-      "friendsCount": 3571,
+      "followersCount": 76119,
+      "friendsCount": 3572,
       "location": ""
     },
     "images": [],
@@ -168,7 +254,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 67990,
+      "followersCount": 67993,
       "friendsCount": 580,
       "location": ""
     },
@@ -185,7 +271,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18364,
+      "followersCount": 18370,
       "friendsCount": 1221,
       "location": ""
     },
@@ -202,7 +288,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52095,
+      "followersCount": 52107,
       "friendsCount": 310,
       "location": "China"
     },
@@ -219,7 +305,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18364,
+      "followersCount": 18370,
       "friendsCount": 1221,
       "location": ""
     },
@@ -234,7 +320,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52095,
+      "followersCount": 52107,
       "friendsCount": 310,
       "location": "China"
     },
@@ -251,7 +337,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52095,
+      "followersCount": 52107,
       "friendsCount": 310,
       "location": "China"
     },
@@ -268,7 +354,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51413,
+      "followersCount": 51451,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -286,7 +372,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52095,
+      "followersCount": 52107,
       "friendsCount": 310,
       "location": "China"
     },
@@ -303,7 +389,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52095,
+      "followersCount": 52107,
       "friendsCount": 310,
       "location": "China"
     },
@@ -320,7 +406,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13931,
+      "followersCount": 13935,
       "friendsCount": 553,
       "location": "杭州"
     },
@@ -352,7 +438,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13931,
+      "followersCount": 13935,
       "friendsCount": 553,
       "location": "杭州"
     },
@@ -367,8 +453,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12462,
-      "friendsCount": 3027,
+      "followersCount": 12474,
+      "friendsCount": 3035,
       "location": ""
     },
     "images": [
@@ -384,7 +470,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27286,
+      "followersCount": 27289,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -399,7 +485,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13931,
+      "followersCount": 13935,
       "friendsCount": 553,
       "location": "杭州"
     },
@@ -416,7 +502,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27286,
+      "followersCount": 27289,
       "friendsCount": 338,
       "location": "Guangdong"
     },
@@ -433,7 +519,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13931,
+      "followersCount": 13935,
       "friendsCount": 553,
       "location": "杭州"
     },
@@ -448,8 +534,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12462,
-      "friendsCount": 3027,
+      "followersCount": 12474,
+      "friendsCount": 3035,
       "location": ""
     },
     "images": [],
@@ -463,7 +549,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10652,
+      "followersCount": 10654,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -480,8 +566,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26265,
-      "friendsCount": 5291,
+      "followersCount": 26286,
+      "friendsCount": 5293,
       "location": ""
     },
     "images": [
@@ -500,7 +586,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18364,
+      "followersCount": 18370,
       "friendsCount": 1221,
       "location": ""
     },
@@ -517,8 +603,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12462,
-      "friendsCount": 3027,
+      "followersCount": 12474,
+      "friendsCount": 3035,
       "location": ""
     },
     "images": [
@@ -613,7 +699,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 170564,
+      "followersCount": 170641,
       "friendsCount": 533,
       "location": "東京 港区"
     },
@@ -663,7 +749,7 @@
       "name": "Dell",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1901718960674054144/AzL9Kn7y_normal.png",
       "description": "Empowering progress with tech built for you. Real-world solutions, bold ideas, and a future driven by innovation.\n\nNeed support? Contact @DellCares.",
-      "followersCount": 795412,
+      "followersCount": 795506,
       "friendsCount": 3902,
       "location": "Round Rock, TX and Global"
     },
