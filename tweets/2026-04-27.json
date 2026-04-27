@@ -1,6 +1,159 @@
 [
   {
     "user": {
+      "screenName": "chuckchen_zh",
+      "name": "Chuck Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1953014077409959936/-rMLq_yS_normal.jpg",
+      "description": "💻 技术创业者，脱离9-5，屡败屡创\n📸 自启动构建非AI工具\n✍️ 写下的才是我能思考的\n🥷 @chuckchen中文分身",
+      "followersCount": 89,
+      "friendsCount": 103,
+      "location": "免费AI工具 →"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047581359422545920/vid/avc1/1280x720/Uw3Egqv9ddKaayqk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/chuckchen_zh/status/2048608204146565359",
+    "fullText": "https://t.co/62zKu4pM87"
+  },
+  {
+    "user": {
+      "screenName": "LeeMmai",
+      "name": "李麦麦",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
+      "description": "一直到时间的尽头",
+      "followersCount": 18453,
+      "friendsCount": 1221,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LeeMmai/status/2048605822692049001",
+    "fullText": "BTC 马上上 8w 了，快进到 「BTC 没有辜负任何人」阶段，我最爱的一集"
+  },
+  {
+    "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13959,
+      "friendsCount": 554,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4bA7ka8AAFWhU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2048604588379680820",
+    "fullText": "同时让 Claude Opus 4.7 和 Codex GPT-5.5 分析同一个难题，这次 GPT-5.5 认输了，说 Opus 4.7 说的对。 https://t.co/lbqHDuHnaf"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 68119,
+      "friendsCount": 581,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4Wj1ha4AEMpkZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2048600164118741144",
+    "fullText": "Goldman Sachs lifted its oil-price forecasts as the prolonged closure of the Strait of Hormuz spurs “extreme” inventory draws. \nBrent is expected to average $90 a barrel in the fourth quarter, up from a previous outlook for $80.  The bank also hiked forecasts for the current and https://t.co/TMRfU0Cda8"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52258,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4TwHobgAAs3uJ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048596801037730041",
+    "fullText": "痛，痛，痛！Codex 上线的自动Review干货详解\n\n为什么需要，我们每天烧4亿Token的CTO如何评价\n\n和以前手动Review有啥区别，其实就是以下几个方面：\n\n1. /review 的上下文最清晰，比开一个subagent自己去教diff+review效果好\n\n2. 和Github集成好，能自动view线上的PR(懂的都懂）\n\n3. CTO说: https://t.co/7vu7LNy2J8"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52258,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048127155306147841/vid/avc1/464x848/b4gwegppSqZQa6xO.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048592338851942434",
+    "fullText": "太卷了，一个笔记本支架都能做到这么好\n\n十八般武艺样样精通了\n\n我先下单\nhttps://t.co/Pk8rswV2hp"
+  },
+  {
+    "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 26478,
+      "friendsCount": 5306,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4P1Kdb0AAj4dF.jpg",
+      "https://pbs.twimg.com/media/HG4P1bbbkAAoNoL.jpg",
+      "https://pbs.twimg.com/media/HG4P1ljaYAAqgrl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2048592296707584145",
+    "fullText": "用 DeepSeek V4 试了新挖来的 六爻 Skill！「附完整提示词」🔥\n（相信我，这个玄学 Skill 看完你一定想要👀\n\n心心念的 DS V4 终于发布了，还是老样子把顶级性能 + 极致性价比拉到新高度。\n\n回想我第一次用 DeepSeek 就是让它排八字，刚刚用最新版 V4 + 一个超级严谨的六爻三币法 https://t.co/f9p0Rxi5OM"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52258,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4NluhbsAAe9YH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048590039052140610",
+    "fullText": "都2026年4月底了，还有人在用所谓 OpenClaw 职业培训“骗钱”啊🥲\n\n哪有那么复杂，一秒装完小龙猫，二秒即可启动  OpenClaw 或者 Hermes Agent....\n\n培训？是什么🤡 https://t.co/LOsHK5b6GL"
+  },
+  {
+    "user": {
+      "screenName": "yihui_indie",
+      "name": "Yihui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+      "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
+      "followersCount": 51621,
+      "friendsCount": 893,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4M2znbAAArCMw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yihui_indie/status/2048589026442240065",
+    "fullText": "谁能告诉我影视飓风最新这期，里面 37 秒出现的这个屏幕是什么！！！ https://t.co/iklolh50pg"
+  },
+  {
+    "user": {
       "screenName": "fkysly",
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
@@ -15,6 +168,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2048585867460002207",
     "fullText": "有个哥们儿，一天之内莫名其妙被扣了 200 美元，就因为他的 git 提交记录里有一个字符串——\"HERMES.md\"。\n\n事情是这样的：\n\nHERMES.md 是 AI agent 项目里一个很常见的文件名，用来存系统提示词的规范文件，根本不是什么冷门东西。\n\n这哥们订的是 Claude Max 20x 计划，一个月 200 美刀。昨天 Claude https://t.co/HEQIcxGMVp"
+  },
+  {
+    "user": {
+      "screenName": "elijahliststeve",
+      "name": "Steve Shultz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
+      "description": "Founder, https://t.co/qBoW0MN4C9 , #MAGA #PATRIOT! #XRP, Gold, Silver, #dinar zealot! #Prophets #JESUSCHRIST #TRUMP! 🇺🇸🙏🇺🇸",
+      "followersCount": 69123,
+      "friendsCount": 6722,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elijahliststeve/status/2048581593690681607",
+    "fullText": "When one industry spends hundreds of millions on politicians…\nDo you really think they’re working for you?\nFollow this account."
   },
   {
     "user": {
@@ -39,7 +207,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68114,
+      "followersCount": 68119,
       "friendsCount": 581,
       "location": ""
     },
@@ -71,8 +239,8 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26471,
-      "friendsCount": 5305,
+      "followersCount": 26478,
+      "friendsCount": 5306,
       "location": ""
     },
     "images": [
@@ -103,7 +271,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68114,
+      "followersCount": 68119,
       "friendsCount": 581,
       "location": ""
     },
@@ -214,7 +382,7 @@
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
       "description": "喜欢王小波，大概我们能成为朋友。 \n我的 2026 https://t.co/8qePTEUKTP\n我的 2025 https://t.co/CoyF2jGGeV \n我的 2024 https://t.co/wiW8bky8rV \n..............",
-      "followersCount": 76191,
+      "followersCount": 76195,
       "friendsCount": 3574,
       "location": ""
     },
