@@ -1,6 +1,23 @@
 [
   {
     "user": {
+      "screenName": "fkysly",
+      "name": "马天翼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+      "description": "Indie hacker & AI.",
+      "followersCount": 13959,
+      "friendsCount": 554,
+      "location": "杭州"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG4J-wFaoAA1xz_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fkysly/status/2048585867460002207",
+    "fullText": "有个哥们儿，一天之内莫名其妙被扣了 200 美元，就因为他的 git 提交记录里有一个字符串——\"HERMES.md\"。\n\n事情是这样的：\n\nHERMES.md 是 AI agent 项目里一个很常见的文件名，用来存系统提示词的规范文件，根本不是什么冷门东西。\n\n这哥们订的是 Claude Max 20x 计划，一个月 200 美刀。昨天 Claude https://t.co/HEQIcxGMVp"
+  },
+  {
+    "user": {
       "screenName": "NASCAR",
       "name": "NASCAR",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2048546848072421376/tg96_DKr_normal.jpg",
@@ -22,7 +39,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68113,
+      "followersCount": 68114,
       "friendsCount": 581,
       "location": ""
     },
@@ -54,7 +71,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26469,
+      "followersCount": 26471,
       "friendsCount": 5305,
       "location": ""
     },
@@ -86,7 +103,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68113,
+      "followersCount": 68114,
       "friendsCount": 581,
       "location": ""
     },
@@ -133,7 +150,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65692,
+      "followersCount": 65701,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -212,7 +229,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13956,
+      "followersCount": 13959,
       "friendsCount": 554,
       "location": "杭州"
     },
@@ -227,7 +244,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18445,
+      "followersCount": 18451,
       "friendsCount": 1221,
       "location": ""
     },
@@ -279,7 +296,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65692,
+      "followersCount": 65701,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -328,7 +345,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12570,
+      "followersCount": 12573,
       "friendsCount": 3052,
       "location": ""
     },
@@ -345,7 +362,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65692,
+      "followersCount": 65701,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -360,7 +377,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12570,
+      "followersCount": 12573,
       "friendsCount": 3052,
       "location": ""
     },
@@ -448,7 +465,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 213970,
+      "followersCount": 214014,
       "friendsCount": 1618,
       "location": "Chicago, IL"
     },
@@ -473,5 +490,22 @@
     ],
     "tweetUrl": "https://x.com/NFL/status/2048119699779596301",
     "fullText": "Pittsburgh's own Michael Keaton announces @Steelers' 5th-round pick Riley Nowakowski!\n\nNFL Draft on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/lCLWeovHBe"
+  },
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36350317,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048076576089071616/vid/avc1/1920x1080/ZquoGcD8wE_pxr3e.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2048076977127436643",
+    "fullText": "New Chargers WR Brenen Thompson ran a 4.26 at the Combine, the third-fastest time ever for a WR 👀 https://t.co/SDD46wJShU"
   }
 ]
