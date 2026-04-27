@@ -1,11 +1,62 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52285,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001007691976859653/vid/avc1/1920x1080/H1s8wYoe3Db8PzRo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048701164267659685",
+    "fullText": "每次看到这个小东西就不由得感叹。即便是称得上充分竞争的游戏主机领域，只要你能更加细分，将产品做好，依旧是可能取得成功了。\n\n就像谁能想到，视频里的产品在去年黑五期间，销量干翻了 Xbox，仅次于  Switch 和 PS5 呢。\nhttps://t.co/LBikeIwqsK"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52285,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG5uoRtakAAPQeu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048697423275634738",
+    "fullText": "安全从来不是危言耸听\n你们看，小白装 NAS 最容易遇到的问题就是: 被爆破登录\n\n问题的本质在于，你在黑客的眼里不是透明的，这里稍微要引入一点网络知识。\n\n很多传统 NAS 暴露公网访问的方式是做了一个公共域名映射到你家里的 NAS。\n\n这有一个问题，映射的地址在黑客的眼里可以直接访问。 https://t.co/k5tVRSKxNW"
+  },
+  {
+    "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52285,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG5s8mtbMAAs3bh.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048695532114366690",
+    "fullText": "2026年最省钱设备，每次换手机买1TB 的你不心疼吗😂\n\n你看这是我懒猫相册的照片2万多张，视频2000多个，一共占用将近五430个 G\n\n相当于买了1万多块钱的 iPhone 直接存储腰斩80%，但你要是把照片视频这些占存储大头的存放在自己的私有相册里对标 iCloud 的懒猫相册，这不就直接帮你省下了一大笔钱 https://t.co/UCEyXByBqQ"
+  },
+  {
+    "user": {
       "screenName": "cellinlab",
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26508,
+      "followersCount": 26512,
       "friendsCount": 5307,
       "location": ""
     },
@@ -35,7 +86,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51646,
+      "followersCount": 51649,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -52,7 +103,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13961,
+      "followersCount": 13960,
       "friendsCount": 554,
       "location": "杭州"
     },
@@ -86,7 +137,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26508,
+      "followersCount": 26512,
       "friendsCount": 5307,
       "location": ""
     },
@@ -103,7 +154,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158171,
+      "followersCount": 158172,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -135,7 +186,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51646,
+      "followersCount": 51649,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -152,7 +203,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26508,
+      "followersCount": 26512,
       "friendsCount": 5307,
       "location": ""
     },
@@ -167,7 +218,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13961,
+      "followersCount": 13960,
       "friendsCount": 554,
       "location": "杭州"
     },
@@ -182,7 +233,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158171,
+      "followersCount": 158172,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -266,7 +317,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12581,
+      "followersCount": 12579,
       "friendsCount": 3055,
       "location": ""
     },
@@ -298,7 +349,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26508,
+      "followersCount": 26512,
       "friendsCount": 5307,
       "location": ""
     },
@@ -363,7 +414,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13961,
+      "followersCount": 13960,
       "friendsCount": 554,
       "location": "杭州"
     },
@@ -380,7 +431,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68118,
+      "followersCount": 68123,
       "friendsCount": 581,
       "location": ""
     },
@@ -431,7 +482,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26508,
+      "followersCount": 26512,
       "friendsCount": 5307,
       "location": ""
     },
@@ -467,7 +518,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51646,
+      "followersCount": 51649,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -484,7 +535,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13961,
+      "followersCount": 13960,
       "friendsCount": 554,
       "location": "杭州"
     },
@@ -501,7 +552,7 @@
       "name": "Steve Shultz",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1842405744886308864/JDnB-hav_normal.jpg",
       "description": "Founder, https://t.co/qBoW0MN4C9 , #MAGA #PATRIOT! #XRP, Gold, Silver, #dinar zealot! #Prophets #JESUSCHRIST #TRUMP! 🇺🇸🙏🇺🇸",
-      "followersCount": 69232,
+      "followersCount": 69278,
       "friendsCount": 6722,
       "location": ""
     },
@@ -533,7 +584,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68118,
+      "followersCount": 68123,
       "friendsCount": 581,
       "location": ""
     },
