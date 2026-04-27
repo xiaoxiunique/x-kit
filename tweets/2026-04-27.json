@@ -1,11 +1,78 @@
 [
   {
     "user": {
+      "screenName": "manateelazycat",
+      "name": "Andy Stewart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+      "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
+      "followersCount": 52289,
+      "friendsCount": 312,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG6m1IGbsAAE5NO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/manateelazycat/status/2048758323776995490",
+    "fullText": "传闻是 XChat 上线而大赦天下？我的英文号@Andy_LCMD 也解封了。果然是申诉再多也不如平台规则调整🤡\n\n后续关于 AI 折腾的二三事也会优先发布在英文号上，欢迎大家关注呀 https://t.co/57Dd9rGNdD"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 68122,
+      "friendsCount": 582,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2048754572693529040",
+    "fullText": "The China Academy of Information and Communications Technology (CAICT) has initiated the DeepSeek V4 domestic adaptation test, promoting the collaborative optimization of domestic AI software and hardware in China. \n\nTo promote the deep adaptation of DeepSeek V4 with domestic"
+  },
+  {
+    "user": {
+      "screenName": "yuyy614893671",
+      "name": "金融汪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
+      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+      "followersCount": 68122,
+      "friendsCount": 582,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG6hGnCbsAErVpN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/yuyy614893671/status/2048752018354045002",
+    "fullText": "China’s National Development and Reform Commission Prohibits Foreign Capital from Acquiring the Manus Project and Demands the Cancellation of the Transaction .\n\n#Manus #Meta \nOn April 27, Beijing time, the Office of the Foreign Investment Security Review Mechanism (National https://t.co/zt48JPBaSu"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12586,
+      "friendsCount": 3060,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG6f1xSbkAA7-QA.jpg",
+      "https://pbs.twimg.com/media/HG6f_3VbkAA3GKa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2048751819581780445",
+    "fullText": "Ubuntu 26.04 23 日发布，中国优麒麟系统 26.04 24日发布。\n\n哎....  中国桌面操作系统就像中国男足一样，让人欲言又止、一言难尽。\n\n说实话。从老美视角看，比尔盖茨在美国，配享太庙！这老小子，温水煮青蛙的策略让中国操作系统阳痿几十年。 https://t.co/HSjMfEtaR9"
+  },
+  {
+    "user": {
       "screenName": "vikingmute",
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65713,
+      "followersCount": 65714,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -20,8 +87,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12583,
-      "friendsCount": 3057,
+      "followersCount": 12586,
+      "friendsCount": 3060,
       "location": ""
     },
     "images": [
@@ -67,8 +134,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12583,
-      "friendsCount": 3057,
+      "followersCount": 12586,
+      "friendsCount": 3060,
       "location": ""
     },
     "images": [],
@@ -97,7 +164,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -112,7 +179,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -129,7 +196,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -146,7 +213,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -178,7 +245,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -193,7 +260,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51667,
+      "followersCount": 51668,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -227,7 +294,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -244,7 +311,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26521,
+      "followersCount": 26524,
       "friendsCount": 5307,
       "location": ""
     },
@@ -261,7 +328,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158173,
+      "followersCount": 158177,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -276,7 +343,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -293,7 +360,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51667,
+      "followersCount": 51668,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
@@ -310,7 +377,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26521,
+      "followersCount": 26524,
       "friendsCount": 5307,
       "location": ""
     },
@@ -340,7 +407,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158173,
+      "followersCount": 158177,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -351,11 +418,26 @@
   },
   {
     "user": {
+      "screenName": "HomewiseApplian",
+      "name": "Homewise Appliance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000673993653977088/4LVi8sfo_normal.jpg",
+      "description": "Homewise Appliance (formerly Airport Home Appliance) is California’s largest independent appliance retailer, serving customers since 1981.",
+      "followersCount": 530,
+      "friendsCount": 149,
+      "location": "Hayward, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HomewiseApplian/status/2048646747480523223",
+    "fullText": "Airport Home Appliance is now Homewise Appliance!\n\n．In-Stock Appliances: Save Up to 45%!\n．Next-day delivery available.\n．0% APR for 24 months.\n\nLimited Time Offer: Free 10-Year Warranty on Major Appliances $999+!"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -372,7 +454,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -389,7 +471,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -424,8 +506,8 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12583,
-      "friendsCount": 3057,
+      "followersCount": 12586,
+      "friendsCount": 3060,
       "location": ""
     },
     "images": [],
@@ -439,7 +521,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -456,7 +538,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26521,
+      "followersCount": 26524,
       "friendsCount": 5307,
       "location": ""
     },
@@ -539,7 +621,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
       "followersCount": 68122,
-      "friendsCount": 581,
+      "friendsCount": 582,
       "location": ""
     },
     "images": [
@@ -555,7 +637,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -572,7 +654,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -589,7 +671,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26521,
+      "followersCount": 26524,
       "friendsCount": 5307,
       "location": ""
     },
@@ -608,7 +690,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52288,
+      "followersCount": 52289,
       "friendsCount": 312,
       "location": "China"
     },
@@ -625,7 +707,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51667,
+      "followersCount": 51668,
       "friendsCount": 893,
       "location": "Hong Kong"
     },
