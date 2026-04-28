@@ -1,6 +1,40 @@
 [
   {
     "user": {
+      "screenName": "cellinlab",
+      "name": "Cell 细胞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
+      "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
+      "followersCount": 26674,
+      "friendsCount": 5314,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_NtYlXYAAkRdJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cellinlab/status/2049082551822688681",
+    "fullText": "GPT Image 2 刷屏这么久，\n怎么还没有人试着拿他做字体👀\n\n提示词：试着帮我设计一套 乐高字体 然后 展示下 Cell 细胞，做个概念图给我 横版 https://t.co/NUHaMrbBIA"
+  },
+  {
+    "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12618,
+      "friendsCount": 3063,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_FhzXa0AA4wP8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2049073548602577076",
+    "fullText": "今天在公司开发一个 Agent，在流式模式下，LLM 生成的 tool call 入参总是格式有问题。和 DeepSeek V4 这个菜鸡纠缠老半天也没搞清爽，最后自己去 GitHub 上才发现，这是个昨天才提交的 Bug 修复已经 PR，还没发版。\n\n不过话说 DS V4 https://t.co/LrOxr8MXAR"
+  },
+  {
+    "user": {
       "screenName": "plusyip",
       "name": "Plusye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
@@ -74,7 +108,7 @@
       "name": "李自然 Nate Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972004674665697285/aW-7XdRD_normal.jpg",
       "description": "我也绝非等闲之辈！🥹  \n全球旅居中🧭",
-      "followersCount": 10701,
+      "followersCount": 10702,
       "friendsCount": 179,
       "location": "Shanghai"
     },
@@ -108,7 +142,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26670,
+      "followersCount": 26674,
       "friendsCount": 5314,
       "location": ""
     },
@@ -125,7 +159,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26670,
+      "followersCount": 26674,
       "friendsCount": 5314,
       "location": ""
     },
@@ -193,7 +227,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158295,
+      "followersCount": 158297,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -208,7 +242,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13981,
+      "followersCount": 13980,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -242,7 +276,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13981,
+      "followersCount": 13980,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -323,7 +357,7 @@
       "name": "Cell 细胞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
       "description": "🎯 关注 AI & Crypto · 探索个体与社区的更多可能 ｜\n🌱 build 造物矩阵 @ZaoWuJuZhen & 小火炉播客 @XiaohuoluFM ｜\n🌐 @CellNomad ｜💬 vcellinlab",
-      "followersCount": 26670,
+      "followersCount": 26674,
       "friendsCount": 5314,
       "location": ""
     },
@@ -341,7 +375,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13981,
+      "followersCount": 13980,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -373,7 +407,7 @@
       "name": "马天翼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
       "description": "Indie hacker & AI.",
-      "followersCount": 13981,
+      "followersCount": 13980,
       "friendsCount": 555,
       "location": "杭州"
     },
@@ -420,7 +454,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158295,
+      "followersCount": 158297,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
@@ -1158,7 +1192,7 @@
       "name": "Baye",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
       "description": "一个自由的程序员，以卖 App 为生。边全球旅居边创作产品。作品：熊猫吃短信、DAMA、ServerCat、OpenCat，Miley。",
-      "followersCount": 158295,
+      "followersCount": 158297,
       "friendsCount": 531,
       "location": "中华人民共和国"
     },
