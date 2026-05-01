@@ -1,6 +1,21 @@
 [
   {
     "user": {
+      "screenName": "vikingmute",
+      "name": "Viking",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+      "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+      "followersCount": 65840,
+      "friendsCount": 279,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/vikingmute/status/2050106457040052338",
+    "fullText": "太棒的一篇文章 Details That Make Interfaces Feel Better，标题就说出了我的心声\nhttps://t.co/hOtxOKzvhr\n都是干货，都是细节，很受用，对于追求设计细节的人，真的太好了，作者最后总结了一个 skills \nnpx skills add jakubkrehel/make-interfaces-feel-better\n\n双层 border"
+  },
+  {
+    "user": {
       "screenName": "mastic_serpent",
       "name": "Chr0noS",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2047228851730698240/GjhZl4Ok_normal.jpg",
@@ -20,7 +35,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27411,
+      "followersCount": 27412,
       "friendsCount": 340,
       "location": "Guangdong"
     },
@@ -52,7 +67,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68526,
+      "followersCount": 68529,
       "friendsCount": 583,
       "location": ""
     },
@@ -87,7 +102,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18475,
+      "followersCount": 18474,
       "friendsCount": 1223,
       "location": ""
     },
@@ -120,7 +135,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -137,7 +152,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -154,7 +169,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -179,6 +194,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/fkysly/status/2050029391758160378",
     "fullText": "Codex 0.128.0 版本终于也支持了 ralph 拉尔夫循环，只需要配置里加上 goals=true 开启这个特性。\n\n然后 /goal 就可以使用了。\n\n[features] \ngoals = true\n\nin your config.toml"
+  },
+  {
+    "user": {
+      "screenName": "MKMovie",
+      "name": "Mortal Kombat Movie",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2026721900484087808/qM4ZvlkX_normal.png",
+      "description": "Mortal Kombat II - only in theaters and IMAX May 8, 2026. Get tickets now. #MortalKombatMovie #FilmedforIMAX",
+      "followersCount": 89265,
+      "friendsCount": 19,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MKMovie/status/2050022966495170948",
+    "fullText": "Mortal Kombat II in Theaters May 8. Get Over Here and Get Tickets Now!"
   },
   {
     "user": {
@@ -236,7 +266,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 215321,
+      "followersCount": 215330,
       "friendsCount": 1624,
       "location": "Chicago, IL"
     },
@@ -251,7 +281,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -283,7 +313,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68526,
+      "followersCount": 68529,
       "friendsCount": 583,
       "location": ""
     },
@@ -330,7 +360,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4797527,
+      "followersCount": 4797674,
       "friendsCount": 4,
       "location": ""
     },
@@ -392,7 +422,7 @@
       "name": "OpenAI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
       "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
-      "followersCount": 4797527,
+      "followersCount": 4797674,
       "friendsCount": 4,
       "location": ""
     },
@@ -407,7 +437,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18475,
+      "followersCount": 18474,
       "friendsCount": 1223,
       "location": ""
     },
@@ -439,7 +469,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -456,7 +486,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68526,
+      "followersCount": 68529,
       "friendsCount": 583,
       "location": ""
     },
@@ -474,7 +504,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68526,
+      "followersCount": 68529,
       "friendsCount": 583,
       "location": ""
     },
@@ -506,7 +536,7 @@
       "name": "LIN WEI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
       "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 27411,
+      "followersCount": 27412,
       "friendsCount": 340,
       "location": "Guangdong"
     },
@@ -521,7 +551,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -538,7 +568,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
@@ -555,7 +585,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18475,
+      "followersCount": 18474,
       "friendsCount": 1223,
       "location": ""
     },
@@ -570,7 +600,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65838,
+      "followersCount": 65840,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -785,7 +815,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52623,
+      "followersCount": 52628,
       "friendsCount": 311,
       "location": "China"
     },
