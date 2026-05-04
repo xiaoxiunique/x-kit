@@ -1,11 +1,47 @@
 [
   {
     "user": {
+      "screenName": "xiongchun007",
+      "name": "程序员老熊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
+      "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
+      "followersCount": 12753,
+      "friendsCount": 3082,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHce5w_aIAAbwhy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiongchun007/status/2051142137673400706",
+    "fullText": "小学生用 Claude Code 和 DeepSeek V4 开发的第一款小游戏。打气球大战。\n\n自己开发游戏自己打，再也不用担心小孩沉迷游戏了 😂 https://t.co/AYLgoE4IEG"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 215670,
+      "friendsCount": 1624,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHcR1BJXkAA3Tc1.jpg",
+      "https://pbs.twimg.com/media/HHcR8sRWcAAbWvP.jpg",
+      "https://pbs.twimg.com/media/HHcSGR6XoAABPrQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2051128061962166487",
+    "fullText": "GPT Image 2 Prompt:\n\nCreate a children’s picture book interior page in a vertical format, with a warm off-white paper background and a multi-panel storybook layout.\nUse a hand-drawn children’s book illustration style with soft gouache, colored pencil, and crayon textures, visible https://t.co/fRsH4id1jj"
+  },
+  {
+    "user": {
       "screenName": "middlefeng",
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7010,
       "friendsCount": 764,
       "location": "San Jose, CA"
     },
@@ -20,7 +56,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -37,7 +73,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -54,7 +90,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68641,
+      "followersCount": 68645,
       "friendsCount": 583,
       "location": ""
     },
@@ -84,7 +120,7 @@
       "name": "宝玉",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
       "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 215664,
+      "followersCount": 215670,
       "friendsCount": 1624,
       "location": "Chicago, IL"
     },
@@ -99,7 +135,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7010,
       "friendsCount": 764,
       "location": "San Jose, CA"
     },
@@ -116,7 +152,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7010,
       "friendsCount": 764,
       "location": "San Jose, CA"
     },
@@ -148,7 +184,7 @@
       "name": "FENG DONG",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
       "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan. Atheism leads to singularity and God save us.",
-      "followersCount": 7011,
+      "followersCount": 7010,
       "friendsCount": 764,
       "location": "San Jose, CA"
     },
@@ -163,7 +199,7 @@
       "name": "Yihui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
       "description": "- AI Coding：https://t.co/9ftg2pTk3L \n- AI Anime：https://t.co/x58pocg6Fg  \n- Bilibilier & Youtuber &  Builder",
-      "followersCount": 51909,
+      "followersCount": 51908,
       "friendsCount": 897,
       "location": "Hong Kong"
     },
@@ -180,7 +216,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -195,7 +231,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -212,7 +248,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18462,
+      "followersCount": 18463,
       "friendsCount": 1226,
       "location": ""
     },
@@ -229,7 +265,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -246,7 +282,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -263,7 +299,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -280,7 +316,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -312,7 +348,7 @@
       "name": "程序员老熊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2013992740678447104/43_gjomQ_normal.jpg",
       "description": "👨‍💻 Software Engineer · Data Science · AI Engineering\n\n🧩 Building data tooling @DataCollie\n\n🌍 Writing about · 编程 · 产品 · 职场 · 科技 · 人间百态",
-      "followersCount": 12750,
+      "followersCount": 12753,
       "friendsCount": 3082,
       "location": ""
     },
@@ -329,7 +365,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68641,
+      "followersCount": 68645,
       "friendsCount": 583,
       "location": ""
     },
@@ -346,7 +382,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -363,7 +399,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18462,
+      "followersCount": 18463,
       "friendsCount": 1226,
       "location": ""
     },
@@ -393,7 +429,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -410,7 +446,7 @@
       "name": "Viking",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
       "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
-      "followersCount": 65913,
+      "followersCount": 65915,
       "friendsCount": 279,
       "location": "Shanghai"
     },
@@ -425,7 +461,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18462,
+      "followersCount": 18463,
       "friendsCount": 1226,
       "location": ""
     },
@@ -442,7 +478,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18462,
+      "followersCount": 18463,
       "friendsCount": 1226,
       "location": ""
     },
@@ -459,7 +495,7 @@
       "name": "lencx",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
       "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
-      "followersCount": 22170,
+      "followersCount": 22168,
       "friendsCount": 1068,
       "location": ""
     },
@@ -476,7 +512,7 @@
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1976130864913555456/NvjZydJQ_normal.jpg",
       "description": "一直到时间的尽头",
-      "followersCount": 18462,
+      "followersCount": 18463,
       "friendsCount": 1226,
       "location": ""
     },
@@ -527,7 +563,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -546,7 +582,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68641,
+      "followersCount": 68645,
       "friendsCount": 583,
       "location": ""
     },
@@ -563,7 +599,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -578,7 +614,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -593,7 +629,7 @@
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
       "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHE3yR \n懒猫微服有啥用？https://t.co/SF9p24C2IS",
-      "followersCount": 52757,
+      "followersCount": 52756,
       "friendsCount": 313,
       "location": "China"
     },
@@ -608,7 +644,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68641,
+      "followersCount": 68645,
       "friendsCount": 583,
       "location": ""
     },
@@ -625,7 +661,7 @@
       "name": "金融汪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
       "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 68641,
+      "followersCount": 68645,
       "friendsCount": 583,
       "location": ""
     },
@@ -648,6 +684,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/YurtRock/status/2050682075389341954",
     "fullText": "Most producers spend $49 on ONE pack.\n\nThis gives you 74.\n\nSame level of players.\nSame level of studios.\nWay better results.\n\nSee what you’re missing ↓"
+  },
+  {
+    "user": {
+      "screenName": "YurtRock",
+      "name": "Yurt Rock",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1358981273541251074/vztVwtrK_normal.jpg",
+      "description": "Founded by Ryan Gruss (The Loop Loft / Native Instruments) in 2021, Yurt Rock is a new kind of home for musicians.",
+      "followersCount": 619,
+      "friendsCount": 203,
+      "location": "Nashville, TN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/YurtRock/status/2050681553743741282",
+    "fullText": "74 products. $49.\n\nThat’s not a typo.\n\nReal recordings from legendary drummers\n•Grammy-level engineering\n•loops that actually work in a mix\n\nDownload instantly ↓"
   },
   {
     "user": {
