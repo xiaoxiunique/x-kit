@@ -708,14 +708,65 @@ def save_state(patch: dict[str, Any]) -> None:
     atomic_write_json(STATE_FILE, state)
 
 
-def acquire_lock() -> None:
-    LOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
+def _lock_holder_alive(pid: int) -> bool:
+    """Whether the process that wrote the lock is still running.
+
+    Signal 0 performs the permission and existence checks without delivering
+    anything. PermissionError means the pid exists and belongs to someone
+    else, which still counts as alive — the safe direction, since the cost of
+    being wrong here is a skipped run rather than two of them writing the same
+    files at once.
+    """
     try:
-        fd = os.open(str(LOCK_FILE), os.O_CREAT | os.O_EXCL | os.O_WRONLY)
-    except FileExistsError as exc:
-        raise RuntimeError(f"sequence job already running: {LOCK_FILE}") from exc
-    with os.fdopen(fd, "w") as f:
-        f.write(json.dumps({"pid": os.getpid(), "started_at": utc_now()}) + "\n")
+        os.kill(pid, 0)
+    except ProcessLookupError:
+        return False
+    except PermissionError:
+        return True
+    return True
+
+
+def acquire_lock() -> None:
+    """Take the lock, reclaiming it from a process that no longer exists.
+
+    The pid was written into this file from the first version and never read
+    back, so a run that died mid-flight left a lock nothing would ever clear:
+    every later run exited at this line reporting "sequence job already
+    running", which reads like healthy contention rather than a job that has
+    been dead for weeks. That is exactly what happened on 2026-08-05 — the run
+    started at 10:00 UTC, died around 10:23, and collection stopped for a
+    month behind a 60-byte file.
+
+    A lock held by a live pid is still honoured. Only a provably dead holder
+    is displaced; anything unreadable is treated as dead, because a lock whose
+    owner cannot be identified cannot be waited on either.
+    """
+    LOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
+    for attempt in (1, 2):
+        try:
+            fd = os.open(str(LOCK_FILE), os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+        except FileExistsError as exc:
+            if attempt == 2:
+                raise RuntimeError(f"sequence job already running: {LOCK_FILE}") from exc
+            try:
+                held = json.loads(LOCK_FILE.read_text() or "{}")
+                pid = int(held.get("pid"))
+            except (OSError, ValueError, TypeError):
+                held, pid = {}, None
+            if pid is not None and _lock_holder_alive(pid):
+                raise RuntimeError(
+                    f"sequence job already running: pid {pid} since "
+                    f"{held.get('started_at', 'unknown')} ({LOCK_FILE})"
+                ) from exc
+            print(
+                f"[!] clearing stale lock: pid {pid} from "
+                f"{held.get('started_at', 'unknown')} is gone"
+            )
+            LOCK_FILE.unlink(missing_ok=True)
+            continue
+        with os.fdopen(fd, "w") as f:
+            f.write(json.dumps({"pid": os.getpid(), "started_at": utc_now()}) + "\n")
+        return
 
 
 def release_lock() -> None:

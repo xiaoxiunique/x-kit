@@ -7,5 +7,11 @@ dependencies = [
     "bs4>=0.0.2",
     "httpx>=0.28.1",
     "requests>=2.34.2",
-    "x-client-transaction-id>=0.0.1",
+    # The maintained one. `x-client-transaction-id` was a thin wrapper that
+    # depended on this and has not been released since 2025-04-30; both install
+    # the same `x_client_transaction` module, so the wrapper only ever pinned
+    # the real package looser. 1.0.2 stopped being able to find ondemand.s.js
+    # on x.com's current homepage — every request then fell back to sending no
+    # x-client-transaction-id, which is the header X uses to spot automation.
+    "xclienttransaction>=1.0.3",
 ]

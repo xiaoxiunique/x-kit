@@ -211,18 +211,6 @@ wheels = [
 ]
 
 [[package]]
-name = "x-client-transaction-id"
-version = "0.0.1"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "xclienttransaction" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/aa/de/f25d77c9a815a655d0b8fdce0ada0fa689068a4ba9127d4b7808427def90/x_client_transaction_id-0.0.1.tar.gz", hash = "sha256:170807f203bf18f8e82e6f0e4f2addc5a7bc2a5e5e2d4531262835a820353859", size = 1488 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/ea/ce/014153cd342548e955ce5f6af1d27cb93fbf3bca0f93d57d51f9cd0e4801/x_client_transaction_id-0.0.1-py3-none-any.whl", hash = "sha256:a2f5b1d9f093b60f85bf28790750a5a310249fdde4e061a03e30d6737a287000", size = 1556 },
-]
-
-[[package]]
 name = "x-kit"
 version = "0.1.0"
 source = { virtual = "." }
@@ -230,7 +218,7 @@ dependencies = [
     { name = "bs4" },
     { name = "httpx" },
     { name = "requests" },
-    { name = "x-client-transaction-id" },
+    { name = "xclienttransaction" },
 ]
 
 [package.metadata]
@@ -238,17 +226,17 @@ requires-dist = [
     { name = "bs4", specifier = ">=0.0.2" },
     { name = "httpx", specifier = ">=0.28.1" },
     { name = "requests", specifier = ">=2.34.2" },
-    { name = "x-client-transaction-id", specifier = ">=0.0.1" },
+    { name = "xclienttransaction", specifier = ">=1.0.3" },
 ]
 
 [[package]]
 name = "xclienttransaction"
-version = "1.0.2"
+version = "1.0.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/af/1e/18fbba3658a215cfad22827625486d2b496873e2a82b1013f6a89455031b/xclienttransaction-1.0.2.tar.gz", hash = "sha256:a9a7f9f1e7215e7317398b1659cf1c76a631fd87d20a254511f8008dceb4bb8f", size = 10623 }
+sdist = { url = "https://files.pythonhosted.org/packages/1b/11/6f5a55df6d464fe6f839fe96c3863fa2338005ed8e83e89b0a9db5716b5a/xclienttransaction-1.0.3.tar.gz", hash = "sha256:1eeb5d48cec6a224189bbd8a6021c40486fa3aff650478672bccf82b3436cedc", size = 10609 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d4/57/7cd813ecbbf685bcd55d259f8bb66550d51c3414870e8c5c7274809d6bed/xclienttransaction-1.0.2-py3-none-any.whl", hash = "sha256:66251554f02472cd0fb3a33bc6468cfeb740949754ddc07dbe4164e439ac8613", size = 10774 },
+    { url = "https://files.pythonhosted.org/packages/fa/a1/be735112ebe49916065e6f80017b93e92fc8880789c3f4f17380db7f531a/xclienttransaction-1.0.3-py3-none-any.whl", hash = "sha256:f73dd2a4b6856f98fa45f0cd26c9a0fdc0b2ceba0e79b5523cdf8aac7efc59fe", size = 10778 },
 ]
