@@ -7,15 +7,935 @@
     "nickname": "Limbo",
     "profile_url": "https://vibeloft.ai/profile/limbo"
   },
-  "generated_at": "2026-08-02T17:02:01.443815Z",
+  "generated_at": "2026-09-04T12:00:18.981421Z",
   "stats": {
-    "tweet_count": 661,
-    "latest_tweet_created_at": "2026-08-02T16:45:49Z",
-    "latest_tweet_id": "2083957454434664601",
+    "tweet_count": 709,
+    "latest_tweet_created_at": "2026-09-04T03:04:52Z",
+    "latest_tweet_id": "2095709654433386822",
     "oldest_tweet_created_at": "2024-03-14T09:13:41Z",
     "oldest_tweet_id": "1768203837389848627"
   },
   "tweets": [
+    {
+      "id": "2095709654433386822",
+      "text": "写了一个 dsh (deepseek harness) 的插件，把我真实的持仓同步上去了，想让 AI 来辅助我炒股。今天我先跑一天看看效果怎么样，不知道大家感不感兴趣？\n\n主要功能包括：\n\n1. 设置项里可以设置自己的一些期望和个性化配置\n2. 实时数据：查看大盘和个股\n3. 个人资产情况：可以通过截图让它构建一次，之后就可以直接通过 AI 对话让它做个股分析\n4. 交易决策：可以生成决策日志\n5. 定时任务：在中午和下午交易结束后分别做复盘\n\n大概是这样的，在 vibe coding 的同时，带来一些小小的A股震撼😂",
+      "created_at": "Fri Sep 04 03:04:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "147",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRVz-ahaEAAptQ_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095709654433386822"
+    },
+    {
+      "id": "2095703224317862235",
+      "text": "自己刷简历真是太累、太耗时间了，索性就用 Hermes Agent + egeo-lite @ego_agent 浏览器，帮我自动 Agent 岗位的投递，自动对 Boss 发应聘话术。\n\n也算是另外一种形式的广撒网吧，祝我好运～ https://t.co/J16OkJNrgN",
+      "created_at": "Fri Sep 04 02:39:19 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "1398",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRVuWp2bsAA94ps.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRVuZyRbQAApFB8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095703224317862235"
+    },
+    {
+      "id": "2095057063789658473",
+      "text": "抽了大半天的时间去做一些研究探索，只为了解决一个问题：在做 AI 面试的过程中，面试官或多或少会问一些模型微调等方面的面试题。\n\n其实这部分涉及的东西还挺多的，所以我花了很多时间，从整个底层认知（关于 GPU、显存等），到模型怎么去推理、怎么去部署，再到模型微调实战，以及选型和运维。此外，还包括只要你能背就能通过的面试题库。\n\n所以我做了这样一个网站，通过交互式的动画、深入浅出的教程和测评题，来强化学习这方面的知识，希望能对你有所帮助。\nhttps://t.co/HOIPNquRcM",
+      "created_at": "Wed Sep 02 07:51:42 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 30,
+      "views": "1744",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095056911448322048/img/WGlPPE5ZvqNMqO3z.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095057063789658473"
+    },
+    {
+      "id": "2095000492430791106",
+      "text": "千亿公司的掌舵人，夜里仍在写代码：不是作秀，是真的受不了工具不对、系统太慢、标准太松。Tobi Lütke 白天管 Shopify，晚上当父亲，夜里还是黑客。他讨厌“扮演上市公司 CEO”的那套仪式，更愿意把公司当成一套可重构的软件，亲自审查项目、砍掉低价值工作、起用创始人式高管，甚至用代码把组织本身建模出来。\n\n对工程师，他最有说服力的地方是自己下场。Shopify 微调的 0.8B 专用模型，能在特定任务上打赢更大的通用模型；他周末用 Rust 重写面向大规模仓库的 Git，再把支撑自改进循环的基础设施开源。连 AI 编程工具的约定他都较真，不满 Claude 只认 CLAUDE.md、不能统一读取 AGENTS.md，觉得团队会因此出现“分裂脑”。这只是细节，却很能说明他的脾气：问题要具体，标准要对齐，复杂度税能不付就不付。\n\n对开发者，他的故事太值得去学习了，有时候想想，我们自己做开发或者去 build 的时候，都是那种产出即结束的状态，而没有更高程度地思考一些细节和有意识培养商业思维。\n\n对创业者，他更像一个样本。公司是产品，工具要为协作服务，观点可以随新信息改掉，但构建不能停。他真正想推动的，是让更多人能把生意做起来。",
+      "created_at": "Wed Sep 02 04:06:55 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "613",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095000492430791106"
+    },
+    {
+      "id": "2094827878827671952",
+      "text": "CleanShot 发布了5.0大版本，主打 Studio Mode + 全新视频编辑器，可惜啊，我的一年更新授权到期了，升级大版本需要花$19, 过期后续一年 $19/seat，不续就停在当前版本.. 等黑五吧。",
+      "created_at": "Tue Sep 01 16:41:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "162",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094827878827671952"
+    },
+    {
+      "id": "2094746851618816262",
+      "text": "Pi 的 ReAct 是怎么设计的？\n\nhttps://t.co/lFG01epXJS",
+      "created_at": "Tue Sep 01 11:19:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "189",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094746851618816262"
+    },
+    {
+      "id": "2094635958646063417",
+      "text": "真正需要花时间、花精力的，还是在 PRD 阶段和决策阶段，所以文档驱动是一个核心。\n\n对于 AI 生成的代码，其实不必自己去逐行审核，需要完成的是各种测试（例如单元测试、集成测试、端到端测试等），只需输出一个测试报告。另外，验收还是需要自己亲自去做的，可以让AI生成验收清单等。\n\n关于整个记忆机制：现在模型能力很强，但总会遗忘之前的决策和踩过的坑，缺少人类团队里的“部落知识”。解法就是在每轮产出一些文档和总结，放到 docs 目录下，再定期总结成索引写入到 agents.md 里，供后续任务查阅。\n\n最后一个理念：对于中大型项目，一定要小步快跑，拆成可验收的最小单元。复杂的架构都是演化出来的，而不是设计出来的，所以演化记录的存储和使用价值非常高。\n\n整体来看，要做到 AI 生成代码的质量可控：\n• 一方面文档即资产，文档和代码同等重要；\n• 另一方面需要更多的测试 case，CI流程；\n• 最后人为去做决策、和AI讨论直到心中有数，不断打磨决策文档和 PRD 文档。",
+      "created_at": "Tue Sep 01 03:58:23 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "222",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094635958646063417"
+    },
+    {
+      "id": "2094421543535398919",
+      "text": "千问AI平台的这篇微信公众号对AgentTeam 理论分析的很好，从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考。\n\nAgent 的本质是 ReAct 循环，而当前多 Agent 协作架构（Leader-Worker）远未达到人类团队的协作水平，作者提出了一套借鉴人类组织经验的\"Agent Team\"设计方案。\n\nhttps://t.co/30jLXcQdIc",
+      "created_at": "Mon Aug 31 13:46:23 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "315",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094421543535398919"
+    },
+    {
+      "id": "2094049615079473456",
+      "text": "最近办公 Agent 成为大厂的主战场了，电梯广告三家轮播，竞争很激烈啊，其实办公Agent的核心就两块：Harness和企业数据。Harness是纯工程问题，各家迟早长成一样，OpenAI连Codex的Harness都开源了，同质化只是时间问题。真正卖得出价的是企业数据。同样一句“帮我改一下”，研发群里是改代码，设计群里是修图，Agent接不上公司的口径和语境，就只能字面瞎猜。何况企业数据又散又碎，五个系统三套口径，喂不饱再强的模型也白搭。谁能让Agent读懂一家公司，谁才有定价权，剩下的都是营销。\n\n下面 infoq 的这篇文章解剖的挺好，值得一看 https://t.co/0Fp38wjrkp",
+      "created_at": "Sun Aug 30 13:08:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "145",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094049615079473456"
+    },
+    {
+      "id": "2093861794339275187",
+      "text": "很少听到知识库相关的讨论了，现在企业对知识库的诉求还旺盛吗？",
+      "created_at": "Sun Aug 30 00:42:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "94",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093861794339275187"
+    },
+    {
+      "id": "2093718956993393137",
+      "text": "最近在研究视频生成，注意不是视频模型，而是路线 “Agent + 写代码做视频”：让 Agent 直接写 HTML/CSS/React，再通过无头浏览器与 FFmpeg 渲染成确定性的 MP4。\n\n整理了目前比较热门的几个开源项目与工具：\n\n1. HyperFrames（HeyGen 开源）\n一句话概括：把 HTML 当作视频时间轴。\n特点：专为 AI Agent 设计，官方配套了 Agent Skill。Agent 直接写 HTML + CSS + GSAP 动效，本地 CLI 就能实时预览并渲染成 MP4，特别适合做产品展示和解说视频。\n\n2. Remotion + Agent Skills\n一句话概括：React 玩家的首选方案。\n特点：Remotion 官方推出了 Agent Skills（也有社区优化的 Claude Remotion Skill）。它教会 Agent 遵循标准的动效节奏（比如弹簧动画、错落排版），自带“渲染 → 截帧自检 → 自动修 Bug”的反馈闭环，文字和组件排版极准。\n\n3. html-video（OpenDesign）\n一句话概括：单文件 HTML 即视频源。\n特点：极其轻量。直接丢给 Agent 一篇 Markdown 文章或 GitHub 仓库地址，它会自动拆解故事板、套入 HTML 动效模板，本地 Chromium + FFmpeg 几秒钟就能压出一支出镜视频。\n\n4. manim-agent（数学与技术动画）\n一句话概括：3Blue1Brown 风格的技术科普利器。\n特点：输入自然语言，Agent 自动编写 Manim 的 Python 脚本，结合 TTS 配音与公式渲染，全自动生成算法/数学讲解视频。",
+      "created_at": "Sat Aug 29 15:14:33 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "284",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093718956993393137"
+    },
+    {
+      "id": "2093662728737206736",
+      "text": "OpenMontage这个项目，是把拍视频这件事彻底交给AI了。\n装到项目里，跟Claude Code说一句「做个60秒讲解视频」，它自己查资料、写脚本、找素材、剪辑、出片，全程不用管。素材还是从Pexels、NASA这些免费库里扒的真视频，不用烧生成API的钱。官方demo，一条60秒皮克斯风短片，成本1.33美元。\n今年3月开源，现在53k星。拍视频这事，以后一个终端就够了。\n\nhttps://t.co/t9FDgXl6b5",
+      "created_at": "Sat Aug 29 11:31:07 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "169",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093662728737206736"
+    },
+    {
+      "id": "2093227276154683447",
+      "text": "说实话，我加这个功能也不知道有没有人用，就是面面 Agent 现在可以画了。\n\n遇到系统设计、架构、流程这类题，右侧白板会自动打开。你直接画——分类 Agent、检索 Agent、知识库、人工审核，拖出来连上就行，文字答案哪怕只写一句\"具体架构见白板\"。\n\n面试白板上会怎么被追问，这儿就怎么练。这个场景我觉得就是在做面试的过程中，会让你画一些架构图，然后针对于一些架构图呢，做一些面试的一些引子。\n\nhttps://t.co/OC9Rs9Gj3S",
+      "created_at": "Fri Aug 28 06:40:47 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "408",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQyR-t8a4AAyZgu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093227276154683447"
+    },
+    {
+      "id": "2093002383978832290",
+      "text": "花 10 分钟，用动画看懂 LLM 缓存到底在省什么钱？缓存输入命中是什么？哪些 Prompt 设计会把前缀匹配搞死？\n不用看论文，不用啃文档。8 个章节，从\"缓存到底存了什么\"到\"三家大厂规则实测对比\"。\n\nhttps://t.co/hQfHBD5rTM\n\n实操口诀：\n稳定的放前，变化的放后；只追加，不改历史；工具集冻结；断点打在稳定区最后一块；\n看 cached_tokens / cache_read_input_tokens，命中率低于 50% 先去查前缀谁在抖。",
+      "created_at": "Thu Aug 27 15:47:09 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "959",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093002383978832290"
+    },
+    {
+      "id": "2092815138273497426",
+      "text": "My first iOS app has finally launched after about a month of development, and it's been a challenging process. However, it feels like a small but significant milestone.\n\nThis is your exclusive hairstyle designer that helps you analyze face shape and hairstyle, recommends suitable hairstyles and hair colors, allows for hairstyle design (you can also describe your desired hairstyle through natural language), and supports 2D viewing of new hairstyles from all angles. You just need to upload a photo and wait a few dozen seconds.\n\nhttps://t.co/PG50bvdMUk",
+      "created_at": "Thu Aug 27 03:23:06 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 2,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "199",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQssE3DaQAA-kTU.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQssGmbbYAA8uL3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQssMnjbEAEFi3i.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQssP_DaAAAXLdP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092815138273497426",
+      "pinned": true
+    },
+    {
+      "id": "2092281645642686521",
+      "text": "很多人还在把 Subagent 和 Multi-Agent 当成二选一。\n其实它们是同一条「控制权谱系」上的不同刻度：\n\n• Subagent：星型主从，主管全控，子任务用完即毁，只回传压缩结果\n• Handoff：控制权一次性移交，专家直接接管对话\n• Agent Teams：网状自组织，队友可点对点互相 @、讨论甚至质疑\n\n从 Anthropic、Claude Code、OpenAI 官方定义，到 LangChain 的 Supervisor vs Swarm 实现，信息流拓扑、上下文隔离、Token 成本全拆开讲。\n\n多 Agent 不是银弹，是用 Token 换覆盖面的架构。\n\n完整对照手册 + 选型决策树\n\nhttps://t.co/FIDsrJd8M9",
+      "created_at": "Tue Aug 25 16:03:11 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "views": "1786",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092281645642686521"
+    },
+    {
+      "id": "2092170931494146302",
+      "text": "搞 Agent 的看过来，Agent 优化深度参考：从这篇 harness 文章里真正能落地的理念与方法👇\n\n要把 Harness（运行时层）当成一等公民来设计。\n\n同一个模型、同一组任务做对比，成功率几乎打平，token 消耗却能差几倍。优化 Agent 的核心战场不在模型，而在包裹模型的运行时。\n\n第一个理念：上下文不是“越大越好”，而是“越平越好”。\n 真正的成本杀手不是模型推理本身，而是同一段大结果被反复读进上下文。工具返回 5 万 token 的 JSON，如果不处理，后续每一步都会带着它再读一遍。即使有 prompt caching，上下文窗口仍被占满，模型每次都要重新处理。\n\n优化的第一原则就是强制上下文保持扁平。具体可落地的方法有四类，建议直接写进自己的框架：\n\n1.延迟加载 工具和 Skill 启动时只给名称和简短描述，真正需要时再拉取完整 schema。一个平台有 100 个工具，Agent 只用 2 个，剩下 98 个永远不进 prompt。这是最简单却最有效的起步优化。\n\n2.大结果立刻卸载 任何超过阈值的工具返回值，直接写进沙箱文件，上下文只保留预览和路径。Agent 需要完整数据时再去读文件。这一步能把“一次大响应被读十几次”的灾难直接掐死。\n\n3.子 Agent 做隔离 复杂子任务不要在主 Agent 上下文里硬跑，而是派生子 Agent，只把摘要返回。主上下文永远干净，中间过程数据不会污染后续推理。\n\n4.Code Mode 折叠工具链 让 Agent 生成一段可执行代码，在沙箱里完成多工具调用和数据拼接，只把最终结果带回来。很多“查询→匹配→统计”的多步流程，从此从模型循环里彻底消失。\n\n再加上历史超过一定长度后自动做结构化压缩（意图、决策、产物、错误、下一步），这套组合拳已经能把 token 消耗压到原来的 40% 甚至更低。\n\n第二个理念：安全与生产能力必须从第一天就内建，而不是后期补丁。\n 凭证永远不进沙箱。工具调用请求必须绕回服务端，由 harness 注入真实密钥再转发。沙箱代码永远看不到任何敏感信息。同时要提前考虑会话可恢复、多用户隔离、跨设备审批、完整的 token 追踪。这些不是“高级功能”，而是生产级 Agent 的基础门槛。\n\n第三个理念：调试思维要彻底转变。 当一次运行成本突然飙升时，先查 harness 的 trace 和上下文轨迹，而不是先怀疑模型。用相同模型、相同任务对两个不同运行时做 A/B，量化 token 和成功率，比盲目换模型有效得多。\n\n最终落地建议很简单： 把模型当成可随时替换的计算单元，把 harness 当成真正要长期打磨的产品核心。优先实现“上下文扁平化 + 凭证隔离 + 可观测性”，成本和稳定性会立刻有质的跃升。\n\n这些理念和方法，已经足够支撑你写出一个明显更省、更稳的生产级 Agent。",
+      "created_at": "Tue Aug 25 08:43:15 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "379",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092170931494146302"
+    },
+    {
+      "id": "2091894137805250658",
+      "text": "想深入的学习Pi吗？我用最牛逼的模型，完成代码拆解、细化、深入浅出，还带有各种模拟的UI交互及测评，如果你找不到合适的教程，我觉得这个你可以瞅瞅（后续会持续迭代）\nhttps://t.co/99yYy2tB4P https://t.co/nL7jsr8bUu",
+      "created_at": "Mon Aug 24 14:23:22 +0000 2026",
+      "favorite_count": 89,
+      "retweet_count": 17,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 104,
+      "views": "6315",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQfj_kFbMAA4256.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091894137805250658"
+    },
+    {
+      "id": "2091879827427189130",
+      "text": "这是一个pi 提供小情绪价值的插件，想听哔哔的声音吗？ 来用这个 pi 插件吧 https://t.co/Us2y3R94Zr",
+      "created_at": "Mon Aug 24 13:26:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091879827427189130"
+    },
+    {
+      "id": "2091707225287045181",
+      "text": "Pi 写长 prompt，回车直接提交了。想换行得 Shift+Enter 或者 Ctrl+J。输入框还小，写两段就开始眼花。\n\n这个是用 Ctrl+G 就派上用场了，其对应的是 app.editor.external 配置，把当前内容丢到外部编辑器。\n\n谁先设置用谁：$VISUAL → $EDITOR → Windows 回退记事本，其他系统回退 nano。\n一行就够：\nexport VISUAL=\"code --wait\"\n# 或 vim / zed --wait\n\n重启 pi。长文本终于不用在那个小框里憋着写了。",
+      "created_at": "Mon Aug 24 02:00:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "125",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091707225287045181"
+    },
+    {
+      "id": "2091390178048786511",
+      "text": "还差1人就 1000 粉了，那就约等于1000粉吧，这里小小的总结下，回头看，涨粉的转折点恰恰是我停止碎碎念的那天。\n\n这号注册了很多年，之前发的都是琐碎凌乱的随手记，几乎没人看。后来才想明白：世界上这么多人，没有人会关注你的生活。\n\n所以我转变了方式：\n\n一、利他是流量逻辑。算法按互动分发，互动只来自 “这条对我有用”。推文要让人带走点什么，而不是记录自己，你以为你是谁呢？没人屌你。\n\n二、深入研究，认真写。把一个东西啃透，写成教程、拆解、观点，认真对待每一篇。哪怕没火，你自己先学到了，再把认知反哺出去。输出倒逼输入，涨粉只是副产品。\n\n三、热点 + 拆解是杠杆。纯蹭热点是噪音，纯深度没人耐心啃。热点的壳，拆解的核，让人看懂组合起来流量才会放大。",
+      "created_at": "Sun Aug 23 05:00:49 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1174",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091390178048786511"
+    },
+    {
+      "id": "2091172503041499611",
+      "text": "分享一些做 iOS ，使用 SwiftUI 开发的一些 skill，绝对好用：\n\n1、Appllama/appllama-skills — 让 AI 学会「抄」爆款 App\nAppllama 本身是一个头部畅销 App 的设计库（收录真实界面、流程、UI 模式 + 收入/下载量数据）。这两个技能把该库变成 Agent 的工作方法论。\n\n2、emilkowalski/skills — 动画品味天花板\nEmil Kowalski 是前 Vercel / Linear 的设计工程师，Sonner（著名 toast 库）作者，https://t.co/hIlCMu9zWy 课程作者，这套技能把他多年的专家经验清单化。\n\n3、twostraws/SwiftUI-Agent-Skill — 原生 SwiftUI 纠错器\n作者： Paul Hudson（twostraws），Hacking with Swift 创始人，Swift 社区最有影响力的教育者之一。这个SKILl是基于他数千小时的真实 SwiftUI 项目经验，直接瞄准 LLM 在 SwiftUI 里实际会犯的错误。",
+      "created_at": "Sat Aug 22 14:35:51 +0000 2026",
+      "favorite_count": 460,
+      "retweet_count": 50,
+      "reply_count": 10,
+      "quote_count": 1,
+      "bookmark_count": 808,
+      "views": "26620",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091172503041499611"
+    },
+    {
+      "id": "2090748309853946198",
+      "text": "终于看到有人写 Agent 降本增效的文章了。腾讯技术工程团队这篇文章我觉得讲得非常的详细。我发现现在一个阶段就是大家在哐哐的造 Agent， 但是呢，怎么去优化成本，还没有完全顾虑到。\n\nAgent 降本最有效的不是换便宜模型，是把 token 消耗当工程账来管。\n\n文章里团队实测：一个中型需求从 70 万 token 压到 31 万，17 轮降到 9 跑，功能一行没砍。做法值得抄：\n\n一、先拆账再动手。按调用链追踪，把消耗拆成六类：系统 prompt、工具返回、读的文件、系统提示词、历史消息、用户输入。大头是历史消息，append-only 滚雪球，来自工作流层面占位计费。\n\n二、该看的按需加载。SKILL.md 只留骨架，40 行 spec 模板、38 行 DB 规则这种只在特定场景用得上的内容，六项全移进 references，用到才读。搜代码先查 AST 代码图谱锁定文件范围再 read，少几十轮盲搜，实测 -226.7%。\n\n三、不该看的别进来。TAPD 需求原文、Figma 节点树这种上万行的 payload，主 Agent 不许自己碰，配短命子 Agent 只回传摘要，跑完销毁，后端 Agent 压根看不到 Figma 的 Schema。\n\n四、重复的别反复计费。派发提示词动态内容后置，前缀稳定才吃满 KV Cache，缓存读取只要一折；进度看板外化到文件不堆会话；CLI 输出接 rtk 压缩来优化。\n\n五、测试、变量强、修复轮次最多的 Agent 直接换便宜模型，再省 66%。\n\n另外，最省钱的调用是不调用。确定性操作写死成脚本，LLM 只留给真正需要理解语义的环节。\n\n你们的 Agent 账单拆开看过吗？😂\n\n原文：https://t.co/sr5INWPTou",
+      "created_at": "Fri Aug 21 10:30:15 +0000 2026",
+      "favorite_count": 220,
+      "retweet_count": 42,
+      "reply_count": 7,
+      "quote_count": 2,
+      "bookmark_count": 307,
+      "views": "25226",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090748309853946198"
+    },
+    {
+      "id": "2090456769583829123",
+      "text": "感谢分享，已经集成到APP里了，增加一点小乐趣还挺好玩的。\nhttps://t.co/hKDPBquzUZ https://t.co/6rUVkRV3Kf",
+      "created_at": "Thu Aug 20 15:11:47 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "459",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090456550347550720/img/K0NnYxAqFsm84U5u.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090456769583829123"
+    },
+    {
+      "id": "2090381200972206269",
+      "text": "Raycast 2.0 变化还是挺大的，核心方向是：从原来的 macOS 快捷启动器 升级为“跨平台生产力操作层”，把 启动、文件搜索、快捷键、AI Agent、语音输入、MCP 和个性化记忆 放进同一个入口。\n\n主要变化：\n1、全新界面与交互：整体视觉重新设计，更贴合 macOS Tahoe；紧凑模式被简化，应用软链接可以出现在 Root Search 中，Raycast 内不同界面之间的复制粘贴也更可靠。\n\n2、Root Search 更像统一启动器：除了应用和命令，还进一步整合文件、文件夹、联系人等内容；文件索引器使用 Rust 重写，目标是绕过 Spotlight 的限制并支持跨平台搜索。\n\n3、快捷键系统升级：快捷键录入器更快、更可靠，支持单独使用 fn 键作为修饰键；支持国际键盘布局，并可按物理按键或按键语义录入快捷键；现在还可以直接在 Root Search 的 Action Panel 中设置快捷键和别名。\n\n4、AI Chat 重新设计：原来的 Presets 改名为 Agents，Agent 配置可以被多个聊天复用；支持聊天分支，可以从任意消息创建另一条思路；支持 Memory、Profile、Skills、自动归档、/ 命令和 Danger Mode。\n\n5、AI 个性化能力增强：Profile 用于手动填写你的角色、工具偏好和沟通方式；Memory 会根据对话自动总结你的项目、偏好和目标，两者都可以编辑，也可以在 Settings → AI → Personalization 中关闭。 \n\n6、Dictation 变成内置能力：提供系统级语音输入，可设置全局快捷键；支持自定义转写风格、应用上下文、个人词汇表和词汇快速添加。macOS 上可以使用 fn 键触发，单次 dictation 最长 20 分钟。 \n\n7、其他优化：MCP 连接能力更完整、Quick AI 重新设计并使用更强的 Composer；后续 Beta 中还加入了 Quick Fix，可快速修复拼写错误；AI Command 默认模型更新为 GPT-5.6 Luna。 更多内置工具升级：包括颜色转换、File Search 的 Finder 操作、PDF OCR、窗口管理、Notes、Clipboard、Calendar 等。颜色转换支持 hex、rgb、hsl、oklch 等格式，并可复制为 Swift 的 NSColor/UIColor等",
+      "created_at": "Thu Aug 20 10:11:30 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "views": "1337",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQKBzD5acAAkY_-.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQKBzu4bUAA2WNF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090381200972206269"
+    },
+    {
+      "id": "2090016560262111266",
+      "text": "别冲动！Macos 48GB M4 Pro 跑 qwen3.8 27B 本地模型，坑我替你们踩完了\n\n今天给 Mac 拉了个 qwen3.8:27b-mlx（18G 量化版）。裸测很香：生成 22 tok/s，多模态+工具调用+思考模式，日常聊天除了慢点，和网页版没差。\n\n但当你把它挂进 Agent 当主力模型，想要实现Token自由，又是另外一回事了：\n\n结果一句简单指令，5 分半没等到回复。\n\n死因：prefill。Agent （这样我用Hermes Agent）每次请求带 2-3 万 token 的 system prompt（工具 schema + 记忆 + 技能），我这台机器读题速度只有 68 tok/s——光“读题” 就要 5 分钟，答案一个字还没写。\n\n你会发现：\n1、裸聊和 Agent 是两个世界，生成快 ≠ 能用 \n2、云端 prefill 5000+ tok/s，本地 68，差一个数量级 \n3、量化省的是内存，救不了带宽啊\n4、48G内存电脑用它一直跑，发烫严重，甚至卡顿了。\n\n现在的分工：Agent 干活走云端 API，本地模型留着裸聊、写东西。\n\n想要 token 自由之前，得看看你硬件这关。",
+      "created_at": "Wed Aug 19 10:02:33 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1173",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQE69vibQAARQh0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090016560262111266"
+    },
+    {
+      "id": "2088565828497391750",
+      "text": "独立开发者别错过！成功加入苹果App Store小型企业计划，App付费下载与内购抽成从30%降至15%，年度营收100万美元以内均可申请，嘎嘎香。 https://t.co/75VEPPsLBq",
+      "created_at": "Sat Aug 15 09:57:51 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "828",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPwTi35awAAyFhM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088565828497391750"
+    },
+    {
+      "id": "2087932451243041142",
+      "text": "DSH（DeepSeek Harness）和 Pi Agent，架构哲学其实是两条相反的路，越看越觉得值得拆开聊聊。\n\nPi 的哲学是做减法。Mario Zechner 做 Pi 就是烦透了 Claude Code 这类工具越堆越重，于是把核心砍到只剩 read/write/edit/bash 四个工具，系统提示词不到一千 token，没有 plan mode、没有 subagent、没有 MCP，甚至默认不做权限校验。这是一种克制的极简主义——核心足够薄，剩下的全交给外部扩展去做，让你自己决定要不要加回这些复杂度。\n\nDSH 的哲学是做加法后再拆碎。它不是精简出一个薄核心，而是把整个 agent 系统的每一层——模型、工具、文件系统、Shell、沙箱、会话存储、Subagent，甚至 Agent Loop 本身——全部做成可替换的插件。官方那套 Coding Agent 只是 “用这些插件拼出来的一个默认答案”，不是唯一答案。这个模块化的颗粒度比 Pi 深了一层：Pi 是核心不变、外围可插拔，DSH 是没有不可替换的核心。\n\n再往底层看，两者对 “谁该拥有系统控制权” 的答案也完全不同。Pi 的答案是开发者：极简是为了让你把每一步都看得清楚、改得动，它信任的是写代码的人，而不是运行时的 agent 本身——所以宁可不做的事就不做，也不让核心替你做决定。\nDSH 的答案更像是把控制权逐步下放给运行时本身：连 Agent Loop 这种最核心的调度逻辑都能被换掉，意味着系统本身没有预设 “应该怎么跑” 的立场，一切规则都可以在运行时被重新定义。这其实是两种对复杂度截然不同的态度：Pi 认为复杂度是负担，要主动砍掉；DSH 认为复杂度应该被结构化、装进插件里，而不是消灭，因为消灭了就没法长出新东西。\n\n真正拉开差距的是自进化这件事。DSH 已经能让 agent 在运行时检查自己的能力边界，现场写一个插件挂载上去，然后在后续任务里直接调用这个刚获得的能力——虽然现在还很实验性，动态插件只存在内存里，重启就没了，也不能自动沉淀成永久插件，但这个方向已经打开了。Pi 的扩展机制目前还是人写 TypeScript 扩展、显式安装，是静态的，agent 自己不会在任务执行中主动发现能力缺口然后现场造工具再用上。这也呼应了架构哲学上的分野：Pi 把 “谁来扩展系统” 这件事留给人，DSH 在尝试把这件事也交还给 agent 自己。\n\n前景上我会更看多 DSH 一些。Pi 已经证明了极简可扩展这条路能跑通，也确实催出了 OpenClaw 这种一周冲到十几万 star 的衍生项目，说明这套思路有市场。但它的天花板相对清晰——核心哲学就是少管事，扩展权彻底交给社区和用户，DeepSeek 官方不会去碰那层。DSH 现在虽然早期、接口还在剧烈变化，插件生态刚起步，函数式编程风格也确实有上手门槛，但它把\"agent 能自己长出新能力\"这件事做成了架构里的一等公民，而不是靠外部工具拼出来的效果。如果这条线真的跑通，DSH 想象空间会比精简的可扩展 harness 大一个数量级——它赌的不是 “给你更好的积木” ，而是 “积木自己进化！”",
+      "created_at": "Thu Aug 13 16:01:02 +0000 2026",
+      "favorite_count": 549,
+      "retweet_count": 90,
+      "reply_count": 29,
+      "quote_count": 13,
+      "bookmark_count": 504,
+      "views": "55585",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPnTbIgb0AA45ps.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPnTbV2aQAAp8KH.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPnTcEwa8AA7B08.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPnTc93bEAA5kqe.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087932451243041142"
+    },
+    {
+      "id": "2087919265118851257",
+      "text": "读了 DeepSeek Harness 里 web_search 的实现，有个设计值得拆解：模型面对的搜索工具，本身不联网。\n\n它被拆成三层：\n\n工具层（dsh-tool-web）—— 只做参数校验、结果格式化和数量上限（默认 8 条、30s 超时），不碰网络。\n接缝层（ctx.web / WebRuntime）—— 维护一个 provider 注册表，按「显式配置 > 自动选唯一可用 > 多个则报歧义」挑后端。\n后端层 —— 可插拔，目前挂了 DeepSeek、Exa、Perplexity 三个。\n最有意思的是默认的 DeepSeek 后端：它不爬网页，而是向 https://t.co/bvVgSGUuJe 发一个带 web_search_20250305 服务端工具的请求（模型 deepseek-v4-flash），让 DeepSeek 内部完成检索，再返回带 url、标题、摘要、发布日期的结构化结果，经去重、截断后交还。\n\n也就是说，每一次搜索，本质上额外消耗一轮模型调用。\n\n收益也很直接：工具对外的 schema 永远不变，想换搜索引擎只需替换 provider，不必动工具一行代码。",
+      "created_at": "Thu Aug 13 15:08:39 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 3,
+      "reply_count": 2,
+      "quote_count": 2,
+      "bookmark_count": 13,
+      "views": "8470",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087919265118851257"
+    },
+    {
+      "id": "2087825906916360305",
+      "text": "绝对是宝藏开源项目 GenOffice（genspark-ai/genoffice）👀\n\n对于做企业智能合同、法律等文档类的AI SASS来说真是福音！\n\n想象一下：你不用再手动打开 Word 一段段改，直接让 AI 说\"帮我把这份合同第三条改成XX条款\"，它就能精准改那一段，其他内容原样不动，Word 打开完全不报错 。Excel、PPT、PDF 也是同理，AI 直接操作，不是截图分析瞎猜。\n\n虽然开源的是桌面端APP，但它的引擎是纯 TS 写的，跟桌面 UI 完全解耦，Apache-2.0 协议随便商用。\n\n如果你也想做 “AI 帮用户处理文档” 的 SaaS（比如批量生成周报、AI 改简历、合同自动审阅等），直接把这几个引擎包塞进自己的后端，换上自己的 LLM Key，一个能跑的产品雏形就出来了，不用从解析 docx 格式这种苦活开始造轮子了。\n\nhttps://t.co/rUVTmbPIcM",
+      "created_at": "Thu Aug 13 08:57:40 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "470",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPlycE2aAAEArB4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087825906916360305"
+    },
+    {
+      "id": "2087419600476762535",
+      "text": "搞法律、医疗、合同的RAG同行看过来：\n\n信贷审批 Agent 批了一笔贷款，三个月后合规找上门：\"当时为啥批?\"； 医疗场景里 AI 调了用药剂量，出了事你说不清因果链从哪来。法律尽调给了结论，客户问一句依据是什么，答案居然只有一堆 embedding 相似度。\n\n核心问题就一个：Agent 会做决定，但不会\"解释\"决定。向量库和 RAG 天生就不是干这个的，它们只会算相似，不会讲道理，更交不出监管认的审计材料。\n\nsemantica-agi/semantica 把每次决策存成图里的正式节点，自带因果链和完整溯源。过俩月问\"为啥这么批\"，能直接 trace 出整条决策路径，历史相似判例也能查，合规规则还能卡着过。推理是纯确定性的，不靠 LLM 瞎编——这点对金融、医疗、法律这种强监管行业，基本是刚需。\n\n传送门:https://t.co/UrfRsNMgLh",
+      "created_at": "Wed Aug 12 06:03:09 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "294",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087419600476762535"
+    },
+    {
+      "id": "2087406682876072024",
+      "text": "兄弟们，求指点🥺 https://t.co/SnhUsD67sc",
+      "created_at": "Wed Aug 12 05:11:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "184",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPf1S_NbMAAkQxM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087406682876072024"
+    },
+    {
+      "id": "2087003265066262959",
+      "text": "在 LangChain 里，Tool Calling（工具调用）在前端模式下，官方文档写有两种：一种就是 Tool Calling，另外一种是 Headless Tools。\n\n我在想它为什么要分这两种呢？看完文档，我发现它是这样设计的：\n\n1. Tool Calling：主要是以服务端为主。比如调用天气、Web Search 等一些外部的 API。工具在服务端或者在 Agent Runtime 就已经执行完成，结果以 Tool Message 的形式返回，前端只需要负责渲染即可（也就是说，这种模式下前端纯粹就是渲染层）。\n2. Headless Tools：是以客户端为主。这里的客户端可能是浏览器，也可能是其他的载体。也就是服务端无法直接触达、必须交给某一个本地运行环境去执行的情况（比如调用浏览器的一些能力）。这种方式下，服务端只负责调用 Interrupt 中断执行，然后把参数打包传出去。真正的执行逻辑（比如读写本地存储、访问设备、打开摄像头之类的）是由客户端去匹配并实现的。执行完之后，再把结果回传给 LangChain Agent，然后恢复运行。\n\n我觉得这样设计还是挺合理的。一个负责\"好看地呈现结果\"，一个负责\"让工具真正跑得起来\"。两者常常协同工作：Headless tools 让浏览器端把活干完，Tool calling 的卡片渲染机制再把整个过程展示给用户看。这才是现代 Agent 前端架构该有的样子。",
+      "created_at": "Tue Aug 11 02:28:47 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "300",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaGY_3aUAAudCp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087003265066262959"
+    },
+    {
+      "id": "2086828925628649709",
+      "text": "被 LlamaIndex 的 LlamaParse 馋到了，于是用开源方案手搓了一个：LiteParse Agentic Studio。\n\n把 PDF / 扫描件 / 图片 / Word 转成适合 LLM 和 RAG 的 Markdown + 带坐标 JSON，本地优先的混合管道：\n\n📄 普通页 LiteParse 直出 \n🔍 扫描页走 PaddleOCR \n🧠 表格、多栏、图表这类复杂页才交给视觉模型重构，证据不足再追加一次复核 📊 Excel / PPT / EPUB 由 anydoc 本地直转，7ms 搞定，纯属不该花的钱不花\n\n核心是两阶段路由：解析前用静态信号筛一遍，OCR 跑完后拿真实产出复判——因为扫描页根本没有文字层，只靠静态信号的话每一页都会被送进 VLM，路由层等于摆设。\n四档可选：Fast / Cost Effective / Agentic / Agentic Plus。\n说实话，跟 LlamaParse 还有明显差距。但开到最强的 Agentic Plus（全页送 VLM + 每页强制复核），复杂表格和扫描件上已经能摸到它的边了。\n全开源，欢迎来拆：🔗 https://t.co/pCsas11jNL",
+      "created_at": "Mon Aug 10 14:56:01 +0000 2026",
+      "favorite_count": 37,
+      "retweet_count": 6,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 48,
+      "views": "4893",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPXk1jDawAA54xB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086828925628649709"
+    },
+    {
+      "id": "2086688631419551932",
+      "text": "和一位老同学的闲聊，他之前在北京一家专门做企业服务的公司，专门去对接一些政府或者是其他企业的一些项目合作。\n\n今天聊了一会儿，发现不光是就业环境恶劣，整体的大环境也是非常恶劣。但是呢，最近政府的一些报告又是“稳中向好”，真是不知民间疾苦啊。 https://t.co/c1vUaRY6cR",
+      "created_at": "Mon Aug 10 05:38:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "323",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVn442aQAACnz0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086688631419551932"
+    },
+    {
+      "id": "2086659816710385977",
+      "text": "在CC里让asc cli (App Store Connect) 帮我完成app提审操作，繁琐的表单验证都交给它了。这里我有点觉得苹果落后了，AI时代，苹果竟然都没有发力来搞它的AI及周边，有点看不明白。 https://t.co/ncZxHAXzY0",
+      "created_at": "Mon Aug 10 03:44:03 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "356",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVNmCSawAAYO-Y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086659816710385977"
+    },
+    {
+      "id": "2086462848348332478",
+      "text": "是我见过OCR效果最好的一个了，人眼都难以分辨的，它能处理的十分准确，而且速度非常的快。llamaindex 真不愧是文档解析界的一哥啊。 https://t.co/GsRbHhSJTw",
+      "created_at": "Sun Aug 09 14:41:22 +0000 2026",
+      "favorite_count": 389,
+      "retweet_count": 61,
+      "reply_count": 25,
+      "quote_count": 3,
+      "bookmark_count": 588,
+      "views": "86871",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSZ77aacAEm2he.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086462848348332478"
+    },
+    {
+      "id": "2086316515666936170",
+      "text": "搞 iOS 发版的兄弟们有福了。以前上传个 TestFlight 版本，得点开 App Store Connect 后台，一路点点点，改个 metadata、传个截图、查个审核状态，全靠手点，CI 里想自动化都费劲。\n\nrorkai 开源的这个 asc，直接把整个 App Store Connect API 封装成命令行，Star 已经冲到 5.6k+（MIT 协议）。构建上传、TestFlight 分组、审核状态查询、截图批量上传、证书和 profile 管理，全部一行命令搞定，输出默认 JSON，写进 CI 脚本毫无压力。\n\n最戳的是那个 asc publish appstore --submit --confirm，上传、绑定、提审一条命令走完，还能 --watch 实时看审核进度。metadata 和关键词还带 ASO 审计，重复词、超字节都给你标出来。\n\n自己写发版脚本的可以退休了，感兴趣去看看。",
+      "created_at": "Sun Aug 09 04:59:53 +0000 2026",
+      "favorite_count": 43,
+      "retweet_count": 5,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 55,
+      "views": "7251",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086316515666936170"
+    },
+    {
+      "id": "2085291076114587709",
+      "text": "腾讯新开源的 Octop 我本地安装了下，觉得很不错，对于做Agent开发有很大的参考价值。\nBUT 它依赖的核心库怎么没开源呢？\n这就差点意思了啊。\n\nhttps://t.co/jvNvtTVGRs https://t.co/jA9J2dEb6t",
+      "created_at": "Thu Aug 06 09:05:10 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "251",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBwy2dagAAXjRf.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBxAGZbQAEvg0j.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085291076114587709"
+    },
+    {
+      "id": "2085240000397074495",
+      "text": "已严肃学习！\n不过请问卡学历吗？ https://t.co/OOwJZm7yWj",
+      "created_at": "Thu Aug 06 05:42:12 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "210",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBCt__awAA3HSA.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2085240000397074495"
+    },
+    {
+      "id": "2085034485159264583",
+      "text": "给纯文本 LLM（DeepSeek-V4-Flash 等）外挂视觉的 skill 来了！\n\n原理很轻：用户一贴图，skill 自动触发 → 调用 modlens CLI → 把图片交给视觉引擎（默认免费 Gemini，也支持 OpenAI 兼容、Claude 等）转成结构化 JSON 证据（OCR全文 + 版面区块 + 语义实体），再喂回文本模型推理。\n\n不改配置、不装代理，原生支持主流 Agent 环境。\n\n一行安装： npx -y skills add liustack/modlens\n\n仓库：https://t.co/poCYMbeyso",
+      "created_at": "Wed Aug 05 16:05:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "480",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085034485159264583"
+    },
+    {
+      "id": "2084994837011714427",
+      "text": "当 ego lite AI 浏览器遇上 Deepseek v4 flash, 是一种比 codex，claude code 内置浏览器更加丝滑的一种体验，太屌了。 @ego_agent https://t.co/QySWQUYdLZ",
+      "created_at": "Wed Aug 05 13:28:01 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "313",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9jKu8agAEXDr-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084994837011714427"
+    },
+    {
+      "id": "2084993575532847198",
+      "text": "介绍一个为 AI Agent 而生的浏览器：ego-browser 🧠🌐\n\n它不是普通 Chromium 套壳，从底层就是为\"人类 + AI 协作\"设计的：\n\n🤖 AI Agent 拥有独立隔离的工作空间，复用你的登录态，不抢你的浏览器窗口\n⌨️ CLI 直接驱动，Node.js 运行时，内置 snapshotText / click / js / cdp 等开箱即用助手\n👀 语义快照读懂页面，视觉工作流处理画布类应用，CDP 直连底层\n✅ 人类随时可以接管控制权，Agent 自动让位\n\nAI 时代的新浏览器范式，强烈推荐一试 🚀",
+      "created_at": "Wed Aug 05 13:23:00 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1633",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084993575532847198"
+    },
+    {
+      "id": "2084910686627668459",
+      "text": "做 RAG 或者文档处理管道的兄弟应该都懂这个痛：一堆 PDF 丢进来，不知道哪些是纯文本的、哪些是扫描件，一股脑全砸给 OCR，钱和时间全烧在那些其实几十毫秒就能本地解析完的文档上。\n\nFirecrawl 团队开源了 pdf-inspector 专门干一件事：先判断 PDF 到底是文本型、扫描件还是图片型，准不准还给你打个置信度分数，该走本地解析走本地，该丢 OCR 再丢 OCR。官方说法是大概 54% 的 PDF 根本不需要 OCR，这部分它能在 200ms 内本地搞定，还顺手把内容转成干净的 Markdown\n\n在 opendataloader-bench 的 200 篇 PDF 测试里，综合得分、阅读顺序、表格识别都是几个本地引擎里最高的，200 篇处理下来只要 0.47 秒，比 pymupdf4llm 快了三十多倍。\n\nPython、Node.js、浏览器 WASM、Rust、CLI 全都有绑定，接入成本很低。\n\n传送门：https://t.co/zXkVSpxT25",
+      "created_at": "Wed Aug 05 07:53:38 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "212",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084910686627668459"
+    },
+    {
+      "id": "2084896727711322489",
+      "text": "接了2个千问办公的商单，正好让它帮我从0到1做了一个iOS应用（一把耗完所有积分，还买了一个月的会员😂），准备提审，8元一次性买断，我这算不算一鱼两吃呢？ https://t.co/goxXK1Lt6i",
+      "created_at": "Wed Aug 05 06:58:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "126",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO8KaYFbUAAz67R.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084896727711322489"
+    },
+    {
+      "id": "2084642671247904866",
+      "text": "如果你的 codex 也没法生图，看这里：\n\n1、验证：\ncodex features list 显示 image_generation = true\ncodex login status 显示 Logged in using ChatGPT\n\n但内置 image_gen 工具就是不暴露\nSkill 报 “built-in tool is not available”\n\n2、原因：本地缓存的订阅状态还是旧的 Free，即使实际是 Pro/Plus\n\n3、解决方法：执行 codex login 刷新缓存后，新建对话就恢复了",
+      "created_at": "Tue Aug 04 14:08:38 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "283",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084642671247904866"
+    },
+    {
+      "id": "2084624727537287349",
+      "text": "不得不吹一下这个网站，最近做 iOS 开发总是需要提供一些截图之类的。如果用 GPT 呢，还是太繁琐，也不够统一。这个网站就很简单，提供一些模板，直接上传截图图片就行了。\n\nhttps://t.co/1d2OHGWKjZ https://t.co/33TbnToU2l",
+      "created_at": "Tue Aug 04 12:57:20 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 8,
+      "views": "1507",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO4TI0QbQAEPmYP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084624727537287349"
+    },
+    {
+      "id": "2084129512196092286",
+      "text": "学到了一招，去Dribble找灵感，发给Claude design 定制，生成Design.md 交由claude code 去实现，过程中再不断打磨及优化Design.md\n\n多找一些高质量UI网站，找找灵感，提示提示品味是很有必要的。",
+      "created_at": "Mon Aug 03 04:09:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "375",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084129512196092286"
+    },
     {
       "id": "2083957454434664601",
       "text": "创建才几天，Star 冲到 6500+，Fork 干到 685——这速度放 GitHub 上都不多见，而且还是个企业级 Agent 基建项目，不是随便一个 demo。\n\nqm 是 yc-software 开源的多人协作 Agent 工作台，卖点挺扎实：每个人每个 Slack 频道都有独立隔离的记忆和沙盒，同时又能在团队场景里协同；后端不锁单一模型，Pi、OpenCode、Codex、Claude Code 随便切；安全策略分 Strict / Auto / Dangerous 三档，命令审批和高危拦截都能配置到位。\n\n架构图和文档写得也很完整，一看就不是半成品项目。\n\n传送门：https://t.co/FyRAmr1L7n",
@@ -24,8 +944,8 @@
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "29",
+      "bookmark_count": 3,
+      "views": "296",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,12 +961,12 @@
       "id": "2083880018367910114",
       "text": "又一款 图片拆解 prompt 的 chrome 插件，支持自定义自己的 KEY ，十分简约。\n\nhttps://t.co/TEhCsRlJTA https://t.co/VQBG0TGfuo",
       "created_at": "Sun Aug 02 11:38:07 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "75",
+      "views": "147",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +987,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "85",
+      "views": "159",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -104,12 +1024,12 @@
       "id": "2082858383292739794",
       "text": "非常的简约大气。",
       "created_at": "Thu Jul 30 15:58:30 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "157",
+      "views": "196",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -125,7 +1045,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "78",
+      "views": "99",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -138,10 +1058,10 @@
       "created_at": "Wed Jul 29 09:49:17 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
-      "reply_count": 4,
+      "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "285",
+      "views": "369",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -157,7 +1077,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "195",
+      "views": "213",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +1098,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "162",
+      "views": "179",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -199,7 +1119,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "299",
+      "views": "314",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +1135,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "173",
+      "views": "188",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -231,7 +1151,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "114",
+      "views": "128",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -252,7 +1172,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "94",
+      "views": "109",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -273,7 +1193,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "1710",
+      "views": "1725",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
