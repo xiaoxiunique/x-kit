@@ -7,15 +7,341 @@
     "nickname": "哈里里",
     "profile_url": "https://vibeloft.ai/profile/user9a8bea08"
   },
-  "generated_at": "2026-08-02T18:01:18.651311Z",
+  "generated_at": "2026-09-04T13:00:08.590439Z",
   "stats": {
-    "tweet_count": 734,
-    "latest_tweet_created_at": "2026-07-29T10:44:29Z",
-    "latest_tweet_id": "2082416969748213892",
+    "tweet_count": 750,
+    "latest_tweet_created_at": "2026-09-03T03:23:17Z",
+    "latest_tweet_id": "2095351900262535532",
     "oldest_tweet_created_at": "2010-03-30T04:31:38Z",
     "oldest_tweet_id": "11291010146"
   },
   "tweets": [
+    {
+      "id": "2095351900262535532",
+      "text": "重点做了群聊消息总结：\n第一轮先让 codex 整理后写入微信情报工作台中，\n也可以配置接入其他 大模型，随时进行整理总结。 https://t.co/ADoTEyNAcM",
+      "created_at": "Thu Sep 03 03:23:17 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "138",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRQu5b9XcAUS-xg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095351900262535532"
+    },
+    {
+      "id": "2094735072020578535",
+      "text": "我也想攻击下孙割，于是做了这个小工具：暴打渣男孙割版。可以发动 6 大技能，打到他裂开叫妈妈🥴 https://t.co/fmihvYNYxt",
+      "created_at": "Tue Sep 01 10:32:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "128",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094734805573181440/img/pmeQQ-QstZ66diOC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094735072020578535"
+    },
+    {
+      "id": "2093957646130848064",
+      "text": "Vibe-Coder 的日常：\n每周使用 codex /claude code 制作 7 个没有其他人使用的项目（其实自己也不用）。\n然后在社交媒体上发布，引来几个其他Vibe-Coder 的评论：\n“哇，好酷”、\n“用的什么模型？”、\n“开源吗？”",
+      "created_at": "Sun Aug 30 07:03:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "86",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093957646130848064"
+    },
+    {
+      "id": "2093332800812245381",
+      "text": "孙宇晨问了Claude什么问题？\n从“孙宇晨式注意力投资”的角度反推，他问 Claude Code 的问题，很可能是下面这种“方案比较题”：\n景甜以继续取卵、代孕和维持关系为条件，要求我支付5000万美元。这笔钱对我的资产没有实质影响。请从个人品牌、公众关注度、长期话题价值、舆论控制权和商业回报几个角度，比较两个方案：\n第一，支付5000万美元，继续关系，未来通过结婚、代孕、孩子出生，以及币圈富豪与一线女明星的结合，制造长期公共话题；\n第二，拒绝支付，结束关系，并把我们之间涉及巨额转账、私人飞机、代孕和5000万美元要求的经历写成文章公开。\n哪个方案能够以更低成本获得更大的传播、形成更鲜明的个人形象，并让我掌握叙事主动权？\n请直接给结论。",
+      "created_at": "Fri Aug 28 13:40:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "250",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ0CdqEXMAAOBly.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093332800812245381"
+    },
+    {
+      "id": "2093214884347482596",
+      "text": "打通了微信和Obsidian：微信和Obsidian可以互发消息。 https://t.co/8dpOAVW5Bl",
+      "created_at": "Fri Aug 28 05:51:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "100",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2093213626144301056/img/Bj-LyCE2Dy2c9Xcw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093214884347482596"
+    },
+    {
+      "id": "2092454308658974991",
+      "text": "受小红书官方邀请，做了个应县木塔的互动小工具。\n通过手势交互和粒子动效来玩转3D木塔，对应县木塔有个全面的了解。 https://t.co/pByH9ovULS",
+      "created_at": "Wed Aug 26 03:29:17 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2070",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092452946210631680/img/OkL88xgdCMbBMIdT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092454308658974991"
+    },
+    {
+      "id": "2092212147447013657",
+      "text": "《叠境．寻隙 》空间迷宫 \n又做了个无用的小玩意：一个在多层空间中，可以随意变换角色，通过旋转、穿越，在缝隙里寻找通路的立体空间迷宫。 https://t.co/wauU5I8MWA",
+      "created_at": "Tue Aug 25 11:27:02 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "2435",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092212030430175232/img/4f7euBV526Sb89BE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092212147447013657"
+    },
+    {
+      "id": "2091513787677364390",
+      "text": "Cool, 我做了个无限生成的页面。 https://t.co/oHqKYa8aok",
+      "created_at": "Sun Aug 23 13:12:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "178",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091513500723998720/img/McrOk1nyRGp0Eo3P.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091513787677364390"
+    },
+    {
+      "id": "2091173297341817076",
+      "text": "grok确实牛 ，生成的视频发不了，直接是黄果短剧的尺度... https://t.co/5sX0cKgQmA",
+      "created_at": "Sat Aug 22 14:39:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "570",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVXBMWWkAAcdNc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091173297341817076"
+    },
+    {
+      "id": "2089408183416520715",
+      "text": "用同样的原理，又做了一个粗糙的绘本生成器。 https://t.co/w4SX8HZy9Z",
+      "created_at": "Mon Aug 17 17:45:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "265",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089408090697281536/img/pS8EGMImTeIeCAAt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089408183416520715"
+    },
+    {
+      "id": "2089314452017385559",
+      "text": "丑萌丑萌的形象生成器，有点小猪佩奇的感觉。闺女很喜欢，给她复刻了一版，做成了小工具。\n纯js实现，使用浏览器原生 Canvas 2D API。\n种子驱动的随机生成。\n受到@mannay的作品启发，参考了@byteab 的风格 https://t.co/oUDdAPHhGR",
+      "created_at": "Mon Aug 17 11:32:37 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "1761",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089313368263815168/img/M79XO1z-LsHC2LIH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089314452017385559"
+    },
+    {
+      "id": "2088534600700092431",
+      "text": "简单改造了下deepseek harness，实现了一直想要的多端同步，完美! @tianyi https://t.co/tKktsbYGyU",
+      "created_at": "Sat Aug 15 07:53:46 +0000 2026",
+      "favorite_count": 88,
+      "retweet_count": 3,
+      "reply_count": 13,
+      "quote_count": 1,
+      "bookmark_count": 73,
+      "views": "36242",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088528719862251520/img/2bREnXDTw9lQnHiQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088534600700092431"
+    },
+    {
+      "id": "2088244692995473903",
+      "text": "上周做的一款实时换装项目，成本太高落不了地...",
+      "created_at": "Fri Aug 14 12:41:47 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "346",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088244692995473903"
+    },
+    {
+      "id": "2088147481854918730",
+      "text": "我的 GrokBot：经典蓝、原始形态，表情 04，状态难过，动作无，搭配双手。\n脑子说要努力，身体说这个提议改天再议。\n项目仓库：https://t.co/mcOUEhK6EH\n#GrokBot https://t.co/RQKavf24UX https://t.co/Q0YBtfvqo3",
+      "created_at": "Fri Aug 14 06:15:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "464",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqXClIXsAARPfc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088147481854918730"
+    },
+    {
+      "id": "2086635023772303734",
+      "text": "每个男生可能都想拥有一个Jarvis吧？ https://t.co/C0KfSTi8Jw",
+      "created_at": "Mon Aug 10 02:05:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "219",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086613126699528192/img/PcTlcYyv1aeAbshK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086635023772303734"
+    },
+    {
+      "id": "2084235742662857210",
+      "text": "做了一个本地运行的 Agent 框架—LaoA Harness。 它可以自动寻找和切换免费模型： -不用盯着 Token 余额心疼 一个免费模型限流，就自动换下一个支持持续对话、自动执行任务、断点恢复代码和数据优先保留在本地 https://t.co/yiH8XXPtxM",
+      "created_at": "Mon Aug 03 11:11:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "240",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084235009997623296/img/YlETpKRFyOPtUXQV.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084235742662857210"
+    },
     {
       "id": "2082416969748213892",
       "text": "Codex 女友基础版做的差不多了，跟她说了下情况。 她好像有些不舍，又有些担心？ #codex #AI女友 #VibeCoding https://t.co/pcJBPi0RsN",
@@ -41,12 +367,12 @@
       "id": "2082389801173438596",
       "text": "继续优化 Codex Live 实时对话功能，实现真•面向对象编程。 优化完成后，会内置到开源的 #Codex 皮肤生成器项目。 感兴趣的朋友可以先Star 一下。https://t.co/oUuR9Ps49F https://t.co/468CkqaQx7",
       "created_at": "Wed Jul 29 08:56:32 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 4,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "146",
+      "bookmark_count": 6,
+      "views": "352",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +393,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "190",
+      "views": "323",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +414,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "129",
+      "views": "228",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -109,7 +435,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "100",
+      "views": "206",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -125,12 +451,12 @@
       "id": "2078341855700267409",
       "text": "复刻了一版，已开源：\nhttps://t.co/oUuR9Ps49F",
       "created_at": "Sat Jul 18 04:51:26 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 2,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "106",
+      "views": "206",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -145,8 +471,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "152",
+      "bookmark_count": 1,
+      "views": "242",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -188,7 +514,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "86",
+      "views": "164",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -209,7 +535,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "153",
+      "views": "204",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -251,7 +577,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "80",
+      "views": "119",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -262,12 +588,12 @@
       "id": "2064796398848008611",
       "text": "做了个 Chrome/Edge 小插件：网页图片/视频，右键直接 AirDrop 到手机。\n省掉“下载 -&gt; 打开下载文件夹 -&gt; 找文件 -&gt; AirDrop”这几步。\n开源：\nhttps://t.co/2r0OfTpbOA",
       "created_at": "Wed Jun 10 19:46:38 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "60",
+      "bookmark_count": 1,
+      "views": "106",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -283,7 +609,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "332",
+      "views": "376",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -315,7 +641,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "102",
+      "views": "142",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
