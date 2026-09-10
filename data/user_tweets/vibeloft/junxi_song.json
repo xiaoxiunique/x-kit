@@ -7,15 +7,732 @@
     "nickname": "Junxi",
     "profile_url": "https://vibeloft.ai/profile/junxi"
   },
-  "generated_at": "2026-08-03T02:01:19.456388Z",
+  "generated_at": "2026-09-10T13:00:15.010040Z",
   "stats": {
-    "tweet_count": 43,
-    "latest_tweet_created_at": "2026-07-30T09:30:34Z",
-    "latest_tweet_id": "2082760755401863483",
+    "tweet_count": 80,
+    "latest_tweet_created_at": "2026-08-16T00:00:01Z",
+    "latest_tweet_id": "2088777764753272871",
     "oldest_tweet_created_at": "2025-07-21T16:49:04Z",
     "oldest_tweet_id": "1947338046296494425"
   },
   "tweets": [
+    {
+      "id": "2088777764753272871",
+      "text": "The next pricing shift in software is from seats to outcomes.\n\nA human uses a tool, so you charge per seat. An agent completes work, so customers ask what the result was worth.\n\nWhen software stops assisting labor and starts performing it, the business model has to change.",
+      "created_at": "Sun Aug 16 00:00:01 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "151",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088777764753272871"
+    },
+    {
+      "id": "2088702267436552259",
+      "text": "As software becomes easier to build, building stops being the moat.\n\nThe advantage moves to choosing the right problem, understanding the workflow, earning distribution, and operating the feedback loop.\n\nCode gets cheaper. Judgment gets more expensive.",
+      "created_at": "Sat Aug 15 19:00:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "74",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088702267436552259"
+    },
+    {
+      "id": "2088656992693101053",
+      "text": "Robotics becomes real when the demos become boring.\n\nWalking through a home, carrying bags, cleaning a room, and working around people safely matter more than another backflip.\n\nThe breakthrough is not spectacle. It is becoming part of the routine.",
+      "created_at": "Sat Aug 15 16:00:07 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "336",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088656992693101053"
+    },
+    {
+      "id": "2088475773598593317",
+      "text": "Every tool call is a permission grant.\n\nA smarter agent with broad access is not automatically more useful. It may simply fail at a larger scale.\n\nAgent security starts with the smallest capability needed for the next step—not access to everything.",
+      "created_at": "Sat Aug 15 04:00:01 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "79",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088475773598593317"
+    },
+    {
+      "id": "2088415383682433068",
+      "text": "The one-person company will not be one human commanding one giant agent.\n\nIt will be one human designing many small, bounded workflows—with clear context, tools, handoffs, and approval points.\n\nThe company becomes a graph. The founder becomes the orchestrator.",
+      "created_at": "Sat Aug 15 00:00:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "91",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088415383682433068"
+    },
+    {
+      "id": "2088339898319384743",
+      "text": "Agent memory is not a database feature. It is a governance problem.\n\nWhat gets written? What expires? What is trusted? What gets merged or deleted?\n\nWithout policy, more memory does not make an agent smarter. It makes the agent confidently stale.",
+      "created_at": "Fri Aug 14 19:00:05 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "114",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088339898319384743"
+    },
+    {
+      "id": "2088294646011384135",
+      "text": "Models are becoming interchangeable. Harnesses are not.\n\nThe durable advantage is everything around the model: context, tools, permissions, memory, evals, and recovery loops.\n\nThe model supplies intelligence. The system supplies reliability.",
+      "created_at": "Fri Aug 14 16:00:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "60",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088294646011384135"
+    },
+    {
+      "id": "2088113385619816870",
+      "text": "The most valuable AI in a factory may not be a giant language model.\n\nIt may be a tiny vision model that counts potatoes perfectly, all day, on cheap hardware.\n\nThe model race rewards scale. The real world rewards fit.",
+      "created_at": "Fri Aug 14 04:00:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "76",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088113385619816870"
+    },
+    {
+      "id": "2088052996920017229",
+      "text": "AI will not replace the most creative part of a job first.\n\nIt will replace the boring middle: cleanup, retries, formatting, checking, and the 37th tiny fix.\n\nThe future of work is not humans versus AI. It is taste at the edges, automation in the middle.",
+      "created_at": "Fri Aug 14 00:00:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "92",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088052996920017229"
+    },
+    {
+      "id": "2087977499565375884",
+      "text": "AI doesn’t need to make every idea succeed. It only needs to make failure cheap enough to run more experiments.\n\nWhen the cost of being wrong approaches zero, iteration speed becomes the advantage—and the market gets to find the winners for you.",
+      "created_at": "Thu Aug 13 19:00:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "68",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087977499565375884"
+    },
+    {
+      "id": "2087932349438922997",
+      "text": "Open-source voice tools can now clone speech locally, work across multiple languages, and connect to AI agents through MCP.\n\nWhen generation becomes cheap, the differentiators move elsewhere: privacy, latency, control, and integration.\n\nThe voice itself becomes infrastructure. https://t.co/Ahe3wq21V5",
+      "created_at": "Thu Aug 13 16:00:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "107",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087932263883517952/img/-cJuNMEfJk0hGsiX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087932349438922997"
+    },
+    {
+      "id": "2087751069535453480",
+      "text": "A full 3D building editor now runs in the browser with React Three Fiber and WebGPU.\n\nProfessional software is moving from expensive desktop installations to shareable web apps.\n\nThe moat is shifting from access to workflow, data, and domain expertise. https://t.co/5huFVNgE0I",
+      "created_at": "Thu Aug 13 04:00:18 +0000 2026",
+      "favorite_count": 97,
+      "retweet_count": 10,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 86,
+      "views": "5637",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087750999935242240/img/Am5Ok0hGQ9fJzH98.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087751069535453480"
+    },
+    {
+      "id": "2087690634761285714",
+      "text": "Obsidian’s founder open-sourced the Claude Code skills he uses in his own vault.\n\nThe deeper idea is bigger than note-taking: agents become more useful when they learn your existing file formats instead of trapping memory inside another app.\n\nFile over app. File over agent. https://t.co/YQXTIT85U5",
+      "created_at": "Thu Aug 13 00:00:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "142",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087690607091449856/img/dG7QrYofsPSKdQAW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087690634761285714"
+    },
+    {
+      "id": "2087615161750409348",
+      "text": "The browser used to make you choose: interactive DOM elements or high-performance graphics.\n\nCanvas UI puts real HTML inside a shader-powered canvas.\n\nAs DOM and GPU rendering merge, websites start behaving less like documents—and more like real-time software. https://t.co/PYVwaFBpEU",
+      "created_at": "Wed Aug 12 19:00:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "96",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087615128946843648/img/g4hHX8Wk8YR9XYVA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087615161750409348"
+    },
+    {
+      "id": "2087569952689779086",
+      "text": "Coding agents created a problem: too many sessions asking for attention.\n\nThis Mac app puts Claude Code, Codex, Cursor, and other agents in the notch. A task finishes or needs approval, and the notch brings you back to that exact session.\n\nThe next agent layer is orchestration. https://t.co/WTX7R6iCV6",
+      "created_at": "Wed Aug 12 16:00:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "118",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087569936470466561/img/h7Ao22y6nCjV7srR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087569952689779086"
+    },
+    {
+      "id": "2087388634517492046",
+      "text": "The first useful home robots may not look human.\n\nThis soft floating robot uses helium and fins instead of loud propellers. It is lightweight, quiet, and safe to touch.\n\nFor robots entering shared spaces, being harmless may matter more than being humanoid. https://t.co/EG31TXYwZH",
+      "created_at": "Wed Aug 12 04:00:06 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "164",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087388612946251776/img/g1v8Z-6uPsxzjDZT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087388634517492046"
+    },
+    {
+      "id": "2087328247763919114",
+      "text": "A single camera can now rebuild a moving world in 3D at roughly 20 FPS—without LiDAR.\n\nThat changes what a video is.\n\nIt is no longer just a recording. It can become spatial data for robots, games, digital twins, and AR.\n\nEvery phone is becoming a scanner. https://t.co/MKYF1JPgaW",
+      "created_at": "Wed Aug 12 00:00:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "94",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087328219834028032/img/KWYcGDsq-oKXdMuP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087328247763919114"
+    },
+    {
+      "id": "2087252839248859226",
+      "text": "Anthropic found a pattern inside Claude: only a small slice of internal activity appears globally accessible for reasoning.\n\nThat resembles the “global workspace” theory of consciousness.\n\nInterpretability may be becoming neuroscience for machines. https://t.co/8Ox4sDsjFs",
+      "created_at": "Tue Aug 11 19:00:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "62",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087252736098398209/img/0Z_ZLaz5_HHTXvMp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087252839248859226"
+    },
+    {
+      "id": "2087207603634069531",
+      "text": "Chat interfaces were built for questions. Agents are being built for outcomes.\n\nChatGPT Work can act across apps and files, work for hours, and turn a goal into finished work.\n\nThe next AI benchmark may be less about answers—and more about what actually gets completed. https://t.co/CpZ8EPETMS",
+      "created_at": "Tue Aug 11 16:00:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087207572453588993/img/5bm6bGxQUlJ1r01u.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087207603634069531"
+    },
+    {
+      "id": "2087026257414545868",
+      "text": "Some of the most repeatable health routines look almost too simple to matter.\n\nGentle movement. A few minutes. No equipment.\n\nThe appeal isn’t that one exercise changes everything.\n\nIt’s that low-friction habits are easier to carry for years. https://t.co/WPC7tx5MLK",
+      "created_at": "Tue Aug 11 04:00:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "75",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087026231820820480/img/Cv181jteYvddDbZ1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087026257414545868"
+    },
+    {
+      "id": "2086965849764884700",
+      "text": "Everyone needs a harmless way to reset during the workday.\n\nNot another productivity system. Not another notification.\n\nJust a small ritual that interrupts the stress loop long enough for your brain to breathe.\n\nSometimes the most productive thing you can do is stop for a minute. https://t.co/D3qp8Quy1H",
+      "created_at": "Tue Aug 11 00:00:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086965830185824256/img/x-HP1ptruyui5uzT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086965849764884700"
+    },
+    {
+      "id": "2086890369221083635",
+      "text": "Ray Kurzweil predicts humanity could reach “longevity escape velocity” by 2032—the point where medical progress adds more than one year to life expectancy for every year lived.\n\nIt is still a prediction.\n\nBut AI-driven drug discovery is making the timeline worth watching. https://t.co/RPOtKMUWBs",
+      "created_at": "Mon Aug 10 19:00:11 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "110",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086890338837516288/img/XD1uWsPHd9ko8fEQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086890369221083635"
+    },
+    {
+      "id": "2086845234290589697",
+      "text": "The race had gone silent. An injured horse was down, and jockey Kosei Miura refused to leave its side.\n\nThen the horse stood up.\n\nThe grandstand erupted.\n\nResilience doesn’t always look fearless. Sometimes it is simply one more attempt while someone stays beside you. https://t.co/0jafGMd0dS",
+      "created_at": "Mon Aug 10 16:00:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "61",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086845139063013376/img/8rVG7jIpkDbXOErD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086845234290589697"
+    },
+    {
+      "id": "2086663861382594800",
+      "text": "Thousands of fans are celebrating in the street.\n\nThe light turns green, and everyone clears the road. It turns red, and the celebration resumes.\n\nDiscipline isn’t always dramatic. Sometimes it’s a crowd choosing order without being told. https://t.co/T69ZGw48RP",
+      "created_at": "Mon Aug 10 04:00:07 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "74",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086663835998674944/img/u38uxK92SUPFDxHW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086663861382594800"
+    },
+    {
+      "id": "2086603462373187712",
+      "text": "Mike Tyson’s definition of discipline is hard to forget:\n\n“Do what you hate to do, but do it like you love it.”\n\nMotivation makes starting feel good. Discipline makes starting unnecessary to debate. https://t.co/PiGH5ozcuw",
+      "created_at": "Mon Aug 10 00:00:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "67",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086603445273026561/img/uDBo0sHzmNWaCS8k.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086603462373187712"
+    },
+    {
+      "id": "2086528013148295221",
+      "text": "Your body doesn’t become stiff overnight. It happens quietly—one chair, one commute, one skipped stretch at a time.\n\nA short nightly mobility routine won’t solve everything.\n\nBut ten minutes you repeat will beat the perfect routine you never start. https://t.co/GS7OQw3BvP",
+      "created_at": "Sun Aug 09 19:00:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "44",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086527945477357568/img/7PLgEKaEYbElkkn3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086528013148295221"
+    },
+    {
+      "id": "2086482683958526181",
+      "text": "There’s a name for refusing to sleep because work took the whole day: revenge bedtime procrastination.\n\nYou stay awake to reclaim a little time, then borrow energy from tomorrow.\n\nThe fix may start earlier than bedtime: protect some life before the day is over. https://t.co/jWt57f6Y7S",
+      "created_at": "Sun Aug 09 16:00:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "77",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086482673200148480/img/LMXSpfAuPDdG8fP9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086482683958526181"
+    },
+    {
+      "id": "2086301526818201928",
+      "text": "She was told she might lose her sight within a year.\n\nInstead of waiting for the “right time,” she booked a one-way ticket and rebuilt her life through uncertainty, injuries, and setbacks.\n\nA useful reminder: clarity often arrives after the first step, not before it. https://t.co/dNbjHzt7Gc",
+      "created_at": "Sun Aug 09 04:00:20 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "77",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086301447629754368/img/GpQrCdec8s2Y0h8D.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086301526818201928"
+    },
+    {
+      "id": "2086241073333149759",
+      "text": "Motivation asks, “Do I feel like doing this today?”\n\nDiscipline removes the question.\n\nMake the first step tiny. Remove friction. Reward consistency. Repeat until starting feels normal.\n\nThe brain learns what you practice—even the habit of showing up. https://t.co/52xc5tdxe5",
+      "created_at": "Sun Aug 09 00:00:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "71",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086241056014966784/img/oHPRwVM2GtS6s_ut.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086241073333149759"
+    },
+    {
+      "id": "2086165585898176896",
+      "text": "You get one full night of sleep and suddenly understand why everyone keeps recommending it.\n\nBetter mood. Clearer thinking. More patience.\n\nSleep is probably the least exciting performance tool—and still one of the hardest to replace. https://t.co/b9AqVOyiUn",
+      "created_at": "Sat Aug 08 19:00:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "69",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086165568823136256/img/xS9hVPyrfIVGWx0Y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086165585898176896"
+    },
+    {
+      "id": "2086120310374642029",
+      "text": "Most people don’t need a heroic morning routine.\n\nThey need seven minutes of movement they’ll actually repeat.\n\nThis mobility flow is a useful reset after hours at a desk: low friction, no equipment.\n\nThe best health routine is usually the one you can still do tomorrow. https://t.co/UShUy6cMx0",
+      "created_at": "Sat Aug 08 16:00:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "46",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086120288207634432/img/hocJFnNZeExvi8SA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086120310374642029"
+    },
+    {
+      "id": "2085916731160293839",
+      "text": "Someone built an entire neural network you can inspect in the browser.\n\nEvery neuron, weight, and prediction updates in real time, so you can trace how an input becomes an output.\n\nMost AI explanations describe the black box. This one lets you open it. https://t.co/6OG4xkJFww",
+      "created_at": "Sat Aug 08 02:31:17 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "131",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085916710541123584/img/dASrL39KY_jH9gAT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085916731160293839"
+    },
+    {
+      "id": "2085878706543951928",
+      "text": "Claude is moving from codebases into wet-lab workflows.\n\nMotif is an open-source molecular biology workbench inside Claude Science. It can fetch genes, run sequence alignments, and design CRISPR guides—all in one place.\n\nAI agents are becoming domain software. https://t.co/osyfENdftP",
+      "created_at": "Sat Aug 08 00:00:12 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "126",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085878677854969856/img/rfBNrKMQdAmT0NWK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085878706543951928"
+    },
+    {
+      "id": "2085758017459626188",
+      "text": "Someone turned one design image into an interactive 3D anatomy app.\n\nGPT Image set the visual direction. Tripo generated the organ models. Codex built the Three.js experience—and compressed nearly 900MB of assets to 28.6MB.\n\nThis is what useful vibe coding looks like. https://t.co/X2RSOb5JnR",
+      "created_at": "Fri Aug 07 16:00:37 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "267",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085757996051963904/img/QAW65ithNf54X9L2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085758017459626188"
+    },
+    {
+      "id": "2085549877271134276",
+      "text": "His phone disappeared at the office. Find My was blocked by MDM.\n\nClaude suggested tracking its Bluetooth signal—and wrote a meter in about a minute.\n\nHe followed the rising number and found it.\n\nAI’s real superpower: building the exact tool you need when you need it. https://t.co/OzDsTjimFI",
+      "created_at": "Fri Aug 07 02:13:33 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 7,
+      "views": "5096",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085549854923898880/img/Egl7vkhf0YF2KCKa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085549877271134276"
+    },
+    {
+      "id": "2085349843434885509",
+      "text": "An MIT lecture filmed in 2018 is going viral again.\n\nPatrick Winston’s “How to Speak” still beats most expensive communication courses:\n• Don’t read your slides\n• Keep visuals simple\n• Build empathy\n• End with an idea people can repeat\n\nOld knowledge. Perfect timing.\nhttps://t.co/OCVWhRXu4J",
+      "created_at": "Thu Aug 06 12:58:41 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "141",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085349843434885509"
+    },
+    {
+      "id": "2084548873281024188",
+      "text": "RT @AuroraZhangYY: I built a tool that uses artificial intelligence to judge and criticize human stupidity. \n\nTry: https://t.co/LKqjIM2b4c…",
+      "created_at": "Tue Aug 04 07:55:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084548873281024188"
+    },
     {
       "id": "2082760755401863483",
       "text": "In Argo, you can get Claude Code and Codex to work together.  Fable 5 make plan while Codex execute it\n\nThis agent team experience is amazing—it greatly improves the quality of the work! https://t.co/b0xQHmFpAa",
@@ -46,7 +763,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "747",
+      "views": "772",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +779,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "516",
+      "views": "537",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -77,8 +794,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 2,
-      "views": "359",
+      "bookmark_count": 1,
+      "views": "380",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -98,8 +815,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "703",
+      "bookmark_count": 2,
+      "views": "720",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -136,7 +853,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "358",
+      "views": "370",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -152,7 +869,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "473",
+      "views": "494",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -168,7 +885,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "319",
+      "views": "329",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -184,7 +901,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "363",
+      "views": "371",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -200,7 +917,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "328",
+      "views": "334",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -232,7 +949,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "222",
+      "views": "228",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -248,7 +965,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "367",
+      "views": "395",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -264,7 +981,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "758",
+      "views": "769",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -285,7 +1002,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "394",
+      "views": "405",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -301,7 +1018,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "259",
+      "views": "267",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -439,12 +1156,12 @@
       "id": "2074108594992390195",
       "text": "In Argo, you can have Claude Code and Codex work together in a group chat https://t.co/bMne9lJ5gX",
       "created_at": "Mon Jul 06 12:29:58 +0000 2026",
-      "favorite_count": 31,
+      "favorite_count": 33,
       "retweet_count": 2,
       "reply_count": 6,
       "quote_count": 1,
       "bookmark_count": 7,
-      "views": "47387",
+      "views": "47945",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
