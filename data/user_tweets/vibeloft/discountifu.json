@@ -7,15 +7,1935 @@
     "nickname": "大梦想家迪士尼",
     "profile_url": "https://vibeloft.ai/profile/userb9e84d60"
   },
-  "generated_at": "2026-08-03T00:01:58.216476Z",
+  "generated_at": "2026-09-10T11:00:23.053729Z",
   "stats": {
-    "tweet_count": 816,
-    "latest_tweet_created_at": "2026-08-02T03:50:28Z",
-    "latest_tweet_id": "2083762331440587235",
+    "tweet_count": 913,
+    "latest_tweet_created_at": "2026-09-09T15:46:15Z",
+    "latest_tweet_id": "2097713202494943513",
     "oldest_tweet_created_at": "2026-02-03T09:50:29Z",
     "oldest_tweet_id": "2018623114326974522"
   },
   "tweets": [
+    {
+      "id": "2097713202494943513",
+      "text": "今天才发现 BULK 的主网交易开了\n坏消息是预存款积分相当于归零了\n你们就卷吧 😀 https://t.co/4imCZUnosb",
+      "created_at": "Wed Sep 09 15:46:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "433",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRySzRJaoAAaiHM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097713202494943513"
+    },
+    {
+      "id": "2097294943249428542",
+      "text": "终于用上了最新的 @EthenaPay 啦\n标准卡 4% 返现\n存款 5% 年化\n后面应该还会有其他功能和福利开放 https://t.co/97PbqSGtDi",
+      "created_at": "Tue Sep 08 12:04:14 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 62,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "5292",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRsWojVaEAAcgvV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRsWojLasAAkwtQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097294943249428542"
+    },
+    {
+      "id": "2096227646837580010",
+      "text": "你好，请叫我 continue 侠 https://t.co/JlLs2lhzvM",
+      "created_at": "Sat Sep 05 13:23:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "766",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdL4PabIAAE0no.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2096227646837580010"
+    },
+    {
+      "id": "2096117859156201926",
+      "text": "为什么我用不了 GPT 6？ https://t.co/1EhhnujI8q",
+      "created_at": "Sat Sep 05 06:06:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1679",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRboDfJbwAAU0AN.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2096117859156201926"
+    },
+    {
+      "id": "2095477653679808578",
+      "text": "这个开源版的 ElevenLabs 真的很强大，本地就可以进行语音克隆、音频转录、视频配音等各种操作了\nhttps://t.co/qkApH7kK45",
+      "created_at": "Thu Sep 03 11:42:59 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "1073",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095477653679808578"
+    },
+    {
+      "id": "2095408882051096996",
+      "text": "Google 连发了好几个新的 gemini 版本，但是 API 是一点都没更新哇 😀 https://t.co/gV5SGic6HB",
+      "created_at": "Thu Sep 03 07:09:42 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "648",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRRjMcMaMAAFDPy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095408882051096996"
+    },
+    {
+      "id": "2095030427438424248",
+      "text": "银行真的是这个世界上最大的合法强盗\n我都不敢相信哪个加密交易所敢这么兑换稳定币不得被人骂死 🤡 https://t.co/nOAE6jkfDL",
+      "created_at": "Wed Sep 02 06:05:52 +0000 2026",
+      "favorite_count": 98,
+      "retweet_count": 4,
+      "reply_count": 19,
+      "quote_count": 2,
+      "bookmark_count": 18,
+      "views": "39872",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRMLEWqbUAAZDdn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095030427438424248"
+    },
+    {
+      "id": "2094793210950565945",
+      "text": "ENA 也下场搞 U 卡了，貌似还是 rain 发卡 😃",
+      "created_at": "Tue Sep 01 14:23:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "977",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094793210950565945"
+    },
+    {
+      "id": "2094729553432527180",
+      "text": "你的股票账户，到底超过了多少人？📈\n\n按上海证券交易所公布的 2023 年末自然人持股账户数据计算，沪市自然人账户共约 4549.32 万户：\n\n💰 持股市值达到 10 万元，超过约 49.88% 的账户\n💰 达到 50 万元，超过约 80.06%\n💰 达到 100 万元，超过约 89.38%\n💰 达到 300 万元，超过约 96.82%\n💰 达到 1000 万元，超过约 99.26%\n\n换句话说，沪市持股市值达到 100 万元，已经大约位于自然人股票账户的 前 10.62%；达到 300 万元，大约进入 前 3.18%；达到 1000 万元，更是进入 前 0.74%。\n这里统计的是股票账户持股市值，并不代表个人全部净资产，同时数据口径仅限 沪市自然人账户，一人也可能拥有多个证券账户。\n你现在大概在哪一档？👀\n\n#股票 #投资 #A股",
+      "created_at": "Tue Sep 01 10:10:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 78,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1043",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRH5UqTagAAR0o2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094729553432527180"
+    },
+    {
+      "id": "2094708929544733149",
+      "text": "刚刚估算了一下，想要本地部署 minimax h3 Max 达到实时渲染 480p 视频的速度，大概需要 8张 H200 ，也就是下面这个家伙，成本少说需要 100万，还是只能老老实实用别人的付费 API 🤡 https://t.co/xrkUIUza0c",
+      "created_at": "Tue Sep 01 08:48:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1321",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRHmqvPbwAA8iDm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094708929544733149"
+    },
+    {
+      "id": "2094341768393433432",
+      "text": "这是我最近看到过审美最好的海报生成 SKILL 了\nhttps://t.co/Xs56Y0b2TL https://t.co/mLTzCVitNh",
+      "created_at": "Mon Aug 31 08:29:23 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "1423",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRCYpl7bQAA5r_D.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094341768393433432"
+    },
+    {
+      "id": "2094329268025303399",
+      "text": "如果你将来还想去美国玩\n不建议通过任何野鸡渠道办 ITIN\n捡了芝麻丢了西瓜",
+      "created_at": "Mon Aug 31 07:39:42 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "973",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094329268025303399"
+    },
+    {
+      "id": "2093694741875749063",
+      "text": "ink 确定9月份就发币啦，感兴趣参与的朋友可以尝试来nado刷个低保试试，现在每周还有现金奖励\n邀请链接：https://t.co/RH33xOhrtL https://t.co/qU8qcmoLMT",
+      "created_at": "Sat Aug 29 13:38:20 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 2,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1296",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ5MK8WbcAAxIyl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093694741875749063"
+    },
+    {
+      "id": "2093618564414709796",
+      "text": "如果「道」是 Class\n那么「德」就是 Object",
+      "created_at": "Sat Aug 29 08:35:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "635",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093618564414709796"
+    },
+    {
+      "id": "2093316789702955344",
+      "text": "这个命盘充分展示了枭神夺食的可怕\n明年丁未年引动丑未冲夫妻宫还有一劫 https://t.co/EkR9W4yId5",
+      "created_at": "Fri Aug 28 12:36:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "666",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQz0hZ-acAAo1Vp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093316789702955344"
+    },
+    {
+      "id": "2093042184148975776",
+      "text": "家中常备，按时修剪指甲，提前帮您解决与另一半的情感安全隐患 https://t.co/LarLzfRHlF",
+      "created_at": "Thu Aug 27 18:25:18 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "708",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQv6xaQbsAAtMvo.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093042184148975776"
+    },
+    {
+      "id": "2092515777727652156",
+      "text": "2026 英伟达显卡天梯图\n包含显存和带宽速度以及参考价格 https://t.co/u2KkUOCo7I",
+      "created_at": "Wed Aug 26 07:33:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1299",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQobz1daUAAMNXw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092515777727652156"
+    },
+    {
+      "id": "2092279923297947766",
+      "text": "好消息，苹果官网显示 512GB 的 Mac Studio 会在 10月末推出 https://t.co/2gSSxLlSTX",
+      "created_at": "Tue Aug 25 15:56:21 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1008",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQlFaH0aQAA9qST.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2092279923297947766"
+    },
+    {
+      "id": "2091937961688633477",
+      "text": "更新 Base App 到最新版就可以准备领奖了，我被坑了只完成了低档的任务 😢 https://t.co/mrTYysWbzQ",
+      "created_at": "Mon Aug 24 17:17:31 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1048",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQgOfMaa8AATq-B.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091937961688633477"
+    },
+    {
+      "id": "2091512751399281032",
+      "text": "多邻国可以学古瓦雷里亚语了 😃😃\nvala morghulis https://t.co/BY3vQxPKFX",
+      "created_at": "Sun Aug 23 13:07:53 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "622",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQaLwp3bYAE-Jqd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091512751399281032"
+    },
+    {
+      "id": "2091441121159496106",
+      "text": "注册好 IBKR 的第一件事情是前往\n\n设置-&gt;账户设置-&gt;全部账户设置-&gt;IBKR定价方案\n\n把「固定式」改为「阶梯式」\n手续费固定式美股$1起收，阶梯式美股$0.35起收\n单次下单超过 150 股的时候固定式才具有价格优势\n如果是买 $NVDA 150股就已经 30000$ 了，对我等小散来说还是选用阶梯式更划算 https://t.co/rEm64izu0F",
+      "created_at": "Sun Aug 23 08:23:15 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 19,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "904",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQZJHeQbcAAoq2p.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091441121159496106"
+    },
+    {
+      "id": "2091128222826279412",
+      "text": "X 不给我流量，就随便搞搞抖音吧 😃 https://t.co/q3WJfaSrlJ",
+      "created_at": "Sat Aug 22 11:39:54 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "965",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQUuCNQbEAARFoo.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091128222826279412"
+    },
+    {
+      "id": "2091091858697105598",
+      "text": "不能免俗地参与一下 @commonsmade 活动只持续 3 天\n\n空投教程\n1. 打开 https://t.co/hRWJkVHV26 X授权登陆\n2. 绑定 GitHub  \n3. 点击 Gift Code 输入 love 有双倍加成\n4. 评论区互相留言：\n\nHey @commonsmade I vouch for @discountifu \n\n最终分数=基础分 + 5 次 Vouch https://t.co/q1yTym6bQY",
+      "created_at": "Sat Aug 22 09:15:24 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1238",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQUMzzPasAAIxYU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091091858697105598"
+    },
+    {
+      "id": "2091086630513975773",
+      "text": "Hey @commonsmade I vouch for @xingxingjun8888",
+      "created_at": "Sat Aug 22 08:54:37 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "842",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091086630513975773"
+    },
+    {
+      "id": "2091040366413885824",
+      "text": "关于自建中转不知道为什么没人提 9router，其实很多中转项目都是基于这个项目二次开发的，原版的UI更加干净整洁，支持所有主流平台，还内置许多免费的 Provider，我用了很久从来也没出现过token意外消耗的问题 https://t.co/sv6nzo8LZY",
+      "created_at": "Sat Aug 22 05:50:47 +0000 2026",
+      "favorite_count": 49,
+      "retweet_count": 6,
+      "reply_count": 23,
+      "quote_count": 0,
+      "bookmark_count": 74,
+      "views": "10028",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQTdyovaAAACocy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091040366413885824"
+    },
+    {
+      "id": "2091038937649475825",
+      "text": "据说按照目前的统计数据计算，robinhood 链上的 @Lighter_xyz 一分最少价值 9$，比起撸其他野鸡平台，还是 lighter 靠谱，已经发币，奖励明牌，交易无手续费，如果你本来就有交易需求，不妨来试试，不要为了分数顶着亏损刷，可以用一些基础的策略\n\nhttps://t.co/wAjerRhEgd https://t.co/yiSlc570OH",
+      "created_at": "Sat Aug 22 05:45:07 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2139",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQTcVaSbQAADfgv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091038937649475825"
+    },
+    {
+      "id": "2090708193194439155",
+      "text": "第一次完成 @solanamobile 的所有任务，合影留念一下～ https://t.co/kvC1Sopbd8",
+      "created_at": "Fri Aug 21 07:50:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 18,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "568",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQOv7NUbEAAeuLv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090708193194439155"
+    },
+    {
+      "id": "2090340929643401655",
+      "text": "过去30年，\n\n纳斯达克100累计价格收益约4300%，复合年化收益13.45%。\n\n标普500累计约1054%，复合年化收益8.50%。\n\n经过30年复利，最终财富相差接近3.8倍。\n\n同样投入10万元，30年后，一个变成440万元，一个变成115万元，你会选哪一个？ https://t.co/GsBgVFItd2",
+      "created_at": "Thu Aug 20 07:31:28 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "756",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQJfEzWacAASEHe.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090340929643401655"
+    },
+    {
+      "id": "2090101468217098242",
+      "text": "加密货币本来就是一种货币，不用管它是跟黄金还是跟科技股，美联储现在回购美债的操作无论如何掩饰都等同于直接印钱，美元贬值，对美元的利空就是对比特币 bitcoin:native 的利好 https://t.co/2eUq7k6ufW",
+      "created_at": "Wed Aug 19 15:39:56 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "902",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQGH0PFaAAARg8T.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090101468217098242"
+    },
+    {
+      "id": "2090063453906161745",
+      "text": "刚刚听了一会儿 billboard 感觉美国音乐也要完蛋了\n不是三角恋就是一夜情\n要么就是旋律写的连suno都不如的autotune\nAI时代到来后真的是礼崩乐坏了 🤡",
+      "created_at": "Wed Aug 19 13:08:53 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "713",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090063453906161745"
+    },
+    {
+      "id": "2090020519206850649",
+      "text": "都在FUD宇树是一家玩具公司，fake it until you make it，也许人家融资条件好将来有一天真的做成了呢？所有的上市公司股票都只是题材概念 meme 罢了",
+      "created_at": "Wed Aug 19 10:18:17 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "603",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090020519206850649"
+    },
+    {
+      "id": "2090020119028347173",
+      "text": "为什么现在网友见面不提前视频一下或者互换照片呢🤔",
+      "created_at": "Wed Aug 19 10:16:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "551",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090020119028347173"
+    },
+    {
+      "id": "2090008431835197505",
+      "text": "交易所上港股还勉强能理解，敢上A股你就看会不会秋后算账一锅端吧，敢这么肆意妄为明摆着是打算割最后一波跑路了 🤡",
+      "created_at": "Wed Aug 19 09:30:15 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1017",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090008431835197505"
+    },
+    {
+      "id": "2089978396973678919",
+      "text": "跑赢了所有没中宇树科技的股民 🤡 https://t.co/NjI8hLJim6",
+      "created_at": "Wed Aug 19 07:30:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "520",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQEYRj1bYAARPUJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089978396973678919"
+    },
+    {
+      "id": "2089629733994758369",
+      "text": "我制作了一个免费的 Tampermonkey 项目背景尽调脚本，只需要安装插件并导入该脚本，就可以在 rootdata 一键查询某个项目的关联项目和团队背景\n免费获取地址⬇️\nhttps://t.co/7vjeS4xXq4 https://t.co/Cphj5JNTuw",
+      "created_at": "Tue Aug 18 08:25:26 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1122",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP_ap3kakAAK9_k.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089629733994758369"
+    },
+    {
+      "id": "2089601290024427885",
+      "text": "我开发的免费 X-&gt;币安广场 内容同步插件已经上架 Chrome 商店啦，支持文字、线程、图片、视频、长文所有格式的内容同步，完全免费，无需登录注册，纯本地运行，100%保护隐私，如果对你有帮助，不要忘了点个关注三连支持一下～\n\n传送门⬇️\nhttps://t.co/iz9Zyx0GMU https://t.co/KKEZGVGDWX",
+      "created_at": "Tue Aug 18 06:32:25 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "1413",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP_A5QTbQAABvRa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089601290024427885"
+    },
+    {
+      "id": "2089284957449629850",
+      "text": "腾格尔在一次采访中回忆，在歌曲《天堂》成名之前，他找过很多人，反馈说他写的这根本不是歌词，太简单了；等歌火了之后，又有很多人说，这词写得绝了，一句一个画面。\n\n我们所处的时代，没有人在意成功的原因和过程，世人只能看到结果，待你功成之后，自有大儒为你辩经。 https://t.co/eFWsng98sd",
+      "created_at": "Mon Aug 17 09:35:25 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2447",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089284253385441280/img/disCHqjSRK7d8Lm8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089284957449629850"
+    },
+    {
+      "id": "2089260051940991042",
+      "text": "总结一下目前靠谱的稳定币理财机会：\n\nBinance：\nUSD1 1500$ 额度，9.4% 年化，活动截止8月27日\nRLUSD 8.5%年化，按周分配 XRP，活动截止9月11日，需用 RLUSD 作为统一账户保证金，日均交易量>500$\nU 5000$额度，8.5%年化，活期理财，活动截止9月15日\n\nBitget：\nU 10000$额度，8.5%年化，活期理财\nUSDGO 6%年化，活期理财\n\nBackpack：\nUSDC 3%-6%年化，活期理财，1M 额度",
+      "created_at": "Mon Aug 17 07:56:27 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 0,
+      "reply_count": 38,
+      "quote_count": 0,
+      "bookmark_count": 17,
+      "views": "8754",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089260051940991042"
+    },
+    {
+      "id": "2089259278297354717",
+      "text": "不同平台的兴趣推荐算法还是有很大差距的，也可能是我被 X 的算法抛弃了，这张图片在抖音搞到了 30万播放量，在 X 这里根本不推流 https://t.co/ZobAvjJE5N",
+      "created_at": "Mon Aug 17 07:53:23 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "862",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP6KCzDaEAIVLl4.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2089259278297354717"
+    },
+    {
+      "id": "2089235451353899047",
+      "text": "月薪过万，其实就已经超过了 92% 的人（有工作的） https://t.co/5JB3GTfkKL",
+      "created_at": "Mon Aug 17 06:18:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "603",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP50dDpaQAABLxF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089235451353899047"
+    },
+    {
+      "id": "2088868326403612990",
+      "text": "《牛来》这票房已经碾压了 99% 的个人作品 https://t.co/2jmkGt9O4z",
+      "created_at": "Sun Aug 16 05:59:52 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 17,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "4046",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP0mqZQakAA5Ngw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088868326403612990"
+    },
+    {
+      "id": "2088807429815541791",
+      "text": "有很多谣言认为在X上发帖的时候住宅 ISP IP 加分，机房/VPN/代理扣分，然而实际上在X开源的for you推荐算法的源码中并没有相关的逻辑，这些内容大多数是代理商或工具站的隐性推广\n\nhttps://t.co/ayPI0TCIai",
+      "created_at": "Sun Aug 16 01:57:54 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "944",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088807429815541791"
+    },
+    {
+      "id": "2088804077618774227",
+      "text": "100万资产在国内到底是什么水平🤔 https://t.co/CSTGHPGULq",
+      "created_at": "Sun Aug 16 01:44:34 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "707",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPzsPEqb0AAB2Ec.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088804077618774227"
+    },
+    {
+      "id": "2088617502695891245",
+      "text": "娱乐至死的年代成功只有两种路径\n\n1.实力碾压 99% 的人\n2.搞抽象 https://t.co/Vb403DCONV",
+      "created_at": "Sat Aug 15 13:23:11 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "973",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPxCjCDagAAcnre.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088617502695891245"
+    },
+    {
+      "id": "2088545011365253455",
+      "text": "从今天开始我都会使用北京时间计算 bitcoin:native 的八字\n天干地支本质上是从上古人类就开始流传的一种天文历法\n以地球为参照点，无论你在地球的任何一个角落，同一时刻，对应的天体运行状态都是唯一的\n因此用真太阳时、时区转换等方法计算都是无稽之谈\n\nP.S. 用北京时间也只是因为现代计算机的农历转换库是基于北京时间计算的",
+      "created_at": "Sat Aug 15 08:35:08 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 40,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2318",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPv_tKlaAAIDn7N.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2088545011365253455"
+    },
+    {
+      "id": "2088534595482579174",
+      "text": "你有没有质疑过？\n现在很多的 harness 就是冲着如何浪费大量 token 设计的，而不是让模型表现更好设计的 🤔",
+      "created_at": "Sat Aug 15 07:53:45 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2725",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088534595482579174"
+    },
+    {
+      "id": "2088521164142542913",
+      "text": "我的人工智能印钞机好像研制成功了?\nhttps://t.co/hXCZ1SniGb https://t.co/2zyzK81Mor",
+      "created_at": "Sat Aug 15 07:00:23 +0000 2026",
+      "favorite_count": 223,
+      "retweet_count": 24,
+      "reply_count": 42,
+      "quote_count": 0,
+      "bookmark_count": 361,
+      "views": "41862",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPvqwzOb0AEGTCE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088521164142542913"
+    },
+    {
+      "id": "2088519987678064772",
+      "text": "不知道我做错了什么，发的内容和以前一样，但就是没流量了 😀 https://t.co/wNMpGCz0YZ",
+      "created_at": "Sat Aug 15 06:55:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "914",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPvpyflaoAAWa2F.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2088519987678064772"
+    },
+    {
+      "id": "2088134057242828972",
+      "text": "注册各类银行、券商、ESIM、U卡对于收集癖来说确实很容易上瘾，为了给自己的生活做减法，我现在只用这两张 U 卡了 https://t.co/T3fP7jcixw",
+      "created_at": "Fri Aug 14 05:22:09 +0000 2026",
+      "favorite_count": 59,
+      "retweet_count": 5,
+      "reply_count": 31,
+      "quote_count": 0,
+      "bookmark_count": 54,
+      "views": "18823",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqKoEwbIAA5I7g.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088134057242828972"
+    },
+    {
+      "id": "2088115052356513824",
+      "text": "目前为止还没有任何一个 coding agent 让我找到不使用 claude code 或 codex 的理由",
+      "created_at": "Fri Aug 14 04:06:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "719",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088115052356513824"
+    },
+    {
+      "id": "2088114154548973888",
+      "text": "原来还有很多开了港卡的朋友不知道购买港币货币基金是低风险的理财方式之一 https://t.co/SRz9eqKJp5",
+      "created_at": "Fri Aug 14 04:03:04 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "821",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPp4wULagAAmnz7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088114154548973888"
+    },
+    {
+      "id": "2087854919453974958",
+      "text": "玩 morpho 的好处是即使你不在 Vault 里存款也可以抄它的作业，看看当前的金库主要的投资组合，然后挑选靠谱的自己存了便是 😀 https://t.co/A5WD8lgwXz",
+      "created_at": "Thu Aug 13 10:52:57 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "667",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmMlV9aMAAPWLZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087854919453974958"
+    },
+    {
+      "id": "2087813323802706056",
+      "text": "目前还有哪些风险相对比较低，收益相对比较高的理财方式？\n1. 你可以善用每年5万美金的外汇额度，把钱兑换成美元存到港卡，爽吃4%的利息，忽略汇率波动，长期持有总有一天会回来\n2. 你可以分批购买1-3、3-5、7-10年的国债、国开行、农发行债券基金，长期收益不会比任何同类债券基金差\n3. 留足子弹等黑天鹅抄底",
+      "created_at": "Thu Aug 13 08:07:40 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 22,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "2715",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087813323802706056"
+    },
+    {
+      "id": "2087635404250108306",
+      "text": "为什么很多号称独立站seo赚很多钱的站长不公开自己的网址也不说是做什么的？",
+      "created_at": "Wed Aug 12 20:20:41 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1675",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087635404250108306"
+    },
+    {
+      "id": "2087450887547744407",
+      "text": "我选择是否参与一个 PERP DEX 的标准就是看它的 OI 有没有超过 GMX，如果创业这么久还没比过这个骨灰级元老，那基本上可以放弃了 😀 https://t.co/ch7yyYJTQQ",
+      "created_at": "Wed Aug 12 08:07:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1045",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgdRZcbQAEC9_7.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087450887547744407"
+    },
+    {
+      "id": "2087123789067022436",
+      "text": "不停地为 chatgpt 填补漏洞 🤡 https://t.co/5UOhN8WZgX",
+      "created_at": "Tue Aug 11 10:27:42 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "776",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPb0BdPaUAAEzJ3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087123789067022436"
+    },
+    {
+      "id": "2086784160472182787",
+      "text": "推特对中文的算法是有问题的，感觉 grok 已经被中文互联网里的各种糟粕调教的不成人形了，天生喜欢看各种社交媒体平台上泛流量的故事和段子",
+      "created_at": "Mon Aug 10 11:58:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "962",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086784160472182787"
+    },
+    {
+      "id": "2086671979923599402",
+      "text": "我有一个大学同学，他父母都是老家教育界的名流，大二的时候就倾尽所有给他在北京买了一套房子，希望他将来能在北京长久发展\n\n毕业之后他成功校招进了一家期货公司，后来工作了两年，没和家里商量就直接把房子卖掉了，怀揣600多万现金，开始环游世界当上了数字游民\n\n现在回过头看，刚好卖在了21年的最顶点，那套老破小如果拿到今天，想要卖成现金怕是要亏一半不止\n\n那么问题来了，他现在的这些存款算是自己赚到的吗？",
+      "created_at": "Mon Aug 10 04:32:23 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 78,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3314",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086671979923599402"
+    },
+    {
+      "id": "2086373602430222693",
+      "text": "与其研究 FDE，不如在闲鱼上门安装小龙虾 😀 安 workbuddy 也行",
+      "created_at": "Sun Aug 09 08:46:44 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "826",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086373602430222693"
+    },
+    {
+      "id": "2086372634313523419",
+      "text": "终于吃上好的了 @herdrdev 完美解决了我 claude code 干活干到一半用量耗尽，无缝衔接给 codex 接着干的需求，只需要按两下快捷键，全程不用手动写 prompt https://t.co/VB5Ngy3UeA",
+      "created_at": "Sun Aug 09 08:42:53 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "1000",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPRIkBWawAA6XYI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086372634313523419"
+    },
+    {
+      "id": "2086306634041823375",
+      "text": "在湿厕纸没有被发明以前\n是不是所有的人类都擦不干净屁股？",
+      "created_at": "Sun Aug 09 04:20:37 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "711",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086306634041823375"
+    },
+    {
+      "id": "2086301340041666961",
+      "text": "8GB 内存的服务器一个月少说也要 44$\n而入门款的千元机内存也有 8GB https://t.co/2nrEOjAtxi",
+      "created_at": "Sun Aug 09 03:59:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1088",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQHy1rboAAJoU6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086301340041666961"
+    },
+    {
+      "id": "2086299799457079334",
+      "text": "周末别的美股都会休息，只有 $SPCX 会搞事 😀 https://t.co/8aL1OlXyxq",
+      "created_at": "Sun Aug 09 03:53:28 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1515",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQGeMHbkAAWzTG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086299799457079334"
+    },
+    {
+      "id": "2086089767570362834",
+      "text": "这个功能对我这种整天混用claude code和codex的用户来说确实是杀手级功能",
+      "created_at": "Sat Aug 08 13:58:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "742",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086089767570362834"
+    },
+    {
+      "id": "2086074611314327755",
+      "text": "虽然现在 $SPCX 仍然面临着持续的巨额解锁，但无论如何，在我的个人观点里\n它至少要比老古董 META 值钱\n长远来看也一定比 TSLA 值钱\n无论如何必须比风口上的猪 MU 值钱\n所以留给 $SPCX 向下的空间并不多了，除非市场对整个美国股市重新定价，SpaceX 的估值会长期维持在 1T 以上 https://t.co/QPTZHJl9j1",
+      "created_at": "Sat Aug 08 12:58:39 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "755",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPM5y2YbsAENcE4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086074611314327755"
+    },
+    {
+      "id": "2086070523445080566",
+      "text": "太难了，终于够了 500 分 https://t.co/DZhtiINMG3",
+      "created_at": "Sat Aug 08 12:42:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "574",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPM2Aaka4AAOX3S.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086070523445080566"
+    },
+    {
+      "id": "2086060189669838984",
+      "text": "我开发了一个简单的插件，可以预览 @variational_io 的股票交易对的股息收益/支出，参照文章中的说明配置并领取就可以免费使用啦 https://t.co/dPZzCYzdV7",
+      "created_at": "Sat Aug 08 12:01:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "667",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMsSw8bEAA7sy8.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2086060189669838984"
+    },
+    {
+      "id": "2086059852040741129",
+      "text": "都已经9102年了，AI还是不会写 useEffect，在遇到多个变量竞态的时候还是很容易犯错，我只好专门编写了一个 SKILL 来提醒 AI，如果你也有类似的需求，欢迎输入\n\nnpx skills add discountry/ritmex-skills --skill how-to-use-effect\n\n免费安装～",
+      "created_at": "Sat Aug 08 12:00:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "606",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086059852040741129"
+    },
+    {
+      "id": "2086035912413282668",
+      "text": "最近掌握了鸡蛋仙人的奥义\n1.加冷水刚刚没过鸡蛋\n2.开中小火（刚点燃燃气灶第二圈火焰）煮8分钟\n3.捞出鸡蛋洗冷水澡1分钟\n即可享用～ https://t.co/VtrRjPo2eg",
+      "created_at": "Sat Aug 08 10:24:52 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "623",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMV8y-awAAZUni.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086035912413282668"
+    },
+    {
+      "id": "2086009849259905111",
+      "text": "今天在 Varitional 开单的时候发现了股票交易对多了一个 Dividend（股息） 字段 👀\n除息日前后不仅可能影响市场状态，对于大仓位来说，股息支付/收入也是不得不考虑的交易成本\n所以我做了一个免费的 Tampermonkey 脚本：\n\n✅ 显示预估除息日\n✅ 计算可能收到 / 支付的金额\n✅ 直接集成在 Varitional 交易界面\n🎁 免费获取：\nhttps://t.co/iVrA8mCbOr\n具体怎么用、除息机制有什么影响，我都放在视频里了👇\n\n#Varitional #Trading #Tampermonkey",
+      "created_at": "Sat Aug 08 08:41:18 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 1,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "3190",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086009359902134272/img/Voe0U-rZI9jwYPOp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086009849259905111"
+    },
+    {
+      "id": "2085999177679745082",
+      "text": "https://t.co/A5hF23lTdm",
+      "created_at": "Sat Aug 08 07:58:54 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "1323",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085999177679745082"
+    },
+    {
+      "id": "2085971216243040682",
+      "text": "只需要 387 个人，就可以把超额理财收益干没\n熊市的时候大家还是太饥渴了\n最近还有什么别的好选择吗？ https://t.co/kqJOhKk5tA",
+      "created_at": "Sat Aug 08 06:07:48 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "533",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPLbjciaUAAUQ6E.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085971216243040682"
+    },
+    {
+      "id": "2085970806493077692",
+      "text": "最近的低保是 Solana 手机给的\n第三轮的第二个任务简直是坑爹\n如果做了的话血本无归 😀 https://t.co/XazKZ3a99X",
+      "created_at": "Sat Aug 08 06:06:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "551",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPLbPRZawAEmTYE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085970806493077692"
+    },
+    {
+      "id": "2085939021067554927",
+      "text": "新的原创作者奖励计划直接排除了所有回复的浏览量，意思是再也不需要回复互动了🤔 https://t.co/TubT6Vyw8Z",
+      "created_at": "Sat Aug 08 03:59:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "550",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPK-e68bYAARh_O.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085939021067554927"
+    },
+    {
+      "id": "2085738818054070435",
+      "text": "突然发现街机手柄才是最佳的 Vibe Coding 外设哇 https://t.co/sqMPKAXbyS",
+      "created_at": "Fri Aug 07 14:44:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "591",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPIIZmLasAES8hl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085738818054070435"
+    },
+    {
+      "id": "2085677256329007208",
+      "text": "工欲善其事，必先利其器\n最近准备开始研究 AI 视频了\n搜了目前所有可以免费使用 seedance 的工具\n还有没有什么值得补充的？ https://t.co/1xMHoPq06X",
+      "created_at": "Fri Aug 07 10:39:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "544",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPHQNDGbQAA_5GP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085677256329007208"
+    },
+    {
+      "id": "2085676507079614762",
+      "text": "和 AI 视频比起来，各种 Coding Plan 简直便宜到爆炸 😀 https://t.co/KJkziUOxUx",
+      "created_at": "Fri Aug 07 10:36:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "761",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPHPp8JbsAADDh8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085676507079614762"
+    },
+    {
+      "id": "2085664237410775071",
+      "text": "今晚有非农和失业率公布，目测会引发 $BTC 久违的波动 https://t.co/HI8iMv40OV",
+      "created_at": "Fri Aug 07 09:47:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "592",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPHEhDybQAAVA4g.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085664237410775071"
+    },
+    {
+      "id": "2085364319748063652",
+      "text": "今天 Vibe 出了我自己日常有真实使用需求的第二款工具，X到币安广场的同步发布 Chrome 插件，无缝融入原生 X 用户界面，便捷切换开关，无感同步发布～ https://t.co/dIVroPMOqq",
+      "created_at": "Thu Aug 06 13:56:12 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1365",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085363838489432064/img/DrKVvmHxM0DV4lwu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085364319748063652"
+    },
+    {
+      "id": "2085361298267910172",
+      "text": "比特币能走到对岸吗 bitcoin:native https://t.co/SqNPbfn8yc",
+      "created_at": "Thu Aug 06 13:44:12 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "552",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPCw-oJbcAA_vVm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085361298267910172"
+    },
+    {
+      "id": "2085356765143879848",
+      "text": "黄金已经进入到了以年为时间单位的宽幅震荡区间，目前其实并不具备长期投资价值，昨天的小幅拉升可能让人产生了些许兴奋，但还是要看清长期趋势 ethereum:0x68749665ff8d2d112fa859aa293f07a622782f38 https://t.co/HslBF9n0Ba",
+      "created_at": "Thu Aug 06 13:26:11 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "674",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPCssgzawAAjgkW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085356765143879848"
+    },
+    {
+      "id": "2085333120514163025",
+      "text": "我已经完成了对 U 卡的祛魅，目前这个赛道估计得有 200+ 个项目在创业了，真正好用的只有几家，可以来\nhttps://t.co/cwBlrg0Y8k\n看我收集的好用的卡片 https://t.co/reBKFkKhGj",
+      "created_at": "Thu Aug 06 11:52:14 +0000 2026",
+      "favorite_count": 81,
+      "retweet_count": 8,
+      "reply_count": 35,
+      "quote_count": 0,
+      "bookmark_count": 92,
+      "views": "19936",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPCXAeEakAAQiiJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085333120514163025"
+    },
+    {
+      "id": "2085278296888258732",
+      "text": "用 claude code 10分钟搞了一个币安广场同步发帖的chrome插件，看起来效果不错，支持自动同步图片和视频 https://t.co/OFm2ovH3nd",
+      "created_at": "Thu Aug 06 08:14:23 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1184",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBlWJbbUAAPptW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBlYbKaEAAiZ6R.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085278296888258732"
+    },
+    {
+      "id": "2085277855030948192",
+      "text": "接下来重点关注的时间\n8月7日 非农\n8月12日 CPI\n是时候给 bitcoin:native 一点波动了 https://t.co/MzCZLWZqh9",
+      "created_at": "Thu Aug 06 08:12:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "564",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBk--9aoAAH8X0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085277855030948192"
+    },
+    {
+      "id": "2085233154361803060",
+      "text": "组LP赚钱的前提是你选的标的长期震荡或者上涨\n如果单边下跌的话依然会亏钱的 😃",
+      "created_at": "Thu Aug 06 05:15:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "728",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085233154361803060"
+    },
+    {
+      "id": "2085228748308427141",
+      "text": "问题来了，推特什么时候能把算法改回6月份之前 🤡 https://t.co/BAnoRcdVDL",
+      "created_at": "Thu Aug 06 04:57:29 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "615",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPA4fmObsAAOU3v.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085228748308427141"
+    },
+    {
+      "id": "2085178851379028308",
+      "text": "很多时候所谓的消息只是借口\n其实无论 $SNDK 的财报数据如何\n在当前的情绪氛围下公布的那一刻大概率都是📉 https://t.co/SiNv73El08",
+      "created_at": "Thu Aug 06 01:39:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "524",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPALHNcaUAAoSzC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085178851379028308"
+    },
+    {
+      "id": "2085003740281733312",
+      "text": "别玩这个傻逼支付宝的黄金\n买入免手续费但是卖出有 0.4% 手续费\n比他妈的交易所都黑\n还好今天晚上 ethereum:0x68749665ff8d2d112fa859aa293f07a622782f38 涨的不错 https://t.co/inAPimpU7M",
+      "created_at": "Wed Aug 05 14:03:23 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "710",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9rhdDbwAE9wrb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085003740281733312"
+    },
+    {
+      "id": "2084990933259739302",
+      "text": "现在信息流动的快了，盘面也会跟着一波流直上直下\n庄家知道你知道股票马上要解锁了\n不会轻易给你任何反应和操作的空间\n$SPCX https://t.co/RinScqIIEo",
+      "created_at": "Wed Aug 05 13:12:30 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "544",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9gHpAakAA87b-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084990933259739302"
+    },
+    {
+      "id": "2084881625138258003",
+      "text": "冷知识\n80%国人的美股账户资产不足2万美金\n90%的账户总收益率不足 50%\n与此同时 $SPX 标普500 近三年涨幅为 63.1%\n（注意这是所有已经成功开通了美股账户用户的统计数据，筛选过一轮了）",
+      "created_at": "Wed Aug 05 05:58:09 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "924",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084881625138258003"
+    },
+    {
+      "id": "2084878339383439620",
+      "text": "如果因为恶搞一个人给你带来了无穷的欢乐，你应该感谢他，为什么要黑他呢？ https://t.co/vI04nEBnAP",
+      "created_at": "Wed Aug 05 05:45:05 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "612",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084878316440518656/img/BwdR0JdATeW98ebV.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084878339383439620"
+    },
+    {
+      "id": "2084820094706934122",
+      "text": "黄昏见证虔诚的信徒 https://t.co/ckOm1UjjKm",
+      "created_at": "Wed Aug 05 01:53:39 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1515",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO7E0yWa8AEgE5W.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084820094706934122"
+    },
+    {
+      "id": "2084627169721065841",
+      "text": "感谢 @legiondotcc \nPrime 打新确实没有亏过 https://t.co/aWEAnLd1ZO",
+      "created_at": "Tue Aug 04 13:07:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "558",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO4VWiRbsAA-EPJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084627169721065841"
+    },
+    {
+      "id": "2084515827114762327",
+      "text": "年过30，几乎所有人都发现身体健康才是最重要的 https://t.co/ibvz595bM5",
+      "created_at": "Tue Aug 04 05:44:36 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 6,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "2617",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO2wCIbbUAAzUUL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084515827114762327"
+    },
+    {
+      "id": "2084314803703844946",
+      "text": "如果一个人在光天化日之下反复做蠢事\n他大概率是坏而不是蠢",
+      "created_at": "Mon Aug 03 16:25:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "557",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084314803703844946"
+    },
+    {
+      "id": "2084307108200395012",
+      "text": "看自媒体博主大放厥词解读美日联手干预日元汇率还不如看新闻联播 https://t.co/FIvKOHXulf",
+      "created_at": "Mon Aug 03 15:55:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "641",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOzyQ0cagAAbAlE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084307108200395012"
+    },
+    {
+      "id": "2084201230566563967",
+      "text": "有一种预感，这种临时调控对长期的日元汇率可能没有任何作用 🤡 https://t.co/rswnJ9eb3T",
+      "created_at": "Mon Aug 03 08:54:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 19,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "985",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOyR9-3a8AAlUDR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084201230566563967"
+    },
     {
       "id": "2083762331440587235",
       "text": "最近又出现了钱包因为伪随机被盗的情况\n事实上所有单纯依赖计算机内部程序的随机函数都是伪随机，只要seed泄露就彻底完蛋了\n去年的时候我开发了一个助记词生成器，引入了真实世界的变量，你可以拿一副真实的扑克牌随机抽牌来生成你的钱包助记词\n代码完全开源，你可以把网站下载到本地离线运行",
@@ -25,7 +1945,7 @@
       "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "515",
+      "views": "994",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +1961,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "2055",
+      "views": "2470",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -57,7 +1977,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "563",
+      "views": "643",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -73,7 +1993,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "734",
+      "views": "813",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -89,7 +2009,7 @@
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "867",
+      "views": "920",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -105,7 +2025,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1053",
+      "views": "1125",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -121,7 +2041,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "829",
+      "views": "873",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -142,7 +2062,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1082",
+      "views": "1335",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -163,7 +2083,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "704",
+      "views": "738",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -184,7 +2104,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "743",
+      "views": "778",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -200,7 +2120,7 @@
       "reply_count": 15,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1646",
+      "views": "1689",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -211,12 +2131,12 @@
       "id": "2082509866472755586",
       "text": "我申请退款被客服拒绝了，如果你也遇到了相同的情况，下一步可以在这个链接发起正式投诉：\nhttps://t.co/EyFthc32bW\n如果投诉仍然无法退款，可以要求 giffgaff 提供 Deadlock Letter 然后下一步在Communications Ombudsman 提交案件\n虽然钱很少，但我决定不惯着这种奸商，我会走完所有流程",
       "created_at": "Wed Jul 29 16:53:37 +0000 2026",
-      "favorite_count": 63,
+      "favorite_count": 62,
       "retweet_count": 7,
-      "reply_count": 69,
+      "reply_count": 67,
       "quote_count": 0,
-      "bookmark_count": 64,
-      "views": "13715",
+      "bookmark_count": 58,
+      "views": "14042",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -232,7 +2152,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "859",
+      "views": "890",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -253,7 +2173,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "474",
+      "views": "505",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -271,10 +2191,10 @@
       "created_at": "Wed Jul 29 10:33:34 +0000 2026",
       "favorite_count": 6,
       "retweet_count": 0,
-      "reply_count": 42,
+      "reply_count": 43,
       "quote_count": 1,
-      "bookmark_count": 8,
-      "views": "20548",
+      "bookmark_count": 10,
+      "views": "21783",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -295,7 +2215,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "919",
+      "views": "947",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -311,12 +2231,12 @@
       "id": "2082383907153154401",
       "text": "有和我一样的卡牌收集控吗？ @ritmex_crypto 收集了亲测好用的 U 卡，欢迎来逛～\nhttps://t.co/cwBlrg0Y8k https://t.co/UyQEufKsjm",
       "created_at": "Wed Jul 29 08:33:06 +0000 2026",
-      "favorite_count": 63,
+      "favorite_count": 62,
       "retweet_count": 9,
-      "reply_count": 13,
+      "reply_count": 12,
       "quote_count": 0,
-      "bookmark_count": 67,
-      "views": "11760",
+      "bookmark_count": 65,
+      "views": "12057",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -337,7 +2257,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1461",
+      "views": "1500",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -353,12 +2273,12 @@
       "id": "2082326849578016929",
       "text": "冷知识\netherfi 的KYC中国护照一直都可以通过\n只是开卡的时候会告诉你所在地区还未开放服务",
       "created_at": "Wed Jul 29 04:46:23 +0000 2026",
-      "favorite_count": 27,
+      "favorite_count": 26,
       "retweet_count": 0,
       "reply_count": 21,
       "quote_count": 1,
       "bookmark_count": 12,
-      "views": "25893",
+      "views": "27366",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -369,12 +2289,12 @@
       "id": "2082314372622471431",
       "text": "现在我还在用的海外号卡：\nGoogle Voice 稳定用了10年，可以接80%的验证码，打电话\nAIS 在泰国办的，开通全球漫游，每月充值2块人民币等值泰铢即可保号\nEsimplus 爱沙尼亚esim，现在涨价到了一年7.99$，不用保号 https://t.co/a2qrnRt5eB",
       "created_at": "Wed Jul 29 03:56:48 +0000 2026",
-      "favorite_count": 4,
+      "favorite_count": 5,
       "retweet_count": 0,
       "reply_count": 25,
       "quote_count": 0,
-      "bookmark_count": 9,
-      "views": "2687",
+      "bookmark_count": 12,
+      "views": "3704",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -395,7 +2315,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "836",
+      "views": "857",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -416,7 +2336,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1019",
+      "views": "1043",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -432,12 +2352,12 @@
       "id": "2082104347824189773",
       "text": "不能幸免，今天我也收到了 giffgaff 停止服务的邮件，按照这个教程转到 CTExcel 了，补充两个 Tips：\n1. 如果你的你 giffgaff 卡还有信号，可以用它开热点获取原生英国 IP 的网络，一台安卓手机插 giffgaff 开热点，一台 iPhone 连热点激活 CTExcel 卡就好了\n2. giffgaff 里未用完的余额是无法一起转出的，可以在携号转网操作完毕之后找官网客服退款",
       "created_at": "Tue Jul 28 14:02:14 +0000 2026",
-      "favorite_count": 202,
-      "retweet_count": 26,
-      "reply_count": 63,
+      "favorite_count": 194,
+      "retweet_count": 25,
+      "reply_count": 62,
       "quote_count": 2,
-      "bookmark_count": 351,
-      "views": "61151",
+      "bookmark_count": 339,
+      "views": "62853",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -458,7 +2378,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "475",
+      "views": "494",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -3547,12 +5467,12 @@
       "id": "2069754818655330715",
       "text": "星海撸毛战队 Telegram 群\nhttps://t.co/Lk2THVWJdw",
       "created_at": "Wed Jun 24 12:09:37 +0000 2026",
-      "favorite_count": 3,
+      "favorite_count": 4,
       "retweet_count": 0,
       "reply_count": 3,
       "quote_count": 1,
-      "bookmark_count": 1,
-      "views": "6415",
+      "bookmark_count": 2,
+      "views": "9664",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
