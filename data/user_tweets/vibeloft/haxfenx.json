@@ -7,15 +7,1153 @@
     "nickname": "fenx",
     "profile_url": "https://vibeloft.ai/profile/fenx"
   },
-  "generated_at": "2026-08-03T08:02:04.679388Z",
+  "generated_at": "2026-09-10T19:00:21.088069Z",
   "stats": {
-    "tweet_count": 717,
-    "latest_tweet_created_at": "2026-08-03T02:33:36Z",
-    "latest_tweet_id": "2084105372475007410",
+    "tweet_count": 777,
+    "latest_tweet_created_at": "2026-09-10T16:42:35Z",
+    "latest_tweet_id": "2098089765140869154",
     "oldest_tweet_created_at": "2022-05-04T04:02:25Z",
     "oldest_tweet_id": "1521701756270686208"
   },
   "tweets": [
+    {
+      "id": "2098089765140869154",
+      "text": "RT @clockmaker: Three.jsカンファレンスにて、\nアニメーションライブラリの\nGSAP 4が発表されました！\n\n☑️前バージョンに対して性能向上\n\n☑️スプリングの位置モーションを搭\n\n☑️Web Animations APIプラグイン\n\n☑️Threeプラ…",
+      "created_at": "Thu Sep 10 16:42:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 30,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "ja",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098089765140869154"
+    },
+    {
+      "id": "2097928496756789319",
+      "text": "iPhone Duo 给我的感觉是在做一系列命题作文：硬件在写市场的命题作文，外观在写硬件的命题作文，系统在写外观的命题作文，作为最后的「圆场」。\n问题是，圆得好是「生态深度」；圆得别扭就像现在：改动很大，却不像在追求更好用，而是像在证明「这个形态也能用」。 https://t.co/n0WTyFjfAU",
+      "created_at": "Thu Sep 10 06:01:45 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "884",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1V7Cna4AAhmhJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097928496756789319"
+    },
+    {
+      "id": "2097887545258594419",
+      "text": "今天是教师节 https://t.co/wDi8PIqVV0",
+      "created_at": "Thu Sep 10 03:19:02 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "830",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR0xfNwbUAEExix.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097887545258594419"
+    },
+    {
+      "id": "2097886714044043437",
+      "text": "其实还要考虑 Live Activities 占用的垂直空间 https://t.co/ldyTGPZgwF",
+      "created_at": "Thu Sep 10 03:15:44 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "430",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR0wnqkbAAAVbFM.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097886714044043437"
+    },
+    {
+      "id": "2097752043889058075",
+      "text": "感觉不如……Nintendo Direct",
+      "created_at": "Wed Sep 09 18:20:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "132",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097752043889058075"
+    },
+    {
+      "id": "2097657384911139250",
+      "text": "8000 维，吓哭了 https://t.co/5u3f1P4Wzb",
+      "created_at": "Wed Sep 09 12:04:27 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 26,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2302",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxgRUUbMAAaTVw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097657384911139250"
+    },
+    {
+      "id": "2097528674644013476",
+      "text": "还是第一次看到微调 DiffusionGemma https://t.co/Dnrzk72Pc9",
+      "created_at": "Wed Sep 09 03:33:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "437",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvqw8maYAEygWQ.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097528674644013476"
+    },
+    {
+      "id": "2097516715760574662",
+      "text": "🤔 可能是 Images 2.5 最重要的升级：动画帧的连续性 https://t.co/clN8nPqN3s",
+      "created_at": "Wed Sep 09 02:45:29 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "989",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvgBlwagAENWa-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097516715760574662"
+    },
+    {
+      "id": "2097374280313143545",
+      "text": "Codex 的 update_plan 适配，不过最近客户端好像默认不启用了🥲。\n之后预计还会适配 /goal，Codex hook 给的信息确实很丰富。 https://t.co/iINLnsPkZt",
+      "created_at": "Tue Sep 08 17:19:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "251",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097373556258869249/img/Yie7E15reh90lfM9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097374280313143545"
+    },
+    {
+      "id": "2097372822083641853",
+      "text": "最近加的传送门动画 https://t.co/HNIntBp03o",
+      "created_at": "Tue Sep 08 17:13:42 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "697",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097371855523110912/img/i54FAARfbcgBqhkS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097372822083641853"
+    },
+    {
+      "id": "2097347073549177322",
+      "text": "开源一款我自己用了几个月的桌宠型应用：Aibo。\nmacOS 原生应用，体积小，占用也尽可能少。\n\n主要是通过 hook 展示 agent 状态信息，方便并行工作；也可以接收远程 webhook 信息，比如部署、队列任务、新订阅等等。\n\n兼容 Codex Pet 格式，里面还有很多我自己加的小细节✨\n这也是我第一次和 LLM 开发 macOS 应用。\n\n网站 → https://t.co/Ko2F1ZOeyv\nGithub → https://t.co/7Y6Dz9KBIq",
+      "created_at": "Tue Sep 08 15:31:23 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 3,
+      "reply_count": 30,
+      "quote_count": 1,
+      "bookmark_count": 14,
+      "views": "2910",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtDQdjbYAATXb-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097347073549177322",
+      "pinned": true
+    },
+    {
+      "id": "2097279365524623605",
+      "text": "配合 Gemini Flash 模型效果一键本地化很不错了。刚翻译了 192 条字段，只有 2 条需要我手动微调。",
+      "created_at": "Tue Sep 08 11:02:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 24,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "425",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097279365524623605"
+    },
+    {
+      "id": "2097246599235928262",
+      "text": "行吧，还真没变 https://t.co/U0yJR3RSK9",
+      "created_at": "Tue Sep 08 08:52:08 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "624",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRrqTULbcAAowV_.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097246599235928262"
+    },
+    {
+      "id": "2096984558000583119",
+      "text": "写过几篇 vibe coding 产物分享文章，但我好像一直忘记提到：\n\n因为大部分时间都是我自己先做好设计再给到 agent，但我又不懂代码，所以发起对话时会包括——\n- 描述当前问题的场景现状；\n- 描述我的设计或交互上解决方案；\n- 描述我的预期目标；\n---\n第一点有助于 agent 快速定位目标范围，但是没法具体定位代码哪里出了问题；由于我不懂代码，所以第二点可能在工程实现上会出问题，比如可能会走上偏离预期目标的解决路线，也可能本身就是个错误的解决方案；所以要通过第三点约束来对齐目标。\n\n有时候我的直觉还蛮准的，但我更高兴有时候 agent 会指出我的错误和局限。",
+      "created_at": "Mon Sep 07 15:30:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "300",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096984558000583119"
+    },
+    {
+      "id": "2096478229506981991",
+      "text": "Design Fragments 现已注册 WebMCP → https://t.co/FDq953eBYv https://t.co/DspxzzATDZ",
+      "created_at": "Sun Sep 06 05:58:55 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "275",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRgvMyla8AAGvcG.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2096478229506981991"
+    },
+    {
+      "id": "2096435226729955673",
+      "text": "终于看到，把我想说的提炼出来了\n> Added the ime-safe-enter-submitguide, which provides implementation strategies for handling \"Enter to submit\" patterns in textareas without interrupting Input Method Editor (IME) composition for users typing in languages like Japanese, Chinese, or Korean.",
+      "created_at": "Sun Sep 06 03:08:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "437",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2096435226729955673"
+    },
+    {
+      "id": "2096167806798811523",
+      "text": "RT @joshpuckett: Numbers software designers should know\n\n8.3 ms = one frame at 120 Hz\n16.7 ms = one frame at 60 Hz.\n100 ms = response feels…",
+      "created_at": "Sat Sep 05 09:25:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 130,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096167806798811523"
+    },
+    {
+      "id": "2095863230258446645",
+      "text": "看到立入禁止做了十多年 agency 都没绷住，我也没绷住。这种设计立场，一定程度上真的是反人性的。\n\n我在三年前离开了设计 agency，公司老板同事都很好，但最后只干了三年半——奈何我最后还是没绷住。\n\n所以到了 LLM 爆发年代，我一点也没有焦虑。我深知有些人，其实根本不知道自己想要什么；就算知道了也没法有效地表达出来；就算表达出来也没法上升到审美……\n\n但也可以说 LLM 不会拒绝的特性很适合这类人。即使是绕圈子也在输出内容，从而轻松略过自己的回合——这实在学不来。",
+      "created_at": "Fri Sep 04 13:15:08 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1541",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYAfupaAAE5-5K.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095863230258446645"
+    },
+    {
+      "id": "2095752228544139588",
+      "text": "🧎文章「配图」是带有自适应的代码界面，太牛了",
+      "created_at": "Fri Sep 04 05:54:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "577",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095752228544139588"
+    },
+    {
+      "id": "2095541699569463302",
+      "text": "太齐了 https://t.co/Ig6Y3hwupL",
+      "created_at": "Thu Sep 03 15:57:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "324",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRTcC2vagAA6vO_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095541699569463302"
+    },
+    {
+      "id": "2095435233424543902",
+      "text": "定制 .VolumeIcon.icns https://t.co/jfx8cFUYQW",
+      "created_at": "Thu Sep 03 08:54:25 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "565",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRR6wzXa0AAv-C9.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095435233424543902"
+    },
+    {
+      "id": "2095378755900559541",
+      "text": "Safari 不知道哪里来的文稿与数据，我没招了。\n\n网站数据、历史记录、下载文件夹、扩展都清除过一遍，占用空间依然没变反而越来越大。 https://t.co/DPPfZV11Aq",
+      "created_at": "Thu Sep 03 05:10:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 33,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "484",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRRG_wmbYAA8xRm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095378755900559541"
+    },
+    {
+      "id": "2094974269319221509",
+      "text": "🫢尴尬了 https://t.co/Bm6TMLBhbO",
+      "created_at": "Wed Sep 02 02:22:43 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "526",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRLW6ixaoAEhYTH.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2094974269319221509"
+    },
+    {
+      "id": "2094795032754843767",
+      "text": "[🚧WIP] 把 Genie Effect 带到网页 https://t.co/IbCjtn3LFn",
+      "created_at": "Tue Sep 01 14:30:29 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "778",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094794698040999936/img/KXFZq03mDhpTiVWi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094795032754843767"
+    },
+    {
+      "id": "2094664017537376534",
+      "text": "Design Fragments 八月发布了 74 条信息以及 25 条 snippet，详见 → https://t.co/mF4M6kXEF7\n---\n家里硬装终于完事了，但是还有软装，以及一刷新就没货的宜家…… https://t.co/7GRL7kx1wp",
+      "created_at": "Tue Sep 01 05:49:53 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1441",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRG8zS-bYAAczHD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094664017537376534"
+    },
+    {
+      "id": "2093167292498792849",
+      "text": "🧐 代价是什么",
+      "created_at": "Fri Aug 28 02:42:26 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "6318",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093167292498792849"
+    },
+    {
+      "id": "2092897337534533927",
+      "text": "穷鬼开发者的 3D 管线一例：\n\n- 拿着单张图，使用免费额度的生图模型生成多视图（效果一般）；\n- 拿着多视图裁切后去腾讯混元 3D 生成模型，这是唯一可直接下载模型文件的平台，每日白嫖 20 次（效果一般到中等）；\n- 拿着单张图，使用 meshy 每日免费额度直接生成模型（效果中等到不错，但是白嫖无法下载）；\n- 在 meshy 画布中，截图模型的多个视图（比如八视图），扔给 5.6 Luna Max + img2threejs 去跑（效果不错，且很轻量）；\n- 让 5.6 Luna 学习 Spline 的界面去完成定制交互；",
+      "created_at": "Thu Aug 27 08:49:44 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 12,
+      "views": "1165",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092897337534533927"
+    },
+    {
+      "id": "2092818461450010694",
+      "text": "今天什么日子 https://t.co/Bu4a3wJ1el",
+      "created_at": "Thu Aug 27 03:36:18 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "689",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQsvKVdakAAEPBb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092818461450010694"
+    },
+    {
+      "id": "2092522818114290119",
+      "text": "感觉 MLX 没支棱起来前还可以继续做等等党 https://t.co/K996JvMMuQ",
+      "created_at": "Wed Aug 26 08:01:31 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "295",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQoh54oacAENIsY.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2092522818114290119"
+    },
+    {
+      "id": "2090455523137302793",
+      "text": "格局打开🫴 https://t.co/DXiMRDxE2Q",
+      "created_at": "Thu Aug 20 15:06:50 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "618",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQLKEDHbwAAIqek.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090455523137302793"
+    },
+    {
+      "id": "2090013557190779337",
+      "text": "退押金吗",
+      "created_at": "Wed Aug 19 09:50:37 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1419",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090013557190779337"
+    },
+    {
+      "id": "2089892183000469658",
+      "text": "今天是七夕节 https://t.co/fPufUzn9Bz",
+      "created_at": "Wed Aug 19 01:48:19 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "views": "1943",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQDJtofa0AA2ynZ.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2089892183000469658"
+    },
+    {
+      "id": "2089683075722813529",
+      "text": "#NIKKE #Poli https://t.co/dkmUamhofF",
+      "created_at": "Tue Aug 18 11:57:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "219",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089682444920532992/img/YP-6VYXzhVsZmPpo.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089683075722813529"
+    },
+    {
+      "id": "2088543478523556241",
+      "text": "从 extra high 换为 high 能减少些发病",
+      "created_at": "Sat Aug 15 08:29:03 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "543",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088543478523556241"
+    },
+    {
+      "id": "2088215031142109254",
+      "text": "哇，Cursor 中 Grok 4.6 写 macOS 的 SwiftUI 界面真是一写一个不吱声。三百六十行，行行都是💩。非常喜欢混写修饰符，喜欢自己造样式，想着力大砖飞其实乱的一批。拿 Xcode ACP 写就正常多了。",
+      "created_at": "Fri Aug 14 10:43:55 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "views": "1061",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088215031142109254"
+    },
+    {
+      "id": "2088128355485077736",
+      "text": "世事无常 #Google https://t.co/NwghhQ2qVu",
+      "created_at": "Fri Aug 14 04:59:30 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "550",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqFaPvaEAATK4v.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqFaPzasAALpe5.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqFcx7aYAAISp0.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2088128355485077736"
+    },
+    {
+      "id": "2087927215979888715",
+      "text": "给 deepseek harness 接上 hook https://t.co/UBN4HbSvmc",
+      "created_at": "Thu Aug 13 15:40:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "275",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087926892548747264/img/4r9jzolo8d00viJJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087927215979888715"
+    },
+    {
+      "id": "2087907119748325847",
+      "text": "deepseek harness 有一种把 GUI 写成 TUI 的感觉",
+      "created_at": "Thu Aug 13 14:20:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "328",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087907119748325847"
+    },
+    {
+      "id": "2087892456998404129",
+      "text": "#SVGBenchmark 我就说下午测完怎么不太对劲…… https://t.co/lgRQRRJZ4d",
+      "created_at": "Thu Aug 13 13:22:07 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "248",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmuxb0a0AAnLAC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087892456998404129"
+    },
+    {
+      "id": "2087776812298633717",
+      "text": "啊？还有 Grounding 提升",
+      "created_at": "Thu Aug 13 05:42:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "268",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087776812298633717"
+    },
+    {
+      "id": "2087723852524929481",
+      "text": "当大家都在嫌弃美国豆包的时候，我还在发 X 说 Gemini Flash 生成 SVG 和处理文本挺不错，结果在最近几乎没有 API 调用的情况下项目被封禁😅感觉还是嫌用户太多了 https://t.co/BwzLwGjbOW",
+      "created_at": "Thu Aug 13 02:12:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1070",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPkUwSMaIAAyojr.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087723852524929481"
+    },
+    {
+      "id": "2087538915033129188",
+      "text": "https://t.co/3rGC5IdIlr",
+      "created_at": "Wed Aug 12 13:57:16 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "452",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPhte1aaQAAKsYG.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087538915033129188"
+    },
+    {
+      "id": "2087094550682849569",
+      "text": "Xcode 27 Beta 5 看起来修复了，而且多了个 headless MCP 模式👀 https://t.co/o3huryH42u",
+      "created_at": "Tue Aug 11 08:31:31 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "392",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPbZIGhagAAmvag.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087094550682849569"
+    },
+    {
+      "id": "2087089986923590021",
+      "text": "之前 iOS 26 适配的图标到 iOS 27 后，因为材质改变会导致中间有一段黑色部分，因为新增的 Specular 值默认为 Outside，使用 Icon Composer 2 改为 Inside 后会更自然些。\n另外多层图隐藏的玩法下，主题模式改变时，也需要把 Refraction 关闭，否则会有迷之 bug🤔即使此时组和内容的透明度已经设为 0 了。",
+      "created_at": "Tue Aug 11 08:13:23 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 1,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2356",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087088150644715520/img/DrBmWfr-JoNNQfyR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087089986923590021"
+    },
+    {
+      "id": "2087059456018534745",
+      "text": "🥲曾经真当 bug 去修了，比如过渡结束后把滚动禁用约 500ms，然后发现并没有用……",
+      "created_at": "Tue Aug 11 06:12:04 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "856",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087059456018534745"
+    },
+    {
+      "id": "2086384713028235613",
+      "text": "鸽了 2 个月的文章，记录一下我的第一款 iOS App\nhttps://t.co/Qx64ca3KDX",
+      "created_at": "Sun Aug 09 09:30:53 +0000 2026",
+      "favorite_count": 48,
+      "retweet_count": 3,
+      "reply_count": 62,
+      "quote_count": 1,
+      "bookmark_count": 37,
+      "views": "7457",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086384713028235613"
+    },
+    {
+      "id": "2086045914419056855",
+      "text": "使用千问是正确的 https://t.co/TBqgkv4AaP",
+      "created_at": "Sat Aug 08 11:04:37 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "475",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMfUGZasAAyvKN.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2086045914419056855"
+    },
+    {
+      "id": "2085640212382994764",
+      "text": "《互联网珍贵 Gemini Coding 记录》\n没想到当年让 Gemini 3 Pro 写的裁剪是最后一次让 Gemini 在写线上产品代码",
+      "created_at": "Fri Aug 07 08:12:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "502",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085640212382994764"
+    },
+    {
+      "id": "2085340466028192202",
+      "text": "说起来我也是第一次看到，能在蚊香君身上生成如此标准的太极图 https://t.co/yOKrw3Hha3",
+      "created_at": "Thu Aug 06 12:21:25 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "532",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085340229259726848/img/8ktYHpOa0ihdWWfK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085340466028192202"
+    },
+    {
+      "id": "2085339193727963638",
+      "text": "趁 Muse Spark 1.2 能测了，测了下在 Pokémon SVG Bench 排在第 12/42 位。\n\n给我的印象是，他能准确地表达出大多数宝可梦的信息，但是细节和其他模型一样不够完善。没有 GPT 5.6 系列和 Gemini 系列独特的风格，但是起码比起某些代码强化的开源模型来说，还是有一定 SVG 功底的。\n\n查看更多 → https://t.co/OXVDk8iw18",
+      "created_at": "Thu Aug 06 12:16:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "870",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPCbxTZakAEL8_w.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085339193727963638"
+    },
+    {
+      "id": "2085210788088963323",
+      "text": "今日捡漏",
+      "created_at": "Thu Aug 06 03:46:07 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "485",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085210788088963323"
+    },
+    {
+      "id": "2084964356396298397",
+      "text": "？还有 Segagaga",
+      "created_at": "Wed Aug 05 11:26:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "289",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084964356396298397"
+    },
+    {
+      "id": "2084689610572197994",
+      "text": "真的越来越无聊了",
+      "created_at": "Tue Aug 04 17:15:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "433",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084689610572197994"
+    },
+    {
+      "id": "2084638271871795286",
+      "text": "给 SVG 加了爆炸图效果来观察每层结构 https://t.co/DNVmD77SYv",
+      "created_at": "Tue Aug 04 13:51:09 +0000 2026",
+      "favorite_count": 29,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "1940",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084638179718823936/img/Twvcl6ARiAL4fYqc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084638271871795286"
+    },
+    {
+      "id": "2084577298167333077",
+      "text": "Figma 社区的 riffs 可以一键拷贝 frame 很方便 https://t.co/3V9g43Uob0",
+      "created_at": "Tue Aug 04 09:48:52 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "912",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO3noL4acAEHH4x.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2084577298167333077"
+    },
+    {
+      "id": "2084519413072744655",
+      "text": "「产品收入将以版税形式返回给插画、影像的原作者以及声优」看出来生存意愿很强了。\n\n然后又看了下背后的 SpiralAI 这家公司，发现做的事还挺有意思。🤔不从零训练做底模，主要是拿训练上的技术来定制服务 C 端产品。比如：\n\n- 坚持在 8B–12B 参数量的基座模型微调，省算力，推理延迟低。训练时加入了额外的情绪推理链 `internal_thought` 和 `emotion_tag`，就这么搞了个带有情绪参数的状态机，并在对话前注入。然后直接流式输出带情绪标记的 chunk，配合自家优化的 TTS 不用等整句生成完，就可以发出语音。\n\n- 这个基模通过 DPO 和 KTO 反向微调，让模型尽可能输出二次元偏好的语气，尽可能让模型舍弃一些高风险 OOC 词汇。\n\n- 拿`〜なのだ`二次元常用口癖、语气词扩充了 Tokenizer，提高解码效率。\n\n- 会添加前置 Guardrail 和后置分类器来做进一步筛选，防止 OOC 文本输出。\n\n- 在这个二次元特化的底座模型上，每一个不同的 IP 项目都会单独训练一个 LoRA，部署时用 Multi-LoRA 动态并发。鉴于二次元翻来覆去都是那些语料（东浩纪的数据库消费概念还在发力），属于效果不错成本又低。",
+      "created_at": "Tue Aug 04 05:58:51 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "791",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084519413072744655"
+    },
+    {
+      "id": "2084247041283351008",
+      "text": "真 · 无人在意的角落， @Cloudflare  模型中的 GPT 5.6-Luna 定价还是原价，提了 P4 工单真就一点都不回啊。 https://t.co/XDJJLE5QBr",
+      "created_at": "Mon Aug 03 11:56:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "378",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOy7E0FaoAEzhHx.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2084247041283351008"
+    },
+    {
+      "id": "2084241993849590089",
+      "text": "另外所有测试数据也都传到了抱抱脸\nhttps://t.co/tboKtyJsov",
+      "created_at": "Mon Aug 03 11:36:29 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "471",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084241993849590089"
+    },
+    {
+      "id": "2084236494185894135",
+      "text": "Qwen3.8-Max 在 Pokémon SVG Bench 的排在第 8 位。默认 reasoning_effort 为 xhigh，所以耗时也增加了不少。\n\n详情 → https://t.co/akJRNhbhQc https://t.co/lHTz0p5Tx8",
+      "created_at": "Mon Aug 03 11:14:38 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "716",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOye5ioakAACIvq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084236494185894135"
+    },
     {
       "id": "2084105372475007410",
       "text": "GPT-5.6 Sol 还挺像回事\n原文 → https://t.co/65dNxj38Dh https://t.co/rP3M04b60U",
@@ -24,8 +1162,8 @@
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
-      "bookmark_count": 1,
-      "views": "405",
+      "bookmark_count": 0,
+      "views": "714",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -42,7 +1180,7 @@
       "text": "RT @_Kavsoft: iOS 27 introduced a new property called “concentricCornerRadii\" for “GeometryProxy”. \n\nThis means you can now use “GeometryRe…",
       "created_at": "Sun Aug 02 23:09:46 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 14,
+      "retweet_count": 29,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -60,9 +1198,9 @@
       "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 1,
-      "quote_count": 0,
+      "quote_count": 1,
       "bookmark_count": 0,
-      "views": "517",
+      "views": "1068",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -94,12 +1232,12 @@
       "id": "2083440301960827118",
       "text": "Design Fragments 七月发布了 66 条信息以及 17 条 snippet → https://t.co/K0tgKoEivs\n---\n这个月忙碌之余，上线了新版本网站，还有很多想法没实现。新增了 snippet 类型内容，之后会这样分类：\n- Item 内容：值得长期保存的知识内容；\n- Snippet 内容：短期的、更加碎片的知识内容；\n- X 内容：记录一些可阅后即焚的内容；\n---\n这个月还更新了 Pokemon SVG Bench 的网站首页和 gallery 页。\n又开了个新坑：一个本地桌宠，macOS 的原生应用，目前可以满足我集中接收远程 webhook 消息，以及查看 agent 运行状态的需求。资源占用必须也要小（受够了 electron）。之后打算看看还有什么可能性。在设计完界面后会开源出来。",
       "created_at": "Sat Aug 01 06:30:51 +0000 2026",
-      "favorite_count": 3,
+      "favorite_count": 4,
       "retweet_count": 0,
       "reply_count": 0,
-      "quote_count": 0,
-      "bookmark_count": 1,
-      "views": "554",
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "2156",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -120,7 +1258,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "613",
+      "views": "652",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +1279,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1420",
+      "views": "1460",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -162,7 +1300,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "361",
+      "views": "395",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -178,7 +1316,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "857",
+      "views": "886",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -199,7 +1337,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "516",
+      "views": "546",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -220,7 +1358,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "603",
+      "views": "639",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -233,6 +1371,27 @@
       "url": "https://x.com/i/status/2082651559616499924"
     },
     {
+      "id": "2082631520876204473",
+      "text": "Xcode MCP 好用啊 https://t.co/axpOH1LOLC",
+      "created_at": "Thu Jul 30 00:57:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "365",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HOb-RGsaQAAfCYb.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2082631520876204473"
+    },
+    {
       "id": "2081572049169129608",
       "text": "更新到 macOS 27 PB 几天，Cursor disabled: failed set_cursor_surface 这个问题触发次数变多了。\n已知微信会很大几率触发（退出后光标就正常了），还有其他有屏幕捕捉权限的 App（比如 Adobe 系列，老问题了）也会🫠",
       "created_at": "Mon Jul 27 02:47:04 +0000 2026",
@@ -241,7 +1400,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "293",
+      "views": "314",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -257,7 +1416,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "274",
+      "views": "296",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -278,7 +1437,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "437",
+      "views": "462",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -294,7 +1453,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "311",
+      "views": "333",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -310,7 +1469,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "315",
+      "views": "337",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -331,7 +1490,7 @@
       "reply_count": 2,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "574",
+      "views": "609",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -352,7 +1511,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "343",
+      "views": "359",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -388,8 +1547,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "2466",
+      "bookmark_count": 4,
+      "views": "2925",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -405,7 +1564,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "311",
+      "views": "328",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -437,7 +1596,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "962",
+      "views": "981",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -458,7 +1617,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "769",
+      "views": "784",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -479,7 +1638,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "437",
+      "views": "450",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -495,7 +1654,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "420",
+      "views": "435",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -511,7 +1670,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "537",
+      "views": "555",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -532,7 +1691,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "412",
+      "views": "425",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -548,7 +1707,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "2794",
+      "views": "2822",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -564,7 +1723,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "566",
+      "views": "587",
       "lang": "und",
       "is_retweet": false,
       "is_quote": false,
@@ -580,7 +1739,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "471",
+      "views": "486",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -601,7 +1760,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "360",
+      "views": "374",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -619,10 +1778,10 @@
       "created_at": "Thu Jul 16 05:13:08 +0000 2026",
       "favorite_count": 1,
       "retweet_count": 0,
-      "reply_count": 1,
+      "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "449",
+      "views": "466",
       "lang": "und",
       "is_retweet": false,
       "is_quote": true,
@@ -643,7 +1802,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1146",
+      "views": "1168",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -660,7 +1819,7 @@
       "text": "RT @TencentHunyuan: We’ve just released the 1-bit &amp; 4-bit version of Hy3, a flagship-scale 295B model that can be served on a single GPU. 👌…",
       "created_at": "Wed Jul 15 02:38:08 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 176,
+      "retweet_count": 173,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -680,7 +1839,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "650",
+      "views": "663",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -701,7 +1860,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "727",
+      "views": "745",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -712,12 +1871,12 @@
       "id": "2076654496361701417",
       "text": "非设计师身份说这些事真方便啊（感叹）。\n其实大部分设计师从一入行开始就每天看 \"slop\" 了，看了这么多年也基本养成了「说好不说坏」的习惯——吐槽是肯定会吐槽的，只是不会真的对（特别是个人向）产品直言不讳。过多的评价很容易给人「高高在上」的感觉。常在河边走，哪天说不定自己也像素没对齐、滥用了颜色等等，最终批评反噬在自己身上。\n等到 AI slop 年代想说点什么时候，发现根本说不过来，也会迟疑自己真的设计得比 AI 好吗（设计过程在限时的状态下很容易陷入经验主义和思维定式）？转念一想，互联网设计一直讲究「以用户为中心」，创造 \"slop\" 的人也是用户，用户自己满足就好了。尊重，祝福。",
       "created_at": "Mon Jul 13 13:06:28 +0000 2026",
-      "favorite_count": 48,
+      "favorite_count": 47,
       "retweet_count": 1,
       "reply_count": 10,
       "quote_count": 0,
       "bookmark_count": 14,
-      "views": "7561",
+      "views": "7581",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -733,7 +1892,7 @@
       "reply_count": 18,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "465",
+      "views": "478",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -754,7 +1913,7 @@
       "reply_count": 3,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "909",
+      "views": "934",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -779,7 +1938,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "718",
+      "views": "740",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -800,7 +1959,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1003",
+      "views": "1049",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -816,7 +1975,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "422",
+      "views": "433",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
