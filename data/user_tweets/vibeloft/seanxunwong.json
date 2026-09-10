@@ -7,15 +7,548 @@
     "nickname": "Sean Wong",
     "profile_url": "https://vibeloft.ai/profile/seanwong"
   },
-  "generated_at": "2026-08-03T04:01:20.509248Z",
+  "generated_at": "2026-09-10T15:00:35.725212Z",
   "stats": {
-    "tweet_count": 283,
-    "latest_tweet_created_at": "2026-07-27T12:49:48Z",
-    "latest_tweet_id": "2081723730527670457",
+    "tweet_count": 310,
+    "latest_tweet_created_at": "2026-09-10T10:15:16Z",
+    "latest_tweet_id": "2097992296029720776",
     "oldest_tweet_created_at": "2018-07-27T14:33:20Z",
     "oldest_tweet_id": "1022852441484611584"
   },
   "tweets": [
+    {
+      "id": "2097992296029720776",
+      "text": "一直在用，非常推荐大家尝试一下。",
+      "created_at": "Thu Sep 10 10:15:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "113",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097992296029720776"
+    },
+    {
+      "id": "2097967357981511971",
+      "text": "Perhaps this is the greatest motivation for working on products or as a developer. https://t.co/FyyLWQeSwp",
+      "created_at": "Thu Sep 10 08:36:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "29",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR15z1qbEAA6M6o.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097967357981511971"
+    },
+    {
+      "id": "2097591504311394435",
+      "text": "Xcode 27 上周悄悄塞了个好东西——Apple 官方出了 SwiftUI 的 agent skills，可以直接导出给任何 AI agent 用，包括 Cursor。里面是 Apple 自己总结的 SwiftUI 最佳实践和新 API 用法，相当于官方给 AI 写的 SwiftUI 说明书。\n\n来源：https://t.co/8WbU2uBeoz",
+      "created_at": "Wed Sep 09 07:42:40 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1376",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097591504311394435"
+    },
+    {
+      "id": "2097515704098636100",
+      "text": "？？？ https://t.co/nPEuKWIcUo",
+      "created_at": "Wed Sep 09 02:41:28 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "112",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvfYQEaIAAsdGP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097515704098636100"
+    },
+    {
+      "id": "2097125220276715644",
+      "text": "可以预见未来几年小米彭程的车主不是吐槽椅子这里响，就是那里会晃动",
+      "created_at": "Tue Sep 08 00:49:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "96",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097125220276715644"
+    },
+    {
+      "id": "2096769071077535749",
+      "text": "12 年了，应该是我追的最久了节目了，每一集都没有落下 https://t.co/4wU2Q0izc5",
+      "created_at": "Mon Sep 07 01:14:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "64",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRk4EF3awAAsa09.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2096769071077535749"
+    },
+    {
+      "id": "2096098110372204915",
+      "text": "你就说是不是 Remote Control 吧 https://t.co/GkaARN8Nlj",
+      "created_at": "Sat Sep 05 04:48:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "64",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096098068785750016/img/nmmRF73TXGWR0OYc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096098110372204915"
+    },
+    {
+      "id": "2095537625008578601",
+      "text": "预告一下 https://t.co/UxnDEMySN4",
+      "created_at": "Thu Sep 03 15:41:17 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1670",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095537577982107648/img/g8WXhU-Z-8gHY2bq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095537625008578601"
+    },
+    {
+      "id": "2095511874305732658",
+      "text": "收到了苹果有史以来发的最高一次工资！ https://t.co/Fr3Tw0IdBD",
+      "created_at": "Thu Sep 03 13:58:58 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1212",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRTA8OXbYAAXnZQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095511874305732658"
+    },
+    {
+      "id": "2095035197955981444",
+      "text": "Using Burp direct output https://t.co/rsCA5Ly5Wj",
+      "created_at": "Wed Sep 02 06:24:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "128",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095034776092807168/img/7OFFgRrnrOPg1V4O.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095035197955981444"
+    },
+    {
+      "id": "2094778211582513439",
+      "text": "Grok bot 登录流程是真的蠢，Grok，SpaceX，Cursor 三个来回跳，最后 Link 半天还连不上…",
+      "created_at": "Tue Sep 01 13:23:39 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "109",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094778211582513439"
+    },
+    {
+      "id": "2093249030394695941",
+      "text": "好喜欢，真的太可爱了",
+      "created_at": "Fri Aug 28 08:07:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "105",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093249030394695941"
+    },
+    {
+      "id": "2092825860265111936",
+      "text": "5.6 索嗨降智严重，用量消耗也快，美国豆包又行了！",
+      "created_at": "Thu Aug 27 04:05:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "88",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092825860265111936"
+    },
+    {
+      "id": "2092144011138244836",
+      "text": "这个网站能看到全球的 Tesla 充电桩，这数量才是真正的电车公司。\nhttps://t.co/Kt80RHg381 https://t.co/X7CtFklRIv",
+      "created_at": "Tue Aug 25 06:56:17 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "296",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQjJaM0bcAAzAkq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092144011138244836"
+    },
+    {
+      "id": "2091182821763379634",
+      "text": "1 小时快速 Vibe 了一个玩具，可以用唤醒词快速激活豆包输入法的语音输入模式 https://t.co/Hs7wXyGQpg",
+      "created_at": "Sat Aug 22 15:16:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "164",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091182713088925696/img/i6j-GsUMZ9iyivoX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091182821763379634"
+    },
+    {
+      "id": "2091175526690087082",
+      "text": "看我嘴型，sha---bi https://t.co/n6fgl4bg79",
+      "created_at": "Sat Aug 22 14:47:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "95",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVZDhxbQAAxwYL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091175526690087082"
+    },
+    {
+      "id": "2090272764087406687",
+      "text": "碉堡了",
+      "created_at": "Thu Aug 20 03:00:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "315",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090272764087406687"
+    },
+    {
+      "id": "2090246548039032838",
+      "text": "Raycast 依旧保持着一贯的高水准设计 https://t.co/TG2T4h4k7B",
+      "created_at": "Thu Aug 20 01:16:26 +0000 2026",
+      "favorite_count": 27,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "4193",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQILvdhacAA1pc9.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQILwgybIAACPLu.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQIL1wpbMAA2qKA.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQIL3dpasAAVpiH.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2090246548039032838"
+    },
+    {
+      "id": "2089213428837875933",
+      "text": "由于我非常讨厌灵动岛，所以我将它移到了 dock 栏 https://t.co/90xiVHooDS",
+      "created_at": "Mon Aug 17 04:51:11 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1637",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089213233676832768/img/1Nc30OM_UgCBtSd2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089213428837875933"
+    },
+    {
+      "id": "2089160029123534864",
+      "text": "Claude Code 被偷家了！ https://t.co/sprgdX3071",
+      "created_at": "Mon Aug 17 01:19:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1433",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP4v5eAboAAw3PE.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2089160029123534864"
+    },
+    {
+      "id": "2087354252150919667",
+      "text": "真不错！ https://t.co/WNpdeoeNgJ",
+      "created_at": "Wed Aug 12 01:43:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "144",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPfFlCBbQAAjegw.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087354252150919667"
+    },
+    {
+      "id": "2086986703177396237",
+      "text": "So, we can guess which company Ryo will go to.",
+      "created_at": "Tue Aug 11 01:22:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "131",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086986703177396237"
+    },
+    {
+      "id": "2086705362233954365",
+      "text": "我以为会被 Apple 收购，没想到 OpenAI 先下手了\nhttps://t.co/6QqPauaRwT",
+      "created_at": "Mon Aug 10 06:45:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "75",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086705362233954365"
+    },
+    {
+      "id": "2086298795235782825",
+      "text": "如果已经配置了 Surge 网关，Surge iOS 会自动暂停 https://t.co/cG7gMqlk1L",
+      "created_at": "Sun Aug 09 03:49:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "117",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQFsbDbYAE-aK0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086298795235782825"
+    },
+    {
+      "id": "2086099295095374117",
+      "text": "#大产品小细节 https://t.co/7O4NFMCujK",
+      "created_at": "Sat Aug 08 14:36:44 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1146",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086099210320154626/img/FUgPet8lRa00mGkG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086099295095374117"
+    },
+    {
+      "id": "2086079192014401710",
+      "text": "欢迎关注",
+      "created_at": "Sat Aug 08 13:16:51 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "206",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086079192014401710"
+    },
+    {
+      "id": "2085281930652881204",
+      "text": "开源一个生成 appicon 的 skill，欢迎试玩  \nhttps://t.co/4a1vDFJqE2 https://t.co/mazUnFAMBL",
+      "created_at": "Thu Aug 06 08:28:49 +0000 2026",
+      "favorite_count": 230,
+      "retweet_count": 17,
+      "reply_count": 6,
+      "quote_count": 3,
+      "bookmark_count": 326,
+      "views": "21388",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBom4_agAAHCa6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBononasAApuQO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085281930652881204"
+    },
     {
       "id": "2081723730527670457",
       "text": "ScreenLeX 又跟新了！\nhttps://t.co/boCa1u1vQb",
@@ -25,7 +558,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "149",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +574,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "368",
+      "views": "456",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -57,7 +590,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "92",
+      "views": "151",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -73,7 +606,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "80",
+      "views": "130",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -89,7 +622,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "117",
+      "views": "185",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -105,7 +638,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "85",
+      "views": "125",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -126,7 +659,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "77",
+      "views": "111",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -147,7 +680,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "196",
+      "views": "224",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -168,7 +701,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "100",
+      "views": "137",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -189,7 +722,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "58",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -210,7 +743,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "62",
+      "views": "77",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -226,7 +759,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "105",
+      "views": "125",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -242,7 +775,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "59",
+      "views": "73",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -267,7 +800,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "80",
+      "views": "98",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -283,7 +816,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "56",
+      "views": "68",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -304,7 +837,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "77",
+      "views": "87",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -321,7 +854,7 @@
       "text": "RT @claudeai: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, thro…",
       "created_at": "Sun Jul 12 23:12:19 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 7236,
+      "retweet_count": 7167,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -341,7 +874,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "48",
+      "views": "57",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -362,7 +895,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "73",
+      "views": "82",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -387,7 +920,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "335",
+      "views": "344",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -403,7 +936,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "63",
+      "views": "70",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -419,7 +952,7 @@
       "reply_count": 0,
       "quote_count": 2,
       "bookmark_count": 1,
-      "views": "1084",
+      "views": "1649",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -436,7 +969,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "86",
+      "views": "93",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -452,7 +985,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "43",
+      "views": "49",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
