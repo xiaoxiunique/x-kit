@@ -7,25 +7,597 @@
     "nickname": "大侠Luffy",
     "profile_url": "https://vibeloft.ai/profile/luffy"
   },
-  "generated_at": "2026-08-04T03:02:05.376083Z",
+  "generated_at": "2026-09-11T13:00:13.863367Z",
   "stats": {
-    "tweet_count": 34,
-    "latest_tweet_created_at": "2026-08-03T14:45:44Z",
-    "latest_tweet_id": "2084289620393799829",
+    "tweet_count": 61,
+    "latest_tweet_created_at": "2026-09-05T11:57:48Z",
+    "latest_tweet_id": "2096206156872220954",
     "oldest_tweet_created_at": "2025-09-09T13:06:10Z",
     "oldest_tweet_id": "1965401343298093237"
   },
   "tweets": [
     {
-      "id": "2084289620393799829",
-      "text": "亚庇，不愧为世界top3的落日点，真美呀，就是人有点多。 https://t.co/GB3Z3iFstG",
-      "created_at": "Mon Aug 03 14:45:44 +0000 2026",
+      "id": "2096206156872220954",
+      "text": "分享一个做想通过社媒做需求调研，又不想花钱和折腾的小技巧。\n\n可以尝试使用官方的AI工具，比如小红书的点点。\n\n不用辛苦搞各种爬虫，官方帮你免费接入。\n\n可以试试看，好用回来告诉我。 https://t.co/8gkTNZpsZO",
+      "created_at": "Sat Sep 05 11:57:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "18",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRc1HXNaQAA8nEC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096206156872220954"
+    },
+    {
+      "id": "2094071751286108317",
+      "text": "网易云苹果端创建了订单但没有支付，就会发过来一条短信，让你可以用微信或支付宝支付。\n\n支付的时候我省了一块钱，但网易也免交了30%的苹果税，这算不算绕开苹果的规则？ https://t.co/EgVr620FbH",
+      "created_at": "Sun Aug 30 14:36:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "81",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ-jKAHakAAr48A.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094071751286108317"
+    },
+    {
+      "id": "2092850651730755743",
+      "text": "智谱也太不禁用了，没执行几个任务额度就用完了。 https://t.co/WCrpmIzJek",
+      "created_at": "Thu Aug 27 05:44:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "34",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQtLwHzacAA0bdn.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2092850651730755743"
+    },
+    {
+      "id": "2092635720196513963",
+      "text": "腾讯又默默开源了一个多模态 embedding SOTA模型，支持文本、图像、视频和视觉文档（带图片的文档）。  参数量包含2B/4B/9B三个规格，\n\n更重要的是，这个模型已在微信视频号、公众号等成熟商用场景上大规模验证。  这波操作必须点赞👍",
+      "created_at": "Wed Aug 26 15:30:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "77",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092635720196513963"
+    },
+    {
+      "id": "2092245977122193495",
+      "text": "苹果刚发布了新版Mac mini，最低配M6芯片 + 16G内存 + 256G存储，价格$899美元起，这个价格你准备入手吗？ https://t.co/olQQoXI7Pl",
+      "created_at": "Tue Aug 25 13:41:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "11",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQkmI-eb0AAqi6I.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092245977122193495"
+    },
+    {
+      "id": "2092180345978524019",
+      "text": "希望不要太贵，准备拿来当 AI 员工。",
+      "created_at": "Tue Aug 25 09:20:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "19",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092180345978524019"
+    },
+    {
+      "id": "2090651661601829167",
+      "text": "这个产品需求挖掘的很好，在国外影院看电影很多时候没有字幕，对于很多非母语观众来说，要听懂还是有点困难的。\n\n这个应用就抓住了这个需求，它通过搜索opensubtitles数据库或预置了字幕，然后通过大模型翻译后，在手机上以暗黑形式展现，帮助观影者来听懂影片在讲什么。\n\n还是得回归生活多观察真实的需求。",
+      "created_at": "Fri Aug 21 04:06:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "18",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQN6ZvLawAE_kO3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090651661601829167"
+    },
+    {
+      "id": "2090619699273073069",
+      "text": "单独页面排名可能不值这个价，但是离谱的出价带来的二次事件传播，可能是一次极具价值的品牌传播。\n\n越离谱传播价值越大。",
+      "created_at": "Fri Aug 21 01:59:12 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "37",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090619699273073069"
+    },
+    {
+      "id": "2090104044677452039",
+      "text": "一键把 小宇宙 ｜ B站 ｜ 小红书 的链接转成文稿。\n\n1. 提取音频：yt-dlp\n\n2. 音频转写：pennyscribe API\n\n3. 文稿优化：deepseek-v4-flash + shownotes信息\n\nhttps://t.co/8xr1eQpzXS https://t.co/H94nWtEq9q",
+      "created_at": "Wed Aug 19 15:50:11 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "171",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQGJcfNa0AARByw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090104044677452039"
+    },
+    {
+      "id": "2089583337598013446",
+      "text": "阿里云的产品和文档混乱程度，连自家的bot都分不清楚。 https://t.co/e1wrp0eznG",
+      "created_at": "Tue Aug 18 05:21:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "63",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP-wVKvawAAYWzO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP-wcyLaoAAsvIW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089583337598013446"
+    },
+    {
+      "id": "2089384124330942543",
+      "text": "agent作为一个入口级的机会，对独立开发者来说不是一个好生意。\n\n但做好agent的手脚可能是。",
+      "created_at": "Mon Aug 17 16:09:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "46",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089384124330942543"
+    },
+    {
+      "id": "2089375278271185161",
+      "text": "没做过任何GEO优化，chatgpt 和deepseek 都首推了 veoshot，是在刻意讨好吗？ https://t.co/0QyqJYh3Iy",
+      "created_at": "Mon Aug 17 15:34:19 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "42",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP7xw9wXoAA9J3j.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP7x9pqXYAAGskJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089375278271185161"
+    },
+    {
+      "id": "2089296130815541425",
+      "text": "看到有人问那种视频字幕拼图怎么做的，我Vibe了个插件，看视频时顺手截图拼图，免费开源。\n\n支持 YouTube、Netflix、Bilibili ，爱奇艺，优酷，腾讯视频等主流视频平台。\n\n链接放这了，有需要的可以看看。\n\nhttps://t.co/tGfIM4oviS https://t.co/Gy3EqNh3gj",
+      "created_at": "Mon Aug 17 10:19:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "74",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP6m6CgbwAAwmBu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP6nATAagAAk-JQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089296130815541425"
+    },
+    {
+      "id": "2088475727733903767",
+      "text": "打算做一个分析社媒频道的skill，已做了个初步的demo，打算开源，不知道大家比较关心哪个维度的信息？\n\n采集数据包括频道基础信息，贴子的点赞收藏等数据，正文和评论等(视频会进行转写后拿到正文)\n\n大模型会根据这些数据来分析和提取有价值的信息并产出报告。 https://t.co/9Hb8vAlQno",
+      "created_at": "Sat Aug 15 03:59:50 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "77",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPvBmmeaQAAd0xH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088475727733903767"
+    },
+    {
+      "id": "2087951036820623747",
+      "text": "deepseek harness 目前看起来像是面向开发者做的一个产品。",
+      "created_at": "Thu Aug 13 17:14:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "78",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087951036820623747"
+    },
+    {
+      "id": "2087932330627494214",
+      "text": "X的中文搜索有点难用，搜索结果有时候完全不搭边，分词器感觉有点问题。 https://t.co/GawVmfufs5",
+      "created_at": "Thu Aug 13 16:00:34 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "31",
+      "views": "43",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPnSlOobsAAdRvq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087932330627494214"
+    },
+    {
+      "id": "2087605958205993359",
+      "text": "在Codex或ClaudeCode等AI Agent安装好pennyscribe-skills后，输入：\n\n“请使用 repurpose-podcast 处理这个播客：「你的链接」”\n\n就能得到：\n\n1. 可直接发布的小红书帖子，包括标题，正文、封面和图文卡片，而且支持在网页上编辑和排版。\n2. 整理好的节目摘要、核心观点和金句列表。 \n3. 适合分段式阅读的原文内容。",
+      "created_at": "Wed Aug 12 18:23:40 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "1154",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087605730123849728/img/bxYH6UCe7pozZjlr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087605958205993359",
+      "pinned": true
+    },
+    {
+      "id": "2087486242766397539",
+      "text": "分享一个审美很在线的照片skill，slogan写的很好。\n\n“把普通画面，变成值得停留的一页。”\n\nhttps://t.co/26evqYWVNX https://t.co/gPfAODfxnQ",
+      "created_at": "Wed Aug 12 10:27:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "66",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPg7mgda4AAg6-M.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPg7sI1aUAAWXo_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087486242766397539"
+    },
+    {
+      "id": "2087465906427568562",
+      "text": "国内做工具应用，最大的竞品可能会变成WorkBuddy，如果一句话能搞定，谁还会到处找？",
+      "created_at": "Wed Aug 12 09:07:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "53",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087465906427568562"
+    },
+    {
+      "id": "2086742823219667179",
+      "text": "用AI做网页的时候，如何让页面看起来更高级，其中一个好用的办法是给AI一个设计模板参考（DESIGN.md）。\n\n分享两个这样的参考网站，帮助你做出有设计感的页面。\n\n1. https://t.co/pPsnM5kfNG，配合 shadcn/ui。\n\n2. https://t.co/3PxLTua8sl，更通用的设计模板。 https://t.co/7VLSML1ijq",
+      "created_at": "Mon Aug 10 09:13:53 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "151",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPWZC6YboAApEVj.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPWZJmFacAAjTM-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086742823219667179"
+    },
+    {
+      "id": "2086732897155977726",
+      "text": "PennyScribe 进一步优化了费率，就我所知的，应该是目前费率最低的音频转写API了。\n\n另外也增加了体验额度，每天有100分钟的免费使用额度。 https://t.co/6ER4XL2LpW",
+      "created_at": "Mon Aug 10 08:34:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "45",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPWOjeJbYAAsHpb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086732897155977726"
+    },
+    {
+      "id": "2086680247941104127",
+      "text": "这个 skill 太棒了，视频创作者不容错过。",
+      "created_at": "Mon Aug 10 05:05:14 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "63",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086680247941104127"
+    },
+    {
+      "id": "2086477601187717229",
+      "text": "在新开张的社区 https://t.co/ePkRiKgNw5 发了个抽奖帖，不到半天就达到30人留言开奖条件，看起来凑热闹的人还不少，近期有新产品要发布的朋友，可以考虑在这里通过福利贴攒点种子用户。 https://t.co/nm8KXhzGUi",
+      "created_at": "Sun Aug 09 15:39:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "128",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSmiKCbgAAHCKT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086477601187717229"
+    },
+    {
+      "id": "2085541135137870093",
+      "text": "姚顺雨加入腾讯约 300 天，混元最先发生变化的，不是榜单，而是组织。\n\n这期节目没有讲一个“天才空降、立刻翻盘”的爽文故事。真正值得看的，是一家巨型公司怎样重启一支大模型团队。\n\n我记下了四个关键观察：\n\n① 先换关键岗位，再重搭 infra。团队士气回来了，但离真正翻盘还很远。\n\n② 混元三更像一次组织磨合。目标是让预训练、后训练、评测和基础设施完整跑通，而不是用一次发布证明登顶。\n\n③ 腾讯拥有社交、办公、内容、搜索和游戏等丰富场景，同时也拥有很厚的部门墙。业务愿不愿意开放数据，取决于模型能否先证明价值。\n\n④ 混元和微信 VLM 可能长期并存。隐私、可控性、推理效率，以及腾讯事业群的自主传统，都让“大一统底模”没那么容易。\n\n最有意思的判断是：换人和定战略只是改革的第一阶段。真正困难的，是授权红利过去之后，能否拿出第一梯队模型，并让新团队与原有文化长期协作。\n\n如果模型能力之外，组织才是下一轮竞争的关键，你更看好大厂还是创业公司？\n\nhttps://t.co/sNq56JLWt3",
+      "created_at": "Fri Aug 07 01:38:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "126",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFTVSSb0AAoz2_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFTWNka4AA5Xwr.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFTXckbsAAgPH1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFTZu2bQAAzLH1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085541135137870093"
+    },
+    {
+      "id": "2085409689244959103",
+      "text": "我开源了一个播客内容再创作 Agent Skill：repurpose-podcast。\n给它一个 YouTube、Apple Podcasts、小宇宙或 B 站链接，它可以自动生成：\n→ 分章节、适合阅读的完整全文\n→ 摘要、核心观点和金句\n→ X 帖子与 Thread\n→ 小红书标题和发布文案\n→ 10 种风格的可编辑图片卡片\n→ PNG、剪贴板和 ZIP 批量导出\n→ 可切换多期播客的本地网站\n在线 Demo：\nhttps://t.co/8WGlyadDbg\nGitHub：\nhttps://t.co/kerV3oSbZL\n欢迎试用、提建议和贡献代码。🎙️",
+      "created_at": "Thu Aug 06 16:56:29 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "105",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPDclUYaoAEUGOu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPDcyNrbIAAiRGO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPDc53ua8AATcuw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPDc_vVbgAAN_5b.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085409689244959103"
+    },
+    {
+      "id": "2085025805319774378",
+      "text": "iPhone 给生活带来的一个小便利。\n\n在香港，很多商铺不支持支付宝、微信，但基本都支持八达通。搭地铁、公交、渡轮也都能直接刷。\n\n最舒服的是，八达通直接集成在 iPhone 钱包里，充值、使用都很顺手。对于我这种经常丢三落四的人来说，出门只带一台手机，基本就能搞定一切，简直不要太方便。\n\n以前担心忘带卡和钱包，现在只担心手机没电。",
+      "created_at": "Wed Aug 05 15:31:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "94",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9_6oqa8AAjvut.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085025805319774378"
+    },
+    {
+      "id": "2084576258621632870",
+      "text": "有在用浏览器插件，很棒的产品。",
+      "created_at": "Tue Aug 04 09:44:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "54",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084576258621632870"
+    },
+    {
+      "id": "2084289620393799829",
+      "text": "亚庇，不愧为世界top3的落日点，真美呀，就是人有点多。 https://t.co/GB3Z3iFstG",
+      "created_at": "Mon Aug 03 14:45:44 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "223",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -58,7 +630,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "27",
+      "views": "59",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -79,7 +651,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "21",
+      "views": "39",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -100,7 +672,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "71",
+      "views": "92",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -116,7 +688,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "37",
+      "views": "53",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -129,27 +701,26 @@
       "created_at": "Thu Jul 30 08:12:47 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
-      "reply_count": 1,
-      "quote_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
       "bookmark_count": 1,
-      "views": "265",
+      "views": "505",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
       "media": [],
-      "url": "https://x.com/i/status/2082741180412936356",
-      "pinned": true
+      "url": "https://x.com/i/status/2082741180412936356"
     },
     {
       "id": "2082623053654298697",
       "text": "一个可以让你网站实现秒开的办法：\n\n1. 把网站发给 https://t.co/MrEs2rW7pj 生成检测报告。\n\n2. 跟Codex和Claude Code说：请根据这个检测报告，帮我优化网页的性能。\n\nhttps://t.co/mZkbfqvjbz https://t.co/nuSkkkdRmK",
       "created_at": "Thu Jul 30 00:23:23 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "52",
+      "views": "68",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -170,7 +741,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "87",
+      "views": "98",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -195,7 +766,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "35",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -206,12 +777,12 @@
       "id": "2080242215587291601",
       "text": "完全用AI做的一个浏览器插件，方便大家分享视频截图，离线开源。\n\nhttps://t.co/tGfIM4oviS https://t.co/yHFIc8R8BG",
       "created_at": "Thu Jul 23 10:42:47 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "25",
+      "views": "37",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -232,7 +803,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "36",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -248,7 +819,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "35",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -264,7 +835,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "29",
+      "views": "37",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -280,7 +851,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "177",
+      "views": "185",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -301,7 +872,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "55",
+      "views": "62",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -317,7 +888,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "38",
+      "views": "45",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -342,7 +913,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "28",
+      "views": "35",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -363,7 +934,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "113",
+      "views": "120",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -388,7 +959,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "31",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -404,7 +975,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "98",
+      "views": "104",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -437,7 +1008,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "57",
+      "views": "62",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -470,7 +1041,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "61",
+      "views": "65",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -495,7 +1066,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "25",
+      "views": "28",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -511,7 +1082,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "70",
+      "views": "73",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -527,7 +1098,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "83",
+      "views": "86",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -552,7 +1123,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "31",
+      "views": "34",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -568,7 +1139,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "71",
+      "views": "74",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -589,7 +1160,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "58",
+      "views": "61",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -622,7 +1193,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "73",
+      "views": "77",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
