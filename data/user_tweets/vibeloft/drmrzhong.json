@@ -7,25 +7,1765 @@
     "nickname": "AI设计钟师傅",
     "profile_url": "https://vibeloft.ai/profile/drmrzhong"
   },
-  "generated_at": "2026-08-03T18:02:00.552827Z",
+  "generated_at": "2026-09-11T05:00:21.243047Z",
   "stats": {
-    "tweet_count": 606,
-    "latest_tweet_created_at": "2026-08-03T12:34:49Z",
-    "latest_tweet_id": "2084256675566149775",
+    "tweet_count": 687,
+    "latest_tweet_created_at": "2026-09-11T03:12:00Z",
+    "latest_tweet_id": "2098248165598298545",
     "oldest_tweet_created_at": "2025-05-10T09:59:01Z",
     "oldest_tweet_id": "1921142926496661551"
   },
   "tweets": [
+    {
+      "id": "2098248165598298545",
+      "text": "iPhone Duo就是应该拿来看漫画 https://t.co/WoiKT5zNSH",
+      "created_at": "Fri Sep 11 03:12:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "217",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR55eF3bEAACsyd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098248165598298545"
+    },
+    {
+      "id": "2098231118671786137",
+      "text": "AI编程爱好者狂喜",
+      "created_at": "Fri Sep 11 02:04:16 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "269",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2098231118671786137"
+    },
+    {
+      "id": "2098228642002436123",
+      "text": "https://t.co/OaT2UiAIk0",
+      "created_at": "Fri Sep 11 01:54:26 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "762",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098228642002436123",
+      "pinned": true
+    },
+    {
+      "id": "2098060857649631616",
+      "text": "笑死，iPhone和iPad的结晶= Duo https://t.co/CuuWcGhMha",
+      "created_at": "Thu Sep 10 14:47:43 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1595",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097831000764006409/img/elnYSY0A2cBWak1C.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098060857649631616"
+    },
+    {
+      "id": "2098053225253593448",
+      "text": "都开始整活了 https://t.co/hhxrXv9lyA",
+      "created_at": "Thu Sep 10 14:17:23 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 17,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "4240",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097937738133852160/img/FD4zFSSTq9Q-U6sy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098053225253593448"
+    },
+    {
+      "id": "2097987024808775925",
+      "text": "一大波国产厂商正在加班加点致敬中 https://t.co/IMWKq6H3dU",
+      "created_at": "Thu Sep 10 09:54:20 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 0,
+      "reply_count": 61,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "23568",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097946430359158784/img/BWR-vuMRIoJ7k4fh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097987024808775925"
+    },
+    {
+      "id": "2097896182236471360",
+      "text": "https://t.co/4FbibR843K",
+      "created_at": "Thu Sep 10 03:53:21 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2145",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097896182236471360"
+    },
+    {
+      "id": "2097887402438414733",
+      "text": "这个组合icon真的是绝了，信号+wifi+电量 https://t.co/V3DhCkI7pU",
+      "created_at": "Thu Sep 10 03:18:28 +0000 2026",
+      "favorite_count": 29,
+      "retweet_count": 3,
+      "reply_count": 74,
+      "quote_count": 1,
+      "bookmark_count": 12,
+      "views": "31166",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097756261433647104/img/UE3OaNEx0qwGtD7g.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097887402438414733"
+    },
+    {
+      "id": "2097886768020570489",
+      "text": "不得不吹一波苹果的细节设计 https://t.co/PQ1OZSXPcr",
+      "created_at": "Thu Sep 10 03:15:57 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "989",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097752742995562496/img/22rgczf52Pxmp0C2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097886768020570489"
+    },
+    {
+      "id": "2097626480997961876",
+      "text": "https://t.co/r1lhczcwb6",
+      "created_at": "Wed Sep 09 10:01:39 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "3399",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097626480997961876"
+    },
+    {
+      "id": "2097574059840278990",
+      "text": "天塌了 https://t.co/3sgoSZdC30",
+      "created_at": "Wed Sep 09 06:33:21 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "821",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwUefMbMAAdMgG.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097574059840278990"
+    },
+    {
+      "id": "2097482367569133601",
+      "text": "chatGPT image 2.5正式上线",
+      "created_at": "Wed Sep 09 00:29:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 31,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "835",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097482367569133601"
+    },
+    {
+      "id": "2096982067242541091",
+      "text": "从此之后，Astra让真人验证形同虚设 https://t.co/zU5ykNVWAi",
+      "created_at": "Mon Sep 07 15:20:59 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1328",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096847594026917888/img/YmtNxA8APFxvGKVP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096982067242541091"
+    },
+    {
+      "id": "2096172505891532891",
+      "text": "Astra 开始放量了。这东西强不强，很大程度看你怎么下指令。\n\n我把官方指南、Theo 的用法，还有这几天社区里真正能跑通的提示词，收成一套。直接复制进仓库用。\n\n先贴一条总原则，后面每条任务都更稳：\n\n把「能不能」「帮我看看」当成开工指令，不要只出方案。缺的信息如果不会改变结果，先按合理假设继续做；会改变结果，再问一句具体的。可逆操作自己做，不可逆操作先把可审查的结果准备好再问我。用户指令优先于 AGENTS.md 和 Skill。小改动不要补镜像测试，验证范围跟风险匹配。能并行的活再分子 agent。\n\n然后是仓库里真正好用的：\n\n1. 清垃圾代码\n把这个仓库的代码、测试和配置通读一遍，专门找该删的东西：没意义的测试、重复断言、一层层无用包装、死代码、过度抽象、复制粘贴变体、永远不会失败的测试。每一处讲清原因、影响和风险，然后直接改，跑现有测试，行为必须不变。按「能删 / 能合并 / 先放着」分组提交，别一次改爆。\n\n2. 找能测出来的性能\n只找能测出来的优化。优先热路径、重复计算、多余 IO、用错的数据结构、堵住的调用、包体积，还有测试自己跑太慢。每改一刀写清：慢在哪、怎么验证、用哪条命令证明变快、最坏会不会更慢。先做小改动，过了再继续。基准脚本一并补上。\n\n3. 把验证闭环补齐\n先评估你现在能不能验证自己改对了。缺命令、缺测试、缺日志、缺环境、本地和 CI 对不上，都指出来。然后落地一套现在就能用的最小闭环：一条命令跑完检查，失败时能看懂报错，下次能接着干。改完必须用这套闭环验证刚才的改动。把脚本和文档直接提交进仓库。\n\n4. 清开放的 PR 和 Issue\n把还开着的 PR 和 Issue 过一遍。判断是过时、重复、其实已修好、半小时能合，还是该直接关。先处理文档、类型、补测试和低风险小修复。能关的关，理由写清楚；能合的补完测试再合。需求含糊的别硬推。\n\n5. 可以开 PR，但别碰生产\n改完先跑完全部检查：测试、类型、lint、关键路径。全过了再开 PR。描述写人话：改了什么、为什么觉得安全、怎么回滚、验证命令是哪几条。有预发就先打到预发。任何一项没过就停下来修。\n\n6. 接管卡死的分支\n这条分支已经转了很久。先判断现有方案是该接着写，还是该扔掉。如果只是原地打转、文档越写越长却交不出东西，就从目标重来：用最小能合进去的一步定义「做完」，无效提交直接丢。接管后只做一件能落地的事，验证过了就停。PR 里写清为什么推倒重来。\n\n7. 把审查意见沉淀进 AGENTS.md\n用 gh 扫这些仓库最近 50 条 PR，找出指定审查人反复指出的问题，按频率排序并附上链接。先给我看，我点头后，只把我选中的规则写进 AGENTS.md。规则写短，写清什么时候用，别写成作文。\n\n8. 修一个具体 bug\n先定位根因，再做必要修改。保留现有实现方式，不改无关文件。跑相关测试。完成后说明改了什么、怎么验证的、还剩什么没处理。\n\n9. 夜间走查主路径\n打开应用，把注册、登录、下单和核心流程走一遍。遇到坏掉的、看不懂的、卡住的，截图并记下复现步骤。只报真实问题，不要为了交差编建议。\n\n10. 审计自己的旧工作流\n看我现有的 Skill、提示词和重复操作。标出哪些步骤现在可以交给你端到端做，哪些还在手把手喂步骤，哪些该收成一条短 Skill。只给最小可改方案，先别批量重写。\n\n#Astra #GPT6Astra #Codex #提示词 #AI编程",
+      "created_at": "Sat Sep 05 09:44:05 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2376",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096172505891532891"
+    },
+    {
+      "id": "2096136656759963673",
+      "text": "RT @dotey: 高强度体验下来，感觉现在用 Astra 开发体验非常好，不像之前用 Fable 那么割裂。\n\nFable 真的各方面都很强，但太贵了，用过的都知道，$200 的订阅基本上用不了几次，根本就舍不得放开了用。\n\n用 Fable 指挥其他模型会节约 Token，…",
+      "created_at": "Sat Sep 05 07:21:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 49,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "95",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2096136656759963673"
+    },
+    {
+      "id": "2095822949223985176",
+      "text": "小红书REDSkill排行榜其实是一个很好的市场洞察数据\n\nhttps://t.co/3cutNdgi3w https://t.co/lPo1MNAFek",
+      "created_at": "Fri Sep 04 10:35:04 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1116",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRXbrCbbkAAYdZF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095822949223985176"
+    },
+    {
+      "id": "2095700538344255807",
+      "text": "OpenAI 发布 GPT-6 Astra，简单分享一下亮点和价格：\n\n电脑上你能干的事，它基本都能帮你干，而且很快。浏览、写代码、做文档表格、科研辅助、网络安全辅助都明显升级，多个基准（Agents’ Last Exam、AutomationBench、FrontierMath、ARC-AGI 3 等）刷了新高，对齐性也更好，更懂你到底想让它做什么。\n\nAPI 定价：输入 $10 / 百万 tokens，输出 $50 / 百万 tokens。Fast 模式速度翻倍、价格也翻倍。Plus / Pro / 商业和企业用户这几天就会陆续能用。",
+      "created_at": "Fri Sep 04 02:28:39 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1682",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095700538344255807"
+    },
+    {
+      "id": "2095178747909726337",
+      "text": "来了来了",
+      "created_at": "Wed Sep 02 15:55:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1398",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095178747909726337"
+    },
+    {
+      "id": "2094427017467035737",
+      "text": "ChatGPT 现在把三类工作分得更清楚了。Chat 适合快速问答，Work 负责较长的多步骤交付，Codex 面向代码任务。Work 又分 Cloud 和 Local，管理员可以控制成员能用哪一种。\n\nWork Local 直接处理电脑上的文件，文件留在本机，除非你主动分享；网页和手机端不能直接访问这些本地文件。Work Cloud 更适合远程跑任务，但数据、联网和工具权限要按工作区规则收紧。\n\n选模式时看三个条件：任务是否要持续运行、资料能不能离开本机、是否需要代码仓库。含客户资料的任务优先检查管理员权限和允许域名，再用一份脱敏样本跑通流程。\n\n来源：OpenAI Help《ChatGPT Work and Codex》、Simon Willison 解读\n\n#ChatGPTWork #Codex #OpenAI",
+      "created_at": "Mon Aug 31 14:08:08 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 41,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1340",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRDmPIqbIAA9e5_.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2094427017467035737"
+    },
+    {
+      "id": "2094384013217865968",
+      "text": "touchbar的无头骑士版本，是不是得涨价一波",
+      "created_at": "Mon Aug 31 11:17:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1369",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094384013217865968"
+    },
+    {
+      "id": "2094381878447104290",
+      "text": "笑死，太贴合时事了",
+      "created_at": "Mon Aug 31 11:08:46 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1322",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094381878447104290"
+    },
+    {
+      "id": "2094271499800924286",
+      "text": "索尼与华纳起诉 Anthropic，采购 AI 服务也要看训练数据争议\n\nSony Music Publishing、Warner Chappell 等版权方已在美国加州北区起诉 Anthropic，案件编号 5:26-cv-09217。诉状把 Anthropic 及两名高管列为被告，争议涉及受版权保护的歌词和训练数据来源。\n\n目前能确认的是诉讼已经提交。关于下载、训练和赔偿的细节仍是原告主张，法院尚未认定；Anthropic 也公开表示不同意这些指控并会应诉。\n\n用 Claude 做商业产品的团队，可以把训练数据来源、授权承诺、侵权索赔分担和模型变更通知写进供应商审查。现阶段不需要停用产品，但合同和内容来源记录要留得更完整。\n\n来源：\nhttps://t.co/jflIRgR7GO\nhttps://t.co/9De6Xr4HAH\nhttps://t.co/RLIABvAZyo\n\n#Anthropic #AI版权 #版权诉讼",
+      "created_at": "Mon Aug 31 03:50:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1084",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRBYndrbYAE1DL0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094271499800924286"
+    },
+    {
+      "id": "2093657645949612376",
+      "text": "新玩法，当视频生成速度快过你的消费速度时，无限流就来了",
+      "created_at": "Sat Aug 29 11:10:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1256",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093657645949612376"
+    },
+    {
+      "id": "2093547325696459110",
+      "text": "😅真的急了，居民房贷延长到40年了\n\n延长到 40 年的房贷，到底是给买房降门槛，还是给人生加锁链？下半辈子直接和银行绑定了属于是……\n\n网友们的脑洞与神吐槽：\n\n降门槛还是加利息：贷款 100 万（按 2.6% 利率算），30 年变 40 年，月供确实能省个 600 块，但总利息直接多掏 17 万！网友直呼：“买的没有卖的精，这是换个法子多收利息吧？”\n\n职业周期 vs 债务周期：25 岁买房，得还到 65 岁正好退休。大家最关心的根本不是能贷多久，而是“哪家公司敢保证能让我干满 40 年？”\n地狱级对比：有网友算完账调侃，辛丑条约也才赔了 39 年，这直接超越了历史；还有人拿坐牢打比方：“坐牢好歹管吃管住，这背 40 年房贷，生病了都得爬起来按时还款！”\n\n你觉得这波操作能把观望的人哄上车吗？要是换成你，敢接这个“40 年大礼包”吗？",
+      "created_at": "Sat Aug 29 03:52:33 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "3199",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ3FSiZbsAA2EH4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ3FhsSa4AA3JfG.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ3FrFgaMAA_QQR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093547325696459110"
+    },
+    {
+      "id": "2093545459239551202",
+      "text": "最开始真的有关注到这个弹钢琴的up主，刚开始弹琴流量数据一直平平，后来应该被指路仙人点拨，减少布料之后就开始流量起飞了，只是没想到走到今天，人还是那个人，爱好的钢琴已经消失了",
+      "created_at": "Sat Aug 29 03:45:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 32,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2594",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093545459239551202"
+    },
+    {
+      "id": "2093528509306241271",
+      "text": "打起来了",
+      "created_at": "Sat Aug 29 02:37:47 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1172",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093528509306241271"
+    },
+    {
+      "id": "2093331690928349543",
+      "text": "有没搞错啊？iPhone 18给整个新制式充电口？我不想桌面又多一条数据线 https://t.co/xys3vdUTXc",
+      "created_at": "Fri Aug 28 13:35:41 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2072",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ0B5p4aUAAjw1O.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2093331690928349543"
+    },
+    {
+      "id": "2093133713597157476",
+      "text": "AI 加上物理硬件，这下真的跟现实世界连接了",
+      "created_at": "Fri Aug 28 00:29:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1163",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093133713597157476"
+    },
+    {
+      "id": "2092939477308379492",
+      "text": "新玩法又来了，电脑广告位租赁😅",
+      "created_at": "Thu Aug 27 11:37:10 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1539",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092939477308379492"
+    },
+    {
+      "id": "2092902411308507233",
+      "text": "堪比海啸：尼泊尔826泥石流，为什么这么厉害？\n来源：b站up主 中气爱 https://t.co/MGetanYJ11",
+      "created_at": "Thu Aug 27 09:09:53 +0000 2026",
+      "favorite_count": 503,
+      "retweet_count": 32,
+      "reply_count": 57,
+      "quote_count": 2,
+      "bookmark_count": 259,
+      "views": "209004",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092902093522952192/img/Gu3lrJaH9Wxj06nA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092902411308507233"
+    },
+    {
+      "id": "2092898237686616443",
+      "text": "泥石流源头航拍画面 x 吉隆口岸泥石流前后对比图 https://t.co/f7mZilI79K",
+      "created_at": "Thu Aug 27 08:53:18 +0000 2026",
+      "favorite_count": 55,
+      "retweet_count": 7,
+      "reply_count": 34,
+      "quote_count": 1,
+      "bookmark_count": 41,
+      "views": "139046",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092897498872614912/img/D-oFX4yjTchAHfUW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQt3aqyaEAA5OKQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092898237686616443"
+    },
+    {
+      "id": "2092434680884941302",
+      "text": "新款mac studio性价比高到爆炸",
+      "created_at": "Wed Aug 26 02:11:18 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2139",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092434680884941302"
+    },
+    {
+      "id": "2092263276189258051",
+      "text": "https://t.co/4kK7fKBsVs\nopenai的学生优惠来了，一次领4个月的plus会员\n闲鱼，启动！ https://t.co/tmsDJEofC6",
+      "created_at": "Tue Aug 25 14:50:12 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 13,
+      "views": "5010",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQk2VqzaUAAlXsP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092263276189258051"
+    },
+    {
+      "id": "2091148746029765083",
+      "text": "夕阳庙会屋顶，冷暖电影光定格登场前的风与力量🦁✨\n\n#webtomind #AI写真 #舞狮写真\n\n【GPT Image2提示词】\n\n主题：\n庙会开场前的傍晚屋顶，一位明确成年的女性把一只青绿色舞狮头向镜头斜向展示，衣摆和狮头流苏被风同时带起，定格登场前的一秒。\n主体：\n一位明确成年的东方女性全身入镜，与一只完整青绿色舞狮头形成主视觉关系。\n\n人物·表情：\n自信、明媚、轻快，目光看向镜头，带有即将登场的兴奋感。\n服装·姿势：\n孔雀青中式短夹克，金色滚边与云纹刺绣，奶油白百褶长裙，青绿色发带，腰间以窄珊瑚橙系带点缀。左脚向前迈半步，右手托住狮头底部中央，左手扶住侧缘，双臂完整连续，狮头贴近身体并具有重量感。\n\n背景·光线：\n城市老街屋顶庙会，木质鼓架、金色锣片、层叠楼群与稀疏红灯笼作为环境细节。夕阳从右后方照射，暖金轮廓光勾勒人物、衣缘与狮头毛边，脸部由环境反射补亮。\n构图·镜头：\n35mm 略低机位全身环境人像，人物位于右侧，狮头作为左下前景主体，形成向人物胸前延伸的视觉对角线。\n\n质感·风格：\n彩色电影胶片质感，青绿色与暖金色彩分离清晰，轻微颗粒与高光晕染，保留真实皮肤纹理和自然运动感。\n负面：\n多余人物、多只舞狮、多余手臂、反关节、手腕折断、狮头悬空、黑白显影、乱码文字、品牌标志。\n\nhttps://t.co/y5yYvA8FE3",
+      "created_at": "Sat Aug 22 13:01:27 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "4176",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVAfKdaAAAFgK4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVAhtwasAADjSL.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVAnl5acAA4gA0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVAriMa8AEf4-4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091148746029765083"
+    },
+    {
+      "id": "2091126281475928573",
+      "text": "太猛了吧",
+      "created_at": "Sat Aug 22 11:32:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1930",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2091126281475928573"
+    },
+    {
+      "id": "2091102446324236671",
+      "text": "围绕「长安画舫夜游」展开，在长安水畔画舫夜游、帘幕与酒盏定格一帧人物写真。\n#webtomind #AI写真 #长安画舫夜游\n\n【GPT Image2提示词】\n\n主题： 长安画舫夜游。\n\n主体： 主体为明确成年的女性。面部身份只服从附带参考图：始终一致地匹配面部特征、面部比例、肤色和整体身份；发型、发饰与当下表情服从当前时代、场景和活动，不复制参考图的发型或中性表情。\n\n身体锚点：她拥有娇小的韩国时尚模特身材，大约163厘米高，优雅的女性比例，自然迷人却逼真的沙漏型轮廓。她拥有自然丰满匀称的胸部，带有逼真的体积、柔和的下部丰满度、真实的重量、自然重力，以及可信的柔软组织。她的身体有窄小的肋骨、纤细有型的腰部、柔和圆润的臀部、丰满的上大腿、紧致女性化的四肢，以及逼真的解剖结构。每件衣物都自然贴合她的身体，带有可信的面料张力、逼真的褶皱、细微的压缩，以及真实的衣物物理效果。发型、妆容与当下表情由主题决定。\n\n人物·表情： 朱砂金节庆水光妆：薄透底妆保留真实肤质，眼尾以朱砂红棕和细金珠光收束，腮红偏暖红但面积克制，唇妆为清透绛红玻璃釉；被抓到没准备好的笑：眼尾弯起、嘴唇刚张、脸颊微红。\n\n服装·姿势： 浅青齐胸襦裙与大袖衫，发髻配珠钗与轻纱披帛；倚在画舫栏杆边看水中灯影，发间花钿被风吹动；环境接触点提供轻微支撑，主要重心仍落在一侧腿或坐面；另一侧肢体自然放松，身体轴线不被多重动作扭断；湿发自然成束，皮肤与衣料只保留细小水珠和连续湿润高光；布料有适度贴合、张力和重量，水面或衣料边界清楚，不与身体融合。\n\n背景·光线： 长安水畔画舫夜游，帘幕与酒盏；暮色天光加画舫纱灯，脸部受光连续，水光只作背景；按纪实摄影风格优先使用现场可见的阴天漫射、窗光、廊檐反射或灯罩环境光中最合理的一种作为主导柔光；不为人物额外搭建多灯，仅在曝光需要时使用一个同色温弱反射补光。\n\n构图·镜头： 85mm 画舫近景，人物倚栏与水灯为主体；85mm 画舫近景，人物倚栏与水灯为主体；透视只用于解释当前章节的人物与地点关系。\n\n质感·风格： 唐风画舫纪实摄影，水光、绢罗与暮色真实；建筑、家具、器物、服装形制、发饰与照明属于同一时代；真实肤质，脸部连续干净受光，手部自然；右下角自然加入低调小号手写签名「Zhong」。\n\n负面： 塑料皮肤、过度磨皮、表情僵硬、姿势扭曲；不自然五官与视线、多余或缺失手指、四肢融合、关节崩坏、错误透视和矛盾阴影；乱码文字、真实品牌标志、抢主体的水印。\n\nhttps://t.co/y5yYvA8FE3",
+      "created_at": "Sat Aug 22 09:57:28 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 8,
+      "views": "8073",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQUV7THaIAAV1JM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091102446324236671"
+    },
+    {
+      "id": "2090713933963538529",
+      "text": "前百拿下，试试看能不能回本 https://t.co/nILfCDlPkD",
+      "created_at": "Fri Aug 21 08:13:40 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1656",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQO1MWeaAAAIBu-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090713933963538529"
+    },
+    {
+      "id": "2090454372610424855",
+      "text": "RT @indigox: Moderna 与默沙东联合宣布，诊断黑色素瘤的个性化癌症mRNA-4157 在三期临床试验中取得积极结果，股价暴涨100%📈 Moderna 的肿瘤疫苗路线是取出患者的肿瘤组织，用 AI 分析并筛选出约 20 个最有代表性的抗原，编码成 mRNA 疫…",
+      "created_at": "Thu Aug 20 15:02:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 40,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "87",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090454372610424855"
+    },
+    {
+      "id": "2090392765087805793",
+      "text": "RT @YangQi_917: This is our first gameplay reveal trailer for Black Myth: Zhong Kui, showcasing some combat, narrative, and visual styles.…",
+      "created_at": "Thu Aug 20 10:57:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 178,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090392765087805793"
+    },
+    {
+      "id": "2088535060911947893",
+      "text": "居然还能这么玩",
+      "created_at": "Sat Aug 15 07:55:36 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2224",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088535060911947893"
+    },
+    {
+      "id": "2088508256260128891",
+      "text": "RT @Alibaba_Qwen: We promised open weights for Qwen3.8. Now, time to meet them! 🎉\n\n⚡ Qwen3.8-27B:\n- A native multimodal dense model. With j…",
+      "created_at": "Sat Aug 15 06:09:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2141,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "92",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088508256260128891"
+    },
+    {
+      "id": "2088500424932487199",
+      "text": "RT @tianyi: 如果你人在杭州或周边，想给 DeepSeek Harness 组投简历看机会，请联系我。\n\nDeepSeek Harness 组招聘深度学习研究员、研发工程师、产品经理、设计师、开发者关系、社区运营、项目经理，都热招中，全职实习都招。 https://t…",
+      "created_at": "Sat Aug 15 05:37:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 89,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "84",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088500424932487199"
+    },
+    {
+      "id": "2088468088971002061",
+      "text": "RT @dotey: Pi 作者对 DeekSeek Harness 评价 https://t.co/U7NcKf3AOn",
+      "created_at": "Sat Aug 15 03:29:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 62,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "78",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsRfMoXcAAYgWI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088468088971002061"
+    },
+    {
+      "id": "2088257370791215458",
+      "text": "RT @cursor_ai: Cursor is now part of @SpaceX. \n\nToday, we have officially closed our acquisition. We will join the @SpaceXAI team to help m…",
+      "created_at": "Fri Aug 14 13:32:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 4592,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "80",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088257370791215458"
+    },
+    {
+      "id": "2088204326233935893",
+      "text": "不应该叫词元贷吗",
+      "created_at": "Fri Aug 14 10:01:22 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2103",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088204326233935893"
+    },
+    {
+      "id": "2088172012590227500",
+      "text": "RT @WangBenson6541: 昨晚DeepSeek Harness 发布了\n我们把官方 DeepSeek Harness 打包成了一个开箱即用的桌面应用\n\n不需要安装 Node.js，也不用再通过命令行启动\n\n目前支持：\nmacOS Apple Silicon\nWin…",
+      "created_at": "Fri Aug 14 07:52:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 236,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "93",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088172012590227500"
+    },
+    {
+      "id": "2088154242163102136",
+      "text": "RT @_smontlouis: https://t.co/qU75ecUDSM",
+      "created_at": "Fri Aug 14 06:42:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 24,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "87",
+      "lang": "zxx",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088154242163102136"
+    },
+    {
+      "id": "2088135029683818674",
+      "text": "刚更新了一个codex的版本，结果用deepseek模型居然不支持直接粘贴图片到输入框了😅",
+      "created_at": "Fri Aug 14 05:26:01 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1689",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088135029683818674"
+    },
+    {
+      "id": "2088097048788975632",
+      "text": "九龙城寨·夜曲旗袍｜短发眼镜少女 × 灰绿改良旗袍 × 夜雨霓虹旧街，港风夜景胶片。\n\n#webtomind #AI写真 #港风夜景\n\n【GPT Image2提示词】\n主题：\n夜雨霓虹·夜曲旗袍\n\n主体：\n纵向2:3的真实单人写真。人物站在旧街霓虹街角，人物占画面约六成，繁体霓虹招牌、湿路面反光与夜色雨丝自然入镜。\n\n人物·表情：\n表情结构采用「深夜柔软眼神」；深夜收工后眼神柔软略带倦意，表情放松。五官执行：眼睑轻微下垂、眼神温暖、嘴唇放松。\n表情执行优先：以「深夜柔软眼神」为唯一表情目标，眼周、眉部、嘴角和嘴唇必须执行明确的可见动态；禁止中性看镜头、统一浅笑、僵硬摆拍脸或自然放松脸代替该表情。\n表情采用「深夜柔眼」：眼神放松柔和，视线直视镜头但不锐利，嘴唇微抿，带着夜里的安静。\n\n服装·姿势：\n灰绿色改良旗袍连衣裙，设计的中式高立领，无袖盖袖，银白立体刺绣云纹，薄纱蕾丝拼接，胸前低弧开口与腰侧开衩由同色不透明内衬稳定覆盖，黑色细腰带带金属孔眼细节。领口可见性：主领口为设计的中式高立领旗袍成衣，不改成低领、深 V 或敞开外领。最多两只清晰可见的手：一手撑透明雨伞，另一手自然垂落；双手空间分离，身体微转、脸回望镜头。\n\n背景·光线：\n九龙城寨式旧街夜色：繁体霓虹招牌、湿路面倒影、雨丝、旧楼外墙。主光为正面直闪，人物面部连续受光并有眼神光，霓虹只染发丝与衣料边缘不切碎五官，冷色霓虹与暖黄路面形成对比。\n\n构图·镜头：\n中景偏全身，机位略低微仰，使用35mm标准焦段，人物位于画面中央偏右，霓虹招牌与湿路面倒影形成纵深。\n\n质感·风格：\n港风夜景胶片写真，霓虹与暖黄混合色调，轻微颗粒，夜雨市井氛围，旧港片故事感。右下角自然加入低调小号设计师签名「Zhong」。\n\n负面：\n未成年感，幼态脸，真实明星脸，裸体，关键部位暴露，透明内衬，服装移位，身体局部特写，挑逗姿势，现代感元素，干净网红棚拍感，霓虹乱码，面部彩色光斑，局部漂白，雨伞遮挡脸部，繁体招牌文字乱码，人物表情甜美化，复杂手势，多余手指，额外手臂，重复手，第三只手，肢体融合，廉价cosplay，塑料皮肤，除右下角小号签名外不生成任何可读文字与身体纹身文字，拼图多图。\n\nhttps://t.co/y5yYvA8FE3",
+      "created_at": "Fri Aug 14 02:55:06 +0000 2026",
+      "favorite_count": 33,
+      "retweet_count": 4,
+      "reply_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 22,
+      "views": "15013",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPppADtbEAAtV-4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPppHoNaUAAHzXx.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPppKFJbMAA34P5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPppMCPagAA5G0n.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088097048788975632"
+    },
+    {
+      "id": "2088047626956722225",
+      "text": "RT @jiayuan_jy: 有幸一个月前就被 @tianyi 拉进了仓库。当时 DSH 还是一个只实现了 core framework 的毛坯房。过去一个月，基本上每次 pull 代码，都是上千个 commits 的速度在涨。\n\n说一下我对 DSH 的一些理解，不一定对：…",
+      "created_at": "Thu Aug 13 23:38:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 101,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "85",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088047626956722225"
+    },
+    {
+      "id": "2087901487368372486",
+      "text": "RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harness…",
+      "created_at": "Thu Aug 13 13:58:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2464,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "91",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087901487368372486"
+    },
+    {
+      "id": "2087726541140811918",
+      "text": "RT @drmrzhong: 雨夜窄巷、唐楼楼梯与电车夜窗——1960年代港风里的克制而怀旧。\n\n#webtomind #AI写真 #旗袍\n\n【GPT Image2提示词】\n\n主题：… https://t.co/rMTNvbKY2i",
+      "created_at": "Thu Aug 13 02:22:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbpuEbUAAD_gU.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbq7PaQAEgiNw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbsnMbEAAcgav.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbtp0aAAA9Dc0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087726541140811918"
+    },
+    {
+      "id": "2087472246894027131",
+      "text": "RT @drmrzhong: 月夜歌楼回眸、宋桂落桥、唐宫晨妆与上元灯雪\n重新优化了提示词结构，人物进一步去除了AI塑料感\n\n#webtomind #AI写真 #汉服\n\n【GPT Image2提示词】\n\n主题：… https://t.co/FeqswBeLFF",
+      "created_at": "Wed Aug 12 09:32:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 6,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevt7cakAAlcvC.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevv14awAAMkcw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevw9_aAAAL4pM.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevx-DasAAKRc4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087472246894027131"
+    },
+    {
+      "id": "2087448912613564548",
+      "text": "雨夜窄巷、唐楼楼梯与电车夜窗——1960年代港风里的克制而怀旧。\n\n#webtomind #AI写真 #旗袍\n\n【GPT Image2提示词】\n\n主题： 1960年代香港双层电车，夜窗与街灯，一位明确成年的女性坐在电车二层靠窗，侧头看窗外街灯一盏盏掠过，双手自然交叠放在膝上。宛如电影中的一个镜头，自然而美丽的1960年代写真。\n\n主体： 主体为明确成年的女性。面部身份只服从附带参考图：始终一致地匹配面部特征、面部比例、肤色和整体身份；发型、发饰与当下表情服从当前时代、场景和活动，不复制参考图的发型或中性表情。身体锚点：她拥有娇小的韩国时尚模特身材，大约163厘米高，优雅的女性比例，自然迷人却逼真的沙漏型轮廓。她拥有自然丰满匀称的胸部，带有逼真的体积、柔和的下部丰满度、真实的重量、自然重力，以及可信的柔软组织。她的身体有窄小的肋骨、纤细有型的腰部、柔和圆润的臀部、丰满的上大腿、紧致女性化的四肢，以及逼真的解剖结构。每件衣物都自然贴合她的身体，带有可信的面料张力、逼真的褶皱、细微的压缩，以及真实的衣物物理效果。发型、妆容与当下表情由主题决定。\n\n人物·表情： 妆容：旗袍复古红唇——干净底妆、清晰眉形、低饱和红唇与轻微眼尾上扬；表情：半耳语浅笑，单侧嘴角微抬、眼神亲近、眉毛放松；发型与发饰：深栗及肩复古卷发，发量蓬松、轮廓清楚，像旧相册里的柔焦质感。\n\n服装·姿势： 服装：高叉旗袍完整不透明，低弧深 V 领配完整内衬，侧开衩正常，配珍珠耳坠；姿态：坐在电车二层靠窗，侧头看窗外街灯一盏盏掠过，双手自然交叠放在膝上，指节放松、不承担精细动作；材质物理：丝、纱、绢、罗保留各自纹理，金属饰件只作局部反光，不改变主衣料物理。\n\n背景·光线： 1960年代香港双层电车，夜窗与街灯，环境只保留电车二层、夜窗、街灯掠过与木质座椅；车内灯与窗外街灯混合为单一主光，脸部连续受光，暗部保留层次、深色影调、克制高光。\n\n构图·镜头： 70mm 电车近景，人物侧头看窗外为主体；9:16 竖幅，人物位于画面中央并占约75%-82%，脸部落在上部三分之一，背景只保留两三项地点证据。\n\n质感·风格： 低调戏剧：全画幅数码，50-85mm 中近景，单一主光、暗部保留层次，深色影调、克制高光、皮肤保留纹理；皮肤呈现逼真毛孔与细微面部毛发，肤色变化自然，发丝细节清楚，面料纹理可信，画面保留微妙数字噪点与自然高动态范围；右下角自然加入小号手写签名「Zhong」。\n\n负面： 避免脸部随机光斑、局部漂白、油光、点光源、多色光切碎五官；避免手部多指、缺失手指、多余手臂、手势畸形、手指粘连、双手融合；避免多脚、多余肢体；避免未成年感、幼态脸、塑料皮肤、油亮高光、过度磨皮、瓷娃娃肤质；避免乱码文字、真实品牌标志、抢主体的水印。\n\nhttps://t.co/y5yYvA8FE3",
+      "created_at": "Wed Aug 12 07:59:38 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 3,
+      "reply_count": 43,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "10039",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbpuEbUAAD_gU.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbq7PaQAEgiNw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbsnMbEAAcgav.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgbtp0aAAA9Dc0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087448912613564548"
+    },
+    {
+      "id": "2087330332874006747",
+      "text": "月夜歌楼回眸、宋桂落桥、唐宫晨妆与上元灯雪\n重新优化了提示词结构，人物进一步去除了AI塑料感\n\n#webtomind #AI写真 #汉服\n\n【GPT Image2提示词】\n\n主题： 月夜江南歌楼二层的临水雕花回廊，一位明确成年的女性倚住雕花栏杆听见轻声呼唤后回身望向镜头。宛如电影中的一个镜头，自然而美丽的明代江南写真。\n\n主体： 面部身份只服从附带参考图：始终一致地匹配面部特征、面部比例、肤色和整体身份；发型、发饰与当下表情服从当前时代、场景和活动，不复制参考图的发型或中性表情。\n\n身体锚点：她拥有娇小的韩国时尚模特身材，大约163厘米高，优雅的女性比例，自然迷人却逼真的沙漏型轮廓。她拥有自然丰满匀称的胸部，带有逼真的体积、柔和的下部丰满度、真实的重量、自然重力，以及可信的柔软组织。她的身体有窄小的肋骨、纤细有型的腰部、柔和圆润的臀部、丰满的上大腿、紧致女性化的四肢，以及逼真的解剖结构。每件衣物都自然贴合她的身体，带有可信的面料张力、逼真的褶皱、细微的压缩，以及真实的衣物物理效果。发型、妆容与当下表情由主题决定。\n\n人物·表情： 妆容：杏粉奶茶琥珀妆——杏粉奶茶眼影渐层，眼尾轻带玫瑰棕，低饱和蜜桃腮红从眼下向面中扩散；表情：窗边出神，五官：眼睛不完全对焦，嘴唇放松，脸部保持安静；发型与发饰：古典半披半挽玉饰，黑色长发半披半挽，发髻位于中低位置，长发自然垂落，少量碎发修饰脸侧。\n\n服装·姿势： 服装：朱砂红至象牙白渐变的古典长裙，完整不透明内层配低肩领缘、宽大垂坠水袖、轻透外纱、克制金线刺绣与时代化背部织带，腰封清楚但不过紧，配鎏金花枝簪、珍珠流苏耳坠和细金手链；姿态：倚住雕花栏杆听见轻声呼唤后回身望向镜头，环境接触点提供轻微支撑，主要重心落在一侧腿或坐面，另一侧肢体自然放松；材质物理：丝、纱、绢、罗或棉麻保留各自纹理，金属饰件只作局部反光，不改变主衣料物理。\n\n背景·光线： 月夜江南歌楼二层的临水雕花回廊，环境只保留雕花木栏、朱红纱幔、鎏金宫灯、古琴、青瓷酒具、檀香炉与屏风，楼下舞者和乐师仅作柔和失焦的环境层；廊外月夜天空与浅色纱幔形成宽幅柔和主光，连续照亮整张脸，面部只接受一个主闪方向，高光连续滚降，不出现随机离散光斑或局部漂白。\n\n构图·镜头： 70mm 三分之二身体环境人像，镜头与栏杆接近同高，人物回身线和宽袖形成对角线，歌楼纵深与楼下表演柔和虚化；9:16 竖幅，人物位于中央稍偏左并占画面约60%-72%，视线或动作方向保留负空间。\n\n质感·风格： 便携 CCD 现场直闪：2000年代便携 CCD 数码相机，28–35mm 等效近身环境广角，机顶直闪照亮主体、背景低一档，有限动态范围与少量高光飞白，轻微数码锐化、冷暖色偏、真实暗部噪点与上传压缩；皮肤呈现逼真毛孔与细微面部毛发，肤色变化自然，发丝细节清楚，面料纹理可信，画面保留微妙数字噪点与自然高动态范围；右下角自然加入小号手写签名「Zhong」。\n\n负面： 避免脸部随机光斑、局部漂白、油光、点光源、多色光切碎五官；避免手部多指、缺失手指、多余手臂、手势畸形；避免未成年感、幼态脸、塑料皮肤、油亮高光、过度磨皮、瓷娃娃肤质；避免乱码文字、真实品牌标志、抢主体的水印。\n\nhttps://t.co/y5yYvA8FE3",
+      "created_at": "Wed Aug 12 00:08:26 +0000 2026",
+      "favorite_count": 54,
+      "retweet_count": 6,
+      "reply_count": 63,
+      "quote_count": 1,
+      "bookmark_count": 26,
+      "views": "28781",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevt7cakAAlcvC.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevv14awAAMkcw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevw9_aAAAL4pM.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPevx-DasAAKRc4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087330332874006747"
+    },
+    {
+      "id": "2087324969323938298",
+      "text": "RT @drmrzhong: 霓虹从涩谷的湿路面漫上来，白色水手领停在夜色与车流之间。仿真机关枪只是垂在身侧的摄影道具，人物被叫住回头，恰好留下一张柔光 CCD 的街头抓拍。\n\n同一角色连续四张：涩谷十字路口、原宿霓虹街、新宿巷弄、秋叶原游戏街。地点、服装色、镜头和表情各自变化…",
+      "created_at": "Tue Aug 11 23:47:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087324969323938298"
+    },
+    {
+      "id": "2086837206090432620",
+      "text": "速降绳绷直，她贴着玻璃幕墙滑落，霓虹在脚下一层层让开。\n\n#webtomind #AI写真 #攻壳机动队风义体特工\n\n本期把「攻壳机动队风格」编译成一组四张的画面合同，叙事按建立、变化、转折、余韵推进：\n\n义体锚点：金属关节线与光学迷彩外层微光，是识别角色、不靠标题解释世界观的唯一符号；\n\n场景叙事：检修舱、积水窄巷、高楼速降、全息广告街口——每张都先回答\"她为什么在这里、正在做什么\"；\n\n镜头语言：50mm 检修近景 → 28mm 积水低机位 → 楼顶极限俯拍速降 → 85mm 全息街口半身，四张机位、景别、光色全部错开；\n\n表情绑定：表情与动作、视线、落点同向——检修中的专注、雨停间隙的警觉松弛、速降中的冷静、仰望全息屏的审视。\n\n每张只保留一个动作、一个视觉焦点、一套单主光。以速降一张为例，完整提示词如下。\n\n【GPT Image2提示词】\n\n主题：高楼滑绳速降义体特工写真（攻壳机动队风格致敬，原创角色）\n\n主体：成年女性义体特工全身入镜，面部身份与身体比例由唯一参考图锁定\n\n人物·表情：眼神专注看向下方速降落点，嘴唇微抿，表情是任务执行中的冷静专注，动作熟练没有犹豫；视线与身体朝向一致，前因是楼顶速降点，后果是她正落向的下一层平台\n\n服装·姿势：低弧深 V 领口的深紫黑压缩战术内搭配完整不透明内层，外搭半透明光学迷彩短外套（边缘热扩散微光），高腰压缩长裤，金属义体臂带关节缝线，沿速降绳滑降的中段，一只手握速降制动器，另一只手轻扶墙面或速降腰带，一脚蹬墙、另一腿微屈保持平衡\n\n背景·光线：高楼玻璃幕墙外墙，城市霓虹灯海为背景光，楼顶侧逆光为唯一主光，轮廓光只落发丝、肩线与衣摆边缘，玻璃幕墙反射连续不碎\n\n构图·镜头：从楼顶边缘偏侧的极限俯拍，速降绳与人物形成清楚垂直线，人物占据画面中央，下方城市方格灯光与玻璃幕墙反光为纵深\n\n质感·风格：机能面料与霓虹冷色混合，光学迷彩边缘微光克制，金属义体与速降扣具窄高光，皮肤保留自然纹理，轻微电影颗粒\n\n负面：不出现官方名称、Logo、真实品牌字、第二动作、复杂手势、肢体夸张变形、绳索缠绕身体、霓虹光斑落脸、脸部光斑\n\nhttps://t.co/h4jHEtwnUG",
+      "created_at": "Mon Aug 10 15:28:56 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 1,
+      "reply_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "5795",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPXvWRnXsAAbSd9.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPXvWMjXkAA9VIn.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPXvWMjXIAEaV85.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPXvXeTXYAAmxb9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086837206090432620"
+    },
+    {
+      "id": "2086773085936693315",
+      "text": "RT @elonmusk: @dok2001 @Cloudflare @Starlink Sent your 𝕏 post to @Starlink",
+      "created_at": "Mon Aug 10 11:14:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 105,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "57",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086773085936693315"
+    },
+    {
+      "id": "2086653082222645468",
+      "text": "花云在脚下散开，刀身划破月光。\n跃起的一瞬，和服、发尾和花瓣一起失重。\n\n四张连续场景：空中花云、琉璃水宫、枫火逆风、雪月花枝。\n同一角色，不同极限机位，更强烈的动态和梦幻空间。\n\n#webtomind #AI写真 #和服 #武士刀 #梦幻摄影 #GPTImage2\n\n【GPT Image2提示词】\n主题：\n空中花云\n\n主体：\n纵向2:3的真实单人写真。明确成年的女性在浮空花云与云海之间跃起，人物占画面约七成，云层、巨大花朵、圆月、飘落花瓣和远处浮空鸟居自然入镜。成人时尚编辑摄影与角色扮演题材，人物保持成年年龄感，不得呈现未成年形象。极端机位只改变观看角度，不允许破坏自然人体结构：头身比约六点八到七头身，肢体比例真实，跃起动作符合人体重心和重力。\n\n人物·表情：\n表情采用「动作中被叫住」：正在跃起时被叫住，眼神从前方抬起转向镜头，嘴唇微开像刚要回应。\n\n服装·姿势：\n低领深 V 白紫改良和服，胸前主领口直接可见，关键区域由完整不透明内层覆盖；紫色腰带、白色花枝刺绣、白色足袋和草履构成穿搭。低领只呈现锁骨与领口线条，不放大身体轮廓。人物在空中完成回旋动作，身体侧转但胸廓朝向镜头约四分之三角度，双腿自然分开，一只脚抬起，另一脚向后伸展；和服袖摆、腰带尾端、发尾和花瓣同时向上扬起。仿制无刃武士刀向画面右侧横向挥出，刀尖远离人物和镜头，一手握刀柄，另一手自然张开保持平衡。双手五指完整、自然分开，不做复杂抓握。\n\n背景·光线：\n浮空花云、云海、巨大花朵、圆月、飘落花瓣和远处浮空鸟居组成空间。主光来自正面月光与柔和补光，人物脸部连续受光且明暗过渡均匀，云层和花瓣保持梦幻层次，不落在脸上形成光斑。\n\n构图·镜头：\n全身，机位贴地极低仰拍，仰角约60到75度，使用14-24mm超广角但严格抑制畸变。人物位于画面中央偏右，腾空动作占据画面主体，胸前深 V 领口作为服装细节保持可见，脸部仍是唯一视觉中心。人物头部、肩线、上身、腰胯、腿部和刀身保持同一运动透视轴。\n\n质感·风格：\n极限梦幻和服写真。云海、巨大花朵、花瓣、月光和轻微颗粒，画面动感强烈但不塑料。\n\n负面：\n未成年感，幼态脸，真实明星脸，身体比例异常，头身比不自然，头过大，躯干过长，腿部过短，肩胯透视不一致，肢体扭曲，超广角畸变，头部变形，大幅回身，后背视角，胸廓朝向偏离镜头，领口放大身体轮廓，衣料紧绷上提，刀尖朝向人物或镜头，实弹武器，暴力血腥，裸体，关键部位暴露，透明内衬，服装移位，身体局部特写，挑逗姿势，脸部随机光斑，局部漂白，第二套主光，复杂手势，多余手指，额外手臂，重复手，第三只手，肢体融合，廉价cosplay，塑料皮肤，文字，水印。\n\n图像创作入口：https://t.co/h4jHEtwVKe",
+      "created_at": "Mon Aug 10 03:17:17 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 2,
+      "reply_count": 47,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "views": "35638",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVH167aMAAo5GN.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVH3ZVawAANFjV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVH4sMbAAAqus6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVH6FlaQAAsXnh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086653082222645468"
+    },
+    {
+      "id": "2086620766947483976",
+      "text": "霓虹从涩谷的湿路面漫上来，白色水手领停在夜色与车流之间。仿真机关枪只是垂在身侧的摄影道具，人物被叫住回头，恰好留下一张柔光 CCD 的街头抓拍。\n\n同一角色连续四张：涩谷十字路口、原宿霓虹街、新宿巷弄、秋叶原游戏街。地点、服装色、镜头和表情各自变化。\n\n#webtomind #AI写真 #水手服 #机关枪 #日本街头 #CCD\n\n【GPT Image2提示词】\n\n主题：\n涩谷水手\n\n主体：\n纵向2:3的真实单人写真。人物站在涩谷十字路口，人物占画面约六成，仿真机关枪、人潮、灯牌和湿地面自然入镜。人物保持自然头身比，约六点五到七头身，腿长不过度夸张，四肢长度协调，不拉长躯干或制造透视畸变。\n\n人物·表情：\n表情采用「动作中被叫住」：正在做事时被叫住，眼神从手边抬起，嘴唇微开像刚要回应。\n\n服装·姿势：\n低领深 V 白色水手服，胸前主领口直接可见，关键区域由完整不透明内层覆盖；深蓝水手领、深蓝直筒裙、白色长袜和黑色短靴构成穿搭。仿真机关枪作为非实弹摄影道具，由肩带斜跨固定，枪身垂在身侧，不瞄准真人，不依赖手部握持，手与枪之间保留空隙。双手自然垂落于身体两侧，五指完整、自然分开，不握枪、不接触枪械与肩带，不做复杂抓握。\n\n背景·光线：\n涩谷十字路口、人潮、灯牌、湿地面、商店招牌和夜色组成空间。主光来自霓虹与城市灯光，人物脸部连续受光，灯牌和湿地面保留真实反射，不出现孤立白点。画面加入适量柔光 CCD 质感，低对比柔和高光、轻微光晕和细腻数码颗粒；柔光只落在背景灯光、发丝轮廓和衣料高光，脸部保持五官清晰且连续受光，不出现脸部光斑、局部漂白或柔焦糊脸。\n\n构图·镜头：\n近景到半身，机位略低且正面微侧，但必须避免广角透视导致腿部或头部比例失调；使用35-50mm自然人像焦段。人物位于画面中央偏右，胸前深 V 领口保持清楚可见，人潮和灯牌作为环境，脸部仍是唯一视觉中心。\n\n质感·风格：\n柔光 CCD 数码街头写真。适量低对比柔光、轻微高光晕染、真实皮肤纹理、城市霓虹反射、高密度街头氛围和细腻数码颗粒，整体干净通透但不塑料。\n\n负面：\n未成年感，幼态脸，真实明星脸，身体比例异常，头身比不自然，腿长夸张，躯干拉长，透视畸变，肢体过长，裸体，关键部位暴露，透明内衬，服装移位，身体局部特写，挑逗姿势，实弹武器，瞄准真人，暴力血腥，枪口朝镜头，脸部随机光斑，局部漂白，第二套主光，复杂手势，多余手指，额外手臂，重复手，第三只手，肢体融合，廉价cosplay，塑料皮肤，文字，水印。\n\n图像创作入口：https://t.co/h4jHEtwVKe",
+      "created_at": "Mon Aug 10 01:08:53 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 3,
+      "reply_count": 66,
+      "quote_count": 1,
+      "bookmark_count": 9,
+      "views": "21131",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPUqKE9aQAA_4w2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPUqNeDbcAAxh8z.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPUqPTubUAAihYy.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPUqRGcbIAAqILa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086620766947483976"
+    },
+    {
+      "id": "2086485677278142694",
+      "text": "浮世绘不是复刻版画，而是把巨浪、花魁、歌舞伎与夜祭穿进真人写真。\n\n#webtomind #AI写真 #浮世绘\n\n这一轮以日本浮世绘美学为母题，做了一组真人摄影式写真：\n1. 神奈川浪影：巨浪与富士山作为蓝白版画式背景\n2. 月夜花魁：圆月、纸灯与花魁氛围\n3. 歌舞伎色：舞台幕布、黑金朱红与戏剧光\n4. 夜祭灯市：灯笼、烟花、云纹与低领深 V 时装\n\n整体不是做成木版画纸纹，而是保留真实皮肤、真实光影和轻微胶片颗粒，让浮世绘元素通过服装印花、场景、灯笼和烟花进入写真。\n\n【GPT Image2提示词】\n主题：\n夜祭灯市\n\n主体：\n纵向2:3的真实单人写真。一位明确成年的东方女性站在浮世绘夜祭灯市，人物占画面约六成，灯笼、烟花、摊位和浮世绘纹样自然入镜。\n\n人物·表情：\n表情采用「自信静止脸」：面部保持静止，眼神有控制感，嘴角几乎不笑，整个人有清楚存在感。五官执行：下颌线放松，眼神清晰，表情不僵硬。禁止中性看镜头、统一浅笑或僵硬摆拍脸代替该表情。\n\n服装·姿势：\n低领深 V 朱红浮世绘风时装，胸前主领口直接可见，关键区域由完整不透明内层覆盖；外披金红披帛，裙摆有浪纹和花卉印花。最多两只清晰可见的手：一手持团扇停在肩侧，另一手自然垂落或轻触衣摆；双手空间分离，每只手只承担一个关系。\n\n背景·光线：\n浮世绘夜祭灯市、红灯笼、烟花、摊位、云纹和夜色组成空间。主光为舞台式暖色灯光，人物脸部连续受光，灯笼和烟花保留真实光影，不出现孤立白点。\n\n构图·镜头：\n近景到大半身，机位略低，使用50-85mm人像焦段。人物位于画面中央偏右，灯笼和烟花作为环境，脸部仍是唯一视觉中心。\n\n质感·风格：\n真人摄影风格。真实皮肤纹理、真实光影、轻微胶片颗粒和自然体积感，人物像现实中存在的人物；浮世绘元素通过服装印花、灯笼、烟花和云纹呈现，不使用木版画纸纹、平涂色块或墨线轮廓。\n\n负面：\n未成年感，幼态脸，真实明星脸，裸体，关键部位暴露，透明内衬，脸部随机光斑，局部漂白，第二套主光，复杂手势，多余手指，额外手臂，重复手，第三只手，肢体融合，廉价cosplay，塑料皮肤，木版画纸纹，平涂色块，墨线轮廓，文字，水印。\n\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Sun Aug 09 16:12:05 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 55,
+      "quote_count": 1,
+      "bookmark_count": 9,
+      "views": "20339",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSu1xwaMAAEo3h.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSu-rSa0AAkih3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSvAmLboAE9LrV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPSvCkibsAAeTho.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086485677278142694"
+    },
+    {
+      "id": "2086300762003702184",
+      "text": "天宫花宴，朱红绸缎从梁间垂落，她执扇回眸，像被宴席灯火唤住的一瞬。\n\n#webtomind #AI写真 #天宫\n\n【GPT Image2提示词】\n主题：\n天宫花宴\n\n主体：\n纵向2:3的真实单人写真。一位明确成年的东方女性站在天宫正殿，牡丹、山茶、金红绸缎和宫灯形成高饱和前景，人物处于画面中央偏左，占画面约六成。\n\n人物·表情：\n自然干净的成年面部。眉尾轻挑，嘴角带着克制又明亮的笑意，视线直接看向镜头，神情像宴席上被人唤住的一瞬。脸部只保留一个连续主光方向，不出现随机光斑。\n\n服装·姿势：\n低弧交领朱红汉服内衫，外搭石榴红金线大袖衫，下穿高腰金红裙摆。内层完整不透明，领口保留低弧结构，肩颈、锁骨与胸腰衣料结构清楚。右手持金色团扇停在肩侧，左臂自然垂落，唯一动作是侧身执扇回看。\n\n背景·光线：\n天宫正殿由金红梁柱、鎏金宫灯、垂坠绸缎和成片牡丹组成，远处有云纹藻井。主光为偏戏剧性的前方柔光，人物清晰，背景高饱和但不过度杂乱。\n\n构图·镜头：\n近景到大半身，机位略低，使用50-85mm人像焦段。牡丹和绸缎入镜作为前景，人物脸部仍是唯一视觉中心，背景花瓣自然虚化。\n\n质感·风格：\n繁花饱和剧场。高饱和彩色印刷编辑感，金红粉色彩浓烈，丝绸和花瓣有强光泽，画面像盛放花宴的主视觉，但不过度美颜。\n\n负面：\n未成年感，幼态脸，真实明星脸，脸部随机光斑，局部漂白，第二套主光，复杂手势，多余手指，肢体融合，服装移位，关键部位暴露，廉价cosplay，塑料皮肤，文字，水印。\n\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Sun Aug 09 03:57:17 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 3,
+      "reply_count": 36,
+      "quote_count": 1,
+      "bookmark_count": 11,
+      "views": "13028",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQHZrjaYAArsQZ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQHbg3akAAg4DB.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQHdx4acAAk92h.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPQHevqbUAA1oVD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086300762003702184"
+    },
+    {
+      "id": "2086111209804509391",
+      "text": "檐雨落在掌心，她把清晨接住了。\n方寸之间，光线轻轻停在指尖。\n#webtomind #AI写真 #微光写真\n\n【GPT Image2提示词】\n\n主题：\n唐时檐下接雨\n\n主体：\n1:1方形画幅。唐代坊间小院，雨停后的清晨。屋檐还在滴雨，地面有浅水洼，木门和花枝挂着水珠。人物站在檐下，伸手接住一滴落下来的雨水，脸只露出局部，看向掌心。画面只出现一位成年女性。\n\n人物・表情：\n附图中的主人物转译为唐代坊市年轻女子，二十多岁，黑发半挽，穿浅灰窄袖短襦和浅色长裙，袖口微微卷起。表情安静、柔和，像在感受清晨的水汽。\n\n服装・姿势：\n浅灰窄袖短襦，浅色长裙。人物站在檐下，一只手伸出接住檐雨，另一只手自然垂在身侧。动作停在中间，不摆拍，不展示身体。\n\n镜头・构图：\n平视微俯，贴近手部的浅景深；特写到近景，手掌、水滴、檐口和人物侧脸形成主要视觉。主体偏下偏右，上方和左侧保留大量负空间；水滴反光只作为连续柔光，不形成点状高光落在脸上。\n\n背景・光线：\n木门、花枝、水珠和浅水洼。清晨天光从檐外形成单一方向柔光，面部亮面连续，无点光源落在脸上，无随机离散光斑。\n\n质感・风格：\n川内伦子式微光日常抒情。柔和高调、淡色、轻微过曝、细腻胶片颗粒、低对比、浅景深、光线余韵。禁止商业人像式中心大头和高对比广告光。\n\n负面：\n不要出现男性角色，不要多人主体，不要棚拍，不要现代元素，不要完美精修，不要点光源落在脸上，不要多方向光切碎五官，不要复杂手势，不要多余手指，不要畸形手部，不要文字水印。\n\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Sat Aug 08 15:24:05 +0000 2026",
+      "favorite_count": 64,
+      "retweet_count": 4,
+      "reply_count": 6,
+      "quote_count": 1,
+      "bookmark_count": 38,
+      "views": "16633",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPNa__IawAAAA40.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPNbBiSawAAocUf.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPNbCfbbMAATMuc.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPNbDsyacAA8y5d.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086111209804509391"
+    },
+    {
+      "id": "2086110163145220342",
+      "text": "RT @grok: Announcing Imagine Image 2.0, our next generation image model with precision editing, crisp text rendering, improved factuality,…",
+      "created_at": "Sat Aug 08 15:19:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 4714,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "71",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086110163145220342"
+    },
+    {
+      "id": "2086049251604549670",
+      "text": "测试了一下多轮图片编辑，到了第4轮，人物的脸和画面色调还是会出现异常，整个画面会越来越发黄发暗，这个问题也是目前御三家的通病，为了确保画面的质量，尽量还是不要超过1次的局部修改。 https://t.co/UN8dDKEiaT",
+      "created_at": "Sat Aug 08 11:17:53 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2027",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMhR5wawAA6Kag.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMiHN8aUAAz7Me.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086049251604549670"
+    },
+    {
+      "id": "2086045156097294840",
+      "text": "卧槽，Grok image2真的效果很能打，生成的图元素都是拆好的，直接就能进行指定编辑，而且一次4张还速度贼快，希望api赶紧出来，看看价格如何 https://t.co/yjpioISPMx",
+      "created_at": "Sat Aug 08 11:01:36 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 60,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "views": "6817",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMeVdebcAAzYjA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMeiK-acAAx72I.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086045156097294840"
+    },
+    {
+      "id": "2085874197193228615",
+      "text": "门扉半掩，灯笼暖住她回眸的侧脸。\n男友视角停在两步之外，收下打烊后的那个瞬间。\n#webtomind #AI写真 #男友视角\n\n【GPT Image2提示词】\n\n主题：\n唐西市香料铺打烊后的门外回眸\n\n主体：\n竖版2:3。唐代长安西市夜间，胡商香料铺刚打烊。木门半掩，檐下暖色灯笼与月光同时照在人物身上。只出现一位成年女性，男友不出现在画面中。\n\n人物・表情：\n附图中的主人物转译为唐代香料铺老板娘，二十多岁成熟女性。黑发半挽，戴浅金簪与珍珠耳坠，穿杏白齐胸襦裙、浅金刺绣薄纱披帛，腰间有香囊。脸颊微红，听到男友在门外叫她，侧身回眸，嘴角带着一点惊喜和害羞。\n\n服装・姿势：\n杏白齐胸襦裙，浅金刺绣薄纱披帛，腰部垂香囊。人物侧身回眸，手轻扶门框，另一只手自然拉住披帛。动作只保留回眸瞬间，不叠加第二手势。\n\n男友视角・镜头：\n男友站在门外约两步距离，以第一人称手持相机或手机记录。画面保留极浅的男友衣摆边缘或门框前景，机位略低于视线，距离足够近，像约会收铺后随手拍下的一帧。不是偷拍，不是商业棚拍，不是摆拍广告。\n\n背景・光线：\n唐代西市夜间街景，檐下暖色灯笼与月光混合。街边有模糊的马匹、风灯和行人轮廓。暖灯笼为主光，月光为辅助；脸部使用连续柔光，不出现光斑。\n\n构图・镜头：\n竖版2:3，人物位于画面中央偏右，门框和男友衣角只在前景边缘形成轻微遮挡。35mm 自然透视，浅景深，回眸瞬间脸部和肩颈清楚。\n\n质感・风格：\n当代台湾新锐纪实，暖色饱和偏轴，近距离亲密观看，克制颗粒。画面像男友随手记录的唐代夜生活一帧，保留真实空气感，不过度精修。\n\n负面：\n不要出现男性角色，不要多人，不要偷拍感，不要棚拍，不要现代元素，不要封闭领口，不要遮挡锁骨与肩颈，不要脸部光斑，不要复杂手势，不要多余手指，不要畸形手部，不要文字水印。\n\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Fri Aug 07 23:42:16 +0000 2026",
+      "favorite_count": 28,
+      "retweet_count": 2,
+      "reply_count": 4,
+      "quote_count": 1,
+      "bookmark_count": 18,
+      "views": "24033",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPKDYnAaIAAlL-8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPKDaYnasAAX2D5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPKDb_8aoAAmWCt.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPKDdpxbgAAYvi0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085874197193228615"
+    },
+    {
+      "id": "2085773036553453639",
+      "text": "RT @drmrzhong: 花影、酒意、舞后的呼吸与马球场的风。\n盛唐的热闹，被留在四张尚未整理表情的彩色照片里。🌺🍷\n#webtomind #唐风写真 #AI写真\n\n【GPT Image2提示词】\n\n面部身份：\n使用附带的面部身份作为唯一面部参考。四张照片始终匹配相同的五官…",
+      "created_at": "Fri Aug 07 17:00:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085773036553453639"
+    },
+    {
+      "id": "2085722376264888734",
+      "text": "RT @liyuandyu: MiniMax H3测试片《黄金时代》\n\nMinimax H3 demo film The Golden Age\n\n미니맥스 H3 테스트 영상 《황금시대》 https://t.co/Q94RgKnTST",
+      "created_at": "Fri Aug 07 13:39:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 10,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085345489021755392/img/C1sXHnXE130VNBV-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085722376264888734"
+    },
+    {
+      "id": "2085698788065485306",
+      "text": "君子以自强不息",
+      "created_at": "Fri Aug 07 12:05:16 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1919",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085698788065485306"
+    },
+    {
+      "id": "2085573005443473650",
+      "text": "灯市忽然笑开，曲池的水面停住午后。\n蹴鞠与春宴，把盛唐拍成四种不同的彩色记忆。🏮🌊\n#webtomind #唐朝美学 #AI写真\n\n【GPT Image2提示词】\n\n面部身份：\n使用附带的面部身份作为唯一面部参考。四张照片必须让人一眼认出是完全相同的女性。\n\n身体：\n20岁出头的成年女性。使用附带的身体参考作为唯一身体比例参考，保持真实解剖结构、自然曲线、平衡比例和真实皮肤纹理。\n\n主题：\n盛唐彩色摄影实验：东市夜游、曲池游船、坊间蹴鞠、曲江春宴。\n\n主体：\n分别生成四张独立的纵向2:3写实照片，不要拼图。人物身份保持一致，但发型、服装、动作、机位和摄影语言必须根据各自场景合理变化。\n\n第一张「东市灯影里的突然一笑」：\n人物穿过长安东市拥挤灯市，听见摊主玩笑后侧脸转向同行者，眼角先弯，笑意尚未完全展开。发型为唐代反绾髻，搭配孔雀蓝织锦内层、朱砂红半臂衣、旧金联珠纹与烟紫披帛。采用35mm彩色街头摄影，朱红灯笼、青绿酒旗、香料摊和人流形成密集颜色层次，边缘允许路人与灯笼自然遮挡。\n\n第二张「曲池游船的短暂停顿」：\n人物坐在宫苑窄小彩绘游船前部，被船边跃起的锦鲤吸引而低头。发型为偏向一侧的唐代堕马髻，佩戴白玉梳与浅金花簪。服装使用珍珠白、淡青、浅粉和水蓝色绢罗。采用80mm中画幅式自然压缩，让浅青水面、粉白宫墙倒影、船舷与石桥形成粉彩几何，大面积环境余白保留安静午后感。\n\n第三张「蹴鞠越线前的一次救球」：\n人物刚以膝侧救回即将越线的蹴鞠球，身体略失平衡，眼睛追着球并笑出声。头发梳成紧凑高椎髻，穿绛红内层、青蓝短外袍、旧金腰带与深色分裁裙裤。采用24mm近距广角、腰部低机位、轻微上仰和倾斜构图。蹴鞠球与膝部形成适度近大远小，双臂与双手裁在画外。日间低功率补闪只增强眼神和衣料清晰度。\n\n第四张「曲江春宴的一次抬头」：\n人物坐在曲水宴席边缘，听见画外朋友叫她，从果盘方向抬起眼睛。发型为向上展开的唐代抛家髻，佩戴金叶步摇、白玉花钗与短珍珠链。服装使用胭脂红内层、珍珠白大袖衫、石青高腰织带与淡杏披帛。采用略高机位、80mm中焦与较深景深，同时保留主人物、同席女伴、织席、游船、乐队与曲水关系。背景人物分别分果、交谈、听乐或看水面。\n\n光线：\n所有人物面部使用宽而连续的自然光或店铺实际光照明。水面、灯笼和树影只能作用于背景与衣料边缘，不得在额头、鼻梁、脸颊和嘴唇制造碎光、圆形白斑或彩色污染。\n\n质感：\n四张分别呈现密集彩色街拍、粉彩空间几何、近距广角补闪和高位社会场景摄影。色彩明净但不过度饱和，保留真实颗粒、轻微倾斜、边缘裁切和瞬间动作。人物漂亮但不呈现塑料AI脸，不使用黑白或统一滤镜。\n画面右下角加入低调小号手写签名「Zhong」。\n\n负面提示：\n拼图，多分镜，身份漂移，四张使用相同发型，相同姿势，相同机位，现代马尾，廉价古装，静态目录摆拍，统一商业微笑，复杂手部动作，多余手臂，多余手指，错误手指，脸部灯笼光斑，水波光斑，树影跨脸，补闪白斑，塑料皮肤，黑白照片，现代建筑，现代运动服，文字乱码，其他签名。\n\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Fri Aug 07 03:45:27 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 27,
+      "quote_count": 1,
+      "bookmark_count": 11,
+      "views": "24951",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFxhZGaMAAJlTe.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFxh83bkAAfDVK.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFxjTIboAEE4Xd.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFxk0YagAAe5FX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085573005443473650"
+    },
+    {
+      "id": "2085542745373020205",
+      "text": "花影、酒意、舞后的呼吸与马球场的风。\n盛唐的热闹，被留在四张尚未整理表情的彩色照片里。🌺🍷\n#webtomind #唐风写真 #AI写真\n\n【GPT Image2提示词】\n\n面部身份：\n使用附带的面部身份作为唯一面部参考。四张照片始终匹配相同的五官比例、肤色、年龄感与整体身份。\n\n身体：\n20岁出头的成年女性。使用附带的身体参考作为唯一身体比例参考，保持真实解剖结构、自然曲线与皮肤纹理。\n主题：\n盛唐娱乐四景：曲江斗花、长安酒肆、乐坊舞毕、马球赛后。\n\n主体：\n分别生成四张独立的纵向2:3彩色写实照片，不要拼图。四张保持同一人物，但根据活动更换符合盛唐审美的发型、服装、表情和摄影语言。\n\n第一张「花隙里的胜负揭晓」：\n曲江斗花会刚揭晓结果。镜头隔着牡丹与彩幄拍摄人物大特写。她梳盛唐半翻髻，佩戴不对称簪花，穿浅杏白、石青与牡丹红组成的现代审美唐风齐胸襦裙。她循声转向朋友，眉梢轻抬，笑意刚刚出现。采用100–135mm远距观察、前景遮挡和低反差彩色负片质感。\n\n第二张「长安酒肆第七轮」：\n人物坐在胡姬酒肆的低案旁，刚放下鎏金耳杯便被同席朋友逗笑。乌发梳成乌蛮髻，穿孔雀蓝织锦内层、朱红半臂衣与深绯罗裙。采用35mm同席纪实视角，桌缘、胡瓶与宾客肩背自然进入前景。暖灯完整覆盖五官，背景人物分别投筹、交谈与听乐，不统一看镜头。\n\n第三张「乐坊舞毕后的彩色余息」：\n最后一支舞结束，人物在乐坊侧室罗帘旁停步调整呼吸。头发梳成唐代舞后高髻，一束发丝略微松散。暗红与孔雀绿舞衣采用不透明内层，披帛和袖缘保留轻盈层次。她循声望向帘外，嘴唇轻启，疲惫、满足与意外同时存在。采用50mm后台近景、柔雾彩色负片、暗红与灰蓝空间分层。\n\n第四张「马球越线后的回身」：\n盛唐女骑手下马后快步走向休息区，听见同伴呼喊便在步伐中回身。头发梳成左右清晰的双螺骑装髻，穿暗红内层、石青窄袖袍、深色分裁裙裤与皮革长靴。仅保留一只手握住从画面下缘进入的球杖杆身，另一只手不入镜。采用135mm长焦、约1/40秒彩色慢门追随，主体脸部清楚，马匹、旗幡与扬尘形成方向性色带。\n\n光线：\n四张均以宽面自然光或有罩室内灯连续照亮五官。环境色和灯笼只服务空间层次，不在脸部形成圆形光斑、碎光、花影或局部漂白。\n\n质感：\n真实彩色摄影，保留毛孔、细绒毛、自然血色、衣料重量和轻微胶片颗粒。借鉴经典彩色纪实、柔雾时装与运动摄影的画面组织方法，但不复制具体作品。拒绝黑白、近黑白和统一暖金商业滤镜。\n画面右下角加入低调小号手写签名「Zhong」。\n\n负面提示：\n拼图，多分镜，人物身份漂移，现代马尾，泛古风头冠，廉价影楼古装，统一摆拍表情，背景人物动作重复，复杂手势，双手承担多个动作，多余手臂，多余手指，错误手指，脸部光斑，彩色投影，塑料皮肤，黑白照片，现代场景，乱码文字，其他签名。\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Fri Aug 07 01:45:12 +0000 2026",
+      "favorite_count": 47,
+      "retweet_count": 3,
+      "reply_count": 69,
+      "quote_count": 1,
+      "bookmark_count": 23,
+      "views": "24345",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFT9K1bkAA88RK.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFT9iiaQAAGtpV.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFT_RWbQAAWd8v.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPFUAy1aIAAgwP9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085542745373020205"
+    },
+    {
+      "id": "2084969909231206759",
+      "text": "https://t.co/8AozMbrkAN https://t.co/ldSDmZnGlG",
+      "created_at": "Wed Aug 05 11:48:57 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 2,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1783",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9MxvqaEAAG77Y.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9M0QFaoAEs_so.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084969909231206759"
+    },
+    {
+      "id": "2084834296721031485",
+      "text": "I just reserved my Cloudflare Wallet tag: https://t.co/TEk3X5YS18.\n\nReserve yours now at https://t.co/khdlb4DFHf",
+      "created_at": "Wed Aug 05 02:50:05 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1342",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084834296721031485"
+    },
+    {
+      "id": "2084806493208236214",
+      "text": "云阶之上，霓裳被星河与天风轻轻托起。\n她从天宫走来，像云海偶然留下的一场梦。✨\n#webtomind #AI写真 #东方幻想\n\n【GPT Image2提示词】\n\n主题：\n霓裳天宫\n\n主体：\n生成一张纵向东方幻想真人写真。画面主体是一位明确成年的东方女性仙女，置身云海之上的天宫世界。每次只生成一张单图，从白玉云阶、月轮镜台、银河天桥、瑶池水岸四种场景中选择一种，不生成拼图或多面板。\n\n人物·表情：\n人物拥有自然成熟的东方女性面容，五官比例真实，杏眼清澈，眼白量自然，保留轻微左右差异。乌黑长发采用半披半挽、低位松挽或编发长马尾，根据场景产生真实风动。妆容为清透半哑光肌、淡杏玫瑰眼妆、自然桃粉红晕和润泽蜜桃色唇。保留毛孔、细绒毛与肤色变化。神情清贵、柔和、亲近，笑意克制，不幼态，不像游戏角色。\n\n服装·姿势：\n身穿经过当代高级时装设计转译的东方霓裳，不是历史服饰复原。珍珠白、月青、淡紫、浅金或孔雀青组成清透色盘。完整不透明的交叠绢罗内层负责覆盖与支撑，通过低弧领线、斜襟、腰封或不对称肩部结构呈现肩颈、胸腰与腿线中的一组连续关系。外层使用渐变披帛、宽袖、银线薄纱与珠光裙摆，只承担空气感和动态层次。\n人物只完成一个主要动作：缓缓走下云阶、坐在月轮镜台回望、走过银河天桥时转身，或坐在瑶池边轻触水面。动作具有明确承重点，手部自然放松，不叠加复杂手势。\n\n背景·光线：\n天宫由白玉台阶、漂浮宫阙、圆形月窗、透明琉璃天桥、瑶池、莲形宫灯、云树与远处金色天门构成。建筑宏大但不抢人物。\n脸部由云层、纱幕或白玉墙面反射形成的宽幅柔光连续照亮，从额头到下颌保持干净、均匀并保留纹理。金色日轮、星河、月光和水面反射只勾勒发丝、披帛、裙摆和建筑边缘，不允许在眼睛、鼻梁、双颊或嘴唇形成随机光斑。\n\n构图·镜头：\n根据场景选择一套完整摄影方式：\n白玉云阶使用35mm轻微低机位全身构图，以台阶引导人物走向天门；\n月轮镜台使用85mm中长焦侧坐近景，以圆形月窗框住脸部与侧身线条；\n银河天桥使用28mm动态广角，让披帛、星河和桥面形成空间纵深，但不夸张身体比例；\n瑶池水岸使用50mm轻微俯拍，将人物、池沿与自然倒影同时纳入画面。\n\n人物双眼精准对焦，四肢比例真实，建筑垂线稳定，不出现脚部放大、肢体拉长或透视断裂。\n\n质感·风格：\n高端东方幻想时装 editorial 与写实摄影结合。绢罗形成宽而柔和的高光，薄纱只在边缘透光，披帛具有真实重量和空气阻力，白玉保留细腻冷润纹理，池水与琉璃具有真实反射和深度。\n整体清透、浪漫、华丽、纯欲而克制，表现成年女性的柔美曲线与仙气气质。避免塑料皮肤、廉价影楼古装、普通历史复原和过度游戏CG感。画面右下角自然加入低调小号手写签名「Zhong」。\n\n负面：\n未成年感，幼态脸，动漫脸，廉价cosplay，普通影楼古装，博物馆式复原，过度裸露，透明关键区域，身体局部特写，脸部星斑，脸部珠光斑，云影跨脸，水面反射跨脸，面部过曝，油亮皮肤，塑料皮肤，复杂手势，多余手指，重复肢体，裙摆穿过身体，人物漂浮，错误倒影，建筑歪斜，乱码文字，品牌logo，拼图，多面板。\n\nhttps://t.co/h4jHEtwVKe",
+      "created_at": "Wed Aug 05 00:59:36 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "7759",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO64cTqakAAsMpe.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO64cTrboAA3xMA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO64cZcbwAAMos7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO64cTsaoAA5QgK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084806493208236214"
+    },
+    {
+      "id": "2084652286836605194",
+      "text": "RT @drmrzhong: 水上障碍挑战 x Seedance 2.5\n\n整体动作很流畅，人物表情动作非常自然，除了贵就没啥缺点了😅\n\n看看这段时间MiniMax H3开源模型有没有优化版本，目前台式的4070ti可以用来作为本地的视频生成解决方案。\n\n提示词：… https…",
+      "created_at": "Tue Aug 04 14:46:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084652286836605194"
+    },
+    {
+      "id": "2084533573089153232",
+      "text": "不得不说，Grok Imagine真香啊，完美支持中文，进行了10s和15s的口播视频测试，15s的视频，按我目前普通蓝V的周限额，大概是8%的用量，非常具有性价比，而且整体表现相当自然。\n\n但是要注意15s内的口播文案不能放太多，现在这个版本就是因为放多了，所以会影响到讲话的语速。\n\n如果后续要用在视频工作流当中的话，我会在后期统一进行人物音色的替换。原生的Grok Imagine出口播视频，由于模型的能力，生成出来的语音很好的带出了应用的语气和情绪，前端目前我还没看到哪里能自定义音色，只看到一些预设音色，估计api上应该是支持的，后续继续研究一下。",
+      "created_at": "Tue Aug 04 06:55:07 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1881",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO29uwVaIAAwMZa.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084530872829820929/img/W2WqN8h09yvngTcp.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO2-IGTaMAAbLZU.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084532578720292865/img/sCYJDIVHKN1RN5ri.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084533573089153232"
+    },
+    {
+      "id": "2084499224969003400",
+      "text": "水上障碍挑战 x Seedance 2.5\n\n整体动作很流畅，人物表情动作非常自然，除了贵就没啥缺点了😅\n\n看看这段时间MiniMax H3开源模型有没有优化版本，目前台式的4070ti可以用来作为本地的视频生成解决方案。\n\n提示词：\n\n以参考图像中的成年女性为主角。忠实保持全篇的面容、发型、发色、体型、泳装的设计和颜色。主角明确为成年女性。避免变成其他人或多人化。30秒，16:9，超高质量的真人电视节目。使用类似中国大型水上障碍挑战特辑的真实场地、观众席、解说席、竞技计时器、固定摄像机、吊臂摄像机、远摄摄像机。完全不使用电影式的慢动作，以正常速度的真实电视转播方式描绘。\n\n0〜4秒\n竞技前的挑战者介绍。在明亮的户外场地起点，主角面向摄像机露出自信的笑容。面向摄像机挥动双手后，挺起胸膛，一手叉腰，另一手做小小胜利手势，摆出性感而自信的姿势。上半身略微斜向一侧，胸口线条引人注目的构图。以中国综艺节目挑战者介绍风格，正面中景镜头和轻微低角度镜头节奏感十足地切换。健康而华丽的魅力。解说用中文介绍“本次挑战者是这位！”主角面向摄像机说“我一定能通关！”，笑容转为严肃表情。\n4〜7秒\n场地整体广角镜头。展示巨大的水上障碍赛道和观众席。主角站在起跑线，深呼吸准备姿势。伴随着起跑蜂鸣器同时冲刺而出。解说喊“好了，比赛正式开始！”\n\n7〜13秒\n第一障碍是水上排列的旋转滚筒。主角用力踏入，用手臂保持平衡连续通过。横向追踪摄像机、正面固定摄像机、脚部的短特写，以电视转播风格切换。一度轻微失去平衡，但立刻稳住，成功着陆到最后的立足点。解说喊“哎呀危险，但她稳住了！”\n13〜19秒\n第二障碍是多条悬挂绳索。主角凭借奔跑的冲势用双手抓住第一条绳索，荡动身体转移到下一条绳索。真实表现手臂的负荷、绳索的张力、着陆时的冲击、呼吸的急促。摄像机以能看到整个障碍的拉镜头为主，插入短暂捕捉严肃表情的半身特写。\n\n19〜25秒\n第三障碍是急角度向上弯曲的墙壁。主角助跑爬上墙壁，但第一次未能抵达顶端而滑落。安全垫上着陆后，立刻起身挑战第二次。第二次更用力踏入，用双手抓住顶端拼命攀爬。摄像机自然切换墙壁整体的正面固定镜头、顶端俯视镜头、痛苦表情的特写。解说喊“这里是最大的难关！”\n25〜30秒\n主角全力通过最后的狭窄立足点，以正常速度跳过最后的间隙，着陆到终点台。尽管摇晃但还是按下红色的终点按钮。蜂鸣器和大欢呼响起，计时器在仅剩一点时间时停止。主角喘着肩息转为笑容，以女性化的动作小跳着欢呼“成功了！”最后以电视节目风格的广角镜头，拍摄主角和整个赛道结束。\n\n影像表现\n再现如同真实中国电视节目拍摄般的自然曝光、现实照明、广播用摄像机特有的影像、自然景深、现场音效、欢呼声、解说声、脚步声、着陆声、水花声、粗重的喘息。编辑时始终保持竞技位置关系清晰。所有动作均为正常速度。禁止慢动作、速度增强、时间停止。主角介绍时突出胸口印象。",
+      "created_at": "Tue Aug 04 04:38:38 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 1,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "10441",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084497984272945152/img/ebgYRCLVmkSZ8oIK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084499224969003400"
+    },
+    {
+      "id": "2084478888915468757",
+      "text": "😂Omni Flash为什么这么喜欢给人物加仓鼠门牙？\n\n测了一下口播效果，除了牙齿之外，真的很自然，但可惜就是生成不了中文口播，不然接到自动化视频工作流里，直接无敌 https://t.co/fBOxXEr1PS",
+      "created_at": "Tue Aug 04 03:17:49 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "2942",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO2NLEjacAI7aNE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084478888915468757"
+    },
+    {
+      "id": "2084464654458454237",
+      "text": "telegram电报被苹果下架了，这是掀桌子不让玩了？ https://t.co/u8RSnruH4U",
+      "created_at": "Tue Aug 04 02:21:15 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1415",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO2BaeAa4AAaveM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084464654458454237"
+    },
+    {
+      "id": "2084459744094453958",
+      "text": "谁工作不是为了薪水？(黑人问号脸)",
+      "created_at": "Tue Aug 04 02:01:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1663",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084459744094453958"
+    },
     {
       "id": "2084256675566149775",
       "text": "FDE搞起来，搞啥OPC",
       "created_at": "Mon Aug 03 12:34:49 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
-      "reply_count": 1,
+      "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "413",
+      "views": "1397",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -37,11 +1777,11 @@
       "text": "RT @Hailuo_AI: An open-weight video model, built for the community and verified to run on GPUs including the RTX 5090 and RTX 6000.\n\nFrom t…",
       "created_at": "Mon Aug 03 10:18:31 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 48,
+      "retweet_count": 68,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "83",
+      "views": "100",
       "lang": "en",
       "is_retweet": true,
       "is_quote": true,
@@ -57,7 +1797,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "854",
+      "views": "2056",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -85,12 +1825,12 @@
       "id": "2083519891249000471",
       "text": "烟火在她的眼睛里缓缓绽开，浅色浴衣收住了夏夜的风。\n河岸的灯光，也替这一晚留下温柔余韵。🎆✨\n#webtomind #AI写真 #夏日烟火大会\n\n【GPT Image2提示词】\n\n主题：\n烟火落进她的眼睛\n\n主体：\n根据附带的角色参考图，生成4张独立的9:16竖版连续写真，不要拼图或四宫格。同一位成年女性穿着同一套浅色少女系日式浴衣，在日本夏日河岸烟火大会中度过一个完整夜晚。\n4张照片依次表现：抵达河岸、仰望烟火、祭典摊位购买弹珠汽水、河边玩线香花火。严格保持人物脸部、发型、体型、浴衣、腰带、发饰和随身小包一致，只改变符合故事进程的动作、表情、景别与摄影机高度。\n\n人物・表情：\n自然清透的成年女性。柔和鹅蛋脸，清澈的深色眼睛，纤细自然的眉形，秀气鼻梁，富有光泽的粉米色嘴唇。保留现实的面部细节、轻微左右差异、自然毛孔与淡淡血色。\n妆容为清透的日系夏日妆：香槟米色与浅粉棕眼影、细长睫毛、自然卧蚕、浅玫瑰腮红和透亮唇彩。黑色长发束成低马尾，保留自然刘海和脸侧碎发，耳侧佩戴浅色绣球花发饰。\n\n第一张带着刚到祭典时的安静期待；第二张抬头仰望烟火，瞳孔中出现细小亮点；第三张拿到弹珠汽水后露出轻微惊喜的笑容；第四张神情安静柔和，带有夏夜即将结束的留恋感。\n\n服装・姿势：\n珍珠白底色的浅色少女系日式浴衣，点缀雾霾蓝、浅桃粉和淡紫色绣球花纹。衣襟完整交叠，布料不透明，腰间系浅雾蓝色宽幅腰带，背后形成整洁的蝴蝶结。搭配白色木屐、浅色小手袋和小型花朵耳饰。\n第一张，人物沿河岸祭典小路缓慢行走，被朋友叫住后自然停下并转向镜头，衣袖与发丝保留轻微行走动势。\n\n第二张，人物站在河堤边抬头看向烟火，一只手自然停在额前附近，浴衣袖口被夏夜微风轻轻扬起。\n\n第三张，人物站在祭典饮料摊位前，手中只拿一瓶清晰完整的蓝绿色玻璃弹珠汽水，刚从摊位方向转回看向镜头。\n\n第四张，人物在河岸石阶自然侧坐或蹲坐，低头看着一支线香花火，随后轻轻抬眼望向镜头。每张照片只保留一个清楚的主要动作，不叠加复杂手势。\n背景・光线：\n真实的日本夏日河岸烟火大会。河堤石阶、灯笼摊位、远处虚化的人群、祭典暖灯、深蓝夜空、河面反射和轻微夏夜薄雾共同形成连续环境。背景人物仅作为模糊的生活信息，不出现其他主要角色。\n\n第一张以灯笼暖光和刚刚升起的远处烟火建立场景；第二张以深蓝夜空和盛放的烟火衬托人物轮廓；第三张混合摊位灯光、冰桶、木质柜台与饮料玻璃反射；第四张由线香花火照亮指尖、脸颊与浴衣袖口，远处烟火和河面灯光形成柔和散景。\n\n烟火彩光只在发丝、浴衣边缘和环境中形成克制的反射，不让彩色光斑覆盖人物脸部。人物、服装与背景保持一致的光线方向和色温。\n\n构图・镜头：\n纵向9:16。4张照片的镜头变化服从故事进程，不做机械随机。\n\n第一张使用接近腰部高度的50mm全身环境肖像，交代人物、服装和祭典空间。\n\n第二张从河堤较低处轻微仰拍，采用半身至膝上的构图，让人物和烟火共同进入画面。\n第三张使用略低于视线的近距离手机抓拍，采用腰部以上构图，前景可以出现虚化的摊位帘布或灯笼边缘。\n\n第四张使用稍高机位的亲密中景，人物位于河岸石阶中央，线香花火处于画面下方，不遮挡脸部。\n\n焦点始终优先落在人物的眼睛与脸部。保留轻微手持倾斜、不完美裁切和自然动态模糊，使整组照片像同一位朋友在一个晚上连续拍摄。\n\n质感・风格：\n真实的夏日SNS连续写真。融合智能手机和小型数码相机的自然质感，带有轻微夜间噪点、适量压缩感、柔和高光和不过度锐化的皮肤细节。\n主色为珍珠白、雾霾蓝、浅桃粉、灯笼琥珀色和夜空深蓝色。细腻描绘浴衣织纹、腰带结构、玻璃弹珠汽水、木屐、发丝、烟火反射与河面波纹。整体清新、亲密、浪漫，像真正保存在手机相册中的夏日烟火大会。\n\n负面提示：\n身份漂移、不同人物、脸型变化、年龄变化、发型变化、浴衣颜色或纹样变化、腰带结构变化、现代连衣裙、古代发冠、额头花纹、拼图、四宫格、多分镜、重复人物、男性角色、情侣构图、摄影棚、商业广告摆拍、夸张动漫表情、塑料皮肤、过度磨皮、彩色光斑覆盖脸部、烟火遮脸、复杂手势、手部特写、多余手指、融合手指、重复饮料瓶、乱码文字、真实品牌标志、水印、重复签名。\n\nhttps://t.co/h4jHEtwVKe",
       "created_at": "Sat Aug 01 11:47:06 +0000 2026",
-      "favorite_count": 6,
+      "favorite_count": 9,
       "retweet_count": 0,
       "reply_count": 4,
       "quote_count": 1,
-      "bookmark_count": 1,
-      "views": "4455",
+      "bookmark_count": 7,
+      "views": "12747",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -112,19 +1852,18 @@
           "url": "https://pbs.twimg.com/media/HOomSb9bsAAk119.jpg"
         }
       ],
-      "url": "https://x.com/i/status/2083519891249000471",
-      "pinned": true
+      "url": "https://x.com/i/status/2083519891249000471"
     },
     {
       "id": "2083177230390415828",
       "text": "闭店后的街机厅，MiniDV 没有把人拍得更完美。\n\n它留下荧光灯偏色、CRT 扫描线、拖影、轻微过曝，以及被朋友突然叫住时，那一瞬间没有准备好的表情。\n\n这次围绕同一个摄影母题，做了 4 个不同的截帧：\n\n① 娃娃机补货结束，转身关闭玻璃门\n② 跳舞机最后一曲，停在尚未平复的呼吸里\n③ 赛车游戏结束，靠进座椅短暂休息\n④ 拍贴机帘幕掀开，探头确认朋友有没有走\n不是简单更换四套衣服。\n真正变化的是照片的成立点、人物动作、机器结构、摄像机高度和空间关系。让每张图看起来都像来自同一盘 MiniDV 录像，却记录了不同的夜晚片段。\n#webtomind #GPTImage2 #女性写真\n\n【GPT Image2提示词】\n\n核心意图：\n将成年女性与不同街机设备之间的自然互动，拍成一组来自千禧年前后 MiniDV 家用录像的真实截帧。\n\n共同设定：\n纵向写真，明确成年的原创女性，真实街机厅环境。MiniDV 家用录像质感，轻微隔行扫描线、色彩溢出、暗部噪点、运动拖影和日期录像感。人物保留自然皮肤肌理与轻微不对称，不使用过度美肌，不呈现广告模特式摆拍。街机灯光作为环境光，柔和机顶补光照亮脸部，禁止随机光斑覆盖五官。\n\n画面一：\n闭店后的狭窄娃娃机通道。镜头从左上方轻微俯拍，女性刚完成补货，单手关闭娃娃机玻璃门，身体沿机器形成斜线，回头看向镜头。粉白色亮面服务制服，完整不透明的低领结构、收腰短裙和长袜。冷白机柜光与走廊暗部形成反差。\n\n画面二：\n老式跳舞机平台。镜头从腰部高度侧面跟拍，女性刚完成最后一个节拍，双脚分别稳定落在两个踏板上，身体尚未完全停止，马尾和裙摆保留轻微惯性。银蓝色舞台制服，街机屏幕和踏板灯形成蓝紫色反光，拖影只出现在发梢与背景。\n画面三：\n红黑色赛车模拟器座舱。镜头位于仪表台侧前方的低位近景，女性结束比赛后自然靠进桶形座椅，肩膀放松，转头看向摄像机。红黑赛车风制服，方向盘、仪表和座椅结构清晰，身体与设备接触关系准确，不出现穿插。\n\n画面四：\n粉色拍贴机内部。镜头靠近帘幕外侧，女性从两片粉色塑料帘之间探出上半身，像刚拍完贴纸照后确认朋友是否还在。黑白蕾丝制服，双手隐藏在帘幕后方，画面重点落在眼神、微张嘴唇、帘幕包围感与近距离闪光。\n负面：\n未成年感，幼态脸，过度磨皮，塑料肌肤，随机面部光斑，完美商业广告，现代高清电影机质感，人物悬浮，设备与身体穿插，方向盘变形，错误踏板落点，前景肢体异常放大，多余手指，重复肢体，乱码文字，真实品牌标志，水印。\n\nhttps://t.co/h4jHEtwVKe",
       "created_at": "Fri Jul 31 13:05:29 +0000 2026",
-      "favorite_count": 11,
+      "favorite_count": 16,
       "retweet_count": 0,
       "reply_count": 9,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "5017",
+      "views": "11065",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -157,7 +1896,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1031",
+      "views": "1579",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -173,7 +1912,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "962",
+      "views": "1456",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -184,12 +1923,12 @@
       "id": "2082660894266569186",
       "text": "WebtoMind的近期更新\n\n1.重构了可视化配方的交互，收到了输入框当中，变成一个可选功能，各个配方卡片变成了列表的形式，更加简洁和易于管理\n2.重构了图像创作页和视频创作页，并且正式接入了seedance 2.0，可以生成视频啦😆\n3.上线了情绪版功能，以及重构了灵感页(重度致敬krea)\n4.优化各个页面的设计语言\n\n感谢金主爸爸们的支持，接下来准备接入更多的实用模型，敬请期待\n\nhttps://t.co/h4jHEtwVKe",
       "created_at": "Thu Jul 30 02:53:45 +0000 2026",
-      "favorite_count": 9,
+      "favorite_count": 10,
       "retweet_count": 0,
       "reply_count": 6,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1109",
+      "views": "1567",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -222,7 +1961,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1458",
+      "views": "1914",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -238,7 +1977,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2490",
+      "views": "3194",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -253,8 +1992,8 @@
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
-      "bookmark_count": 1,
-      "views": "1939",
+      "bookmark_count": 2,
+      "views": "2339",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -266,7 +2005,7 @@
       "text": "RT @JensenHuang: For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power…",
       "created_at": "Fri Jul 24 15:06:47 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 29795,
+      "retweet_count": 29556,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -286,7 +2025,7 @@
       "reply_count": 44,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2676",
+      "views": "3036",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -327,7 +2066,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1919",
+      "views": "2263",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -339,7 +2078,7 @@
       "text": "RT @zhang_benita: As Kimi K3 launches, check out our earlier podcast interview with Yang Zhilin, founder of Kimi. We recorded it right afte…",
       "created_at": "Sat Jul 18 16:14:17 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 120,
+      "retweet_count": 118,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -355,7 +2094,7 @@
       "text": "RT @danywander: the only way to fix this problem is to let other apps using it. keeping it for camera only was a worst idea ever. https://t…",
       "created_at": "Sat Jul 18 16:10:38 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 120,
+      "retweet_count": 119,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -371,7 +2110,7 @@
       "text": "RT @tranmautritam: Your timeline is full of mockups nobody shipped. Follow these people instead:\n\n@mrblackstudio\n@kvnkld\n@MarkKnd\n@sorenbla…",
       "created_at": "Sat Jul 18 16:05:00 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 12,
+      "retweet_count": 13,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -386,12 +2125,12 @@
       "id": "2077954167348613620",
       "text": "拓展了更多的超现实场景，以及发型、服装等样本，服装的材质也支持自定义了\n\nhttps://t.co/8AozMbrkAN https://t.co/yXDdd7gcPn",
       "created_at": "Fri Jul 17 03:10:54 +0000 2026",
-      "favorite_count": 12,
+      "favorite_count": 10,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "3194",
+      "views": "3592",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -416,7 +2155,7 @@
       "reply_count": 3,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "5777",
+      "views": "6623",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -441,7 +2180,7 @@
       "reply_count": 23,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "2103",
+      "views": "2383",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -457,7 +2196,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1982",
+      "views": "2204",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -473,7 +2212,7 @@
       "reply_count": 7,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1955",
+      "views": "2216",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -489,7 +2228,7 @@
       "reply_count": 3,
       "quote_count": 1,
       "bookmark_count": 6,
-      "views": "4906",
+      "views": "5617",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -509,12 +2248,12 @@
       "id": "2077080691331019156",
       "text": "随机出来的80年代配方，生成的照片效果真的很有年代感，而且也跟各个配方一一对应\n\nhttps://t.co/8AozMbrkAN https://t.co/13ryChry5q",
       "created_at": "Tue Jul 14 17:20:01 +0000 2026",
-      "favorite_count": 3,
+      "favorite_count": 2,
       "retweet_count": 1,
       "reply_count": 3,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "4548",
+      "views": "5190",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -535,7 +2274,7 @@
       "reply_count": 22,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2041",
+      "views": "2268",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -551,7 +2290,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2141",
+      "views": "2357",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -567,7 +2306,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1510",
+      "views": "1713",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -578,12 +2317,12 @@
       "id": "2076950277090079147",
       "text": "午后花枝环绕的明式庭院回廊\n宋代雨夜木质闺房\n唐代珍珠帘软榻\n盛夏午后的宅院冰窖\n\nhttps://t.co/8AozMbrkAN https://t.co/va5Hpw62kt",
       "created_at": "Tue Jul 14 08:41:48 +0000 2026",
-      "favorite_count": 6,
+      "favorite_count": 8,
       "retweet_count": 1,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "1342",
+      "views": "1577",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -616,7 +2355,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1605",
+      "views": "1798",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -641,7 +2380,7 @@
       "reply_count": 20,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1555",
+      "views": "1722",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -657,7 +2396,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1616",
+      "views": "1754",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -668,12 +2407,12 @@
       "id": "2076831346912284798",
       "text": "更新一下，左侧导航现在可以主动收起了，收集到了一些反馈，大幅优化了各个配方之间的搭配逻辑，让最后组合出来的提示词更加符合美学逻辑，接下来会尝试优化一下配方卡片的展示方式，思考一下有没有更加优雅的设计样式\n\nhttps://t.co/8AozMbrkAN https://t.co/Euq8gHOOQe",
       "created_at": "Tue Jul 14 00:49:13 +0000 2026",
-      "favorite_count": 9,
+      "favorite_count": 8,
       "retweet_count": 1,
       "reply_count": 4,
       "quote_count": 1,
       "bookmark_count": 4,
-      "views": "6932",
+      "views": "7742",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
