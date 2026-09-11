@@ -7,15 +7,278 @@
     "nickname": "XiuerOld",
     "profile_url": "https://vibeloft.ai/profile/xiuerold"
   },
-  "generated_at": "2026-08-03T23:01:54.769900Z",
+  "generated_at": "2026-09-11T09:00:09.257615Z",
   "stats": {
-    "tweet_count": 114,
-    "latest_tweet_created_at": "2026-08-03T10:22:17Z",
-    "latest_tweet_id": "2084223321126953356",
+    "tweet_count": 127,
+    "latest_tweet_created_at": "2026-09-11T02:35:35Z",
+    "latest_tweet_id": "2098239001111179580",
     "oldest_tweet_created_at": "2014-01-24T12:20:56Z",
     "oldest_tweet_id": "426691081695010816"
   },
   "tweets": [
+    {
+      "id": "2098239001111179580",
+      "text": "Classic https://t.co/Uk3IIzrdIA",
+      "created_at": "Fri Sep 11 02:35:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "14",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097978522841047046/img/9slvqX7lrs6UJ-19.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098239001111179580"
+    },
+    {
+      "id": "2098015672299409748",
+      "text": "https://t.co/CB0xJgUXlO",
+      "created_at": "Thu Sep 10 11:48:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "18",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2mHxVaAAAwm17.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098015672299409748"
+    },
+    {
+      "id": "2097638906703540440",
+      "text": "https://t.co/R1zbmtueWY",
+      "created_at": "Wed Sep 09 10:51:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxPZ1wbAAAESEP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097638906703540440"
+    },
+    {
+      "id": "2095323782747668924",
+      "text": "I am sorry. @nealagarwal https://t.co/TOSySzZw3k",
+      "created_at": "Thu Sep 03 01:31:33 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "34",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRQVxtLbwAAnwKf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095323782747668924"
+    },
+    {
+      "id": "2094957932609933789",
+      "text": "Finally, the Dyson Sphere has been completed.🫡 #Dyson https://t.co/yAy527k1uM",
+      "created_at": "Wed Sep 02 01:17:48 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "25",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRLIy7Ba0AAuYED.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2094957932609933789"
+    },
+    {
+      "id": "2090379360603865176",
+      "text": "Firefox what did you find out? @firefox @elonmusk https://t.co/6gK6JWy8MW",
+      "created_at": "Thu Aug 20 10:04:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQKE8ReaMAAazPu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090379360603865176"
+    },
+    {
+      "id": "2090027554627539107",
+      "text": "https://t.co/Z62d0Xm0pP",
+      "created_at": "Wed Aug 19 10:46:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "44",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQFE-MXbAAAHZ2k.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090027554627539107"
+    },
+    {
+      "id": "2089666451238219801",
+      "text": "https://t.co/iRF6NsSzx2",
+      "created_at": "Tue Aug 18 10:51:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "42",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP_8jMybMAArpZO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089666451238219801"
+    },
+    {
+      "id": "2087490296989008104",
+      "text": "https://t.co/J1Z74j2JPK",
+      "created_at": "Wed Aug 12 10:44:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "30",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPhBWbdaIAAutUa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087490296989008104"
+    },
+    {
+      "id": "2087127843721683410",
+      "text": "https://t.co/u3l9shf0EZ",
+      "created_at": "Tue Aug 11 10:43:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "52",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPb3s79bsAAY_Sz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087127843721683410"
+    },
+    {
+      "id": "2087102278985818225",
+      "text": "有没有ChatGPT Trends?",
+      "created_at": "Tue Aug 11 09:02:14 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "81",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087102278985818225"
+    },
+    {
+      "id": "2085319061270106309",
+      "text": "https://t.co/yUKngWtfnH",
+      "created_at": "Thu Aug 06 10:56:22 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "44",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPCKkm7a8AEudOJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085319061270106309"
+    },
+    {
+      "id": "2084840301773103294",
+      "text": "I just reserved my Cloudflare Wallet tag: https://t.co/nA5IBXjqyH.\n\nReserve yours now at https://t.co/EoIjB3Z7No",
+      "created_at": "Wed Aug 05 03:13:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "34",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084840301773103294"
+    },
     {
       "id": "2084223321126953356",
       "text": "What is he doing? https://t.co/2s2RrZGJum",
@@ -25,7 +288,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "18",
+      "views": "38",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +309,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "38",
+      "views": "49",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +330,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "89",
+      "views": "98",
       "lang": "sv",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +351,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "81",
+      "views": "87",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -104,7 +367,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "106",
+      "views": "112",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -120,7 +383,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "106",
+      "views": "110",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +404,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "107",
+      "views": "111",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -162,7 +425,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "63",
+      "views": "65",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +441,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "39",
+      "views": "40",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -199,7 +462,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "32",
+      "views": "33",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +478,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "92",
+      "views": "93",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -231,7 +494,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "107",
+      "views": "108",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -247,7 +510,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "136",
+      "views": "137",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -268,7 +531,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "200",
+      "views": "201",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -289,7 +552,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "69",
+      "views": "70",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -310,7 +573,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "52",
+      "views": "53",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -331,7 +594,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "53",
+      "views": "54",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -347,7 +610,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "55",
+      "views": "56",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -368,7 +631,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "52",
+      "views": "53",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -384,7 +647,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "36",
+      "views": "37",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -400,7 +663,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "50",
+      "views": "51",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -416,7 +679,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "42",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -432,7 +695,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "46",
+      "views": "47",
       "lang": "und",
       "is_retweet": false,
       "is_quote": false,
@@ -448,7 +711,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "46",
+      "views": "47",
       "lang": "qst",
       "is_retweet": false,
       "is_quote": true,
@@ -464,7 +727,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "33",
+      "views": "34",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,

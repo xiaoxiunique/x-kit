@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:00:11.970029Z",
+  "generated_at": "2026-09-11T09:00:09.269917Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1018,7 +1018,7 @@
       "oldest_tweet_id": "1969010345097281913"
     },
     "ghostca16861041": {
-      "status": "completed",
+      "status": "failed",
       "twitter_url": "https://x.com/GhostCa16861041",
       "twitter_rest_id": "1340168885329260546",
       "vibeloft_username": "louis",
@@ -1028,10 +1028,10 @@
       "data_file": "data/user_tweets/vibeloft/ghostca16861041.json",
       "stop_on_existing": true,
       "handle": "GhostCa16861041",
-      "updated_at": "2026-08-03T22:01:55.717988Z",
+      "updated_at": "2026-09-11T09:00:05.217837Z",
       "paused_at": "2026-07-22T15:01:26.145722Z",
-      "history_complete": true,
-      "error": "",
+      "history_complete": false,
+      "error": "user_not_found_or_inaccessible",
       "completed_at": "2026-08-03T22:01:55.716543Z",
       "completed_at_local": "2026-08-04T06:01:55.716565+08:00",
       "pages_collected_total": 2,
@@ -1041,7 +1041,8 @@
       "latest_tweet_created_at": "2026-08-01T04:38:51Z",
       "latest_tweet_id": "2083412120012722618",
       "oldest_tweet_created_at": "2022-08-27T08:15:33Z",
-      "oldest_tweet_id": "1563440064352636928"
+      "oldest_tweet_id": "1563440064352636928",
+      "failed_at": "2026-09-11T09:00:05.216999Z"
     },
     "xiuerold": {
       "status": "completed",
@@ -1050,21 +1051,21 @@
       "vibeloft_username": "xiuerold",
       "vibeloft_nickname": "XiuerOld",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/xiuerold",
-      "started_at": "2026-08-03T23:00:38.523282Z",
+      "started_at": "2026-09-11T09:00:05.617249Z",
       "data_file": "data/user_tweets/vibeloft/xiuerold.json",
       "stop_on_existing": true,
       "handle": "xiuerold",
-      "updated_at": "2026-08-03T23:01:54.788855Z",
-      "completed_at": "2026-08-03T23:01:54.786365Z",
-      "completed_at_local": "2026-08-04T07:01:54.786401+08:00",
+      "updated_at": "2026-09-11T09:00:09.269907Z",
+      "completed_at": "2026-09-11T09:00:09.267698Z",
+      "completed_at_local": "2026-09-11T17:00:09.267705+08:00",
       "history_complete": true,
       "pages_collected_total": 2,
-      "new_tweets_last_run": 1,
+      "new_tweets_last_run": 13,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
-      "tweet_count": 114,
-      "latest_tweet_created_at": "2026-08-03T10:22:17Z",
-      "latest_tweet_id": "2084223321126953356",
+      "tweet_count": 127,
+      "latest_tweet_created_at": "2026-09-11T02:35:35Z",
+      "latest_tweet_id": "2098239001111179580",
       "oldest_tweet_created_at": "2014-01-24T12:20:56Z",
       "oldest_tweet_id": "426691081695010816"
     },
