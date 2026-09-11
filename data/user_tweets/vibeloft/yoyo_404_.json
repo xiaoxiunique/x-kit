@@ -7,15 +7,1824 @@
     "nickname": "Sameral",
     "profile_url": "https://vibeloft.ai/profile/sameral"
   },
-  "generated_at": "2026-08-04T01:01:56.947748Z",
+  "generated_at": "2026-09-11T11:00:25.865921Z",
   "stats": {
-    "tweet_count": 650,
-    "latest_tweet_created_at": "2026-08-03T15:45:51Z",
-    "latest_tweet_id": "2084304748497486081",
+    "tweet_count": 747,
+    "latest_tweet_created_at": "2026-09-11T02:38:48Z",
+    "latest_tweet_id": "2098239809072529706",
     "oldest_tweet_created_at": "2025-10-27T14:07:21Z",
     "oldest_tweet_id": "1982811357259944267"
   },
   "tweets": [
+    {
+      "id": "2098239809072529706",
+      "text": "公司什么时候能除了一顿餐补，再加一顿咖啡补贴呢？😭 https://t.co/v0IcGnqGKn",
+      "created_at": "Fri Sep 11 02:38:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "56",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR5x9-FbwAA0NRG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098239809072529706"
+    },
+    {
+      "id": "2098237728328753303",
+      "text": "卧槽又打到了 model y\n后排座椅真的梆硬 https://t.co/f2m7IzOgVv",
+      "created_at": "Fri Sep 11 02:30:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "43",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR5wFA-aYAAcdf6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098237728328753303"
+    },
+    {
+      "id": "2098111396001231359",
+      "text": "OpenAI 急需推出一个能窜稀一样的 Flash 模型",
+      "created_at": "Thu Sep 10 18:08:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "51",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098111396001231359"
+    },
+    {
+      "id": "2098102724567187761",
+      "text": "SPY 衍生剧？ https://t.co/xdZf57ZRd5",
+      "created_at": "Thu Sep 10 17:34:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR31TfwaAAAIq4W.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098102724567187761"
+    },
+    {
+      "id": "2098100689822241239",
+      "text": "持续使用了一周 Cursor，核心用的模型是 Grok4.6High Fast。Cursor 显示我只使用了3.68亿 Token，但月度额度已经消耗了17%\n倒推下来，一个月也就20亿出头的 Token\n\n怎么比想象中的少很多呢\n是 Grok4.6 High Fast 太贵了吗？ https://t.co/reMQaZ9Uvp",
+      "created_at": "Thu Sep 10 17:25:59 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "112",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR3zczlaQAA5Okk.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR3zdOiboAA5Wuq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098100689822241239"
+    },
+    {
+      "id": "2098062605365715176",
+      "text": "这几天我发现，AI 有一个很大的帮助是：有时候我在处理一件事，或者准备交付一件事。这个事情我让 AI 去做，但得等一会儿。\n\n手上又有很多别的事情，我可能就忘了。现在我会跟 AI 说：这个事情搞完之后发给谁谁谁，这样就不怕忘了😂",
+      "created_at": "Thu Sep 10 14:54:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "63",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098062605365715176"
+    },
+    {
+      "id": "2097878768161619993",
+      "text": "直接开始弹窗了！\n我又开通不了！ https://t.co/uyIRLUPaY7",
+      "created_at": "Thu Sep 10 02:44:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "68",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR0pnk7bsAAg3pv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097878768161619993"
+    },
+    {
+      "id": "2097733006358385133",
+      "text": "开始听课了 https://t.co/sNkCrp4J38",
+      "created_at": "Wed Sep 09 17:04:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "55",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097732971021451264/img/3_0mPYfafxWgCqZP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097733006358385133"
+    },
+    {
+      "id": "2097559031296721374",
+      "text": "codex 的 remote 又又又丝滑起来了",
+      "created_at": "Wed Sep 09 05:33:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "75",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097559031296721374"
+    },
+    {
+      "id": "2097185166045417755",
+      "text": "吃了一顿资本主义快餐 https://t.co/A3EQExkiC1",
+      "created_at": "Tue Sep 08 04:48:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "81",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRqyyX-aAAAfpgz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097185166045417755"
+    },
+    {
+      "id": "2097184184888648028",
+      "text": "RT @yihong0618: DeepSeek 这次招聘是如何把只招 35 岁以下写的清新脱俗呢？\n：重点面向 2-10 年资深工程师",
+      "created_at": "Tue Sep 08 04:44:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 26,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097184184888648028"
+    },
+    {
+      "id": "2097177210990026896",
+      "text": "完蛋了\n我的 codex 20 额度缩水了！",
+      "created_at": "Tue Sep 08 04:16:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "102",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097177210990026896"
+    },
+    {
+      "id": "2096917032902283554",
+      "text": "一开始我以为grok 4.6 连这么简单的mermaid图都画不好\n后来才发现是cursor渲染的问题...\n不至于啊阿瑟 @cursor_ai https://t.co/do6jagY4UX",
+      "created_at": "Mon Sep 07 11:02:34 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "111",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRm-vMsaIAAnhYG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096917032902283554"
+    },
+    {
+      "id": "2096796841275019424",
+      "text": "gpt-6的terra和luna版本啥时候来呢\n@thsottiaux",
+      "created_at": "Mon Sep 07 03:04:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "95",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096796841275019424"
+    },
+    {
+      "id": "2096301418248609839",
+      "text": "我刚发现从GPT6开始\nCursor就无法使用OpenAI的新模型了\n断供虽然要到11月份\n但现在新模型也不给用",
+      "created_at": "Sat Sep 05 18:16:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "130",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096301418248609839"
+    },
+    {
+      "id": "2096298586413908101",
+      "text": "从上个月开始订阅200美金的Codex套餐 上个月整月只用了1000多美金的额度 这个月努努力用回本😎 https://t.co/HBD74dABVg",
+      "created_at": "Sat Sep 05 18:05:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "210",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HReMLtQaoAAZiW4.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2096298586413908101"
+    },
+    {
+      "id": "2096221756910608665",
+      "text": "Telegram我真的用了很多年\n竟然攒了有五百个群了😂 https://t.co/ymf3fcL4R1",
+      "created_at": "Sat Sep 05 12:59:47 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "595",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdGgZDaAAApAN9.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2096221756910608665"
+    },
+    {
+      "id": "2095954130573705301",
+      "text": "刚想去睡觉\n困得不行了\ngpt-6-astra它就来了... https://t.co/AlloLN4c5H",
+      "created_at": "Fri Sep 04 19:16:20 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "538",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRZTFytbwAAqt9q.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095954130573705301"
+    },
+    {
+      "id": "2095937853310247333",
+      "text": "自从家里换了个路由器\n上网体验着实提升了一大截🚀 https://t.co/0vxdqOwLtt",
+      "created_at": "Fri Sep 04 18:11:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "90",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRZEXesaIAAbff1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095937853310247333"
+    },
+    {
+      "id": "2095730566910050778",
+      "text": "是错觉吗\n感觉 codex 的 remote 变得丝滑了一些🤔",
+      "created_at": "Fri Sep 04 04:27:58 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "352",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095730566910050778"
+    },
+    {
+      "id": "2095715824963351000",
+      "text": "新的Codex reset 额度到账了\n这得赶紧用了哇 https://t.co/pTF43WaWmk",
+      "created_at": "Fri Sep 04 03:29:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "219",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRV6YLdakAA2iXX.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095715824963351000"
+    },
+    {
+      "id": "2095573560089805182",
+      "text": "sub2api终于正式支持 Codex 的 fast 模式了\n🚀 https://t.co/CM0fE2MzCs",
+      "created_at": "Thu Sep 03 18:04:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "123",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRT5CzkawAAiYo6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095573560089805182"
+    },
+    {
+      "id": "2095570897897926785",
+      "text": "让我们看看这个时段，GLM5.3Flash 的 token 速度会慢到什么样吧。🤦",
+      "created_at": "Thu Sep 03 17:53:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "115",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095570897897926785"
+    },
+    {
+      "id": "2095561891146076524",
+      "text": "想起来，昨天面了5个校招生，全部都是双一流高校的。怎么说呢？哪些人是在混实习经验，哪些人是真的在大厂里学习和干活，还是很容易分辨出来的。",
+      "created_at": "Thu Sep 03 17:17:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "71",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095561891146076524"
+    },
+    {
+      "id": "2095530104038564260",
+      "text": "这样故障的嘛？ https://t.co/pxND5FbMJ7",
+      "created_at": "Thu Sep 03 15:11:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "76",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRTRfAebUAEmu4J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095530104038564260"
+    },
+    {
+      "id": "2095509446910996633",
+      "text": "GPT6 今天还来吗",
+      "created_at": "Thu Sep 03 13:49:19 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "278",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095509446910996633"
+    },
+    {
+      "id": "2095497304488935793",
+      "text": "我勒个去了 我让 Grok4.6 帮我安装个豆包输入法 然后就这样了。。。 https://t.co/tZepN6cHqq",
+      "created_at": "Thu Sep 03 13:01:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "175",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRSznEKbgAAo_8_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095497304488935793"
+    },
+    {
+      "id": "2095479843618160699",
+      "text": "搞了一天的校招面试\n候选人学历都太高了...",
+      "created_at": "Thu Sep 03 11:51:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "91",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095479843618160699"
+    },
+    {
+      "id": "2095458058231328979",
+      "text": "。。。 https://t.co/Mxh5CzXgf3",
+      "created_at": "Thu Sep 03 10:25:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "72",
+      "lang": "und",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRSP_wJbEAAvGPK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095458058231328979"
+    },
+    {
+      "id": "2095203541388558712",
+      "text": "强如 grok bot\n操作浏览器的时候依然也是慢的惊人🤣",
+      "created_at": "Wed Sep 02 17:33:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "86",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095203541388558712"
+    },
+    {
+      "id": "2095179669771542990",
+      "text": "RT @benjitaylor: Grok Bot: now on Android! https://t.co/I3azvKqL1e",
+      "created_at": "Wed Sep 02 15:58:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 29,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095168443591090176/img/AelpW2V4CixHYLxk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095179669771542990"
+    },
+    {
+      "id": "2095159046894756264",
+      "text": "我想了一天Grok bot\n还是没想好能拿来干嘛\n🤡",
+      "created_at": "Wed Sep 02 14:36:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "84",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095159046894756264"
+    },
+    {
+      "id": "2095067137274720693",
+      "text": "换了台电脑用\n有幸再一次看到这离奇的安装界面... https://t.co/F3KJLlroVR",
+      "created_at": "Wed Sep 02 08:31:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "148",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRMsUagbgAAwE-8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095067137274720693"
+    },
+    {
+      "id": "2094840895871054280",
+      "text": "gpt-5.6-terra开启1M超长上下文后\n输入输出价格翻倍\n缓存读取费用更是翻几十倍\n用起来比5.6-sol都贵好多😂 https://t.co/tAXEbpumcz",
+      "created_at": "Tue Sep 01 17:32:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "115",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRJeDVYaYAA-nDj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094840895871054280"
+    },
+    {
+      "id": "2094804455695020346",
+      "text": "codex 20x 自动扣款成功 https://t.co/Cp5vJigZr8",
+      "created_at": "Tue Sep 01 15:07:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "61",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRI9jBqacAAaGvV.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094804455695020346"
+    },
+    {
+      "id": "2094671290720567452",
+      "text": "从周五开始就一直在用gpt-5.6 sol ultra模式\n额度消耗速度肉眼可见的快了😆 https://t.co/20DmcRbx4L",
+      "created_at": "Tue Sep 01 06:18:47 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "92",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRHES0NbEAARJPn.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2094671290720567452"
+    },
+    {
+      "id": "2094667696558485672",
+      "text": "忽然发现cursor的手机号验证可以使用Google voice了\n之前是不可以的... https://t.co/OYLrTSIYBo",
+      "created_at": "Tue Sep 01 06:04:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "137",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRHBGF1bIAALrhZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094667696558485672"
+    },
+    {
+      "id": "2094492946251002067",
+      "text": "X现在刷起来最难受的是，太多人为了流量喜欢意淫内容。\n\n比如我刚刷到好几个帖，都说孙宇晨现在应该后悔发景甜那个帖子了，因为里外不是人，很多人在骂他……\n\n先不说有没有洗稿嫌疑，孙宇晨是他妈什么人？他干过多少缺德事，有哪件后悔过？太鸡巴能扯了🤷",
+      "created_at": "Mon Aug 31 18:30:06 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "217",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094492946251002067"
+    },
+    {
+      "id": "2094104605882032592",
+      "text": "刚发现豆包输入法的剪贴板同步也来了 https://t.co/LsHfTT13NP",
+      "created_at": "Sun Aug 30 16:46:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "117",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ_BCdpbgAEv3Jp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094104605882032592"
+    },
+    {
+      "id": "2093765585859731576",
+      "text": "每次都是我周额度使用刚 10% 左右codex又要重置了😵‍💫",
+      "created_at": "Sat Aug 29 18:19:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "158",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093765585859731576"
+    },
+    {
+      "id": "2093275274750439753",
+      "text": "时代真的变了 以前都说“百度一下你就知道” 刚刚我在卫生间听到个大哥跟别人说：“你豆包一下就知道了 ”🤡",
+      "created_at": "Fri Aug 28 09:51:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "118",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093275274750439753"
+    },
+    {
+      "id": "2093229568991932663",
+      "text": "好用👍 #ChatGPT https://t.co/2tFw9yOm2w",
+      "created_at": "Fri Aug 28 06:49:54 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "120",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQylMFGbsAAedC-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093229568991932663"
+    },
+    {
+      "id": "2093021152813994095",
+      "text": "糟糕，codex 又重置了",
+      "created_at": "Thu Aug 27 17:01:43 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "127",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093021152813994095"
+    },
+    {
+      "id": "2092974702885261418",
+      "text": "好家伙 5U开了半年x premium😮 https://t.co/MQKE9dTT84",
+      "created_at": "Thu Aug 27 13:57:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "98",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQu9U0VbEAAsiYL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092974702885261418"
+    },
+    {
+      "id": "2092791627102535910",
+      "text": "成都的滴滴司机还是心急啊\n我住酒店 24 楼等电梯的功夫\n刚跑到门外都看到他车了\n结果他碰巧也取消了我的订单\n😇",
+      "created_at": "Thu Aug 27 01:49:40 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 23,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "241",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092791627102535910"
+    },
+    {
+      "id": "2092674692859802076",
+      "text": "这几天深度使用GPT5.6 感觉还不错啊\nClaude发新模型之前可能不会再订阅了\n\n挺想订阅一个super gro heavy的，但是可惜不送Cursor ultra了。如果继续送的话，我肯定订阅上 300 美金的用一个月看看🥴",
+      "created_at": "Wed Aug 26 18:05:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "138",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092674692859802076"
+    },
+    {
+      "id": "2092667433563931108",
+      "text": "看过了\n就给 2000 积分\nGLM5.3 大概也就是 2000 万token\n\n之前还登录就送一个亿token来着\n这次的活动可以说一点诚意没有",
+      "created_at": "Wed Aug 26 17:36:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "184",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092667433563931108"
+    },
+    {
+      "id": "2092270934933807413",
+      "text": "卧槽 codex又一次重置了？？？",
+      "created_at": "Tue Aug 25 15:20:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "108",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092270934933807413"
+    },
+    {
+      "id": "2091868545806446849",
+      "text": "高强度用了得有两三年的AirPods 4 依然稳稳地帮我度过了三个小时的飞机",
+      "created_at": "Mon Aug 24 12:41:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "85",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091868545806446849"
+    },
+    {
+      "id": "2091814544024989807",
+      "text": "又又又飞成都了 https://t.co/mgRv00ABLG",
+      "created_at": "Mon Aug 24 09:07:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "75",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQeePSuakAABON6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091814544024989807"
+    },
+    {
+      "id": "2091768392487453100",
+      "text": "今天的 codex 怎么这么慢啊\n已经开 fast 模式了....",
+      "created_at": "Mon Aug 24 06:03:42 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "197",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091768392487453100"
+    },
+    {
+      "id": "2090853419615736074",
+      "text": "同一张图DeepSeek v4 flash多模态猜的驴头不对马嘴\nGPT不仅猜对外皮\n连包裹的鹅肝也猜的准确👍 https://t.co/wAIibXFYOI",
+      "created_at": "Fri Aug 21 17:27:56 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "120",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQQ0FjybgAAAphT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQQ0GEha8AA7kxD.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQQ0GgjaMAAZ0ep.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090853419615736074"
+    },
+    {
+      "id": "2090830728070340900",
+      "text": "原来wise可以直连 https://t.co/6RzhpkheZh",
+      "created_at": "Fri Aug 21 15:57:45 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "68",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQQfdwBbwAA9CP2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090830728070340900"
+    },
+    {
+      "id": "2090778878910611492",
+      "text": "我将在本月剩下的这一周多的时间里只使用Codex\n看看离开Claude 之后是否能够完全适应 如果可以的话 我下个月就不开Claude max了\n\n但是我几乎可以肯定的是，等Claude发新模型的时候，我肯定又想用🤡",
+      "created_at": "Fri Aug 21 12:31:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "80",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090778878910611492"
+    },
+    {
+      "id": "2090769780404023502",
+      "text": "RT @thsottiaux: It's me again. I come bearing great news. \n\nFirst of all, we have hit 20M active users for Codex some time this week. Secon…",
+      "created_at": "Fri Aug 21 11:55:34 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 956,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090769780404023502"
+    },
+    {
+      "id": "2090713382609707275",
+      "text": "claude max 尼区今日正式到期\ncodex20 目前额度也用不完\n在纠结是否还要继续订阅一个 claude max 了🤔",
+      "created_at": "Fri Aug 21 08:11:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "203",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090713382609707275"
+    },
+    {
+      "id": "2090661796072038773",
+      "text": "同事带我来了一家私房菜\n人均低消五百块\n不过是晚上\n中午不要求🤣 https://t.co/hQVGmhoSbh",
+      "created_at": "Fri Aug 21 04:46:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "129",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQOFyInbIAAt7ut.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090661796072038773"
+    },
+    {
+      "id": "2090513008388940224",
+      "text": "这个小盒子是我最近一年多住酒店 随身携带的最有用的东西👍 https://t.co/KjmqCG4yoC",
+      "created_at": "Thu Aug 20 18:55:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "82",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQL-fnbbsAAW2oO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090513008388940224"
+    },
+    {
+      "id": "2090126303081173107",
+      "text": "我对接的业务老板来这边一年多\n属于是非常严重的工作狂\n每天要工作到凌晨一两点\n但是性格比较直 汇报能力在上面看来就不是很好\n大概是两周前被通知将被替换\n新人即将入职🤡",
+      "created_at": "Wed Aug 19 17:18:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090126303081173107"
+    },
+    {
+      "id": "2090125670894719034",
+      "text": "嘿！给你这个链接，你可以免费体验 3 个月的 Spotify Premium。去看看吧。\nhttps://t.co/j0FEUO8fp5",
+      "created_at": "Wed Aug 19 17:16:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "73",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090125670894719034"
+    },
+    {
+      "id": "2089940823110820067",
+      "text": "我司竟然还不自己部署deepseek v4 flash\n只部署了俩glm😮‍💨",
+      "created_at": "Wed Aug 19 05:01:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "85",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089940823110820067"
+    },
+    {
+      "id": "2089774562779304395",
+      "text": "之前让GPT5.5 帮我从网络下载表情包 并自动上传到公司IM的表情包收藏夹里\n一直没有能够搞定\n\n刚刚忽然又想起来让GPT5.6 sol试了一下\n 直接打开了调试接口 找到了隐藏的上传控件并默默地完成了工作\n🐂",
+      "created_at": "Tue Aug 18 18:00:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "154",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089774562779304395"
+    },
+    {
+      "id": "2089685389296734259",
+      "text": "MacBookPro 根本不适合盒盖使用啊\n都靠扬声器和键盘散热了...",
+      "created_at": "Tue Aug 18 12:06:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "90",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089685389296734259"
+    },
+    {
+      "id": "2089545907230703628",
+      "text": "deepseek harness 的缓存命中率不错 https://t.co/IEQPsG4Ne4",
+      "created_at": "Tue Aug 18 02:52:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "107",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP-O4wqaIAAhpMw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089545907230703628"
+    },
+    {
+      "id": "2089368937691746712",
+      "text": "UU远程怎么做到的如何丝滑好用\n我大为震撼！！！",
+      "created_at": "Mon Aug 17 15:09:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "90",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089368937691746712"
+    },
+    {
+      "id": "2089347023086760422",
+      "text": "务必检查一下opencode go有没有开自动续费。 https://t.co/pznvgrNQ2y",
+      "created_at": "Mon Aug 17 13:42:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "142",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP7Z82FawAAC9V5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089347023086760422"
+    },
+    {
+      "id": "2088265307920216201",
+      "text": "5 点不到的飞机\n原计划一个半小时\n备降南京后目前还在等待复飞🥲",
+      "created_at": "Fri Aug 14 14:03:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "88",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088265307920216201"
+    },
+    {
+      "id": "2088154380302193061",
+      "text": "主力在用deepseek v4flash的一周🥲 https://t.co/OhFHZ0tQIY",
+      "created_at": "Fri Aug 14 06:42:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "100",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqdVYqaMAAYOCW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088154380302193061"
+    },
+    {
+      "id": "2088088712035111385",
+      "text": "一个 goal 任务执行了5天17小时\n使用的gpt-5.6-sol\n消耗30亿token https://t.co/v1ij7spJZJ",
+      "created_at": "Fri Aug 14 02:21:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "122",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPphdC3acAA71aj.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2088088712035111385"
+    },
+    {
+      "id": "2087962139374035232",
+      "text": "接下来DeepSeek coding plan应该就要来了吧",
+      "created_at": "Thu Aug 13 17:59:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "86",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087962139374035232"
+    },
+    {
+      "id": "2087587478568108066",
+      "text": "还要多久DeepSeek才能把多模态端出来",
+      "created_at": "Wed Aug 12 17:10:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "98",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087587478568108066"
+    },
+    {
+      "id": "2087484542114578780",
+      "text": "北京这天气预报怎么这么不准呐\n昨晚五六点的时候 公司紧急通知要下暴雨\n让大家可以提前回去 明后天也可以居家\n避免涉水 注意安全 叭叭叭讲了一堆\n\n结果今天就下了点小雨 屁大点雷声我都没听到……",
+      "created_at": "Wed Aug 12 10:21:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "128",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087484542114578780"
+    },
+    {
+      "id": "2087421113609707850",
+      "text": "OpenAI的Codex订阅额度确实蛮怪的\n我是上周订阅的codex 20\n按上周使用情况看 \n周额度大概 2000\n我周边同事都在 2300 左右 \n我还觉得我的号额度偏低呢\n\n结果这周按比例换算下来\n竟然有高达 3000 的周额度\n而同事的账号依然在 2300 左右\n\n搞不懂了🤔",
+      "created_at": "Wed Aug 12 06:09:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "171",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087421113609707850"
+    },
+    {
+      "id": "2087132232138031282",
+      "text": "自从订阅了 opencode go\n我给 deepseek 发任务都走 goal 模式了",
+      "created_at": "Tue Aug 11 11:01:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "147",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087132232138031282"
+    },
+    {
+      "id": "2087015860938617169",
+      "text": "每次去成都或北京出差 每天必喝的咖啡 https://t.co/mE5NdtCErU",
+      "created_at": "Tue Aug 11 03:18:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "108",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaR2vXb0AAMrWG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087015860938617169"
+    },
+    {
+      "id": "2086733027850482120",
+      "text": "公司内首个 DeepSeek V4 flash 0731 版本的提供商竟然是百度 https://t.co/gvRawUhAhZ",
+      "created_at": "Mon Aug 10 08:34:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "169",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPWQjSIaAAAcOSt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086733027850482120"
+    },
+    {
+      "id": "2086660798085222892",
+      "text": "买票的时候看到有wifi订的\n航旅纵横上现在还显示有wifi \n坐上来之后发现并没有😑 https://t.co/XeLDBYujhS",
+      "created_at": "Mon Aug 10 03:47:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "111",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVO55-bkAA-l1e.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086660798085222892"
+    },
+    {
+      "id": "2086427988653195478",
+      "text": "今天跑了10亿 Token的gpt-5.6 sol\n缓存命中率是不错的 https://t.co/bD4PqUVCAa",
+      "created_at": "Sun Aug 09 12:22:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "134",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPR7Lyva8AApRW4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086427988653195478"
+    },
+    {
+      "id": "2086365864400712134",
+      "text": "成都的网鱼为什么必须要有指纹才能上网啊 我指的是没带身份证的情况下\n下午出来溜了一趟 喝了杯咖啡 实在太热了 想着找个网吧待两小时 结果没录指纹 还不能上网🥲 https://t.co/g3BOc7REwb",
+      "created_at": "Sun Aug 09 08:15:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "215",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPRCrtjaQAAy1x_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086365864400712134"
+    },
+    {
+      "id": "2086348386878251037",
+      "text": "https://t.co/kMCWb5f1nQ\n\n给安卓的 Clash Meta 加了 AI 助手的功能 可以通过说话的方式编辑和修改配置文件 或者是排查问题\n\n改的比较多 几千行代码估计合不到上游了🤡",
+      "created_at": "Sun Aug 09 07:06:32 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "1579",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086348386878251037"
+    },
+    {
+      "id": "2086300322587377887",
+      "text": "Building Nexus Shell: a native SSH workspace for Apple Silicon Macs.\n\nSSH/SFTP, dual-pane files, Docker tools, live monitoring, encrypted session logs, and an optional local Agent Bridge.\n\nBasic SSH is free; new accounts get a 7-day Pro trial.\nhttps://t.co/mFwBmzqzxF",
+      "created_at": "Sun Aug 09 03:55:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "90",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086300322587377887"
+    },
+    {
+      "id": "2086046239834206496",
+      "text": "马上刷新额度了，Codex 20 是完全用不完了。昨天晚上开了个 goal 任务，跑了 21 个小时才跑了 10亿 token 关键也还没完成目标，已经是Fast模型了，5.6 sol真的太慢了呀.............. https://t.co/N2XGAjJLzL",
+      "created_at": "Sat Aug 08 11:05:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "131",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPMfviragAAFl_L.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2086046239834206496"
+    },
+    {
+      "id": "2085638170675458409",
+      "text": "卧槽 本来就很多 现在还翻倍了",
+      "created_at": "Fri Aug 07 08:04:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "138",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085638170675458409"
+    },
+    {
+      "id": "2085595048411005322",
+      "text": "我勒个豆\n我第一次收到这种报警信息😂 https://t.co/3aIaTwnyps",
+      "created_at": "Fri Aug 07 05:13:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "89",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPGFo5gagAAW0_r.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085595048411005322"
+    },
+    {
+      "id": "2085385079078162786",
+      "text": "🫡 https://t.co/HLBQL44QTV",
+      "created_at": "Thu Aug 06 15:18:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "77",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPDGpYYbkAA_q3O.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2085385079078162786"
+    },
+    {
+      "id": "2085372579997728960",
+      "text": "成都怎么到处都是老妈蹄花和老妈兔头的店\n看起来也不像连锁的😶",
+      "created_at": "Thu Aug 06 14:29:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "90",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085372579997728960"
+    },
+    {
+      "id": "2085360457892679787",
+      "text": "这两天天天有人约 6 点的会\n妈的我才想起来还没吃晚饭…",
+      "created_at": "Thu Aug 06 13:40:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "81",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085360457892679787"
+    },
+    {
+      "id": "2085048840546349232",
+      "text": "最近一周帮研发托管了5个codex 20账号\n再加上我自己的号\n最近一周竟然用了有60亿token\n但我更没想到的是，竟然还挺费流量的，我的家宽流量眼瞅着撑不满1个月了🙃",
+      "created_at": "Wed Aug 05 17:02:36 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "259",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085048840546349232"
+    },
+    {
+      "id": "2085045692624703571",
+      "text": "对小屏机党也太不友好了… https://t.co/RYQo9EWXJn",
+      "created_at": "Wed Aug 05 16:50:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO-SAR8bcAEvI6y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085045692624703571"
+    },
+    {
+      "id": "2085015573474533442",
+      "text": "跟朋友约饭\n他估计是团建喝大了\n今晚我一个人来吃串😮‍💨 https://t.co/0q80HBAOIs",
+      "created_at": "Wed Aug 05 14:50:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "48",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO92mlwbUAAXzJ0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085015573474533442"
+    },
+    {
+      "id": "2085002152246698227",
+      "text": "我的信息流里有太多的Karina和jennie\n每次刷到我都会点开看\n以至于现在太多了🤡",
+      "created_at": "Wed Aug 05 13:57:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "158",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085002152246698227"
+    },
+    {
+      "id": "2084990475967287372",
+      "text": "年中总结我觉得我给公司带来最大的贡献\n就是当所有人还在用豆包的时候\n我把 GPT/claude/claudecode 端到了所有人面前并告诉他们豆包就是屎 🫡",
+      "created_at": "Wed Aug 05 13:10:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "128",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084990475967287372"
+    },
+    {
+      "id": "2084883721149374620",
+      "text": "这是我第一次见到淘宝闪购的外卖柜 以前只见过美团的\n 柜子上这些花里胡哨的广告 非常符合淘宝的定位呢 https://t.co/bjordlAbx5",
+      "created_at": "Wed Aug 05 06:06:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "119",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO7-rzIbQAAplcO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084883721149374620"
+    },
+    {
+      "id": "2084824077827735819",
+      "text": "打的快车来的是专车😮",
+      "created_at": "Wed Aug 05 02:09:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "118",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084824077827735819"
+    },
+    {
+      "id": "2084660303955116125",
+      "text": "I just reserved my Cloudflare Wallet tag: https://t.co/OKKiSAr1tx.\n\nReserve yours now at https://t.co/OwDUP0a1JO https://t.co/c1ZysD2x5W",
+      "created_at": "Tue Aug 04 15:18:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "95",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO4zfr9aoAAEm1f.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084660303955116125"
+    },
+    {
+      "id": "2084652640273834036",
+      "text": "我的订阅在7月17号过期了，Surge的Tailscale和snell V6是7月15号正式版本支持的...\n晚两天我就用不了这俩新特性了😂 https://t.co/SYNxaSIIvS",
+      "created_at": "Tue Aug 04 14:48:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "124",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO4sU4UaEAEuDG2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084652640273834036"
+    },
+    {
+      "id": "2084634649293394252",
+      "text": "成都太古里的apple店是不是跟杭州市中心那家apple店设计有点像哇 https://t.co/FQsPxxrzBV",
+      "created_at": "Tue Aug 04 13:36:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "85",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO4cKCVaoAAqO02.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084634649293394252"
+    },
     {
       "id": "2084304748497486081",
       "text": "Snell v6 也是免费更新的吗\n我今天发现我的surge提示更新且有snell v6 可以用了",
@@ -25,7 +1834,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "47",
+      "views": "103",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +1850,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "78",
+      "views": "99",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +1871,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "64",
+      "views": "77",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +1892,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "95",
+      "views": "114",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -99,7 +1908,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "64",
+      "views": "76",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -120,7 +1929,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "100",
+      "views": "113",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +1950,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "85",
+      "views": "103",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -157,7 +1966,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "64",
+      "views": "80",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +1987,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "82",
+      "views": "92",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -199,7 +2008,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "178",
+      "views": "189",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +2024,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "367",
+      "views": "457",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -236,7 +2045,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1091",
+      "views": "1101",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -5355,12 +7164,12 @@
       "id": "2053498058550522149",
       "text": "𝕏小透明我本人\n独立开发的SSH客户端\n正在冷启动(实际上我还在改\n但这两天陆续收到了两三个付费\n让我有点惊喜又惶恐\n生怕意外改坏了让人大失所望🥲\n\nanyway～～～～\n这是我首个正式的独立开发作品\n也是独立开发者之路的首次探索\n🎉正在首发优惠\n欢迎试用和反馈🫡🫡🫡\nhttps://t.co/s4gC9K1Oqd https://t.co/lUbKa7eNhT",
       "created_at": "Sun May 10 15:31:03 +0000 2026",
-      "favorite_count": 23,
-      "retweet_count": 3,
-      "reply_count": 30,
+      "favorite_count": 25,
+      "retweet_count": 2,
+      "reply_count": 31,
       "quote_count": 1,
       "bookmark_count": 13,
-      "views": "16522",
+      "views": "16823",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
