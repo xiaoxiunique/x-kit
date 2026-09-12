@@ -7,15 +7,1154 @@
     "nickname": "kshift",
     "profile_url": "https://vibeloft.ai/profile/kshift"
   },
-  "generated_at": "2026-08-04T16:02:07.596394Z",
+  "generated_at": "2026-09-12T02:00:34.805120Z",
   "stats": {
-    "tweet_count": 706,
-    "latest_tweet_created_at": "2026-08-04T15:02:26Z",
-    "latest_tweet_id": "2084656211119763833",
+    "tweet_count": 760,
+    "latest_tweet_created_at": "2026-09-11T07:40:09Z",
+    "latest_tweet_id": "2098315647403143193",
     "oldest_tweet_created_at": "2014-07-01T05:46:32Z",
     "oldest_tweet_id": "483849113784426496"
   },
   "tweets": [
+    {
+      "id": "2098315647403143193",
+      "text": "塞进了导航站里 https://t.co/9eFqILtqG0 https://t.co/vwWPToWbu4",
+      "created_at": "Fri Sep 11 07:40:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "133",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098315545305399297/img/KvGCRH9_HS6rhUcG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098315647403143193"
+    },
+    {
+      "id": "2098238059892572185",
+      "text": "Astra 周额度用完了，就这样吧。\n🐱 https://t.co/GZYrskTVBl https://t.co/Y6gdREAvKn",
+      "created_at": "Fri Sep 11 02:31:51 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 3,
+      "reply_count": 23,
+      "quote_count": 1,
+      "bookmark_count": 12,
+      "views": "4311",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098237840677351424/img/i626rLOzCNaFAreE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098238059892572185"
+    },
+    {
+      "id": "2097957752836600009",
+      "text": "2019 年去过一次他们办公室，当时就是很典型的台湾/香港白领来开会，恶心的够呛。\n最后送了俩没人要的马克杯。 https://t.co/egaEEtYzSh",
+      "created_at": "Thu Sep 10 07:58:01 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "508",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1xEULbYAAdnWh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097957752836600009"
+    },
+    {
+      "id": "2097673146375798957",
+      "text": "不是，兄弟？ https://t.co/mxEKDs89Qe",
+      "created_at": "Wed Sep 09 13:07:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "84",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxul2gaEAAYY1G.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097673146375798957"
+    },
+    {
+      "id": "2097633240668614758",
+      "text": "书架 https://t.co/JyN3hyUB8K",
+      "created_at": "Wed Sep 09 10:28:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "120",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HRxKODpa8AAjVc2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097633240668614758"
+    },
+    {
+      "id": "2097239270948012488",
+      "text": "都已经 2026 年下半年了，就不要再搞 AI one shot 的东西了吧。",
+      "created_at": "Tue Sep 08 08:23:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "127",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097239270948012488"
+    },
+    {
+      "id": "2096497869708734471",
+      "text": "ChatGPT 网页版有 6 Pro 模型可以用了。 https://t.co/cu8ZdzbN9l",
+      "created_at": "Sun Sep 06 07:16:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "164",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRhBqY1bcAABE5w.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096497869708734471"
+    },
+    {
+      "id": "2096112809075683377",
+      "text": "这是让 gpt-6 astra 根据之前 Codex 的对话记录和官方提示指南更新的 AGENTS[.]md 文件。\n\n图片 ALT 可以复制完整 prompt https://t.co/Rc0blBTnLh",
+      "created_at": "Sat Sep 05 05:46:52 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "365",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbjEaKbkAA9fZr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096112809075683377"
+    },
+    {
+      "id": "2096111736667656511",
+      "text": "gpt-6 不给我抓小说，还是 5.6-luna 约束少，让干啥就干啥。 https://t.co/ldw5nNasWq",
+      "created_at": "Sat Sep 05 05:42:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "198",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbiQzdbAAAVMed.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbicSbakAA-Mfq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096111736667656511"
+    },
+    {
+      "id": "2096031647175209418",
+      "text": "Codex 这个破宠物是谁给的勇气绑定 control+space？ https://t.co/aEgwvr5mPb",
+      "created_at": "Sat Sep 05 00:24:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "167",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRaZg88acAAhcCq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096031647175209418"
+    },
+    {
+      "id": "2095532960653173014",
+      "text": "这次总该重置了吧，1% 剩余 token 全靠 luna max 硬撑。 https://t.co/8HjxzLEEWA",
+      "created_at": "Thu Sep 03 15:22:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "158",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRTUB5caQAEF-tB.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095532960653173014"
+    },
+    {
+      "id": "2095382125415707025",
+      "text": "Surge 支持了 Tailscale，但这个入口太难找了，策略里配置 ts 后在手机上点击授权。 https://t.co/KaMHTDu253",
+      "created_at": "Thu Sep 03 05:23:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "247",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRRK74KbQAAWhTw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095382125415707025"
+    },
+    {
+      "id": "2095027762193178891",
+      "text": "👋 https://t.co/l15lFmkph7",
+      "created_at": "Wed Sep 02 05:55:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "540",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRMInojaAAAn0rD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095027762193178891"
+    },
+    {
+      "id": "2094718086431830076",
+      "text": "居然出现了因为额度问题，让 Claude 接手 Codex 工作的情况。 https://t.co/YJ6qmwpSXN",
+      "created_at": "Tue Sep 01 09:24:44 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "210",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRHu_d6bIAAPBg_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094718086431830076"
+    },
+    {
+      "id": "2094325096538308931",
+      "text": "你这个浓眉大眼的家伙也叛变革命了？ https://t.co/qm3cusvR9e",
+      "created_at": "Mon Aug 31 07:23:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "157",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRCJfOJboAA44Xp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094325096538308931"
+    },
+    {
+      "id": "2094041664453296211",
+      "text": "永乐大典居然有单独的研究中心？ https://t.co/nT8vTvkVKv",
+      "created_at": "Sun Aug 30 12:36:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "206",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ-HyN2bUAEf8Py.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094041664453296211"
+    },
+    {
+      "id": "2093208275189977402",
+      "text": "账号死的太快，已经改用 MMDD 格式给 Claude 起名了。\n今天 0822 夭折，享年 6 天。 https://t.co/FMqqh7aJvA",
+      "created_at": "Fri Aug 28 05:25:17 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "463",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQyRr7JbQAASSmc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093208275189977402"
+    },
+    {
+      "id": "2092861678111404517",
+      "text": "日语的字体好看。 https://t.co/DbyWRKeACi",
+      "created_at": "Thu Aug 27 06:28:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "236",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQtWfC6a0AAYmXl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092861678111404517"
+    },
+    {
+      "id": "2092820141629468911",
+      "text": "最近 fable 5 是越来越不可靠了，已经开始让 ChatGPT 网页版的 Pro 指挥/检查 fable 5 的工作，才能勉强推进。",
+      "created_at": "Thu Aug 27 03:42:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "221",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092820141629468911"
+    },
+    {
+      "id": "2092527795373219888",
+      "text": "还在坚持定投吗？#BTC\nhttps://t.co/gN2GwCoT1W https://t.co/0saBWxFucb",
+      "created_at": "Wed Aug 26 08:21:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "127",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQom4Y8aIAEgkS2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092527795373219888"
+    },
+    {
+      "id": "2092435535558328631",
+      "text": "日文版对味。\nhttps://t.co/Yw2GWbRvFe",
+      "created_at": "Wed Aug 26 02:14:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "165",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092435535558328631"
+    },
+    {
+      "id": "2091790800976048200",
+      "text": "「约定优于配置」这就叫优雅！",
+      "created_at": "Mon Aug 24 07:32:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "243",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2091790800976048200"
+    },
+    {
+      "id": "2091758352821026992",
+      "text": "Rails 被 Python 横扫是哪个平行宇宙发生的事情？Django 不配给 Rails 提鞋（\n\n反正大家最后都要被 JS 干死。 https://t.co/iNYksTkkmD",
+      "created_at": "Mon Aug 24 05:23:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "443",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQdpoUPacAAfzdy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091758352821026992"
+    },
+    {
+      "id": "2091754982509002799",
+      "text": "GPT 的幽默真的不好理解。\n来自 Codex Computer History 的总结 ⬇️ https://t.co/O3ng5jqKhC",
+      "created_at": "Mon Aug 24 05:10:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "177",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQdnxbHa4AAFdX2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091754982509002799"
+    },
+    {
+      "id": "2091164438649020745",
+      "text": "还是得让 fable 指挥 codex 绘图，我跟 gpt-image-2 有沟通障碍。 https://t.co/wStBVdSU1L",
+      "created_at": "Sat Aug 22 14:03:48 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "1109",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQVO0PwakAAIPRQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091164438649020745"
+    },
+    {
+      "id": "2090665104992043043",
+      "text": "ChatGPT 20x 一天蹬了 50%？\ntibo 出来受死。 https://t.co/LQU49vocsj",
+      "created_at": "Fri Aug 21 04:59:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "241",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQOI1EDbwAA7jBS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090665104992043043"
+    },
+    {
+      "id": "2090663524322386292",
+      "text": "消费金额不太吉利。 https://t.co/t37srCBXmr",
+      "created_at": "Fri Aug 21 04:53:21 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "303",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQOHZD6boAACUNG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090663524322386292"
+    },
+    {
+      "id": "2090596991650902480",
+      "text": "Google Fitbit Air 即将成为路边一条，这也太不准了。 https://t.co/PP3qAETnXW",
+      "created_at": "Fri Aug 21 00:28:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "950",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQNK4WubQAAoInu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQNK4WragAA_35M.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090596991650902480"
+    },
+    {
+      "id": "2090451317881979261",
+      "text": "这都能上架？ https://t.co/KeMVEcDmug",
+      "created_at": "Thu Aug 20 14:50:07 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "16358",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090451317881979261"
+    },
+    {
+      "id": "2090450895616245886",
+      "text": "环大陆上架了… https://t.co/Py73ytBFhN",
+      "created_at": "Thu Aug 20 14:48:26 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "19239",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090450880076333056/img/bdS4TK3etxx8aLcA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090450895616245886"
+    },
+    {
+      "id": "2090233031235957130",
+      "text": "在测试用 Google Fitbit Air 记录睡眠，但它是什么脑回路在震动闹钟开启时记录心率的？\n那么高是心率吗…… https://t.co/5eVWdNJZOB",
+      "created_at": "Thu Aug 20 00:22:43 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "497",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQH_3FGbIAEAZe_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090233031235957130"
+    },
+    {
+      "id": "2089988876928794722",
+      "text": "这是上周糊的 skill 跑出来的图标，是真的很差。\n结论就是 App icon 还是要一张一张做！别想着 skill 偷懒了！ https://t.co/LJ19Sb9Sat",
+      "created_at": "Wed Aug 19 08:12:33 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "789",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQEhUsqb0AAnTHJ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQEhf7AbYAAddXO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQEhiDNaQAArCDh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089988876928794722"
+    },
+    {
+      "id": "2089987229368426837",
+      "text": "这是今天火的 icon skill 跑出来的图，你怕不是在逗我？\n\n上周我也做了类似的 skill，考虑到版权原因不能用其他人的图片做参考来生成，最后输出的图质量就是很差。本着对 skill user 负责的态度，没有将💩端出来。\n但你们 AI KOL 是一点不在乎？啥💩都往外拿啊。 https://t.co/eKm6k6szek",
+      "created_at": "Wed Aug 19 08:06:00 +0000 2026",
+      "favorite_count": 17,
+      "retweet_count": 3,
+      "reply_count": 14,
+      "quote_count": 4,
+      "bookmark_count": 19,
+      "views": "6570",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQEfwZ_bEAAh58K.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQEfyKmbcAED8Jm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089987229368426837"
+    },
+    {
+      "id": "2089206325180035292",
+      "text": "不是哥们？你是 fable 吗？kuku 砍我五刀？ https://t.co/qshrGhH2CL",
+      "created_at": "Mon Aug 17 04:22:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "829",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP5Z9FwasAIhLkF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089206325180035292"
+    },
+    {
+      "id": "2089205841706795307",
+      "text": "然后你就给我推个黑旗重置版、宇宙机器人？？？ https://t.co/thzXWiD5Vb",
+      "created_at": "Mon Aug 17 04:21:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "415",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP5Ze-Qb0AAe99O.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2089205841706795307"
+    },
+    {
+      "id": "2089205383592304797",
+      "text": "网页版 ChatGPT 还有「云浏览器」的功能呢？ https://t.co/yVi8phf33L",
+      "created_at": "Mon Aug 17 04:19:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "680",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP5ZKiUbQAAV9P3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089205383592304797"
+    },
+    {
+      "id": "2088456610914181408",
+      "text": "说不好有人能用得上，我就是不喜欢用 crontab 管理自动化任务。\nFYI，这玩意儿有 cli，丢给 Agent 去用就好了，GUI 完全就是一个监看。\nhttps://t.co/1RJoxsLJXG",
+      "created_at": "Sat Aug 15 02:43:52 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "1469",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088456610914181408"
+    },
+    {
+      "id": "2088200328605061120",
+      "text": "看着 gpt-5.6-sol 和 dsv4f 聊天......\n#我有独特的烧token方法 https://t.co/ngyl1Etuio",
+      "created_at": "Fri Aug 14 09:45:29 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "352",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPrG5HebMAAyrcb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088200328605061120"
+    },
+    {
+      "id": "2088139001417060847",
+      "text": "虽然不知道这人是谁，但你们是怎么干执行 curl -sL 不明脚本的？\n\ngpt-5.6-sol：不建议在我们的服务器上运行这个脚本。它没有实质性的新优化，反而可能降低跨境网络稳定性，并存在明显的安全风险。 https://t.co/5CfXi3Y7R5",
+      "created_at": "Fri Aug 14 05:41:48 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 1,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 18,
+      "views": "13096",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqPNSBbkAAvMQO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088139001417060847"
+    },
+    {
+      "id": "2088128372153172390",
+      "text": "就是因为这人到处打广告才 unfo 的，结果还上杆子求 ban…\n\n你懂个屁！是所有任务都要 LLM 驱动吗？ https://t.co/GuKCVU3FLj",
+      "created_at": "Fri Aug 14 04:59:34 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "378",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqFr2xaMAAa3le.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088128372153172390"
+    },
+    {
+      "id": "2087887336055165074",
+      "text": "之前让 codex 糊的自动任务管理工具也挺稳定的了。 https://t.co/xPnhYdiJnr",
+      "created_at": "Thu Aug 13 13:01:46 +0000 2026",
+      "favorite_count": 17,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 18,
+      "views": "6608",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmqA1Ea8AAbO8U.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087887336055165074"
+    },
+    {
+      "id": "2087833915428151681",
+      "text": "#AI陪伴 目前的方案 https://t.co/0caFhMVhQH",
+      "created_at": "Thu Aug 13 09:29:30 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2242",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPl5ssUakAA7w6B.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087833915428151681"
+    },
+    {
+      "id": "2087406329023647827",
+      "text": "打甄子丹？我吗？ https://t.co/vhdwrFk9Ym",
+      "created_at": "Wed Aug 12 05:10:25 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1934",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPf0_bXbQAA93gf.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPf0_bhbUAAovg2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087406329023647827"
+    },
+    {
+      "id": "2087183722055647467",
+      "text": "ChatGPT Pro 模型这么猛了吗？我还说让他设计方案交给本机的 Codex 执行开发。\n结果 gpt-5.6-sol Pro 直接做完了。\n\n#你的下一台电脑何必是本地电脑",
+      "created_at": "Tue Aug 11 14:25:51 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "454",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPcqGnkbYAAoNo1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087183722055647467"
+    },
+    {
+      "id": "2087113508622414207",
+      "text": "#求助 几个人协作的项目（大家一起用 AI 糊💩），如何对齐目标？\n目前先用独立的文档项目做约束，产品/UI/开发相关任务都引用文档项目，应该能有点作用吧...... https://t.co/nQImWAuhwo",
+      "created_at": "Tue Aug 11 09:46:51 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1298",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPbqDGJagAAM0SB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087113508622414207"
+    },
+    {
+      "id": "2087108983408763187",
+      "text": "给这个本地去背景 macOS  App 收尾发布了，但说实话用的这俩模型效果一般，以后再换吧。\nhttps://t.co/TfwI0ephf3 https://t.co/jeTe2j9AGW",
+      "created_at": "Tue Aug 11 09:28:52 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "322",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPbmV-FbAAAm1IZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087108983408763187"
+    },
+    {
+      "id": "2087074638732120521",
+      "text": "闲置显卡再就业。 https://t.co/ymiLCVstps",
+      "created_at": "Tue Aug 11 07:12:24 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "4767",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPbHS7yb0AAKLWO.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087074638732120521"
+    },
+    {
+      "id": "2087072373954728102",
+      "text": "🐱 https://t.co/kq3dJZ5fHr",
+      "created_at": "Tue Aug 11 07:03:24 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "5207",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087072269785092097/img/j0AOYj-mr3jTW_1h.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087072373954728102"
+    },
+    {
+      "id": "2087053271500554636",
+      "text": "模型聪明就用不到那么多约束。 https://t.co/Tf45AMUs11",
+      "created_at": "Tue Aug 11 05:47:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1246",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaz2GOb0AAPJwR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087053271500554636"
+    },
+    {
+      "id": "2087009505741807857",
+      "text": "Codex 再给我测试什么脏东西！ https://t.co/DRdR8l0SEx",
+      "created_at": "Tue Aug 11 02:53:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "308",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaL75-agAAs9up.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087009449714278400/img/AdMyn0gWMV4fPv_V.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087009505741807857"
+    },
+    {
+      "id": "2085262951846756365",
+      "text": "这傻逼造谣有人管没人管了？给他收益分成取消了！ https://t.co/M39AE6YfOr",
+      "created_at": "Thu Aug 06 07:13:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "325",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBXThaawAAuVRH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085262951846756365"
+    },
+    {
+      "id": "2085156369066565857",
+      "text": "这周 Codex 额度剩太多了......\n\n方案 A：单段提示词直出，生成3次取最好。\n方案 B：模拟画师的六阶段流程——构图缩略图→透视骨架→体块→三值光影→清线平涂→成稿，每阶段以上一阶段图像为底稿继续画。\n方案 C：直出后按画师的验收标准逐项检查（肢体数量、重心、握持、光源一致性），不合格的写出具体诊断，追加到提示词里重画，最多三轮。\n方案 D：只画一张火柴人草图确定姿势和构图，然后参考草图一次性完整重绘。",
+      "created_at": "Thu Aug 06 00:09:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "326",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO_2NrHbQAA0A3m.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO_2NrFbYAAVD9j.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO_2NrFaUAAGVo2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO_2NrIbIAAkrQf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085156369066565857"
+    },
+    {
+      "id": "2085019864977334331",
+      "text": "一些浪费 token 的行为：\n让 codex 模拟人的绘画流画画。 https://t.co/tOz6E5nWDQ",
+      "created_at": "Wed Aug 05 15:07:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "269",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO96YD4aAAAaF5Z.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085019864977334331"
+    },
+    {
+      "id": "2084852586033918243",
+      "text": "：买我们 XX 云 Agent 记忆服务吗？\n：买我们中转站吗？Claude 要不要？国模也行？\n：那你租卡吗？",
+      "created_at": "Wed Aug 05 04:02:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "317",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084852586033918243"
+    },
     {
       "id": "2084656211119763833",
       "text": "一个三年前的订单，前几天突然想起来找了下客服，然后发现这个网站还有 App，然后站内心只能在 App 内查看……\n\n迟来两年的回复（ https://t.co/BNktdVcFIB",
@@ -25,7 +1164,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "70",
+      "views": "298",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -50,7 +1189,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "81",
+      "views": "271",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -68,10 +1207,10 @@
       "created_at": "Tue Aug 04 07:06:17 +0000 2026",
       "favorite_count": 2,
       "retweet_count": 0,
-      "reply_count": 2,
+      "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "588",
+      "views": "1044",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -100,7 +1239,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "273",
+      "views": "331",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -121,7 +1260,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "1878",
+      "views": "1971",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -142,7 +1281,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "555",
+      "views": "586",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -158,7 +1297,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "1370",
+      "views": "1394",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -183,7 +1322,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "420",
+      "views": "447",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -199,7 +1338,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "305",
+      "views": "334",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -220,7 +1359,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1078",
+      "views": "1093",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -241,7 +1380,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2085",
+      "views": "2106",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -257,7 +1396,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "105",
+      "views": "126",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -273,7 +1412,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "2409",
+      "views": "2442",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -294,7 +1433,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "502",
+      "views": "518",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -315,7 +1454,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "313",
+      "views": "328",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -331,12 +1470,12 @@
       "id": "2080569286184009993",
       "text": "让肥波老师总结了一下游戏生图的经验，文章里贴了完整的提示词。 https://t.co/Jvz4PzKLAH",
       "created_at": "Fri Jul 24 08:22:27 +0000 2026",
-      "favorite_count": 125,
+      "favorite_count": 124,
       "retweet_count": 13,
       "reply_count": 4,
       "quote_count": 1,
-      "bookmark_count": 184,
-      "views": "12801",
+      "bookmark_count": 183,
+      "views": "13681",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -352,7 +1491,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 2,
-      "views": "1428",
+      "views": "1466",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -373,7 +1512,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "240",
+      "views": "248",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -398,7 +1537,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "2441",
+      "views": "2458",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -419,7 +1558,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "525",
+      "views": "536",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -448,7 +1587,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "707",
+      "views": "715",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -469,7 +1608,7 @@
       "reply_count": 7,
       "quote_count": 5,
       "bookmark_count": 55,
-      "views": "26325",
+      "views": "26544",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -485,7 +1624,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "17376",
+      "views": "17428",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -501,7 +1640,7 @@
       "reply_count": 1,
       "quote_count": 2,
       "bookmark_count": 0,
-      "views": "2523",
+      "views": "2557",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -522,7 +1661,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "2261",
+      "views": "2270",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -543,7 +1682,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "3636",
+      "views": "3649",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -568,7 +1707,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "3499",
+      "views": "3505",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -589,7 +1728,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "7211",
+      "views": "7214",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -600,12 +1739,12 @@
       "id": "2077725370321932757",
       "text": "今天 codex 确实慢，三小时就画了这点图。 https://t.co/tKAUgPIop1",
       "created_at": "Thu Jul 16 12:01:45 +0000 2026",
-      "favorite_count": 242,
+      "favorite_count": 240,
       "retweet_count": 12,
-      "reply_count": 55,
+      "reply_count": 54,
       "quote_count": 3,
-      "bookmark_count": 177,
-      "views": "83903",
+      "bookmark_count": 173,
+      "views": "84128",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
