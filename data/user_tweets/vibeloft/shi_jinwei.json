@@ -7,25 +7,579 @@
     "nickname": "whenever-不可兼容",
     "profile_url": "https://vibeloft.ai/profile/whenever"
   },
-  "generated_at": "2026-08-05T04:01:56.012661Z",
+  "generated_at": "2026-09-12T14:00:11.377874Z",
   "stats": {
-    "tweet_count": 114,
-    "latest_tweet_created_at": "2026-08-04T15:54:28Z",
-    "latest_tweet_id": "2084669304557961296",
+    "tweet_count": 142,
+    "latest_tweet_created_at": "2026-09-10T13:33:43Z",
+    "latest_tweet_id": "2098042235669372966",
     "oldest_tweet_created_at": "2022-03-08T14:30:21Z",
     "oldest_tweet_id": "1501203675712462850"
   },
   "tweets": [
     {
-      "id": "2084669304557961296",
-      "text": "在手机上用UU远程太好用了真的，一下子让我习惯用手机控制家里的各种电脑了\n\n相比之下某几个老牌的远程桌面以前都不知道在做点什么，又卡又难用",
-      "created_at": "Tue Aug 04 15:54:28 +0000 2026",
+      "id": "2098042235669372966",
+      "text": "Trying some new style derived from Manifold Garden using ThreeJS TSL https://t.co/KdSlN0OW6b",
+      "created_at": "Thu Sep 10 13:33:43 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "354",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098042044304478208/img/eQO7aLq5yrbwNktS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098042235669372966"
+    },
+    {
+      "id": "2097933356012892236",
+      "text": "早上看到这条质疑了下她的业务水平，然后喜提block #dreameryanyan \n很难想象一个在10年前读建筑的人会说Blender是建模必备，并且用于比较的是Maya和C4D这些mesh软件。建筑用这几个软件不是不可以，只是不适合，且绝对不是当时甚至现在建筑设计的主流。就让人怀疑🤨她是否有自己做过任何的建筑作品 https://t.co/IcfGisutcR",
+      "created_at": "Thu Sep 10 06:21:04 +0000 2026",
+      "favorite_count": 57,
+      "retweet_count": 3,
+      "reply_count": 21,
+      "quote_count": 4,
+      "bookmark_count": 5,
+      "views": "9769",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1a5rtbEAAQUgn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097933356012892236"
+    },
+    {
+      "id": "2097923167188623404",
+      "text": "I need this!",
+      "created_at": "Thu Sep 10 05:40:35 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "188",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097923167188623404"
+    },
+    {
+      "id": "2096834687402488168",
+      "text": "因为大家都很讨厌不写出处，我觉得reference对于网络环境很重要。无论在什么平台最好还是要写一下，哪怕对方不在这个平台，哪怕对方是做了一个教程。如果收获了很多流量而原作者或做教程的人连名字都不配出现这个很不利于创作环境。这也是我现在很少开源重要的东西和做教程的原因……",
+      "created_at": "Mon Sep 07 05:35:21 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "389",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2096834687402488168"
+    },
+    {
+      "id": "2095890124630278259",
+      "text": "Trying Manifold Garden style day 3\n\nUsing ThreeJS TSL https://t.co/jKkdKIS2FQ",
+      "created_at": "Fri Sep 04 15:02:00 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "1498",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095889949052821504/img/mJMuzUN4a-1HbevT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095890124630278259",
+      "pinned": true
+    },
+    {
+      "id": "2095688560846254111",
+      "text": "Still trying manifold garden style but this time using TSL in ThreeJS https://t.co/z9KQrG3mro",
+      "created_at": "Fri Sep 04 01:41:03 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1351",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095688349617119232/img/eHIGEtNbyx0jX-2z.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095688560846254111"
+    },
+    {
+      "id": "2095164896136528029",
+      "text": "trying to make some Manifold Garden style shader arts, really like the style https://t.co/JwQown6TNw",
+      "created_at": "Wed Sep 02 15:00:12 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "161",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095164712325636096/img/8Vl5Gt1XnhAT4r83.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095164896136528029"
+    },
+    {
+      "id": "2095093165640282162",
+      "text": "这个太多了，去年11月好多人模仿这些教程，这个教程应该也不是原创的，我去年还写了一篇来抨击这种行为https://t.co/Dtz56QzeFe https://t.co/548ntPWvyV",
+      "created_at": "Wed Sep 02 10:15:10 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1254",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNEHuSXEAIkVmx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095093165640282162"
+    },
+    {
+      "id": "2094814776853414017",
+      "text": "反正skill这个肯定是实锤的证据\n我是真的看不惯Dreamer妍妍\n因为我不喜欢水平一般设计师被吹到比自己高太多的层次\nDreamer妍妍从技术和审美上都是一个水平很一般的设计师，这没什么不能说的，再多的大厂光环都掩盖不了这个事情",
+      "created_at": "Tue Sep 01 15:48:57 +0000 2026",
+      "favorite_count": 38,
+      "retweet_count": 1,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "5215",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094814776853414017"
+    },
+    {
+      "id": "2093346012987347333",
+      "text": "Made some matrix effects https://t.co/mzIUkg6NTz",
+      "created_at": "Fri Aug 28 14:32:36 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "194",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2093345822314266625/img/FpmK3Zi-SARHhUDj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093346012987347333"
+    },
+    {
+      "id": "2093174186537550000",
+      "text": "I dyed my 3d print into gradient color 😌\nSo satisfying https://t.co/ubBMB2678K",
+      "created_at": "Fri Aug 28 03:09:50 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "188",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2093174144770719744/img/u1Os9-3mSHZBwqrC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093174186537550000"
+    },
+    {
+      "id": "2091106613889286389",
+      "text": "Neon light tunnel derived from yesterday’s work\n\n#glsl #generativeart https://t.co/8CMZkDdmW4",
+      "created_at": "Sat Aug 22 10:14:02 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "662",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091106141786767360/img/knSmJaFm7KW9eFiU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091106613889286389"
+    },
+    {
+      "id": "2090798668790043065",
+      "text": "Trying to visualising cyber space in Neuromancer from imagination but created something interesting \n\n#generativeart #glsl #shader https://t.co/QKGYSQNtpa",
+      "created_at": "Fri Aug 21 13:50:22 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "469",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090798432654897152/img/bsuJ3dm0AW9q_A3d.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090798668790043065"
+    },
+    {
+      "id": "2090251586131947760",
+      "text": "看得出来其实就是把CAD的约束那一套用到了互联网设计上，不过曲率梳还挺好的，确实应该都重做一下，以前的曲线工具都太基础了",
+      "created_at": "Thu Aug 20 01:36:27 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "193",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090251586131947760"
+    },
+    {
+      "id": "2090078460160987606",
+      "text": "🪐\n#esp32 https://t.co/iJNtPRfQdL",
+      "created_at": "Wed Aug 19 14:08:31 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "91",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090078416502431744/img/xaqgccsCWrvs3Atl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090078460160987606"
+    },
+    {
+      "id": "2090072256533688789",
+      "text": "shader island\n\n#generativeart #glsl https://t.co/lfGx4GZkf4",
+      "created_at": "Wed Aug 19 13:43:52 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "71",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090072086458855425/img/CtghGbjuTZ7VyOji.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090072256533688789"
+    },
+    {
+      "id": "2089339838407245853",
+      "text": "using glsl to simulate the universe structure but coloured with fake colour\n\n#shader #generativeart https://t.co/nStfPas8tf",
+      "created_at": "Mon Aug 17 13:13:30 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "155",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089339665962704896/img/VozxR71jValkBJJ-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089339838407245853"
+    },
+    {
+      "id": "2088924761397100954",
+      "text": "Playing Minecraft on ESP32 (x)\n\nActually it is a shader running on ESP32, and is using CPU instead, but looks realistic https://t.co/XNnU4zLe0D",
+      "created_at": "Sun Aug 16 09:44:08 +0000 2026",
       "favorite_count": 2,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "56",
+      "views": "121",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088924643860037632/img/psetDo9Vtov8PjB_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088924761397100954"
+    },
+    {
+      "id": "2088640605995823603",
+      "text": "🎆\n\n#shader #esp32 https://t.co/bvQgajNG4y",
+      "created_at": "Sat Aug 15 14:55:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "99",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088640563415330816/img/5lKKNvU-4kBHQsjH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088640605995823603"
+    },
+    {
+      "id": "2088639970009334206",
+      "text": "🌌\n\n#shader #esp32 https://t.co/qANQp5uVtE",
+      "created_at": "Sat Aug 15 14:52:28 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "101",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088639835439267840/img/WHrWnu6N9fFKQ3Cf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088639970009334206"
+    },
+    {
+      "id": "2088637879027146803",
+      "text": "planning to make some new cool things on screen https://t.co/F9RVU05sqd",
+      "created_at": "Sat Aug 15 14:44:10 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "93",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088637852879896576/img/xTV02le7oPCHn4OH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088637879027146803"
+    },
+    {
+      "id": "2088573661087211850",
+      "text": "Created an infinite glass tunnel with #glsl only\n\n#shader #generativeart https://t.co/EvkISRJtqT",
+      "created_at": "Sat Aug 15 10:28:59 +0000 2026",
+      "favorite_count": 26,
+      "retweet_count": 2,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "1248",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088569981822795776/img/hCm8A6PpVE8KxNLG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088573661087211850"
+    },
+    {
+      "id": "2088238751042449662",
+      "text": "Made a infinite backroom with #glsl only\n\n#shader #generativeart https://t.co/Gl9HiwBRSv",
+      "created_at": "Fri Aug 14 12:18:10 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "469",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2088238570079223809/img/qCKnTtWhhfeZne1a.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088238751042449662"
+    },
+    {
+      "id": "2088115798522937518",
+      "text": "在x上我就直说了，纯垃圾\n没有人或agent应该去花费任何脑力或者token去读这120页从无技术建树或认知的人口中反刍出来的东西",
+      "created_at": "Fri Aug 14 04:09:36 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "133",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088115798522937518"
+    },
+    {
+      "id": "2087451125691625793",
+      "text": "学习了些type-c口的底层知识，再了解了一下很多过往的人犯下的错误（亚马逊上廉价线缆用错电阻，树莓派4cc引脚共用电阻），就觉得错得很离谱……\n到底是怎么样草台班子的世界会催生这种错误",
+      "created_at": "Wed Aug 12 08:08:25 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "93",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087451125691625793"
+    },
+    {
+      "id": "2087028969904189470",
+      "text": "planning to replace Rhino with Plasticity",
+      "created_at": "Tue Aug 11 04:10:56 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "98",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087028969904189470"
+    },
+    {
+      "id": "2086283599708361184",
+      "text": "🌊🏝️\n\n#shader https://t.co/G9uAWl2dUq",
+      "created_at": "Sun Aug 09 02:49:06 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "147",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086283021439672320/img/XxtVf0cqYAJWCZ23.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086283599708361184"
+    },
+    {
+      "id": "2086283551746511078",
+      "text": "🌊\n\n#shader https://t.co/VuZmDy8dvu",
+      "created_at": "Sun Aug 09 02:48:54 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "58",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPP3Le2WIAE9GqT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086283551746511078"
+    },
+    {
+      "id": "2084669304557961296",
+      "text": "在手机上用UU远程太好用了真的，一下子让我习惯用手机控制家里的各种电脑了\n\n相比之下某几个老牌的远程桌面以前都不知道在做点什么，又卡又难用",
+      "created_at": "Tue Aug 04 15:54:28 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "589",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -36,12 +590,12 @@
       "id": "2084665770865254658",
       "text": "reserved\n\n(Cloudflare Wallet https://t.co/v93NK0Uq3U",
       "created_at": "Tue Aug 04 15:40:25 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 2,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "37",
+      "views": "124",
       "lang": "da",
       "is_retweet": false,
       "is_quote": false,
@@ -57,12 +611,12 @@
       "id": "2084651917347561611",
       "text": "Particles🪄\n\n#shader https://t.co/qVmFJIDf7Q",
       "created_at": "Tue Aug 04 14:45:22 +0000 2026",
-      "favorite_count": 1,
-      "retweet_count": 0,
+      "favorite_count": 2,
+      "retweet_count": 1,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "21",
+      "views": "125",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +637,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "89",
+      "views": "123",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -99,7 +653,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "67",
+      "views": "90",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -120,7 +674,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "115",
+      "views": "137",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +695,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "334",
+      "views": "366",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -157,7 +711,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "149",
+      "views": "163",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +732,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "153",
+      "views": "170",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -194,7 +748,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "281",
+      "views": "289",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +769,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "78",
+      "views": "86",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -236,7 +790,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1196",
+      "views": "1208",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -252,7 +806,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "208",
+      "views": "214",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -263,12 +817,12 @@
       "id": "2078500889086542162",
       "text": "morphing in particle system \n\n(am making a website to teach about particle systems https://t.co/PxFiJAJhn5",
       "created_at": "Sat Jul 18 15:23:23 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "67",
+      "views": "74",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -284,12 +838,12 @@
       "id": "2078420044673880466",
       "text": "Just updated my portfolio website https://t.co/rjfH5zlFev  and made a selector effect like the Apple Watch interaction . And I still need to update my latest projects to it since I haven’t update for one year. https://t.co/NHnlNoqnTa",
       "created_at": "Sat Jul 18 10:02:08 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "70",
+      "views": "76",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -310,7 +864,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "61",
+      "views": "68",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -335,7 +889,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "171",
+      "views": "176",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -360,7 +914,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "117",
+      "views": "122",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -376,12 +930,12 @@
       "id": "2076314573984923845",
       "text": "Orb in the dune\n\n#glsl #shader #shadertoy #newmediaart https://t.co/hVOtPTRkQo",
       "created_at": "Sun Jul 12 14:35:45 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "105",
+      "views": "122",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -402,7 +956,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "71",
+      "views": "76",
       "lang": "qme",
       "is_retweet": false,
       "is_quote": false,
@@ -423,7 +977,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "63",
+      "views": "68",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -444,7 +998,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "51",
+      "views": "54",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -465,7 +1019,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "63",
+      "views": "66",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -486,7 +1040,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "58",
+      "views": "60",
       "lang": "fr",
       "is_retweet": false,
       "is_quote": false,
