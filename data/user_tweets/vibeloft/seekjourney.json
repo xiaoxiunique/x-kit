@@ -7,21 +7,1823 @@
     "nickname": "极客杰尼",
     "profile_url": "https://vibeloft.ai/profile/geekjourney"
   },
-  "generated_at": "2026-08-04T15:01:57.920653Z",
+  "generated_at": "2026-09-12T01:00:23.771435Z",
   "stats": {
-    "tweet_count": 622,
-    "latest_tweet_created_at": "2026-08-04T03:11:00Z",
-    "latest_tweet_id": "2084477171343753452",
+    "tweet_count": 718,
+    "latest_tweet_created_at": "2026-09-11T07:11:07Z",
+    "latest_tweet_id": "2098308340434784395",
     "oldest_tweet_created_at": "2025-10-25T05:23:03Z",
     "oldest_tweet_id": "1981954640720908301"
   },
   "tweets": [
     {
+      "id": "2098308340434784395",
+      "text": "刚看了 Anthropic 这份报告里有两个细节有点惊人啊：\n\n公安案件系统里的身份证、行踪数据用了 DS。\n\n成都数百个摄像头的监控数据用了 Kimi。\n\n安全、隐私、数据主权，以后会越来越重要。\n\n你以为自己在把数据交给一个模型，背后可能还有模型路由、代理、蒸馏和第三方服务。。。\n\nhttps://t.co/eGTz3I1Xn6",
+      "created_at": "Fri Sep 11 07:11:07 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1092",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098308340434784395"
+    },
+    {
+      "id": "2098252747883868379",
+      "text": "发现一个类似实现 iOS Computer Use 的库：\n\nhttps://t.co/BD0rx0x8lL\n\n直接在 Mac 上跑一个虚拟 iPhone，还能截图、点击、滑动、装 IPA。\n\n再配合 vphone-mcp，Codex / Claude Code 都能操作。 https://t.co/Kea9twWeGw",
+      "created_at": "Fri Sep 11 03:30:13 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 19,
+      "views": "1276",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR59vTQbAAANruA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098252747883868379"
+    },
+    {
+      "id": "2097937647486546117",
+      "text": "发现已经趋势榜第一了啊！确实有点东西。\n\nhttps://t.co/nzi3kT9zJj https://t.co/qntdLQQmTn",
+      "created_at": "Thu Sep 10 06:38:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "457",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1e9qLaMAA6quI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097937647486546117"
+    },
+    {
+      "id": "2097883062575182181",
+      "text": "少废话系列又发现一个好东西 i-have-adhd Skill：\n\nhttps://t.co/nzi3kT9zJj\n\n我也挺不喜欢各种开场白，总结，结束语的，这次用这个 Skill 输出很简洁。\n\n看了一下实现细节，核心思想非常简单：\n\n行动优先，步骤明确，禁止废话。 https://t.co/G7tJJ0vElD",
+      "created_at": "Thu Sep 10 03:01:13 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 3,
+      "reply_count": 33,
+      "quote_count": 2,
+      "bookmark_count": 50,
+      "views": "4006",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR0thViacAA1taB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097883062575182181"
+    },
+    {
+      "id": "2097623623305736392",
+      "text": "chagpt 网页版定时任务太方便了，Agent自动识别意图，提醒创建定时任务，明天早上看新品发布拆解了。 https://t.co/plNC81Bf2c",
+      "created_at": "Wed Sep 09 09:50:18 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "602",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxBXFxbAAADT5o.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097623623305736392"
+    },
+    {
+      "id": "2097616523817103412",
+      "text": "笑死，这个模型对比太真实了：\n\nhttps://t.co/blfaLFF2oj\n\n同样画一只鹈鹕，新模型和老模型放一起，差距一眼就能看出来。\n\ngpt-5.6-terra 和 gpt-5.6-luna 你真能有点秀啊。。。 https://t.co/GWJZGYhsvT",
+      "created_at": "Wed Sep 09 09:22:05 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 1,
+      "reply_count": 21,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "3820",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRw7DwCbUAAuINT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097616523817103412"
+    },
+    {
+      "id": "2097532555629387964",
+      "text": "RT @seekjourney: 搞 harness 的朋友强烈推荐看看这篇 200w 浏览量的文章，Uber 内部扎实的工程经验。\n\n如何多快好省的完成任务是一个挑战。",
+      "created_at": "Wed Sep 09 03:48:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 222,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097532555629387964"
+    },
+    {
+      "id": "2097529390800543941",
+      "text": "推荐一个很有创意的小工具：\n\nhttps://t.co/f4cV7hiPK6\n\n根据你的身高，计算桌椅、显示器更合适的高度，还配了 3D 可视化。。。\n\n居然还参考了国标《中国成年人人体尺寸》，这就非常 6 了。\n\n我是没想到桌子椅子该调多高这种痛点，也能做出一个有意思的产品啊。 https://t.co/3MDHFinR71",
+      "created_at": "Wed Sep 09 03:35:51 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 1,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 23,
+      "views": "1281",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvr2ToagAETkYU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097529390800543941"
+    },
+    {
+      "id": "2097515709890953301",
+      "text": "时隔一年，obsidian-md2wechat 终于更新到 2.0.0。\n\n这次基本重做了一遍工作流：\n\n在 Obsidian 写文章，直接交给 md2wechat 进行专业排版 ，右侧直接预览，确认后创建公众号草稿。\n\n这次还补齐了原文保护、主题切换、草稿记录等体验。\n\n不得不说，Codex Computer Use 操作 Obsidian 做自动化测试真的太丝滑了。\n\nObsidian × md2wechat 这条写作链路继续优化升级体验。\n\nhttps://t.co/6iwbwWEbr9",
+      "created_at": "Wed Sep 09 02:41:29 +0000 2026",
+      "favorite_count": 120,
+      "retweet_count": 21,
+      "reply_count": 34,
+      "quote_count": 0,
+      "bookmark_count": 160,
+      "views": "8414",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvfad-acAAbspT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097515709890953301",
+      "pinned": true
+    },
+    {
+      "id": "2097302927790764449",
+      "text": "昨天刚出的 awesome-gpt-6-astra，推荐看看！\n\n里面已经有很多很有意思的案例，尤其是 Blender / 3D，GPT-6 Astra 发布后这块明显又火起来了啊。\n\nhttps://t.co/yA25uOmrHF\n\n还是那句话，以后新模型出来，先搜一遍：\n\nawesome + 模型名\n\n一般很快就能看到大家到底在拿它做什么了，比如 gpt image 2 / nana banana 2。。。",
+      "created_at": "Tue Sep 08 12:35:58 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "827",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRsd0CCbYAAR-F4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097302927790764449"
+    },
+    {
+      "id": "2097296095865155940",
+      "text": "看了作者的自述深有同感，给大脑一个假期吧，最近一个月我开始周末骑行，决定多走到线下去。\n\n作为10几年的老程序员，今年彻底告别手写代码了。\n\n我发现大脑确实和几年前已经不一样，以前动手解决各种棘手的问题关闭 tab 页，经常经历从毫无头绪，绝望，到找到希望，验证，通过的过程。\n\n现在正反馈和结果来的太快，效率确实高了不少，思维却变得越来越迟钝、越来越浅薄、越来越懒散。\n\nhttps://t.co/V0K7lV2R69",
+      "created_at": "Tue Sep 08 12:08:49 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "632",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRsXrJ-aMAAroSt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097296095865155940"
+    },
+    {
+      "id": "2097231052754633160",
+      "text": "意外发现这个好工具，可以把Google Search Console (GSC) 的原始数据转化为可直接执行的 SEO 优化策略与报告。\n\n现在 GPT 中安装插件可以试用。\n\nhttps://t.co/U6NYw8sLcK https://t.co/Qcb6w168lZ",
+      "created_at": "Tue Sep 08 07:50:22 +0000 2026",
+      "favorite_count": 58,
+      "retweet_count": 11,
+      "reply_count": 46,
+      "quote_count": 1,
+      "bookmark_count": 123,
+      "views": "8306",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRrb4hxaEAEjMHa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097231052754633160"
+    },
+    {
+      "id": "2097214552815669663",
+      "text": "今天看到一个很有意思的 Harness 测试榜单：\n\nhttps://t.co/M3YZQvFtW1\n\n具体做法是让不同 Model × Harness完成同一个 Three.js 任务，然后比较最终效果、耗时、Token、Tool Calls，以及 Agent 有没有主动打开浏览器、检查截图。\n\n现在看到的趋势是企业内部做模型评估，已经开始重点在看真实任务能不能完成，以及完成得多快、好、省。\n\n同一个模型换 Harness，成本、速度、行为差异可以说非常大。。。\n\nDeepSeek 最近的招聘方向验证了这个趋势：\n\nHarness 和 Benchmark / Eval，我觉得都会成为接下来很重要的工程方向。",
+      "created_at": "Tue Sep 08 06:44:48 +0000 2026",
+      "favorite_count": 72,
+      "retweet_count": 12,
+      "reply_count": 61,
+      "quote_count": 2,
+      "bookmark_count": 119,
+      "views": "25712",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRrNfzwaoAAl5xO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097214552815669663"
+    },
+    {
+      "id": "2097171307851055357",
+      "text": "最近发现一个很明显的趋势：\n\nAgent 团队协作开始正规化了。\n\n腾讯开源 TeamAI，把 Skills、Rules、MCP、Hooks、Knowledge 统一进 Git。\n\n支持评审、同步、共享，还能横跨多种 Coding Agent。\n\n以后团队管理的可能不只是代码仓库，\n\n我觉得还会多一个：\n\nAgent Harness 仓库。\n\n这个项目值得关注看看：\n\nhttps://t.co/ftqEKp6Bku",
+      "created_at": "Tue Sep 08 03:52:58 +0000 2026",
+      "favorite_count": 86,
+      "retweet_count": 15,
+      "reply_count": 20,
+      "quote_count": 0,
+      "bookmark_count": 92,
+      "views": "22595",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097171307851055357"
+    },
+    {
+      "id": "2097170881730773379",
+      "text": "md2wechat 3.5.0 发布。\n\n这个版版合并了 PR #19，新增 Atlas Cloud 图像生成支持。\n\n默认可用 GPT Image 2，封面、配图、信息图都可以直接走 Atlas Cloud。\n\nmd2wechat 的图像 Provider 生态继续扩展。\n\nhttps://t.co/FcvTU7JAlz https://t.co/tQ5a09spQb",
+      "created_at": "Tue Sep 08 03:51:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "457",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRqlvddasAAoG7J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097170881730773379"
+    },
+    {
+      "id": "2097164964897415297",
+      "text": "发现一个很有用的项目：GitHub Trending Archive。\n\n自动定时保存 GitHub Trending 历史数据，按天归档成 JSON。\n\n我觉得特别适合拿来做：\n\n趋势研究 ，发现有意思的新项目 ， Agent 自动化信号源。\n\nhttps://t.co/Qc7GjSziUb https://t.co/TyTYPsRW0y",
+      "created_at": "Tue Sep 08 03:27:45 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 13,
+      "views": "1078",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRqgaJ7bcAAf7hn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097164964897415297"
+    },
+    {
+      "id": "2097157288566120820",
+      "text": "今年我用得最多的是 Superpowers。\n\nGPT-6 Astra 之后，我准备换掉它了，开始用自己做的 geekx-engineering。\n\n砍掉SDD流程，只保留一些重要的约束，我会在工程实践中持续优化。\n\n现在模型越强，Skill 应该越精简。\n\nhttps://t.co/bI3lX3pxJg https://t.co/OGRbHNrw5j",
+      "created_at": "Tue Sep 08 02:57:15 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "2157",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRqZFMlaEAA_nG4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097157288566120820"
+    },
+    {
+      "id": "2097146689761226863",
+      "text": "重置卡没了，周额度也用完了，早上看到重置的我。 https://t.co/LSAZVuhKzW",
+      "created_at": "Tue Sep 08 02:15:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "465",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRqPtnIbwAA0MXl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097146689761226863"
+    },
+    {
+      "id": "2096936920823861264",
+      "text": "搞 harness 的朋友强烈推荐看看这篇 200w 浏览量的文章，Uber 内部扎实的工程经验。\n\n如何多快好省的完成任务是一个挑战。",
+      "created_at": "Mon Sep 07 12:21:35 +0000 2026",
+      "favorite_count": 1436,
+      "retweet_count": 222,
+      "reply_count": 58,
+      "quote_count": 1,
+      "bookmark_count": 2967,
+      "views": "529499",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2096936920823861264"
+    },
+    {
+      "id": "2096930812029808782",
+      "text": "腾讯开源了一个挺值得看的东西：TeamAI。\n\n做的是团队级 Agent / Harness 管理：\n\nSkills、Rules、Hooks、MCP、Docs 等统一放进共享 Git。\n\n通过  PR  合并分发给团队。\n\n目前看已经适配 Claude Code、Codex、Cursor、WorkBuddy、OpenCode 等多种 Agent。\n\n感觉 Agent 协作已经进入真正的团队工程化管理阶段了。\n\n推荐做 AI Coding / Agent Harness 的同学看看：\n\nhttps://t.co/ftqEKp6Bku",
+      "created_at": "Mon Sep 07 11:57:19 +0000 2026",
+      "favorite_count": 433,
+      "retweet_count": 76,
+      "reply_count": 79,
+      "quote_count": 2,
+      "bookmark_count": 674,
+      "views": "71664",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRnLcz3b0AAzjE7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096930812029808782"
+    },
+    {
+      "id": "2096866967722590556",
+      "text": "周末用 codex 1 张 重置卡重构升级了两个网站，gpt-6-astra 前端能力感觉变化挺明显的。\n\n瞬间清爽了不少， md2wechat 和 个人主页。\n\nhttps://t.co/Kfn0F6L2x0\n\nhttps://t.co/sIsR7Rus3G",
+      "created_at": "Mon Sep 07 07:43:37 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "1395",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096866967722590556"
+    },
+    {
+      "id": "2095796024124252236",
+      "text": "做了一个我的注意力地图，把过去一周我的公开构建和关注的东西分享一下，还在优化中。\n\nhttps://t.co/Eb9V28Ylp0",
+      "created_at": "Fri Sep 04 08:48:04 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "546",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095796024124252236"
+    },
+    {
+      "id": "2095763008752664717",
+      "text": "RT @seekjourney: 第一次接触 ELI5 、ELI10，发现这种解释方式真挺好用，感觉挖到宝了！\n\n很多原本看不懂的 AI / 技术概念，换成白话和具体例子，一下就懂了。\n\n特别适合拿来学习自己不熟的东西，推荐这个 Skill：\n\nhttps://t.co/Xpc…",
+      "created_at": "Fri Sep 04 06:36:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 42,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095763008752664717"
+    },
+    {
+      "id": "2095761868480762124",
+      "text": "看起来数据非常华丽！各家都在搞自己的榜单啊。\n\n我过去一个月再做各种 benchmark  评估，发现重大问题是随着模型能力变强，作弊行为越来越频繁了。\n\n榜单看起来各家自己的 Harness + Model 的综合能力，都是黑盒，Baseline 很难对齐的。\n\n公开测试集都被训练到模型脑子里了。。各种作弊行为你都想不到。\n\nTerminal-Bench Science GPT-6 Astra\n\nfable Terminal-Bench 4.0 https://t.co/8ODWSfn15b\n\nTerminal Bench 2.1 、 3.0 https://t.co/YRkaa5JGwB",
+      "created_at": "Fri Sep 04 06:32:21 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1052",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095761868480762124"
+    },
+    {
+      "id": "2095714475349623178",
+      "text": "意外发现这个神奇的网站学习 ELI5 ！非常棒的可视化探索学习思路，居然已经有 1174 条有意思的释义了。\n\nhttps://t.co/pkv8lY8JgS https://t.co/k31ebY98PF",
+      "created_at": "Fri Sep 04 03:24:02 +0000 2026",
+      "favorite_count": 62,
+      "retweet_count": 9,
+      "reply_count": 32,
+      "quote_count": 2,
+      "bookmark_count": 101,
+      "views": "9532",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRV5MiGbUAAtLek.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095714475349623178"
+    },
+    {
+      "id": "2095708187223560276",
+      "text": "我研究了一个挺实用的 Coding Agent 整理方法：\n\n让它扫描历史对话，找出你至少重复说过 3 次的工程要求，再分类：\n\nAGENTS.md / Skill / lint-test-check / 人工判断\n\n我自己试了，确实挖出了不少反复强调但一直没沉淀下来的规则。\n\n完整提示词：\n\n分析全部历史对话，找出我反复向 Coding Agent 提出的工程要求。\n\n仅统计：\n- 至少在 3 个独立对话出现\n- 对未来项目仍有通用价值\n- 不属于某个一次性功能需求\n\n将候选项分为：\n\n1. 适合写入 AGENTS.md\n2. 适合做成 Skill\n3. 适合变成 lint/test/check\n4. 仍然应该保留为人工判断\n\n输出重复次数、出现的对话和建议原因。\n\n不要修改任何文件。",
+      "created_at": "Fri Sep 04 02:59:02 +0000 2026",
+      "favorite_count": 60,
+      "retweet_count": 7,
+      "reply_count": 31,
+      "quote_count": 2,
+      "bookmark_count": 84,
+      "views": "5722",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRVzVe0bEAA6cXO.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095708187223560276"
+    },
+    {
+      "id": "2095505130900836709",
+      "text": "明天会重置吗？21号重置卡已经快用完了。。。 https://t.co/xRRVewzCEC",
+      "created_at": "Thu Sep 03 13:32:10 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1186",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRS6u4waUAA61Pj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095505130900836709"
+    },
+    {
+      "id": "2095475156168904790",
+      "text": "话说 Codex 现在又慢又酱汁又缩水。。。要发新模型了吗？？ https://t.co/dH81jfezDQ",
+      "created_at": "Thu Sep 03 11:33:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1932",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRSfgYQbcAEVgsi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095475156168904790"
+    },
+    {
+      "id": "2095470582972534841",
+      "text": "RT @MaxForAI: 有意思，Anthropic亲自下场教你怎么去掉Claude味了。\n\n今天 Anthropic 更新了 Claude Fable 5.1 的官方 Prompt Engineering 文档，专门加了一节 Writing density。\n\n官方承认，F…",
+      "created_at": "Thu Sep 03 11:14:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 145,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "10",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095470582972534841"
+    },
+    {
+      "id": "2095338637366006243",
+      "text": "刚需！每次回忆这个会话做了什么都要点进去看看，再进一步可以做成定时任务或者 hook 自动化就完美了",
+      "created_at": "Thu Sep 03 02:30:35 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 1,
+      "reply_count": 68,
+      "quote_count": 0,
+      "bookmark_count": 12,
+      "views": "5666",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095338637366006243"
+    },
+    {
+      "id": "2095334052584910862",
+      "text": "思路很好👍 这比 design.md 强多了！还原度还高。\n\nhttps://t.co/Ffu3DLim73",
+      "created_at": "Thu Sep 03 02:12:22 +0000 2026",
+      "favorite_count": 218,
+      "retweet_count": 18,
+      "reply_count": 35,
+      "quote_count": 0,
+      "bookmark_count": 325,
+      "views": "33734",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095334052584910862"
+    },
+    {
+      "id": "2095136532499988666",
+      "text": "好产品，有酒有故事，古早程序员刚需！我已经推荐给好几个朋友了。\n\n很多人可能不知道，它不只能画架构图，还能直接做动态系统架构图。\n\nhttps://t.co/i98sHX0Che",
+      "created_at": "Wed Sep 02 13:07:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "600",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095136532499988666"
+    },
+    {
+      "id": "2095125298153165289",
+      "text": "国产 Harness 怎么搭 Codex？\n\n可以看看这个 Skill。\n\n我现在基本是：\n\nZCode + GLM 跑高频任务\n\nCodex 负责复杂任务\n\n需要图片时用 Codex Image Gen\n\nhttps://t.co/o7alV3uS0d https://t.co/6hPOPLHRmb",
+      "created_at": "Wed Sep 02 12:22:51 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "1466",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNhDCVaUAArNFz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095125298153165289"
+    },
+    {
+      "id": "2095112493995798591",
+      "text": "利好独立开发者，是时候把我的 skills 上架到技能市场了，如果个人用户能打通 skillpay 就完美闭环了。\n\nhttps://t.co/pBqPH2SkSS https://t.co/gd6n69w8aA",
+      "created_at": "Wed Sep 02 11:31:58 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "1648",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNVs8UaYAAhyJc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095112493995798591"
+    },
+    {
+      "id": "2095107517181534414",
+      "text": "GitHub Trending 第一的 Archify 果然有点东西啊！\n\n最近已经推荐给好几个身边的朋友了。\n\n很多人可能还不知道，它可以直接生成动态系统架构图。\n\nPrompt 很简单：\n\n使用 Archify 生成一张动态系统架构图：\n\n突出主请求链路\n深色主题\n使用 signal-flow 视觉风格\n开启 trace 动画，让数据流沿连接线动态流动\n适合演示和录屏\n输出可交互 HTML\n同时支持导出 WebM 动画\n\n做技术分享、系统设计、项目复盘都挺好用的。\n\nhttps://t.co/oQ80jL1tTP",
+      "created_at": "Wed Sep 02 11:12:11 +0000 2026",
+      "favorite_count": 35,
+      "retweet_count": 5,
+      "reply_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 63,
+      "views": "4377",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNRKgPaYAAPorN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095107517181534414"
+    },
+    {
+      "id": "2095076564862165411",
+      "text": "看到一篇挺有意思的 CLAUDE.md。\n\n作者专门整理了 Claude 常见的 AI 写作习惯：\n\n过度总结、假悬念、三段式、Not X, but Y、抽象词堆叠...\n\n做内容的人可以看看啊。\n\nhttps://t.co/4KoCwNRNM3 https://t.co/bShO2wLp0s",
+      "created_at": "Wed Sep 02 09:09:12 +0000 2026",
+      "favorite_count": 124,
+      "retweet_count": 20,
+      "reply_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 168,
+      "views": "11346",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRM1BiTakAA_AbS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095076564862165411"
+    },
+    {
+      "id": "2094996009718010218",
+      "text": "RT @Jackywine: 我靠，这个太牛了，最近准备研究一下 Grok @bot 这个网站收集了上千个玩法、模版和案例，还有 X 上最火的文章\n值得收藏慢慢看\nhttps://t.co/Q2uRy9Oq53 https://t.co/p2RBSTDEAy",
+      "created_at": "Wed Sep 02 03:49:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 8,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094983428685156352/img/yd5pcfhDUPwW05Wh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094996009718010218"
+    },
+    {
+      "id": "2094745011535712519",
+      "text": "https://t.co/iLmHNggsID 这个网站有点东西。\n\n收了 500+ 个 Grok Bot，完整 Prompt、Integration 都能直接看和复制。\n\nhttps://t.co/MggoGRRevK",
+      "created_at": "Tue Sep 01 11:11:43 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 12,
+      "quote_count": 1,
+      "bookmark_count": 12,
+      "views": "1307",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094745011535712519"
+    },
+    {
+      "id": "2094677007456194917",
+      "text": "md2wechat 3.4.0 发布。\n\n这版主要新增 MiniMax 图像生成，以及人物主体参考。\n\n给一张参考图，后续生成封面和配图时，可以尽量保持同一个人物形象。\n\n很适合个人品牌、人物故事和系列内容。\n\n感谢 octo-patch 提交 PR #21 🙌\n\nhttps://t.co/FcvTU7JAlz https://t.co/OAAYNp9hOd",
+      "created_at": "Tue Sep 01 06:41:30 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "813",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRHJoKobIAAlvud.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094677007456194917"
+    },
+    {
+      "id": "2094614433058427042",
+      "text": "国产投 Harness for GLM-5.3 - ZCode 一票",
+      "created_at": "Tue Sep 01 02:32:51 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 40,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1380",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094614433058427042"
+    },
+    {
+      "id": "2094347475494838284",
+      "text": "这个 explore-unknowns Skill 挺不错。\n\n用四象限把需求里的未知问题挖出来：\n\nKnown Knowns\nKnown Unknowns\nUnknown Knowns\nUnknown Unknowns\n\n我最喜欢一句：\n\nReacting beats imagining.\n\nhttps://t.co/gt1gDiQdIt https://t.co/FjT6BiQgZv",
+      "created_at": "Mon Aug 31 08:52:03 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 4,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 29,
+      "views": "1729",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRCd6USbcAAKQAv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094347475494838284"
+    },
+    {
+      "id": "2094310161045496167",
+      "text": "保姆级：https://t.co/lsiZbEWcNN",
+      "created_at": "Mon Aug 31 06:23:47 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "992",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094310161045496167"
+    },
+    {
+      "id": "2093278419513663997",
+      "text": "8月最最要的一个版本更新，随迟但到！md2wechat 3.3.0 发布。\n\n这版我继续把排版体验往前推了一步，优化了不少排版问题。\n\n77 个推荐排版场景\n56 个推荐语法\n新增章节标题、结语、收尾模块\n开头 Hero、CTA、结尾规则也更完整\n\n安装方式一条命令搞定：\n\nnpm install -g @geekjourneyx/md2wechat\n\nhttps://t.co/BghKKE1ibr",
+      "created_at": "Fri Aug 28 10:04:01 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "1000",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQzRiFxa0AAzZd0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093278419513663997"
+    },
+    {
+      "id": "2093269687174037700",
+      "text": "最近做模型评估做得有点多，开始对 Benchmark 分数产生一点复杂的感觉。\n\n分析了很多轮次，发现模型确实越来越聪明。\n\n但有时候我有一种错觉，到底是能力提高了，还是考试经验越来越丰富了。\n\n像 DeepSWE 这些公开测试集，题目、代码、评测方式现在研究起来也很方便。\n\n大多数做法是基于 harbor 分析轨迹和日志。\n\n我觉得模型跑久了以后，很可能连怎么在这种评测环境里拿高分都学会了。\n\n这种就发现了各种异常操作行为。\n\n看 git、找历史版本、搜 package、绕环境限制。。。\n\n有些明显属于作弊，有些又很难定义的。\n\n所以我现在看厂商 Benchmark，已经很少只看那个最终百分比了。\n\n感觉公开 Benchmark 后面会越来越像一场长期攻防。\n\nhttps://t.co/p3Yffp9qWQ",
+      "created_at": "Fri Aug 28 09:29:19 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "695",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQzJlIlbQAA2RY0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093269687174037700"
+    },
+    {
+      "id": "2093267166091247678",
+      "text": "RT @seekjourney: 翻了一下今年上半年做的东西，有几个项目居然都过 300 Star 了。\n\n还挺开心的。\n\n因为这些项目最开始基本都是我自己很需要。\n\n写公众号太麻烦，所以做了：\n\nmd2wechat-skill — 3.6k+\n\nhttps://t.co/Fc…",
+      "created_at": "Fri Aug 28 09:19:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093267166091247678"
+    },
+    {
+      "id": "2093167870746468827",
+      "text": "RT @kevinma_dev_zh: 独立开发做产品也有几个月了。虽然离自己真正想达到的目标还有很远，但最近也陆续有了一些阶段性的小成果，还是挺开心的。\n\n踩过一些坑，也慢慢改变了不少以前做产品的想法。分享几个我目前越来越确定的判断。\n\n1. 尽量做红海需求，谨慎碰蓝海\n\n以…",
+      "created_at": "Fri Aug 28 02:44:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 35,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2093167870746468827"
+    },
+    {
+      "id": "2092907774820937887",
+      "text": "发现 pro 高峰期完全不够用，继续↑max。 https://t.co/OSNtWUcHIk",
+      "created_at": "Thu Aug 27 09:31:12 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "693",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQuAhAobMAA3ZPf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092907774820937887"
+    },
+    {
+      "id": "2092883767589478533",
+      "text": "翻了一下今年上半年做的东西，有几个项目居然都过 300 Star 了。\n\n还挺开心的。\n\n因为这些项目最开始基本都是我自己很需要。\n\n写公众号太麻烦，所以做了：\n\nmd2wechat-skill — 3.6k+\n\nhttps://t.co/BghKKE1ibr\n\n经常要给文章做封面、分享图，所以做了：\n\nclaude-design-card — 460+\n\nhttps://t.co/sWEiBVrzUM\n\n上个月开始给项目做演示视频，发现从内容到分镜、动画这一步很麻烦，所以做了：\n\nHyperFrames Motion Director — 390+\nhttps://t.co/fsF5TAXvz7\n\n每天让 Agent 查资料，又不想反复处理网页，所以做了：\n\njina-cli — 300+\n\nhttps://t.co/NsbVNxHx1u\n\n回头看还挺有意思。\n\n这些项目一开始都没有特别大的规划。\n\nhttps://t.co/V3Zda8eYw9",
+      "created_at": "Thu Aug 27 07:55:48 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 3,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "853",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092883767589478533"
+    },
+    {
+      "id": "2092584339326537963",
+      "text": "zcode 体验确实不错，已经把之前 v2 版本的 lite 套餐升级到年订阅 pro，作为 gpt pro 额度不够时的备用方案。\n\nhttps://t.co/3M0TQOvO3W https://t.co/VfhJyPTH2a",
+      "created_at": "Wed Aug 26 12:05:59 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1590",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQpaXH4bIAICEDi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092584339326537963"
+    },
+    {
+      "id": "2092520117137719794",
+      "text": "这两天我也在看 Apodex。\n\n我觉得它真正适合的，可能还不只是 Deep Research。\n\n比如尽调、行业研究、数据分析、论文资料整理，甚至接手一堆历史文档重新做判断。\n\n我又翻了下他们开源的 FrontierAgent，确实不是简单套几个 Agent 并行跑。\n\nhttps://t.co/qtB4jnU4fM",
+      "created_at": "Wed Aug 26 07:50:47 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 1,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 22,
+      "views": "2086",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092520117137719794"
+    },
+    {
+      "id": "2092458123726618826",
+      "text": "计划再给 md2wechat 设计一套精选主题。\n\n在对比度，阅读体验上研究一下。\n\nhttps://t.co/FcvTU7JAlz https://t.co/qNIG1JN5dP",
+      "created_at": "Wed Aug 26 03:44:27 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 1,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "1012",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQnnkKPbcAAbVyk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092458123726618826"
+    },
+    {
+      "id": "2092427936402166141",
+      "text": "RT @seekjourney: 分享一个我自己藏了很久的 GitHub 宝藏工具：\n\nSondar\n\nhttps://t.co/Nkz2hzpWIf\n\n它不是拿来刷 Trending 的。\n\n我主要用它找 GitHub 上正在发生的真实变化和行为信号。\n\n哪里开始出现真实需求…",
+      "created_at": "Wed Aug 26 01:44:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092427936402166141"
+    },
+    {
+      "id": "2092235687953408135",
+      "text": "厉害啊！https://t.co/0xJYfMMnSm",
+      "created_at": "Tue Aug 25 13:00:34 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "520",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092235687953408135"
+    },
+    {
+      "id": "2092218148263211433",
+      "text": "我发现 GitHub 上最有价值的项目，可能是刚开始还没火，在过去一周已经有点不对劲的信号。\n\n所以我给自己做了一个工具：Sondar，专门找 github 真实信号。\n\nhttps://t.co/xE9m1AR5jJ\n\n我经常拿它找那些还没进入视野，已经出现真实信号的项目。\n\n用了挺长时间，每次跑都能捞到几个我完全没关注过的东西。\n\n今天正式开源。\n\n如果你平时也喜欢挖 GitHub，推荐试一把。",
+      "created_at": "Tue Aug 25 11:50:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "441",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092218148263211433"
+    },
+    {
+      "id": "2092207288920752385",
+      "text": "RT @AlloomiAI: https://t.co/vAc61h6mTK",
+      "created_at": "Tue Aug 25 11:07:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 178,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "zxx",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092207288920752385"
+    },
+    {
+      "id": "2092206319344488742",
+      "text": "md2wechat 8月份的一次重大升级要来了，这次真的要对标题，开场，结尾动手了。\n\n有几个用户反馈说标题太普通了，不够高级，这次经过调研和实测，决定来一次大升级。\n\n即将引来新的高级排版模块。\n\n1. section-title · 高级章节标题，各种精选文字符号自由组合。\n2. hero: masthead · 文章开场升级，更加专业。\n3. cta 、 closing、epilogue 文章结尾升级。\n\nhttps://t.co/aBu9Q8542h",
+      "created_at": "Tue Aug 25 11:03:52 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "views": "1536",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQkCfuhasAAT5_7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092206319344488742"
+    },
+    {
+      "id": "2092193355375763784",
+      "text": "最近看到的 Agent 项目里，Apodex 1.1 是我会继续往下看的一个。\n\n可能因为之前做过 industry-research：\n\nhttps://t.co/EcL9bTX0Tt\n\n当时自己折腾多 Agent，做下来才发现，并行本身没什么神奇的。真正费劲的是研究跑起来以后，前面的东西会不断影响后面的判断。\n\n所以看到 Apodex 在做异步 Agent Team，我第一反应不是又一个多 Agent，反而觉得它开始碰到了一些真正麻烦的问题。\n\n挺有意思，我准备研究看看。",
+      "created_at": "Tue Aug 25 10:12:21 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "421",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092193355375763784"
+    },
+    {
+      "id": "2092131666118770695",
+      "text": "分享一个我自己藏了很久的 GitHub 宝藏工具：\n\nSondar\n\nhttps://t.co/xE9m1AR5jJ\n\n它不是拿来刷 Trending 的。\n\n我主要用它找 GitHub 上正在发生的真实变化和行为信号。\n\n哪里开始出现真实需求，\n\n哪些还没火的项目值得提前关注一下。\n\n我自己经常用。\n\n最喜欢的一点是：\n\n每次跑，都能发现几个我原本完全没注意到的项目。\n\n今天正式开源。",
+      "created_at": "Tue Aug 25 06:07:13 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 3,
+      "reply_count": 2,
+      "quote_count": 2,
+      "bookmark_count": 26,
+      "views": "2053",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQi-WTGbUAAmKXn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092131666118770695"
+    },
+    {
+      "id": "2092079347746349275",
+      "text": "今天发现一个 DSH Plugin 搜索入口：\n\nhttps://t.co/o1wTO5vQ8x\n\n腾讯 SkillHub 做了一个专门的 DeepSeek Harness Plugin 广场。\n\n能搜、能分类，还能看安装数。\n\n对于研究 DSH 生态挺方便，收藏了。 https://t.co/LbprN64iga",
+      "created_at": "Tue Aug 25 02:39:20 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "528",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQiPEoSaoAAKgON.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092079347746349275"
+    },
+    {
+      "id": "2092078662371921956",
+      "text": "RT @indie_maker_fox: 🧩 分享一组营销技能库\n\nhttps://t.co/0Po2BfdxdT\n\n自测发现，效果真不错，它真的是太齐全了，SEO 审计、文案编写、转化率优化、冷启动邮件、竞品分析 等都支持。\n\n比如，你可以说，给我的网站做个SEO审计，帮我优…",
+      "created_at": "Tue Aug 25 02:36:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092078662371921956"
+    },
+    {
+      "id": "2091852524840239262",
+      "text": "RT @seekjourney: 我最近越来越喜欢把自己反复使用的工程方法直接写成 Skill。\n\n之前整理了一个合集：\n\ngeekx-skills\n\n第一批只有两个。\n\ngeekx-gate 负责砍掉过度设计。\n\ngeekx-grilling 负责在动手前，把真正影响结果的问…",
+      "created_at": "Mon Aug 24 11:38:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2091852524840239262"
+    },
+    {
+      "id": "2091844705084686370",
+      "text": "发现好几个模仿的网站，不过我发现一个挺容易忽略的设计。\n\noutbid 其实有两个排行榜：\n\nAll-time + Today\n\n你花的同一笔钱，会同时进入两个榜。\n\nAll-time 看你累计出了多少钱。\n\nToday 只看最近 24 小时谁花得最多。\n\n等于同一笔收入，被它拿来做了两次竞争。 https://t.co/P6HzZ7MCyT",
+      "created_at": "Mon Aug 24 11:06:56 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 20,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1240",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQe5aHZa0AAi78Y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091844705084686370"
+    },
+    {
+      "id": "2091823015285911738",
+      "text": "刚发完上一条，再看了一眼网站。\n\nTutti 已经第二了……\n\n第一名刚刚被 https://t.co/pPjeY8DoC5 用 $17,000 抢走。\n\n短短一会儿，第一名又涨了 $1,000。\n\nhttps://t.co/ncagyN3FsQ\n\n这个网站最有意思的地方，有注意力就有金主，双赢。\n\n发帖的时候，排行榜还在继续变化。。",
+      "created_at": "Mon Aug 24 09:40:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "449",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2091823015285911738"
+    },
+    {
+      "id": "2091711964821299673",
+      "text": "推荐两篇关于决策和心智模型的文章一起读。\n\n一篇讲框架：\n\nWhat Are Mental Models?\n\n一篇讲 7 个具体原则：\n\nThe Principles of Better Decisions\n\n第一性原理\n机会成本\n二阶思考\n复利\n激励\n概率思维\n逆向思考\n\n我觉得判断力很大一部分来自这些简单模型的反复使用。\n\n我之前翻译的中文版：\n\nhttps://t.co/DZbRsobJz1",
+      "created_at": "Mon Aug 24 02:19:29 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "868",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2091711964821299673"
+    },
+    {
+      "id": "2090757845708865766",
+      "text": "我最近越来越喜欢把自己反复使用的工程方法直接写成 Skill。\n\n之前整理了一个合集：\n\ngeekx-skills\n\n第一批只有两个。\n\ngeekx-gate 负责砍掉过度设计。\n\ngeekx-grilling 负责在动手前，把真正影响结果的问题一个个问清楚。\n\n这些规则都来自我自己做项目时经常遇到的问题。\n\n先把两个打磨好，再慢慢加。\n\nhttps://t.co/RwP7LQk1Uj",
+      "created_at": "Fri Aug 21 11:08:09 +0000 2026",
+      "favorite_count": 35,
+      "retweet_count": 3,
+      "reply_count": 23,
+      "quote_count": 0,
+      "bookmark_count": 30,
+      "views": "4683",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090757845708865766"
+    },
+    {
+      "id": "2090677733005357221",
+      "text": "RT @Apodex_AI: Most AI benchmarks test retrieval — can a model find the known answer? However, the hardest problems in science require disc…",
+      "created_at": "Fri Aug 21 05:49:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 700,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090677733005357221"
+    },
+    {
+      "id": "2090267069501870568",
+      "text": "最近一个月基于 Harbor 做了不同模型的 Benchmark，越觉得一个变化已经很明显：\n\n以前主要在测：\n\n模型答得对不对\n\n接下来会越来越需要测：\n\nAgent 是怎么把事情做对的，优化 Harness，拿轨迹，看过程。\n\n工具、证据、验证、修正，都会进入评测流程中。\n\nTRACES 算是这个方向一个很好的信号。",
+      "created_at": "Thu Aug 20 02:37:59 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "752",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090267069501870568"
+    },
+    {
+      "id": "2090035735579836575",
+      "text": "md2wechat-skill 突破 3.5k Stars了 ！\n\n这个项目从1月份开始开发，已经半年多了。\n\n最开始提供 API 服务。\n\n后来一路做着做着，东西越来越完整。\n\n从 skill 到 cli。\n\n半年多的时间，从一个自己的小工具，到 3.5k Stars、400+ Forks。\n\n最大的感受还是：\n\n真正值得长期做的产品，都是从一个真实的问题开始，反复用、反复改、一直打磨。\n\n下一阶段准备尝试适配刚开源的 DeepSeek Harness，做一个 dsh-plugin。\n\n看看能不能让 Agent 在 DSH 里直接完成排版，预览，发布到草稿箱。\n\nhttps://t.co/BghKKE1ibr",
+      "created_at": "Wed Aug 19 11:18:45 +0000 2026",
+      "favorite_count": 19,
+      "retweet_count": 3,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 34,
+      "views": "2330",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2090035735579836575"
+    },
+    {
+      "id": "2089921978614644888",
+      "text": "hyperframes-motion-director 突破 400 Stars 了 🎉\n\n这个项目我自己也挺喜欢：\n\n把文章、产品、网站、README，直接交给 Agent 做成 Motion Video。\n\n从内容 → 分镜 → 视觉 → 动效 → 视频，尽量把整条链路自动化了。\n\n目前在继续迭代中。\n\nhttps://t.co/tMJN8bMLn6 https://t.co/HPeVLLeySz",
+      "created_at": "Wed Aug 19 03:46:43 +0000 2026",
+      "favorite_count": 33,
+      "retweet_count": 5,
+      "reply_count": 24,
+      "quote_count": 0,
+      "bookmark_count": 41,
+      "views": "3272",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQDk81UbIAAUvvS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089921978614644888"
+    },
+    {
+      "id": "2088160546394886521",
+      "text": "漏了个 awesome 系列，永远的概念神。\n\nhttps://t.co/6X4w9RTNF6",
+      "created_at": "Fri Aug 14 07:07:25 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "2153",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088160546394886521"
+    },
+    {
+      "id": "2088148794764562731",
+      "text": "大家可能忽略了 DeepSeek Harness 昨天发布时的一个隐藏宝藏：\n\n.agents/skills/\n\n里面直接放了 11 个真实工程 Skill：\n\nCode Review、Pre-push Checks、找过度设计、Stacked PR、文档同步、双语翻译、CoT 泄漏清理，甚至还有自动录制 GUI PR 验收 GIF。\n\n看起来是 DeepSeek 把自己的：\n\n工程规范 + Review 方法 + Quality Gates + Agent SOP\n\n直接开源了一部分。\n\n做 Coding Agent / Harness 的，非常值得逐个拆。\n\nhttps://t.co/qe8OPbXw2r",
+      "created_at": "Fri Aug 14 06:20:43 +0000 2026",
+      "favorite_count": 451,
+      "retweet_count": 73,
+      "reply_count": 44,
+      "quote_count": 4,
+      "bookmark_count": 541,
+      "views": "40291",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqYP_ca8AA-CEi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088148794764562731"
+    },
+    {
+      "id": "2088089302807019994",
+      "text": "RT @FiniYang: DeepSeek Harness 内测结束\n有幸认识一群特别有意思的技术大佬\n问就是表情包收藏了好几页\n\n很荣幸 OpenPencil 作为第一批插件入驻 DSH\n插件名 dsh-openpencil\n希望大家支持 🤗\n咱们小黑鲸见～ 🐳\n\n“下次还…",
+      "created_at": "Fri Aug 14 02:24:19 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 20,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "11",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2088089302807019994"
+    },
+    {
+      "id": "2088088272790815194",
+      "text": "太快了！什么叫执行力。\n\nDeepSeek Harness 昨天刚发布。\n\n不到 2 小时，awesome-dsh-plugin 就有人建了。\n\n现在已经收录 129 个插件。\n\n只要看到新趋势，第一时间先看看这些位置还能不能占：\n\nawesome-xxx\nopen-xxx\nxxx-plugins\nxxx-guide\n\nhttps://t.co/vnjyEbO97i https://t.co/pkROC8o7DQ",
+      "created_at": "Fri Aug 14 02:20:13 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 7,
+      "reply_count": 17,
+      "quote_count": 0,
+      "bookmark_count": 25,
+      "views": "5353",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPphGrAaEAAgeXz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088088272790815194"
+    },
+    {
+      "id": "2087881398950707338",
+      "text": "今天看到一个非常值得思考的工程思路：\n\nBuild Wide, Ship Narrow。\n\n放在以前：\n\n软件开发大部分是先拆清楚功能，避免写错。\n\n现在某些场景可能变成：\n\n先做出来，帮助自己想清楚怎么拆。\n\n有点像走完地形以后，再画地图。\n\n我们理解问题的顺序正在发生变化，很多在以前在软件工程上不可逆，现在开始变得容易了。\n\nBuild Wide, Ship Narrow https://t.co/dqXSlSpfBd",
+      "created_at": "Thu Aug 13 12:38:11 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "633",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmlDsca0AAx8AJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087881398950707338"
+    },
+    {
+      "id": "2087872228021121458",
+      "text": "Decant 把 Claude Code / Codex 的本地 sessions 做成了一个挺舒服的分析界面。\n\n网站 UI 也挺舒服的。https://t.co/GNXc70brWC https://t.co/GM9JC4ETc2",
+      "created_at": "Thu Aug 13 12:01:44 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "476",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPmch_XacAA2YYd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087872228021121458"
+    },
+    {
+      "id": "2087797282360193347",
+      "text": "RT @vista8: 我和姚老师的新书已上架到微信读书。\n\n还没有收到纸质书或喜欢便携的朋友，可以读起来了！\n\n微信读书搜“AI领导力”，红色封皮那本就是。😁 https://t.co/EEdrEehU36",
+      "created_at": "Thu Aug 13 07:03:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "6",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPlTofsbgAAgEao.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087797282360193347"
+    },
+    {
+      "id": "2087738671634223478",
+      "text": "我每周都会看 Weekly Wisereads，这可能是我最近最想长期维护的一个仓库了。\n\nWeekly Wisereads 中文深读。\n\n它会每周自动发现 Readwise 最新一期，逐篇深读用户高亮最多的文章、视频和 PDF，区分热度、质量、证据与样本偏差，最终沉淀成一份 15–20 分钟的中文报告。\n\n具体做法是通过 GPT Scheduled Task 负责调度，Skill 定义方法，GitHub 保存状态与每期档案。\n\nhttps://t.co/csL54pTBPe",
+      "created_at": "Thu Aug 13 03:11:02 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 3,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "789",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPkjP0mbAAAou4X.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087738671634223478"
+    },
+    {
+      "id": "2087725922946617759",
+      "text": "昨天把自己的 GitHub 首页大升级了一遍。\n\n越来越觉得，持续做开源的人，GitHub 首页真的值得认真装修一下。\n\n项目是作品，Profile 是门面。\n\n开源影响力也是一点一点积累出来的。\n\n欢迎来逛逛，目前先突破 300 fo\n\nhttps://t.co/8AfPrBEsMl https://t.co/6J1bdvxRSK",
+      "created_at": "Thu Aug 13 02:20:22 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "758",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPkXAt2b0AAkY_d.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087725922946617759"
+    },
+    {
+      "id": "2087511942860812655",
+      "text": "今天从我的 HN 每日报告里捞到一个 5.2k star 的宝藏仓库：\n\nhttps://t.co/2pv7ThqSXz\n\n一个挺不错的动画生成 skill，我点进去发现 Text-to-Lottie Skill 和我做的 hyperframes-motion-director 很相近。\n\n看了了下 Skill 架构：很薄的一层 SKILL，按任务加载 recipe\n\n后续准备准备重点吸收 routing、taste、verifier 这几层，考虑把 Lottie 变成一种可编辑 motion asset。",
+      "created_at": "Wed Aug 12 12:10:05 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "475",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPhVB_WbkAAU4Nu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087511942860812655"
+    },
+    {
+      "id": "2087498275259904245",
+      "text": "我现在把 Hacker News 做成了自己的晨报，来自乔帮主之前推荐的rss信息源：https://t.co/3LLKQ1rNFE\n\n每天自动扫：\n\nnewest\nbestcomments\nfrontpage\n300+ points\n\n然后继续打开原文和评论区，目前我只留真正的强信号：\nAI 趋势、产品机会、商业模式、增长、定价、创业和产业变化。\n\n每天 10 点自动收到一份属于自己的技术 + 产品 + 商业雷达。",
+      "created_at": "Wed Aug 12 11:15:47 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "785",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPhIlQUb0AAun3v.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087498275259904245"
+    },
+    {
+      "id": "2087478064901177812",
+      "text": "RT @seekjourney: 发现一个宝藏仓库：firecrawl/anydoc。\n\n我之前文档转 Markdown 基本一直用微软的 \n\nmarkItdown，今天对比了一下，AnyDoc 看起来有点猛：\n\nRust 写的，本地纯解析\n\nWord / PPT / Exce…",
+      "created_at": "Wed Aug 12 09:55:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 12,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087478064901177812"
+    },
+    {
+      "id": "2087461205904679109",
+      "text": "VibeCafe 做得挺棒的啊，推荐大家来逛逛。\n\n我刚刚把 md2wechat 发布到了 https://t.co/rPg3Vt6oFH。\n\n之前以为只是一个 Vibe Coding 作品展示社区。\n\n现在还可以直接发布需求、找 Vibe Friends 接单协作。\n\n刚刚就刷到一个最新任务：原点学堂在线网课小程序 1w 收益。\n\n这个功能我觉得挺有意思的。\n\n大家有作品的可以发上去，有空也可以去看看有没有适合自己的单子。\n\nhttps://t.co/Dz8jY8QSTC",
+      "created_at": "Wed Aug 12 08:48:29 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "views": "951",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgkX0_bgAA4hnw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087461205904679109"
+    },
+    {
+      "id": "2087388426811351084",
+      "text": "今天 Hacker News 在讨论腾讯混元团队的 WorldClaw，论文里有个思路很值得学习一下：\n\n大世界不需要一次生成完整。\n\n先确定 global constraints，再按区域逐步补 local details。\n\n这个思路放到 Coding Agent 也很成立：\n\n先把架构和边界定住，再让细节逐层长出来。\n\n复杂任务，可能都该这么做。\n\n论文：https://t.co/obuc8wLwpn\nHN：https://t.co/TcQ3yWlDiT",
+      "created_at": "Wed Aug 12 03:59:17 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "660",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPfkpC9aUAA3NDN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087388426811351084"
+    },
+    {
+      "id": "2087385506124542010",
+      "text": "md2wechat 从 0 到接近 3k+ star：分享我做 GitHub 增长的 5 个心法\n\nhttps://t.co/HDmekhBTBq https://t.co/2mlrHkW8Vb",
+      "created_at": "Wed Aug 12 03:47:41 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "761",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPfiCzEbkAAp0d5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087385506124542010"
+    },
+    {
+      "id": "2087371829442945384",
+      "text": "关于做产品我的阶段性思考：克制，保持长期主义，做积累的事，做可复利的事。",
+      "created_at": "Wed Aug 12 02:53:20 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 21,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "2136",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087371829442945384"
+    },
+    {
+      "id": "2087365489307906086",
+      "text": "越来越觉得，保持克制，做有积累、能复利的事，依然很重要。\n\nmd2wechat-skill  3.5k Star 了。\n\n更让我开心的是，这个做了半年的项目，到现在每周依然能稳定带来不少的咨询客户。\n\n开源项目真正有意思的地方，可能就是：你今天写下的一行代码，半年后还有在用的。\n\n本月继续升级：\n\nObsidian 插件\n多平台发布\n\n还没用过的朋友，可以找我体验。\n\nhttps://t.co/aBu9Q8542h",
+      "created_at": "Wed Aug 12 02:28:08 +0000 2026",
+      "favorite_count": 64,
+      "retweet_count": 14,
+      "reply_count": 55,
+      "quote_count": 1,
+      "bookmark_count": 85,
+      "views": "9007",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2087365489307906086"
+    },
+    {
+      "id": "2087075847664751030",
+      "text": "发现 ChatGPT 网页端一个很好用的小技巧：\n\n可以直接设置定时任务。\n\n我现在每天早上 10 点，让它自动去看 Hacker News 的热点文章和高质量讨论，帮我过滤噪音、提炼真正值得关注的信号。\n\n设置也很简单：\n\n点击 「已安排」 → 输入你的需求 → 设置每天执行时间。\n\n这个功能特别适合固定的信息源监控。",
+      "created_at": "Tue Aug 11 07:17:12 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 13,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "1526",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPbIYo3bEAAUNTJ.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2087075847664751030"
+    },
+    {
+      "id": "2087025921475907595",
+      "text": "一个很多人忽略的冷知识：\n\n经常坐火车的，打开 12306 → 铁路会员，看一眼自己的积分。\n\n积分真的能换车票。\n\n我之前也没太当回事，后来发现居然攒了不少，已经实打实兑换过两张票了。\n\n常坐高铁的现在就去看看，可能你账户里已经躺着一张免费的车票了。 https://t.co/OmQUkNkx0R",
+      "created_at": "Tue Aug 11 03:58:49 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "467",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaa_SmakAAWj4p.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087025921475907595"
+    },
+    {
+      "id": "2085733828623294545",
+      "text": "RT @dashiAIxz: 发布几天突破了 1k star，今天会有一次非常好用的版本更新，团队内部也在高频使用迭代\n\n项目地址：https://t.co/hirpXa0ynC",
+      "created_at": "Fri Aug 07 14:24:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 11,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085733828623294545"
+    },
+    {
+      "id": "2085717890809102561",
+      "text": "发现一个宝藏仓库：firecrawl/anydoc。\n\n我之前文档转 Markdown 基本一直用微软的 \n\nmarkItdown，今天对比了一下，AnyDoc 看起来有点猛：\n\nRust 写的，本地纯解析\n\nWord / PPT / Excel / PDF / EPUB 等统一转 Markdown\n\n直接提供 Agent Skill\n\n官方 benchmark 中位转换只要 4.4ms 啊。。。\n\n非常适合 Agent 场景：文件丢进去，快速变成结构统一、LLM 可读的 Markdown。\n\nhttps://t.co/LPtLReYLiP",
+      "created_at": "Fri Aug 07 13:21:10 +0000 2026",
+      "favorite_count": 85,
+      "retweet_count": 12,
+      "reply_count": 27,
+      "quote_count": 1,
+      "bookmark_count": 103,
+      "views": "6883",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085717890809102561"
+    },
+    {
+      "id": "2085715537733312736",
+      "text": "今天一台 vps 服务器突然失联，SSH 完全连不上。\n\n我把报错、截图、执行结果丢给 GPT 搞定了。\n\n先找到系统没正常启动，修完之后又发现 DNS 还残留了问题，继续处理，最后彻底恢复。\n\n以前最耗时间的地方，不知道下一步该查什么。\n\n现在这个成本正在快速下降。 https://t.co/Pq8pORhQUC",
+      "created_at": "Fri Aug 07 13:11:49 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1246",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPHzNcPbMAAr3OP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085715537733312736"
+    },
+    {
+      "id": "2085605208386855157",
+      "text": "8 月继续肝 md2wechat。\n\n接下来一个重要方向：多平台发布。\n\n对于没有官方 API 的平台，准备基于 CDP + 浏览器自动化，把内容发布的最后一公里先跑通。\n\n目前看不是最优雅的方案， 算是比较现实的妥协方案了。\n\n这个月还有很多重要的事情要做，先聚焦，一件件干完。\n\n目标也立一个：\n\n 继续冲击 4K Star！力争做到公众号创作 CLI 第一\n\nhttps://t.co/BghKKE1ibr",
+      "created_at": "Fri Aug 07 05:53:25 +0000 2026",
+      "favorite_count": 54,
+      "retweet_count": 8,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 60,
+      "views": "3942",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085605208386855157"
+    },
+    {
+      "id": "2085574782079426874",
+      "text": "最近被一位开发者 follow，顺手点进他的 GitHub：\n\nhttps://t.co/NEzxKlwrVW\n\n卧槽，Profile 做得真精致。\n\n尤其是那套 SVG，已经不是 README 装饰了，Banner、终端、动效、渐变、数据卡片，整个 GitHub Profile 像一个个人网站。\n\n履历也挺丰富。\n\n最近正好想重新设计自己的 GitHub Profile，这个必须抄作业研究一下。",
+      "created_at": "Fri Aug 07 03:52:30 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "718",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085574782079426874"
+    },
+    {
+      "id": "2085352887077736471",
+      "text": "RT @oops073111: kbcut 正式开源出来，可以满足 AI 博主、知识博主的口播剪辑需求，让 AI 自动完成加字幕、特效和气口废话剪辑。\n\n整体推进自媒体 AI 获客内容创作进入“黑灯工厂”🐶\n\nKB Cut 的诞生离不开以下三个优秀开源项目的启发，在此特别致敬：…",
+      "created_at": "Thu Aug 06 13:10:46 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "18",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085352887077736471"
+    },
+    {
+      "id": "2084983492090417518",
+      "text": "想真正搞懂 Agent Harness，拆 Codex 源码就够了。",
+      "created_at": "Wed Aug 05 12:42:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "489",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2084983492090417518"
+    },
+    {
+      "id": "2084970940421791875",
+      "text": "我发现一个越来越普遍的现象啊。\n\nAI 写的 PPT，自己没完整过一遍，讲到关键地方突然卡住。\n\nAI 写的代码，功能能跑，别人追问一句为什么这么实现，自己还得回去翻。\n\n以前是代码不会骗人。\n\n现在变成代码认识我，我不认识代码。。。\n\n现在经常遇到说等我问一下 AI。。。\n\n最近强烈感受到效率越来越高，掌控感却越来越低。",
+      "created_at": "Wed Aug 05 11:53:03 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "444",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO9N948bAAAOQoR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084970940421791875"
+    },
+    {
       "id": "2084477171343753452",
       "text": "RT @OpenRouter: Introducing Ori Eval: the easiest way to write your first eval.\n\nThere's no definitive best model, only the best model for…",
       "created_at": "Tue Aug 04 03:11:00 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 50,
+      "retweet_count": 56,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -37,7 +1839,7 @@
       "text": "RT @li9292: 卧槽，刚刚发现了70000个手绘SVG开源库 https://t.co/q1ZZhl3JVr",
       "created_at": "Mon Aug 03 12:58:55 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 323,
+      "retweet_count": 328,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -62,7 +1864,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "469",
+      "views": "540",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -78,7 +1880,7 @@
       "reply_count": 6,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1406",
+      "views": "1463",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -90,7 +1892,7 @@
       "text": "RT @indie_maker_fox: 昨天推荐的 Otty 其实不是开源的，是我搞错了\n\n评论区有推友安利了更好的开源 Terminal：tty7\n\nhttps://t.co/splQTy8Py9\n\n我试用了一天，体验很稳，启动快、响应快，命令提示也很快\n\n颜值在线，还能和…",
       "created_at": "Fri Jul 31 05:25:50 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 7,
+      "retweet_count": 6,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -109,8 +1911,8 @@
       "retweet_count": 12,
       "reply_count": 37,
       "quote_count": 0,
-      "bookmark_count": 120,
-      "views": "8696",
+      "bookmark_count": 119,
+      "views": "8963",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -121,12 +1923,12 @@
       "id": "2082802476605137378",
       "text": "真有人把 FDE 写成了一本完整的开源书！来自我每周都会看的增长黑客 AI 周报。\n\n《增长黑客》作者范冰最近也在研究 Forward Deployed Engineer，直接让 AI 仿照《增长黑客》的全书框架，深度调研并生成了一本快速入门手册：\n\n《前置部署工程师：人工智能时代的客户价值交付秘籍》\n\n从 FDE 的起源、问题识别、客户交付、部署激活、续约扩张，一直写到规模化复制，还整理了案例和完整资料出处。\n\n免费开源，值得收藏：\n\nhttps://t.co/hJySK4gdQ0",
       "created_at": "Thu Jul 30 12:16:21 +0000 2026",
-      "favorite_count": 131,
-      "retweet_count": 30,
+      "favorite_count": 130,
+      "retweet_count": 31,
       "reply_count": 6,
       "quote_count": 0,
-      "bookmark_count": 130,
-      "views": "7857",
+      "bookmark_count": 125,
+      "views": "8150",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -136,8 +1938,7 @@
           "url": "https://pbs.twimg.com/media/HOeZyohbYAATEv2.jpg"
         }
       ],
-      "url": "https://x.com/i/status/2082802476605137378",
-      "pinned": true
+      "url": "https://x.com/i/status/2082802476605137378"
     },
     {
       "id": "2082745872727871886",
@@ -148,7 +1949,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "520",
+      "views": "545",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -164,12 +1965,12 @@
       "id": "2081987528337625484",
       "text": "过去半年开发了不少 CLI，Skills，Systems！\n\n我有一个新的判断，我们正在使用通用 Agent Harness，构建面向不同场景的领域 Harness。\n\n下半年行业趋势，我觉得应该用工程思维把 SOP、工具、验证器和交付标准组合起来，稳定交付结果。\n\nhttps://t.co/pBqPH2SkSS",
       "created_at": "Tue Jul 28 06:18:02 +0000 2026",
-      "favorite_count": 6,
+      "favorite_count": 5,
       "retweet_count": 0,
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "546",
+      "views": "565",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -180,12 +1981,12 @@
       "id": "2081969967713698071",
       "text": "一次看懂智能体循环的几个阶段！不得不说这个思考过程的运动质感是我看过最丝滑的。\n\n视频制作依然一刀未剪，一个提示词直出。\n\n思考动画来自这个项目：\n\nhttps://t.co/Oim5gDvo7R\n\n宣传片 Skill ：\n\nhttps://t.co/tMJN8bMLn6 https://t.co/Z3W4O8jnGi",
       "created_at": "Tue Jul 28 05:08:16 +0000 2026",
-      "favorite_count": 30,
+      "favorite_count": 31,
       "retweet_count": 5,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 29,
-      "views": "3748",
+      "views": "3815",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -206,7 +2007,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1445",
+      "views": "1466",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -222,7 +2023,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "1329",
+      "views": "1369",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -243,7 +2044,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "517",
+      "views": "537",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -254,12 +2055,12 @@
       "id": "2081680692208136492",
       "text": "突破300star，不能错过的宣传片 Skill，周末发布了 HyperFrames Motion Director v2.8.0，重点升级一批影响观感的细节：\n\n背景和视觉素材调整、叙事节奏、遮挡问题、字体适配，以及渲染成片验收。\n\n我用最近很火的 Vox 纸张拼贴风格，给 md2wechat 做了一支产品宣传片，发布到视频号后获得了官方流量推荐。\n\nGitHub：\nhttps://t.co/fsF5TAXvz7",
       "created_at": "Mon Jul 27 09:58:47 +0000 2026",
-      "favorite_count": 74,
-      "retweet_count": 14,
+      "favorite_count": 79,
+      "retweet_count": 15,
       "reply_count": 7,
       "quote_count": 2,
-      "bookmark_count": 119,
-      "views": "14617",
+      "bookmark_count": 126,
+      "views": "18790",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -280,7 +2081,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "695",
+      "views": "709",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -297,7 +2098,7 @@
       "text": "RT @seekjourney: 后悔知道晚了，通过我的 github 雷达发现一个宝藏仓库：video-shotcraft\n\n106 个镜头配方、162 种风格、161 个动态预览，还把分镜、运镜、节奏、音效和 Remotion 实现都整理成了 Agent Skill。\n\n最…",
       "created_at": "Mon Jul 27 02:39:09 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 222,
+      "retweet_count": 218,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -317,7 +2118,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "861",
+      "views": "874",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -333,12 +2134,12 @@
       "id": "2080624069742043176",
       "text": "后悔知道晚了，通过我的 github 雷达发现一个宝藏仓库：video-shotcraft\n\n106 个镜头配方、162 种风格、161 个动态预览，还把分镜、运镜、节奏、音效和 Remotion 实现都整理成了 Agent Skill。\n\n最近一段时间折腾剪视频，做了一个宣传片 Skill，看来我的 HyperFrames Motion Director，又可以升级一轮了。\n\nhttps://t.co/rv1hHnx7L8\n\n我的宣传片 Skill ：https://t.co/fsF5TAXvz7",
       "created_at": "Fri Jul 24 12:00:09 +0000 2026",
-      "favorite_count": 953,
-      "retweet_count": 222,
+      "favorite_count": 955,
+      "retweet_count": 218,
       "reply_count": 38,
       "quote_count": 4,
-      "bookmark_count": 1436,
-      "views": "78957",
+      "bookmark_count": 1417,
+      "views": "81301",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -358,8 +2159,8 @@
       "retweet_count": 7,
       "reply_count": 19,
       "quote_count": 0,
-      "bookmark_count": 55,
-      "views": "7792",
+      "bookmark_count": 53,
+      "views": "8278",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -375,12 +2176,12 @@
       "id": "2080263761282375706",
       "text": "再推荐一个好东西！非常适合研究 Coding Agent System Prompt 的项目：Phistory。\n\n它会归档 Claude Code、Codex、Kimi、OpenCode、Pi 等 Agent CLI 的系统提示词版本快照，并提供 Prompt Diff。\n\nSystem Prompt 本质上是 Harness 的控制平面。\n\n源码展示系统具备哪些能力，Prompt Diff 价值巨大。\n\n对于研究 Claude Code、Codex 和 Harness Engineering，非常值得收藏。\n\nhttps://t.co/YDHFmG0ohJ",
       "created_at": "Thu Jul 23 12:08:24 +0000 2026",
-      "favorite_count": 141,
+      "favorite_count": 140,
       "retweet_count": 26,
       "reply_count": 13,
       "quote_count": 1,
-      "bookmark_count": 212,
-      "views": "10047",
+      "bookmark_count": 210,
+      "views": "10402",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -401,7 +2202,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "517",
+      "views": "521",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -417,7 +2218,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "743",
+      "views": "752",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -433,12 +2234,12 @@
       "id": "2080173340787200360",
       "text": "最近朋友推荐一个非常适合学习 Agent Harness Engineering 的工具：claude-tap。\n\n它像是 Claude Code、Codex 等 Coding Agent 的本地可观测性平台，可以看到一次真实 Agent 运行中的：\n\nSystem Prompt\n对话历史与上下文\nTool Schema\nTool Call / Tool Result\n流式响应\nToken 用量\n相邻请求之间的结构化 Diff\n\n学习 Claude Code / Codex  Harness 的核心是运行时系统：上下文如何组装、工具如何注册、状态如何跨轮传递、请求如何持续演化。\n\n我觉得非常适合把源码和真实 Trace 对照着看，理解速度会快很多。\n\n强烈推荐给正在学习 Coding Agent、Agent Runtime 和 Harness Engineering 的朋友。\n\nhttps://t.co/Db6mczeJND",
       "created_at": "Thu Jul 23 06:09:06 +0000 2026",
-      "favorite_count": 280,
+      "favorite_count": 277,
       "retweet_count": 75,
       "reply_count": 6,
       "quote_count": 2,
-      "bookmark_count": 455,
-      "views": "44888",
+      "bookmark_count": 446,
+      "views": "45698",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -459,7 +2260,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "493",
+      "views": "497",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
