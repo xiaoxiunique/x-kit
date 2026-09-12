@@ -7,15 +7,381 @@
     "nickname": "BOYSO",
     "profile_url": "https://vibeloft.ai/profile/BOYSO"
   },
-  "generated_at": "2026-08-04T20:01:54.889585Z",
+  "generated_at": "2026-09-12T06:00:10.953811Z",
   "stats": {
-    "tweet_count": 99,
-    "latest_tweet_created_at": "2026-08-04T02:59:33Z",
-    "latest_tweet_id": "2084474291782103320",
+    "tweet_count": 118,
+    "latest_tweet_created_at": "2026-09-10T08:08:21Z",
+    "latest_tweet_id": "2097960354580250678",
     "oldest_tweet_created_at": "2014-06-27T02:57:23Z",
     "oldest_tweet_id": "482356993223442433"
   },
   "tweets": [
+    {
+      "id": "2097960354580250678",
+      "text": "https://t.co/Rg0QDlq2ck 这个是你的哈，真不错。\n（另外为啥你主页还会有气球？生日？ https://t.co/HrDniQlfH7",
+      "created_at": "Thu Sep 10 08:08:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "304",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1zf3WaYAEvqvT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097960354580250678"
+    },
+    {
+      "id": "2097952061082279979",
+      "text": "Chrome的收藏夹什么时候才能像notion一样加上个备注啊。 https://t.co/Nu96bEC7fM",
+      "created_at": "Thu Sep 10 07:35:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1524",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1sRlWaUAAzC2V.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2097952061082279979"
+    },
+    {
+      "id": "2097538596064653725",
+      "text": "今天听朋友开玩笑说，OPC一人公司，很多人会贷款充 Token....",
+      "created_at": "Wed Sep 09 04:12:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "28",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097538596064653725"
+    },
+    {
+      "id": "2096834654053822923",
+      "text": "Guys, Codex’s 5-hour reset is driving me crazy.\n\nEvery time I hit the limit, I have to wait 5 hours before I can keep coding. I’ve literally gotten out of bed in the middle of the night just to type “Continue” into Codex.\nI just want to sleep. 🤣\n\nSo I used Codex to build a tiny tool that keeps pushing Codex to get back to work:\n\nCodex Reset\nIt automatically tracks your usage and reset time. As soon as the timer resets, it automatically types “Continue” and hits Enter for you. 🎉\n\nNow Codex can keep working while I sleep.\nGood night, Makka Pakka. 🌙\n\n👀 Download Codex Reset:\nhttps://t.co/d5nzk8nP12\n\n👉 Open source on GitHub:\nhttps://t.co/XM63jUksg6",
+      "created_at": "Mon Sep 07 05:35:13 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "319",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRlzkXlbMAAszB8.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRlzlwMbgAAs9Vn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096834654053822923"
+    },
+    {
+      "id": "2096244496577310760",
+      "text": "Kimi 3 简直就是价格刺客，我就跑了一个小功能，烧了我100多块钱，相当于 Codex的 plus 月费用... 再对比Deepseek-V4-Pro/flash多个项目狂跑大功能，命中率都超高，性价比甩 Kimi 不止几条街。 https://t.co/BpcFy6UQ1Z",
+      "created_at": "Sat Sep 05 14:30:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "66",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdauOvaUAATsKJ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRda8hGbgAA81tm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096244496577310760"
+    },
+    {
+      "id": "2095531327382798533",
+      "text": "OpenAI、Cloudflare、Cursor 突然全线崩了，国外不仅限制5小时用量，现在还强制让大家好好去睡觉了。",
+      "created_at": "Thu Sep 03 15:16:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "186",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095531327382798533"
+    },
+    {
+      "id": "2095530125886730458",
+      "text": "超棒，已购！！！",
+      "created_at": "Thu Sep 03 15:11:29 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "205",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095530125886730458"
+    },
+    {
+      "id": "2092431919694876677",
+      "text": "为什么不用AI，还在手搓",
+      "created_at": "Wed Aug 26 02:00:19 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "47",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2092431919694876677"
+    },
+    {
+      "id": "2092083481186881730",
+      "text": "最近由@s1dashu开源的矢量IP logo头像skill挺火的，还有Grok Bot的动画生成器，我整理了一些做得挺好的：\n\n3D 动画版IP logo头像制作器 @yijie4188y：\nhttps://t.co/MpK2otXSmm\n\n3D 静态 IP logo 头像 @yijie4188y\nhttps://t.co/rlrX49bqJh\n\nGrok Bot icon制作器 @worlz_\nhttps://t.co/z0LoqpQ0xU\n\n静态矢量IP logo 头像 @s1dashu\nhttps://t.co/BOMqFjHjqK",
+      "created_at": "Tue Aug 25 02:55:45 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "250",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092083481186881730"
+    },
+    {
+      "id": "2092077604107133016",
+      "text": "MasterGo 今天通知所有初创免费版的权益再收紧，设计师群里就炸了，尤其草稿箱文件数限制10个，谁还没有个几十上百个草稿文件。\n\n🎃变更范围\n草稿箱文件数：不限->10个\n图层数/页:不限->1w\n页数/文件：不限->3页\n文件历史版本保存期限：永久->30天\n团队人数：不限->3人\n查看者不再支持标注模式\n\n目前不动团队版的权益。\n\n最近MG全力推MG里嵌入的AI产品【快搭】，\n但生成效果目前还很一般，模型不行，积分性价比也不高。\n\n现在所有产研团队都在大力搞跳过UI，产品原型+UI+前端都让产品经理全撸得了，省钱省力，老板最爱，大量AI  Agent与AI infa、脚手架也让【等UI在MG上画完图再开发】的必要性持续减弱(我部门也开始在优化不玩AI的了)。\nMasterGo 需要尽快转化团队版创收，让收益最大化，产生更多的团队版用户去玩【快搭】与MCP，重回创造力模式，当然这不太现实，毕竟他们的社区都搞得一般般...\n\n另，除非MG转型从设计Saas转全栈Paas模式，不然产品设计角色都不会继续依赖一个纯粹单一的「设计工具」。",
+      "created_at": "Tue Aug 25 02:32:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "121",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQiIJ2ObMAArwAa.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2092077604107133016"
+    },
+    {
+      "id": "2090335775779168378",
+      "text": "当我拥有海量用户后，大家的重置时间密集到相当趋近时，我也可以发一条reset button的营销贴，不亏，营销高手！ https://t.co/ZVIA3BoZnb",
+      "created_at": "Thu Aug 20 07:11:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "80",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQJctqUb0AA8-9B.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2090335775779168378"
+    },
+    {
+      "id": "2089971833328288013",
+      "text": "fun!",
+      "created_at": "Wed Aug 19 07:04:49 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "42",
+      "lang": "qst",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2089971833328288013"
+    },
+    {
+      "id": "2088178800215437490",
+      "text": "我已不想厚脸皮蹭A社的冷屁股，暂时不用Claude code了，目前Codex GPT 5.6 sol  与Deepseek V4 pro 已足够我用了，Agent 与 长巡航跑任务都很好，Deepseek Harness 自动热插拔变形也很不错(还没空仔细玩)，这两个性价比就很高，Codex  偶尔还给重置用量，Deepseek V4 Pro 又是便宜到随便蹬，你告诉我为什么还要忘不了她？🤣\n\n推荐两个基于Codex 的Taskboard的项目，给所有项目的任务安排得更清晰。\n\nCodexBoard：\nhttps://t.co/Z6ivsJ2Xr5\nDashi Taskboard：\nhttps://t.co/peJ3sp0mqh",
+      "created_at": "Fri Aug 14 08:19:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "306",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqyFP2aMAAf8eb.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPqyKVwasAAOAeq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088178800215437490"
+    },
+    {
+      "id": "2088074538542419997",
+      "text": "到了染黄毛的年龄了",
+      "created_at": "Fri Aug 14 01:25:39 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088074538542419997"
+    },
+    {
+      "id": "2087837277737419263",
+      "text": "微信8月12日静悄悄的发布了大模型 WeLM，微信发大模型其实我们不惊奇，毕竟有能力在人类文明的历史上留名。\n\n这次发布的是两款大模型：WeLM-80B与WeLM-617B\n\n看介绍是主打微信聊天场景，调用小程序以及原生能力处理事项；\n\n但有意思的是，其实我也关注了微信派公众号，却没收到消息提醒，也没有看到新大规模版本的介绍，难道还在憋大招。\n\n其中在26年1月份已经内部发布过一套，WeLM-258B 模型，这次80B与617B的像是精简与完整版了。\nhttps://t.co/NNc0zHt1w1",
+      "created_at": "Thu Aug 13 09:42:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "79",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087837277737419263"
+    },
+    {
+      "id": "2087829665650188564",
+      "text": "Not AI. you made them real!",
+      "created_at": "Thu Aug 13 09:12:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "30",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087829665650188564"
+    },
+    {
+      "id": "2085637275027992989",
+      "text": "天天跟ChatGPT、Claude、Gemini唠嗑的可以试试这个赚零花钱的插件，「Chatwait」 会在 ChatGPT、Claude 和 Gemini 生成回复的空档显示广告。用户可以从符合条件的展示中获得 50% 的广告收入。（话说这种插入，google 居然给上架chrome应用商店，看来还没严管。\n\n体验搞起来：\nhttps://t.co/7CgWFLHVK0 https://t.co/dYIPsmgu0y",
+      "created_at": "Fri Aug 07 08:00:50 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "85",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPGo_c1bwAAQTby.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085637275027992989"
+    },
+    {
+      "id": "2085283198012137695",
+      "text": "😐今天刷到一些软文在推腾讯的 RabbitVis，比如'别再吹AI生图了，不能图层编辑的AI都是xxx'，声称支持图层生成与编辑，体验了下生成，对于专业设计用户来说是一脸懵逼，对于普通用户来说，这也是一脸懵逼，生图审美不行，所谓图层编辑，拆解图层并不惊艳... 拆完后内容都不一样了，可能适合没有任何设计能力，也不知道稿定设计，Canva，Figma这类画布类设计产品的用户吧... \n\n核心功能不成熟，倒是每日领积分，邀约送积分这套做得很完整(因为积分消耗也很夸张... \n\n反正黑推也有流量，吐槽一嘴，大家也可以去体验下，如果觉得好用的点，顺手喷我。\n\n体验和邀请注册送积分给我：\nhttps://t.co/28dIr6f8fT\n\n如果是要实现AI生成设计又兼顾图层可编辑，那我倒可以推荐 MasterGo AI 与 Vibe MCP 来画图，最起码是直接操作设计图层数据级别的，不是那种生图再去拆解图层，而且支持双向操作，生成设计稿也能生成项目代码，整体方案是基于可以融入研发工作流，all in one来想象可能性的，虽然绘制的设计品味浮动空间也大...\n企业用户有米的可以选择开个MasterGo 企业版+AI，没米的可以选择Vibe MCP + ClaudeCode/Codex/Trae等AI Native Agent，再配上自掏腰包充值的大模型，就也很香😎\n\n围观地址：https://t.co/aMkcyNl2eQ",
+      "created_at": "Thu Aug 06 08:33:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "280",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPBXSz4a4AACev7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085283198012137695"
+    },
+    {
+      "id": "2084898473447686231",
+      "text": "Cloudflare Pay正式发布，这是我的钱包：https://t.co/nhyCDGAuou\n大家还记得Openclaw吗，那时它能花主人的钱，但支付一直不顺畅，支付权限也过宽，我那时也想写个区块链钱包让agent 自己赚钱自己花。\n\n其实早早就传出 Cloudflare会推出 Agent pay，这次真的来了哈，欢迎各位大佬给我转钱测试😃\n\n认领自己的钱包：https://t.co/QdTm5rrvc4",
+      "created_at": "Wed Aug 05 07:05:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "264",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO8KPZEakAAID_D.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084898473447686231"
+    },
     {
       "id": "2084474291782103320",
       "text": "Figma终于带来了新的文件管理方式-【文件夹】，原来的「Project」改成了「Folders」，并且最多可嵌套 10 层，使用嵌套文件夹组织的 Figma 工作区，目前支持的所有文档模式都能塞进去，并且进行统一分享协作。\n将在几周内逐步推广至所有用户，这些变更适用于所有套餐的所有用户。\n\n产品博客介绍：\nhttps://t.co/LGwYPWjdLP\n\n功能介绍：\nhttps://t.co/7qYZjq40UK",
@@ -25,7 +391,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "30",
+      "views": "50",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +412,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "67",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -62,7 +428,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "64",
+      "views": "68",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -87,7 +453,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "63",
+      "views": "64",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -103,7 +469,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "97",
+      "views": "98",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -119,7 +485,7 @@
       "reply_count": 16,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "6386",
+      "views": "6406",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -271,7 +637,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "285",
+      "views": "286",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -336,7 +702,7 @@
       "text": "RT @AYi_AInotes: 这个日本老哥做的这款应用太酷了，自家的胖猫会出来强制你休息，\n等我研究下给自家的几只猫都安排上哈哈哈 https://t.co/d546fRnG7d",
       "created_at": "Tue Apr 28 01:54:13 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 109,
+      "retweet_count": 107,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
