@@ -7,25 +7,638 @@
     "nickname": "Pavlova",
     "profile_url": "https://vibeloft.ai/profile/pavlova"
   },
-  "generated_at": "2026-08-05T01:01:20.289670Z",
+  "generated_at": "2026-09-12T11:00:11.302989Z",
   "stats": {
-    "tweet_count": 45,
-    "latest_tweet_created_at": "2026-07-24T15:19:04Z",
-    "latest_tweet_id": "2080674130614202794",
+    "tweet_count": 69,
+    "latest_tweet_created_at": "2026-09-10T22:42:26Z",
+    "latest_tweet_id": "2098180325960737216",
     "oldest_tweet_created_at": "2026-05-01T15:07:57Z",
     "oldest_tweet_id": "2050230752089195003"
   },
   "tweets": [
     {
+      "id": "2098180325960737216",
+      "text": "在不依赖外部显示器和有线网络的情况下让斐讯 N1 吃上了 Armbian ! \n整理了一下大致过程: https://t.co/roaXwqUW9l https://t.co/VlvgquCg5C",
+      "created_at": "Thu Sep 10 22:42:26 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "440",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR47StVbYAAT6_F.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098180325960737216"
+    },
+    {
+      "id": "2098104027573805092",
+      "text": "RT @Trans_Helper: TransSearch 发布更新\n更新内容：\n· AI伴读与要点总结\n· 更大的搜索范围\nand so on ……\n更多更新内容，欢迎自行体验\n至此，TransSearch 将正式与 Trans Prism 相融合。\nhttps://t.co…",
+      "created_at": "Thu Sep 10 17:39:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098104027573805092"
+    },
+    {
+      "id": "2097016899368267904",
+      "text": "后续: 感谢小气走? 的投喂 虽说不知道具体是谁但是非常感谢 😻 \n支付宝就不继续开通了 如果要因为这个改变事件性质好像完全没有必要 () https://t.co/TEUU0P00SA",
+      "created_at": "Mon Sep 07 17:39:24 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "892",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRoX8yKa8AA3rCl.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRoYKgvagAARfHD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097016899368267904"
+    },
+    {
+      "id": "2096683264509673554",
+      "text": "上海之旅结束！很开心的一次出行。\n第一次自己参加线下活动，也是第一次和这么多朋友见面。\n在 PyCon 之外，参观了外滩、科技馆等景点，逛大悦城和龙之梦……亲眼见到了许多次此前未曾见到的事物。\n很快我又会回到平常的生活，但这段美好而短暂的记忆，会一直留在我的心中，让我不断前进。 https://t.co/bsRyzQsKpW",
+      "created_at": "Sun Sep 06 19:33:39 +0000 2026",
+      "favorite_count": 48,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1195",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRjqT9OawAAd1A0.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRjqT9NbUAAJmUT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRjqT9OaEAAwfiM.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRjqT9HakAAzFQg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096683264509673554",
+      "pinned": true
+    },
+    {
+      "id": "2096471805913596367",
+      "text": "和千草茶一起吃午餐 ! \n被送了一碗罗宋汤 可惜我时间赶没能多聊几句 () https://t.co/xBFxsuoJyf",
+      "created_at": "Sun Sep 06 05:33:23 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "583",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRgp_A4bUAAFPss.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRgp_A2boAAx-Cu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096471805913596367"
+    },
+    {
+      "id": "2096441526071255487",
+      "text": "RT @ZhaoQie888: PyCon2026\n发生在Shanghai最好的季节～ https://t.co/Fhy5TU59RZ",
+      "created_at": "Sun Sep 06 03:33:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdZDxNbwAIJypd.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdZDxRaAAEPdvN.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdZDxYaUAAuoqx.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdZDxMaoAATPKC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096441526071255487"
+    },
+    {
+      "id": "2096146446756217087",
+      "text": "第一次线下面基 🥰\n(只有这个铸币没点开自己主页 https://t.co/z7ZEpnxQdu",
+      "created_at": "Sat Sep 05 08:00:32 +0000 2026",
+      "favorite_count": 58,
+      "retweet_count": 2,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1794",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRcCEuobkAAtAVB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096146446756217087"
+    },
+    {
+      "id": "2096095756818239577",
+      "text": "RT @tcdwww: 一口气贴了俩！\n@pavlova233 @aoidailylife https://t.co/odev5hRYiI",
+      "created_at": "Sat Sep 05 04:39:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbPZ1QbsAAWIF1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096095756818239577"
+    },
+    {
+      "id": "2095831064623378839",
+      "text": "静安大悦城 \n没预约错过了孤独摇滚快闪 () https://t.co/LxUjjQToU3",
+      "created_at": "Fri Sep 04 11:07:19 +0000 2026",
+      "favorite_count": 28,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "664",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRXjPNYbEAAQ0cd.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRXjPNYb0AAJzKP.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRXjPNfawAAUjIr.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRXjPNZaQAEBDWU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095831064623378839"
+    },
+    {
+      "id": "2095759315298886097",
+      "text": "已入侵上海 https://t.co/R2UsT7oWPS",
+      "created_at": "Fri Sep 04 06:22:12 +0000 2026",
+      "favorite_count": 34,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "453",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRWh-9qbQAAnQhS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095759315298886097"
+    },
+    {
+      "id": "2094444867003032013",
+      "text": "RT @kurogaki0311: 死にたい気持ちは、俺にもわかるよ。",
+      "created_at": "Mon Aug 31 15:19:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1752,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "ja",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094444867003032013"
+    },
+    {
+      "id": "2094427351362990177",
+      "text": "Stripe Alipay 🤔\n没被秒拒 好像有机会 \n我试试给网站加个支持页面 https://t.co/U6RvAeBdJE",
+      "created_at": "Mon Aug 31 14:09:27 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1819",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRDi97LaUAAgtUY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094427351362990177"
+    },
+    {
+      "id": "2091134570179809324",
+      "text": "脑子一热买了美区的 Apple Music 订阅 价格和大陆差了快 7 倍 \n忽然发现 X Premium 的定价也不是不能接受 (? https://t.co/ItL8XbbzUO",
+      "created_at": "Sat Aug 22 12:05:07 +0000 2026",
+      "favorite_count": 24,
+      "retweet_count": 0,
+      "reply_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1610",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQUzzavaAAILs_s.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091134570179809324"
+    },
+    {
+      "id": "2089565466109059276",
+      "text": "十三香 \n首次也是最后一次同框 https://t.co/vSDH76XyBQ",
+      "created_at": "Tue Aug 18 04:10:04 +0000 2026",
+      "favorite_count": 41,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "2023",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP-gt7taIAA9Pik.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP-gt5WaQAApXgL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089565466109059276"
+    },
+    {
+      "id": "2089315118366834733",
+      "text": "无缘 T1000 \n明年再见 (或是再也不见? https://t.co/XYMZs5ruoY",
+      "created_at": "Mon Aug 17 11:35:16 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1010",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP69BxbaQAACMEP.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP69ByBa4AANWPn.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP69BxhaQAA1EA6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089315118366834733"
+    },
+    {
+      "id": "2089214636080197928",
+      "text": "已严肃退订",
+      "created_at": "Mon Aug 17 04:55:59 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "930",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2089214636080197928"
+    },
+    {
+      "id": "2088297457742749895",
+      "text": "eSIM 初尝试 (似乎还不错?\nESTKme C (70 HKD) + ClubSim (53 HKD) https://t.co/InBc9bIUHp",
+      "created_at": "Fri Aug 14 16:11:27 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "815",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPse9SZbYAAd6Nn.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPse9b9bMAAlJCs.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPse98-agAAiEIO.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPse-YhbMAAkJn_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088297457742749895"
+    },
+    {
+      "id": "2088279341583212784",
+      "text": "实在没米了 1k 预出台之前用的小米 13 😭 \n12+512G 功能一切正常 在售后换过电池和电源键 其余全原 \n成色见图 边框有些小磕碰 (以及充电口附近有划痕通病) \n有折腾的 Flyme (不是 luluz) 和白羊的高级设置权限 感兴趣可以自己折腾 \n如果要刷指定包 (类原生或酷安板块下现有的 ROM) 也可以提前让我刷好 https://t.co/ia3yq59j11",
+      "created_at": "Fri Aug 14 14:59:28 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1122",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsO_gLaIAALDT2.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsO_LVaEAE1KWQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsO_m2acAAQprt.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPsO_NbaYAAvO4q.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2088279341583212784"
+    },
+    {
+      "id": "2087798692782944601",
+      "text": "拜拜 https://t.co/hC2spka05k",
+      "created_at": "Thu Aug 13 07:09:32 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 1,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "652",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPlZ1hfaIAAP6PW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087798692782944601"
+    },
+    {
+      "id": "2087697749160669405",
+      "text": "RT @galaxy1025850: 我也发表个爆论。要想生活幸福，推上的鱼鱼和紫砂真得少看\n我们当然要对他人的不行报以同情，对值得的人施以援手\n但人间苦难是看不完、道不尽的。相反，越关注这类内容，平台越给你推这些内容\n可是，你的注意力和大脑是有限的。这样的情绪的传染性远超你的…",
+      "created_at": "Thu Aug 13 00:28:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 5,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087697749160669405"
+    },
+    {
+      "id": "2087551910287130902",
+      "text": "https://t.co/ntes8vu10a",
+      "created_at": "Wed Aug 12 14:48:54 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "307",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPh5Y3KboAA9vAo.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPh5Y3-a4AAd93u.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPh5Y3BagAEHePm.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPh5Y38bEAAuBxq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087551910287130902"
+    },
+    {
+      "id": "2087419973581013169",
+      "text": "香港故宫文化博物馆 https://t.co/VNfGKFxIUr",
+      "created_at": "Wed Aug 12 06:04:38 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "362",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgBZz3bwAArPIN.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgBZvcasAET7yA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgBZtRaIAAspfG.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPgBZxVbAAAK1Dc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087419973581013169"
+    },
+    {
+      "id": "2087173608582078906",
+      "text": "维港 https://t.co/w82mKgkuiP",
+      "created_at": "Tue Aug 11 13:45:40 +0000 2026",
+      "favorite_count": 21,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "436",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPchVQubMAAUeS4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPchVQdaEAEEalk.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPchVQtacAA3tXA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPchVQuaYAEcTyA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087173608582078906"
+    },
+    {
+      "id": "2087008662221111687",
+      "text": "深圳北站 https://t.co/m3HXbmuys6",
+      "created_at": "Tue Aug 11 02:50:14 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "378",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaLS6faoAAloY4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaLS8bb0AAkUEH.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaLS9vaEAAMdiW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaLS6hb0AEeIBY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087008662221111687"
+    },
+    {
       "id": "2080674130614202794",
       "text": "温水煮青蛙，令人感叹。\n一加再次收紧了 BL 解锁政策，已支持深度测试的设备将于 9 月优先采用。影响 ColorOS 16 以上设备。\n需要账号注册满 60 天，且通过实名、人脸认证等方可加入深度测试，通过后资格保留 14 天；且存在名额上限与解锁设备数限制。\nhttps://t.co/jyfrFjshOz https://t.co/UZr5bfXW5e",
       "created_at": "Fri Jul 24 15:19:04 +0000 2026",
-      "favorite_count": 25,
+      "favorite_count": 24,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1527",
+      "views": "1684",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,12 +654,12 @@
       "id": "2079598690042626528",
       "text": "成年了 (不知道为什么似乎没法公开展示生日信息 www https://t.co/fNuQWCEDga",
       "created_at": "Tue Jul 21 16:05:39 +0000 2026",
-      "favorite_count": 121,
+      "favorite_count": 113,
       "retweet_count": 0,
-      "reply_count": 77,
+      "reply_count": 75,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "3505",
+      "views": "3612",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +696,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "2485",
+      "views": "2621",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -99,12 +712,12 @@
       "id": "2077037684951073020",
       "text": "选 1 还是选 2 https://t.co/2zkmfVevS8",
       "created_at": "Tue Jul 14 14:29:08 +0000 2026",
-      "favorite_count": 12,
+      "favorite_count": 13,
       "retweet_count": 0,
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "443",
+      "views": "483",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -120,12 +733,12 @@
       "id": "2075920667074347488",
       "text": "交了自己的第一个正式 PR (?\n虽然没什么大改动 但是能给自己喜欢的项目做点贡献真的很有成就感呢 https://t.co/P3F3hFGyEa",
       "created_at": "Sat Jul 11 12:30:30 +0000 2026",
-      "favorite_count": 24,
+      "favorite_count": 23,
       "retweet_count": 0,
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "700",
+      "views": "738",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -146,7 +759,7 @@
       "reply_count": 7,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1267",
+      "views": "1305",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -174,12 +787,12 @@
       "id": "2074078143821066682",
       "text": "哔哩漫游无了? 🥲 https://t.co/yaU0eB7dq0",
       "created_at": "Mon Jul 06 10:28:58 +0000 2026",
-      "favorite_count": 21,
+      "favorite_count": 20,
       "retweet_count": 0,
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "1471",
+      "views": "1565",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -195,12 +808,12 @@
       "id": "2073300985397825681",
       "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/DM9NAyLSoB",
       "created_at": "Sat Jul 04 07:00:49 +0000 2026",
-      "favorite_count": 21,
+      "favorite_count": 19,
       "retweet_count": 0,
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "745",
+      "views": "773",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -219,9 +832,9 @@
       "favorite_count": 12,
       "retweet_count": 0,
       "reply_count": 2,
-      "quote_count": 0,
+      "quote_count": 1,
       "bookmark_count": 0,
-      "views": "829",
+      "views": "971",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -251,10 +864,10 @@
       "created_at": "Tue Jun 30 14:30:12 +0000 2026",
       "favorite_count": 14,
       "retweet_count": 0,
-      "reply_count": 1,
+      "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1371",
+      "views": "1425",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -275,7 +888,7 @@
       "text": "RT @ttttk567: 千 fo &amp; 毕业🎓 抽奖喵～\n不知不觉 上弦月 就 有 1000 fo 啦！🎉\n昨天蓝 V 审核通过后，一堆人跑来关注我，还有好多 crypto 的朋友～\n那就趁着毕业+千粉，一起抽奖庆祝吧！\n参与方式（三选都要做）：\n✅ 关注我\n✅ 转发本帖\n✅…",
       "created_at": "Sun Jun 28 17:13:37 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 6,
+      "retweet_count": 5,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -344,12 +957,12 @@
       "id": "2070490918424301832",
       "text": "imsyy 这个主页可定制性真的很高，自己小改了一下。\n感谢 @Ak1raQ_love 给的樱花特效，搭配合适的壁纸真的好看。\n更换了各处使用的图标 (自认为 Material 比 Fa 图标要耐看不少)。\n剩下是一些小改动，移除了天气获取失败的提示 (自己没有合适的 API)，替换为农历显示。另尝试修复 PWA 图片缓存策略。 https://t.co/BzPevXIh4T",
       "created_at": "Fri Jun 26 12:54:37 +0000 2026",
-      "favorite_count": 28,
+      "favorite_count": 27,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "512",
+      "views": "567",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -369,12 +982,12 @@
       "id": "2070214922018152830",
       "text": "自己不太想用 NGL，加上 mond 无人问津，于是尝试 Vibe Coding 捏了一个匿名提问箱。😋\n只用了 CodeX 的免费额度和 OpenCode + Deepseek V4 Flash Free，全程没花一分钱。\n欢迎来提问或者测试功能。代码已开源在 GitHub，可自行将其部署在 Cloudflare Workers 使用。\n地址: https://t.co/bk7R09s5KU",
       "created_at": "Thu Jun 25 18:37:54 +0000 2026",
-      "favorite_count": 18,
+      "favorite_count": 17,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "489",
+      "views": "546",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -418,12 +1031,12 @@
       "id": "2069661253019287831",
       "text": "真的没想到会这么糟糕......\n虽说自己的确没怎么努力就是了，这也许就是自作自受吧。",
       "created_at": "Wed Jun 24 05:57:49 +0000 2026",
-      "favorite_count": 20,
+      "favorite_count": 19,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "348",
+      "views": "371",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -434,12 +1047,12 @@
       "id": "2069660847920849138",
       "text": "我对不起关心我的所有人。辜负了你们的期望。对不起。",
       "created_at": "Wed Jun 24 05:56:13 +0000 2026",
-      "favorite_count": 23,
+      "favorite_count": 22,
       "retweet_count": 0,
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "333",
+      "views": "356",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -450,12 +1063,12 @@
       "id": "2069394888584736927",
       "text": "从厦门回来了。\n这两天和朋友参观了厦大与集美学村，很是羡慕那儿的校园环境，比自己待过的学校要好上不少，让我对未来的大学生活有了一些不切实际的幻想。可惜自己以后应该没机会碰到什么好的学校了。\n大概明天就会出高考成绩，希望能有一个令自己满意的结果吧，给我的高中生活画上圆满的句号。 https://t.co/1IaY0Mze5J",
       "created_at": "Tue Jun 23 12:19:23 +0000 2026",
-      "favorite_count": 39,
+      "favorite_count": 38,
       "retweet_count": 2,
       "reply_count": 7,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1242",
+      "views": "1334",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
