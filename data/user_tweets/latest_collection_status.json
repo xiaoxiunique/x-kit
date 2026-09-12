@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T06:00:10.964918Z",
+  "generated_at": "2026-09-12T07:00:04.964692Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1603,13 +1603,13 @@
       "vibeloft_username": "erian",
       "vibeloft_nickname": "Erian",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/erian",
-      "started_at": "2026-08-04T21:00:38.394142Z",
+      "started_at": "2026-09-12T07:00:04.378502Z",
       "data_file": "data/user_tweets/vibeloft/oopserian.json",
       "stop_on_existing": true,
       "handle": "oopserian",
-      "updated_at": "2026-08-04T21:01:15.423243Z",
-      "completed_at": "2026-08-04T21:01:15.421039Z",
-      "completed_at_local": "2026-08-05T05:01:15.421088+08:00",
+      "updated_at": "2026-09-12T07:00:04.964682Z",
+      "completed_at": "2026-09-12T07:00:04.963106Z",
+      "completed_at_local": "2026-09-12T15:00:04.963135+08:00",
       "history_complete": true,
       "pages_collected_total": 1,
       "new_tweets_last_run": 0,
