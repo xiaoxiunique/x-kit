@@ -7,15 +7,3559 @@
     "nickname": "Zayn Hao",
     "profile_url": "https://vibeloft.ai/profile/zaynhao"
   },
-  "generated_at": "2026-08-02T14:01:58.574936Z",
+  "generated_at": "2026-09-13T00:00:41.627794Z",
   "stats": {
-    "tweet_count": 809,
-    "latest_tweet_created_at": "2026-08-01T16:31:43Z",
-    "latest_tweet_id": "2083591516912751012",
+    "tweet_count": 987,
+    "latest_tweet_created_at": "2026-09-12T17:18:58Z",
+    "latest_tweet_id": "2098823699764060278",
     "oldest_tweet_created_at": "2025-11-05T00:20:12Z",
     "oldest_tweet_id": "1985864689126109598"
   },
   "tweets": [
+    {
+      "id": "2098823699764060278",
+      "text": "不光是提到的国外的这些大厂，国内的公司也有这个以公司身份公开发表言论，语言走合规，公关，审批的限制。",
+      "created_at": "Sat Sep 12 17:18:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "419",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2098823699764060278"
+    },
+    {
+      "id": "2098687824681992668",
+      "text": "minshot 截图工具，有一个手写风格的箭头，于是我做了这个：\n\n一个手绘风格的箭头图标。\n\n即将更新在下个版本中。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/yBQjR84pOB",
+      "created_at": "Sat Sep 12 08:19:03 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "2049",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098687450143236096/img/faTsZNSxUg1fMpU9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098687824681992668"
+    },
+    {
+      "id": "2098683832769937765",
+      "text": "Notion 移动端从 webview + 原生的技术方案，环卫纯原生的方式。\n\n我唯一有点儿担心的是，Notion 这么复杂的编辑器，能用原生写出来，达到 web 的体验吗",
+      "created_at": "Sat Sep 12 08:03:12 +0000 2026",
+      "favorite_count": 27,
+      "retweet_count": 1,
+      "reply_count": 20,
+      "quote_count": 0,
+      "bookmark_count": 23,
+      "views": "18537",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2098683832769937765"
+    },
+    {
+      "id": "2098617921568412048",
+      "text": "好好好，重置信息放到了最后一句话。\n\n在算力紧张的情况下还能重置，🫡",
+      "created_at": "Sat Sep 12 03:41:17 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1564",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2098617921568412048"
+    },
+    {
+      "id": "2098606333339775318",
+      "text": "本周回顾：\n\n我的小家伙们，和它们的 landing page。 https://t.co/QH7myz3LaT",
+      "created_at": "Sat Sep 12 02:55:14 +0000 2026",
+      "favorite_count": 29,
+      "retweet_count": 1,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "3049",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR-_LemaYAAtYHv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098606333339775318"
+    },
+    {
+      "id": "2098351612070908215",
+      "text": "当换上自己的图标库后，瞬间 UI 带来的感觉就不一样了。 https://t.co/xy7VdfDbE0",
+      "created_at": "Fri Sep 11 10:03:04 +0000 2026",
+      "favorite_count": 95,
+      "retweet_count": 2,
+      "reply_count": 40,
+      "quote_count": 1,
+      "bookmark_count": 67,
+      "views": "27752",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR7XgJnbgAASVSA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098351612070908215"
+    },
+    {
+      "id": "2098347254218391806",
+      "text": "它甚至还给配备了一个图标编辑器！ https://t.co/FVdBNFgJVz",
+      "created_at": "Fri Sep 11 09:45:45 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 24,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2990",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR7TmWmbAAAU8T6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR7TnoVbwAAD012.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098347254218391806"
+    },
+    {
+      "id": "2098344181022306480",
+      "text": "初步效果看着还行，Fable 5.1 绝对有点儿东西，我正在和它一同协作，打造自己的 Icon 资源库，可以用在我的 web 项目和 native 应用中。\n\n今年以来，几乎每个月 AI 模型的发展，都会发生一些令我震惊的感受。\n\n极大地扩宽了我的能力边界。\n\n就像人们常说现在每个工程师在拥有 AI 之后，都是 10 倍以上的能力提升。\n\n而落在独立开发者身上，可以说，过去需要一年才能打造出的产品，现在一个月可能就够了，也是 10 倍以上的速度提升。",
+      "created_at": "Fri Sep 11 09:33:32 +0000 2026",
+      "favorite_count": 21,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 1,
+      "bookmark_count": 14,
+      "views": "6632",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR7P7FMaAAAExAH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098344181022306480"
+    },
+    {
+      "id": "2098327035378840057",
+      "text": "不知死活的开始了，\n\n看看 Claude Fable 5.1 + GPT-6 Astra 能不能帮我搞定图标库的事儿...\n\n下面是我开始时写的“小作文” https://t.co/KgsvYSRQmz",
+      "created_at": "Fri Sep 11 08:25:24 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "4875",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR7BCUObUAASh6R.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098327035378840057"
+    },
+    {
+      "id": "2098311149989343680",
+      "text": "人太挑剔了还真不太行，\n\n一直对 SF Symbol 的视觉不太满意。而且随着功能的越来越无法使用已有图标来表达。但又不得不使用一个图标的时候。\n\n就想自己搞一套图标库，但是这实在是有点儿难。一想到要搞成百上千个，就头大。\n\n所以，有什么你最推荐的图标库嘛 https://t.co/qBlnTuogBe",
+      "created_at": "Fri Sep 11 07:22:17 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 19,
+      "quote_count": 1,
+      "bookmark_count": 35,
+      "views": "28827",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR6yYZqbEAAIx9l.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098311149989343680"
+    },
+    {
+      "id": "2098265621205299598",
+      "text": "分享一下我是如何维护多个项目的 landing page 的，其实做法多种多样，每种都行。\n\n我采用的是在我的个人项目的 web monorepo 中，每一个 landing page 都是一个独立的 web 应用，但是页面中的组件，是有单独的 package 来维护的。尤其我这些 landing page 还是复用性比较强的，所以，组件复用起来会快很多，也不需要精调 UI，只需要像写命题作文一样把首页的文案写一下就好了。\n\n之前也有想过在同一个应用中，然后多个子 path 来映射不同应用首页，也是可以的。",
+      "created_at": "Fri Sep 11 04:21:22 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 0,
+      "reply_count": 12,
+      "quote_count": 0,
+      "bookmark_count": 28,
+      "views": "4144",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR6JMCUaYAA0M2O.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098265621205299598"
+    },
+    {
+      "id": "2098083365316641187",
+      "text": "不错不错，这周内把我的4个 native 个人项目的 landing page 全部迁移到 Vercel。\n\n至此，我所有的个人项目的 web 网页相关，都在 Vercel 部署。\n\n https://t.co/7qj2U9Dn63",
+      "created_at": "Thu Sep 10 16:17:09 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 24,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "views": "8332",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2098083365316641187"
+    },
+    {
+      "id": "2098045197762564373",
+      "text": "接下来，我想我应该把右上角这个丑丑的设置面板 UI 给优化下。\n\n现在有点儿太粗糙了。属于能用级别。",
+      "created_at": "Thu Sep 10 13:45:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "751",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2098045197762564373"
+    },
+    {
+      "id": "2098031899658867161",
+      "text": "我的网站访问统计小工具，和我的几个个人项目。\n\n终于可以把它们放到同一个页面中了。\n\nhttps://t.co/XHG2RJ4fPk\n\nhttps://t.co/NTFzbWZbF9\n\nhttps://t.co/EjXxSVvcpQ\n\nhttps://t.co/VXXSr4DTDo\n\nhttps://t.co/wuStsi59IP\n\nhttps://t.co/iGXfmZ7Twe https://t.co/q16l6BnQwM",
+      "created_at": "Thu Sep 10 12:52:39 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 13,
+      "views": "2078",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2ys-TaIAA8IxF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098031899658867161"
+    },
+    {
+      "id": "2098030227246960868",
+      "text": "有点儿算是“为了点儿醋，包了个饺子”。\n\n不过也不完全算是，其实原本想分享的是为自己开发了一个自定义 mac 外接设备低电量通知的小功能。\n\n比如低于 30% 的时候，就通知我。\n\nmacOS 对本身电脑设备的电池低电量是有很好的内置实现，在电量低于 10% 时会提醒。但是对于外接的蓝牙设备，例如触控板、蓝牙键盘等，就没有很好的通知机制了。而我又不想每次都是很低电量才发现，遇到紧急场景再着急。\n\n另外，我经常遇到的一个场景是，周末去带电脑去咖啡厅开发一会儿自己的个人项目。但是我想留有 30% 的电量，以备不时之需。而不是等到系统内置的那个 10% 再提醒我。这个场景也很好用。",
+      "created_at": "Thu Sep 10 12:46:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1070",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2KJZhbgAAblTT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098030227246960868"
+    },
+    {
+      "id": "2097991737868444155",
+      "text": "备注是第一信息“公民”。\n\n在 https://t.co/XHG2RJ4fPk 中是这样被直接和保存的链接原信息一起呈现的。\n\n因为个人想法和收藏的内容同样重要，甚至更重要。 https://t.co/4fTB7oIxkK",
+      "created_at": "Thu Sep 10 10:13:03 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1331",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2QG-nboAAPX22.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097991737868444155"
+    },
+    {
+      "id": "2097983460573102103",
+      "text": "小产品，小小的 landing page。\n\n发布一个新产品：\n\nCleeen - 免费的 Mac 磁盘清理小工具。\n\nhttps://t.co/aYN8YreL5K https://t.co/0Q2oKzKoGe",
+      "created_at": "Thu Sep 10 09:40:10 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 43,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "3136",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2ICdaa4AAB0ix.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2IiIgbAAA4DIe.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2IoOVbMAARcQw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097983460573102103"
+    },
+    {
+      "id": "2097979415007580487",
+      "text": "小红书这个薯条小助手的 AI 消息，真是招笑，到底谁在信啊…\n\n“你的笔记差一步就爆了” https://t.co/NiB8FkHC86",
+      "created_at": "Thu Sep 10 09:24:05 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2278",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2FIYCakAAlL15.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2FIYAbMAAVjD5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097979415007580487"
+    },
+    {
+      "id": "2097969075905515924",
+      "text": "以防有人对我这张图中的背景壁纸感兴趣，\n\n我制作了一张稍微抽象化一点的 iPhone Duo 的壁纸，\n\n欢迎使用。 https://t.co/Iqd5pu39e9",
+      "created_at": "Thu Sep 10 08:43:00 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2664",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR17p6pagAAikZt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097969075905515924"
+    },
+    {
+      "id": "2097951414425452842",
+      "text": "这大概是第一款支持为图片添加 iPhone Duo 设备外壳的截图工具了吧！\n\nMinshot - macOS 原生截图并标注、图片压缩、录屏及编辑的三个一小工具。\n\n现已支持 iPhone Duo!\n\nhttps://t.co/XXPu5VysRQ https://t.co/m0Stl2tTCa",
+      "created_at": "Thu Sep 10 07:32:49 +0000 2026",
+      "favorite_count": 62,
+      "retweet_count": 5,
+      "reply_count": 55,
+      "quote_count": 3,
+      "bookmark_count": 33,
+      "views": "16850",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1qwHQacAI8JMu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097951414425452842"
+    },
+    {
+      "id": "2097887233911247087",
+      "text": "分享 9 条人生经验，来自前 GitHub CEO Nat Friedman 的个人博客\n\n还挺值得回味和参考的。\n\n当我们在工作中、创业时，甚至是独立开发时，都可以作为一本小书来作为反思。\n\nhttps://t.co/99ypcmJoYg https://t.co/jVe8dsPsGR",
+      "created_at": "Thu Sep 10 03:17:48 +0000 2026",
+      "favorite_count": 35,
+      "retweet_count": 2,
+      "reply_count": 26,
+      "quote_count": 0,
+      "bookmark_count": 59,
+      "views": "4025",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR0wwQFbMAArzJE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097887233911247087"
+    },
+    {
+      "id": "2097885502313738316",
+      "text": "尽量不要提供 50% 以上的内容都是 AI 写的文档给你的同事看。\n\n（50% 已经说的很客气了。",
+      "created_at": "Thu Sep 10 03:10:55 +0000 2026",
+      "favorite_count": 167,
+      "retweet_count": 10,
+      "reply_count": 107,
+      "quote_count": 6,
+      "bookmark_count": 16,
+      "views": "54006",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097885502313738316"
+    },
+    {
+      "id": "2097882936821551603",
+      "text": "Let's go. https://t.co/PyQYJabuYb",
+      "created_at": "Thu Sep 10 03:00:43 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "640",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR0tZtjbgAAfS7a.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097882936821551603"
+    },
+    {
+      "id": "2097875779338260628",
+      "text": "当初微软这个折叠设备的这个宣传视频中，为什么总是手持两个顶角在旋转。\n\n像是在杂技或魔术。😅",
+      "created_at": "Thu Sep 10 02:32:17 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 10,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3296",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097875779338260628"
+    },
+    {
+      "id": "2097875166001021379",
+      "text": "中文的 AI 回复太泛滥了。导致我现在每次看回复都是和做考试的判断题一样。\n\n我都分辨不出这是一条 AI 回复，还是人类回复了。",
+      "created_at": "Thu Sep 10 02:29:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1069",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097875166001021379"
+    },
+    {
+      "id": "2097873849891307957",
+      "text": "不是，这没有使用原生控制菜单的，适配起来就比较麻烦了 😂。",
+      "created_at": "Thu Sep 10 02:24:37 +0000 2026",
+      "favorite_count": 32,
+      "retweet_count": 0,
+      "reply_count": 48,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "21431",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097873849891307957"
+    },
+    {
+      "id": "2097836161041576045",
+      "text": "好看。 https://t.co/BnNbuMbriQ",
+      "created_at": "Wed Sep 09 23:54:51 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1278",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097782703810916352/img/-hZQuVUlCXacIr2U.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097836161041576045"
+    },
+    {
+      "id": "2097834878805090398",
+      "text": "苹果还是太有创意了。 https://t.co/CpPtNrkol2",
+      "created_at": "Wed Sep 09 23:49:45 +0000 2026",
+      "favorite_count": 67,
+      "retweet_count": 2,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "12463",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097784645912010752/img/JNoGSgfCSM1PKNGM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097834878805090398"
+    },
+    {
+      "id": "2097637539146588259",
+      "text": "Codex GPT-6 Astra 的好处之一是，使用 computer use 的能力，帮我搞定 apple connect 后台的信息填写。 https://t.co/0hQr348aab",
+      "created_at": "Wed Sep 09 10:45:36 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 26,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "3371",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxOMJFboAATJf7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097637539146588259"
+    },
+    {
+      "id": "2097626768337457313",
+      "text": "今天又深刻的感受到，原来我在汽水音乐最近听的 100 首歌中，应该有很多都是 AI 歌曲...\n\n但听着还挺好听的。就是想起来音色很多都一样。 https://t.co/HTXwcm88qx",
+      "created_at": "Wed Sep 09 10:02:48 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1196",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRxENLfbIAAl8EA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097626768337457313"
+    },
+    {
+      "id": "2097611636404302248",
+      "text": "我从没想过这个小产品会走这么远，值得我为它撰写一段介绍文字，附上截图，甚至优化设置界面的UI。\n\n因为我确实经常使用它，开机启动必备。而且收到了一些朋友真的用起来，哪里好用，哪里希望改善的用心反馈。\n\n所以我做了这个小装修，希望对更多人有所帮助。",
+      "created_at": "Wed Sep 09 09:02:40 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 31,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2653",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097611636404302248"
+    },
+    {
+      "id": "2097589677461221450",
+      "text": "因为旧版网站已经下线了，直接截图发一个 before / after 对比图吧。\n\n左侧是 AI 写的，虽然也一定程度上有一些之前项目在布局框架上的参考。\n\n但是文案还是很 AI 的。破折号满篇、中圆点小灰字也很多。 https://t.co/pQJSFsMHPa",
+      "created_at": "Wed Sep 09 07:35:25 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "2054",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwiIeEaEAE_ni7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097589677461221450"
+    },
+    {
+      "id": "2097542884249723365",
+      "text": "相同的 landing page 设计框架，不同的小产品。\n\n今天是为 Graker 这款支持 BYOK 的语法检查和翻译小工具更新了 landing page。\n\nhttps://t.co/EjXxSVvcpQ https://t.co/5DphxEk5ds",
+      "created_at": "Wed Sep 09 04:29:28 +0000 2026",
+      "favorite_count": 26,
+      "retweet_count": 1,
+      "reply_count": 39,
+      "quote_count": 2,
+      "bookmark_count": 22,
+      "views": "9581",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRv3ktsaEAAi0Ky.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRv3wrFa0AAyCk6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRv3376aoAANk_P.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097542884249723365"
+    },
+    {
+      "id": "2097515908260594163",
+      "text": "I'm not sure who to reach out to, but I've been experiencing this issue for about two weeks now. @benjitaylor \n\nIt happens on both the web and iOS versions of X: after I post a new tweet, it doesn't appear on my profile page immediately, even after refreshing. There's a delay of about 30 seconds to a minute.\n\nI hope this helps.",
+      "created_at": "Wed Sep 09 02:42:17 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "653",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097515908260594163"
+    },
+    {
+      "id": "2097513616681632067",
+      "text": "产品很酷，视频录制也非常酷！\n\n还是第一次见到这种站立背带式的使用电脑的方式，不知道稳不稳。 https://t.co/iAJDeO1M1Z",
+      "created_at": "Wed Sep 09 02:33:10 +0000 2026",
+      "favorite_count": 70,
+      "retweet_count": 4,
+      "reply_count": 34,
+      "quote_count": 0,
+      "bookmark_count": 52,
+      "views": "11033",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097329530843353088/img/_ijOX_izHQQwUVHC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097513616681632067"
+    },
+    {
+      "id": "2097511307771888040",
+      "text": "中国有个双十一购物节，每年开始地越来越早了。\n\n于是今天就使用 flodo 记下了一个双十一购物清单。10 月 8 号估计就要买了。🫥\n\nhttps://t.co/VXXSr4DTDo https://t.co/pd81oHQMWp",
+      "created_at": "Wed Sep 09 02:24:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2590",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097510839335145472/img/nwZmVHq6lfMEAigd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097511307771888040"
+    },
+    {
+      "id": "2097507460471034234",
+      "text": "Graker 设置窗口的更多重新设计。\n\nhttps://t.co/EjXxSVvcpQ https://t.co/XxVFec9PFJ",
+      "created_at": "Wed Sep 09 02:08:43 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 14,
+      "views": "3619",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvXm9jaYAAkJpx.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvXw8VaQAAgtnG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097507460471034234"
+    },
+    {
+      "id": "2097506295452684466",
+      "text": "分享一个 UI 设计案例：  \n\n重新整理页面的元素，检查信息是否必要显示、重要等级；  \n\n采用风格相对一致的视觉、文字大小、颜色、控件大小；  \n\n注意界面上的一些元素的视觉对齐，就能够明显改善 UI。 https://t.co/tkOgTrpD7I",
+      "created_at": "Wed Sep 09 02:04:05 +0000 2026",
+      "favorite_count": 102,
+      "retweet_count": 7,
+      "reply_count": 15,
+      "quote_count": 2,
+      "bookmark_count": 117,
+      "views": "14917",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvWzLfacAAR2Pd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097506295452684466"
+    },
+    {
+      "id": "2097446958285898034",
+      "text": "Notion 会不会快被 Meta 收购了？",
+      "created_at": "Tue Sep 08 22:08:18 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "6296",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2097446958285898034"
+    },
+    {
+      "id": "2097342642497667314",
+      "text": "鉴于大家对于这个小小的待办应用 flodo 的macOS 版本的喜欢(超出预期)，我想我快发布这个 iOS 客户端了。\n\n这样就能使用 iCloud 同步，在手机和电脑间同步使用。\n\nhttps://t.co/VXXSr4DTDo https://t.co/AD9TTw8HRV",
+      "created_at": "Tue Sep 08 15:13:47 +0000 2026",
+      "favorite_count": 79,
+      "retweet_count": 3,
+      "reply_count": 30,
+      "quote_count": 0,
+      "bookmark_count": 67,
+      "views": "10505",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtCA6RbkAANxuR.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRtCA6SbMAEMXeM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097342642497667314"
+    },
+    {
+      "id": "2097249808935420059",
+      "text": "给 flodo 的 iOS 端增加了锁屏小组件的功能，\n\n可以看到今天有几项待办，也可以快速查看和完成今天的前两条事项。\n\nhttps://t.co/VXXSr4DTDo https://t.co/kwgpUzH1CA",
+      "created_at": "Tue Sep 08 09:04:54 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 29,
+      "quote_count": 0,
+      "bookmark_count": 10,
+      "views": "3693",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRrtV-ybQAARhpC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097249808935420059"
+    },
+    {
+      "id": "2097171315392462923",
+      "text": "另一个小工具，重新设计的 landing page。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/aW6wL51l9s",
+      "created_at": "Tue Sep 08 03:52:59 +0000 2026",
+      "favorite_count": 30,
+      "retweet_count": 1,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 30,
+      "views": "4735",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRql31maAAAmMXU.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRqmEVCaEAAmCd9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097171315392462923"
+    },
+    {
+      "id": "2097163826097684938",
+      "text": "哈哈哈有意思！",
+      "created_at": "Tue Sep 08 03:23:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1120",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2097163826097684938"
+    },
+    {
+      "id": "2096973202136391810",
+      "text": "出色的工作，我称之为“Family style”。\n\n这里的动画细腻和富有弹性。\n\n绝对值得一看。",
+      "created_at": "Mon Sep 07 14:45:45 +0000 2026",
+      "favorite_count": 64,
+      "retweet_count": 2,
+      "reply_count": 54,
+      "quote_count": 0,
+      "bookmark_count": 50,
+      "views": "11284",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2096973202136391810"
+    },
+    {
+      "id": "2096913358192828516",
+      "text": "我的。 https://t.co/HUIbyyhZXW",
+      "created_at": "Mon Sep 07 10:47:58 +0000 2026",
+      "favorite_count": 17,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 10,
+      "views": "4592",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2096913358192828516"
+    },
+    {
+      "id": "2096906573193121892",
+      "text": "为每个小产品，都制作一个小小的 landing page。\n\nhttps://t.co/VXXSr4DTDo https://t.co/tWk66LyKFc",
+      "created_at": "Mon Sep 07 10:21:00 +0000 2026",
+      "favorite_count": 207,
+      "retweet_count": 4,
+      "reply_count": 63,
+      "quote_count": 0,
+      "bookmark_count": 275,
+      "views": "21499",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRm1LiMaEAAiWJT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRm1YJBbkAAUbyj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096906573193121892"
+    },
+    {
+      "id": "2096866092388098332",
+      "text": "用了两天 GPT-6 Astra 之后，可以说它的 Computer Use 的能力和体验实在是太夯了！\n\n又丝滑又好。 https://t.co/YmQCNw1Kxy",
+      "created_at": "Mon Sep 07 07:40:08 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1580",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRmQkecaYAAvOx-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096866092388098332"
+    },
+    {
+      "id": "2096837656823136600",
+      "text": "万万没想到啊朋友们，Minshot 竟然上牌桌了。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/rYyR1qot39",
+      "created_at": "Mon Sep 07 05:47:09 +0000 2026",
+      "favorite_count": 22,
+      "retweet_count": 0,
+      "reply_count": 32,
+      "quote_count": 0,
+      "bookmark_count": 22,
+      "views": "10032",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRl2pL-asAEH8AW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096837656823136600"
+    },
+    {
+      "id": "2096822651834761689",
+      "text": "给 flodo https://t.co/VXXSr4DTDo 增加了一个小功能：\n\n将一个 task 置顶到菜单栏。\n\n比如我在大周一的，发现还剩 77% 的 Codex token 没有用完，而下午 4 点就要过期时，就赶紧把一个任务置顶到菜单栏，这样我就能时不时地看到它，然后以免忘记这个事情。\n\n非常适合将重要或紧急的事项置顶到菜单栏。 https://t.co/DN3MuKwhz3",
+      "created_at": "Mon Sep 07 04:47:31 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "2279",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRlpFYeaAAAT481.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096822651834761689"
+    },
+    {
+      "id": "2096812824362377681",
+      "text": "分享一个 UI 设计小技巧：\n\n骨架图缓存。\n\n当用户已经从一个需要骨架图的地方展示过元素时，将数量缓存，下次使用相同数量的骨架图。而不是固定的 3 个或 1 个。\n\n做的更细致的话，当用户新增或减少元素数量时，更新缓存。 https://t.co/wN8A69wCLY",
+      "created_at": "Mon Sep 07 04:08:28 +0000 2026",
+      "favorite_count": 27,
+      "retweet_count": 1,
+      "reply_count": 36,
+      "quote_count": 0,
+      "bookmark_count": 24,
+      "views": "3303",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096812767970045952/img/TpWuWW8Yw1rx2bBa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096812824362377681"
+    },
+    {
+      "id": "2096785434332500161",
+      "text": "发现一个 UI 过渡动画制作非常精良的 UI 组件库，\n\n与常规的组件库不同，这个库包含的是一些专门场景实现的组件。例如文件夹、导航、数字、二次操作、通知等。\n\n非常适合作为当开发软件的某个场景与其类似时，作为 AI 实现过渡动画的参考原型。\n\n一个小技巧：AI 生图时，垫图可以得到更好的风格和预期结果。AI 制作过渡动效，也是类似。\n\nhttps://t.co/90eFf1hT7A",
+      "created_at": "Mon Sep 07 02:19:38 +0000 2026",
+      "favorite_count": 270,
+      "retweet_count": 19,
+      "reply_count": 46,
+      "quote_count": 2,
+      "bookmark_count": 336,
+      "views": "17276",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096784987588874240/img/NmzfBIWebd0fm0Wr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096785434332500161"
+    },
+    {
+      "id": "2096781827197612259",
+      "text": "当 Claude Fable 5.1 和 GPT-6 Astra 都发布之后的今天这个时间点，深刻感受到，真正限制生产力、生产效率的是：人类。\n\n当 Token 用不完，而自己又需要睡觉，需要运动，需要周末出去和大自然打打招呼的时候。\n\n人类成了那个限制。",
+      "created_at": "Mon Sep 07 02:05:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "2019",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096781827197612259"
+    },
+    {
+      "id": "2096761722698940925",
+      "text": "本周看到的第一篇好文章。\n\n如果你正在构建自己关心的个人产品，希望用户也能感受到这种关心，那么这可能对你有用。\n\n不要用 AI 为你生成 landing page 文案，尤其是大段的文本堆砌在这里。\n\n我读完后，决定再次重新审视自己最近几个月做的小产品的 landing page。自己手写它，只使用语法校验或与AI 进行细节讨论，不再采用AI 大段生成的内容。\n\n因为我自己不想阅读这样的内容，那么我的用户应该也不想。\n\n把每次的 landing page 文案撰写，都当作一次命题作文。事情就变得愉悦和简单一些了。",
+      "created_at": "Mon Sep 07 00:45:25 +0000 2026",
+      "favorite_count": 33,
+      "retweet_count": 4,
+      "reply_count": 9,
+      "quote_count": 1,
+      "bookmark_count": 44,
+      "views": "5257",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRkxUbJaIAAbopI.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRkxlpBbcAEuVSZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096761722698940925"
+    },
+    {
+      "id": "2096569851859087411",
+      "text": "RT @randyloop: Can't wait to ship https://t.co/Tb8uCJQtks",
+      "created_at": "Sun Sep 06 12:02:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "8",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRhSQZGb0AAkqhh.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRhTCFhasAAslCs.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096569851859087411"
+    },
+    {
+      "id": "2096406638190272916",
+      "text": "每个小项目都起始于一个小想法，实验，或者纯试试。\n\n但他们现在发现成为了我个人的生产级项目，在重启电脑后，最想设置为开机启动软件。\n\n于是，是时候将他们重新整理，并且复用组件和设计语言。一次细节迭代，能够复利多个项目。\n\n这次借助的是 Claude 的移动端，在休息时间来做的。 https://t.co/QMWYcVCe8u",
+      "created_at": "Sun Sep 06 01:14:26 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1282",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRfuuSEaAAAn58L.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096406638190272916"
+    },
+    {
+      "id": "2096247173440741507",
+      "text": "在 Claude Fable 5.1 的帮助下，将我的 Web 相关的项目都整合进一个 monorepo 了。\n\n其中包含：\n\nhttps://t.co/wRg29sCYAW 的 web、browser extension、desktop、mobile\nhttps://t.co/fJiWJkILDK, https://t.co/RyZb7c6elh, https://t.co/mNKhJ9IwOI, https://t.co/4lm6iHAFg6 几个产品的 landing page\nGrain（自用的网站访问统计分析小工具）的 web\n\n这样就能有同一套 UI 组件库、设计 token，甚至框架版本、发布工作流等。就更好迭代和复用了。\n\n在这样的架构下，并行地再增加 5 个项目也不成问题。只要有 Token 和时间。",
+      "created_at": "Sat Sep 05 14:40:47 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 10,
+      "views": "2727",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRdc1fqbQAAhSdm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096247173440741507"
+    },
+    {
+      "id": "2095878815050506330",
+      "text": "是的，我也早就不再使用和看这个平台了。",
+      "created_at": "Fri Sep 04 14:17:03 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2251",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095878815050506330"
+    },
+    {
+      "id": "2095858502367641793",
+      "text": "这次不走直接发布的路子了。\n\n毕竟市面上网站访问统计工具太多了。但以防有人特别感兴趣，还是提供了一个 waitlist:\n\nhttps://t.co/RnJnHLxRRf\n\n我自己的一些想法：\n\n- iOS 客户端。在手机上能够每天看看数据。尤其是能够看到「事件触发」通知。甚至可以通过事件来做任何事。\n\n- 因为是独立开发者的产品，所以在定价上会比市面上的便宜很多。（不是指提供免费计划），而是能够它自运行可能就够了。这样它就能长期稳定的运行下去。\n\n我打造这个产品，是因为我近半年构建了好几个自己的个人产品，每个产品都有一个 Landing page 和数据统计的需求。于是，这个产品算是服务于我的 side project 的 side project。我自己就是用户。",
+      "created_at": "Fri Sep 04 12:56:20 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "2670",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095858502367641793"
+    },
+    {
+      "id": "2095712168327155868",
+      "text": "任何人都可以宣称打造了替代 Raycast 的同类工具，\n\n也许在某个方面确实更符合个人的工作和交互流程，\n但像 Raycast 这样在其所提供的所有功能中都有着高水准的体验，这非常难。\n\n@raycast",
+      "created_at": "Fri Sep 04 03:14:52 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2665",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2095712168327155868"
+    },
+    {
+      "id": "2095711097969918326",
+      "text": "SpaceXAI 的 Grok Bot 设计团队写的这篇分享挺好的。\n\n每当想到 X 团队能够有这样高质量的关于产品设计和分享时，都会想到 Benji 的加入对 X 来说是多么正确的选择。\n\n一些细节：\n→ 机器人是一个长期维护的对象，他们应该能够几乎仅凭余光就能通过头像识别出来。\n→ 使用头像显示状态。\n→ 机器人的电脑中，随早晨到夜晚不同颜色的壁纸。\n→ 我们曾考虑添加仪表盘、任务分配看板和明确的交接控制来管理群组。但每项措施都会增加用户的协调工作量。\n→ 我们设定了限制，每个账户大约 50 个机器人，每个群聊大约 6 个机器人。每个决定最终都归结于同一个问题：这样做是帮助用户更好地委派任务，还是给他们增加了一项需要管理的工作？\n\nhttps://t.co/IKfKhdjeUJ",
+      "created_at": "Fri Sep 04 03:10:36 +0000 2026",
+      "favorite_count": 50,
+      "retweet_count": 5,
+      "reply_count": 30,
+      "quote_count": 0,
+      "bookmark_count": 82,
+      "views": "7215",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095710557651468288/img/HTQRh_qtDU6MnrsE.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRV1vMoaIAEvR71.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRV1zJGbsAEFHlz.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRV14EHbQAAVYi6.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095711097969918326"
+    },
+    {
+      "id": "2095702671873454446",
+      "text": "妈耶，我想我可能也需要这样的排布方式了。以今年过去几个月的发布速度，感觉快放不下了。\n\n（签名中已经放不下了。\n\nhttps://t.co/Ca8DQCKIKC\n\nhttps://t.co/XXPu5VysRQ\n\nhttps://t.co/rQ8neeIyIA\n\nhttps://t.co/4RF5PmGxmX\n\nhttps://t.co/6WkqSK5m6k\n\nhttps://t.co/aYN8YreL5K",
+      "created_at": "Fri Sep 04 02:37:07 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "2152",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095702671873454446"
+    },
+    {
+      "id": "2095701918068945282",
+      "text": "最近汽水音乐这个图书馆里的歌单变了，甚至变得好像重复性很低了。\n\n但与此同时，时不时掺杂了一些并不适合在图书馆听的音乐。\n\n我猜这一定是 AI 筛选和处理的，人工筛选做不成这个样子。",
+      "created_at": "Fri Sep 04 02:34:08 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1441",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095701918068945282"
+    },
+    {
+      "id": "2095700462846812186",
+      "text": "这大概是本周最精彩的文章了。\n\n如果你是工程师、设计师，可能非常适合阅读。\n\nFey 原创始人加入到 Wealthsimple 后，如何将代码工程和 UI 设计带领到下一个级别。\n\n其中，我最喜欢的是文章这些可实时交互的 UI 小控件，可以直接感受到这些组件的设计质量与愉悦。 https://t.co/hyAJpvUvUr",
+      "created_at": "Fri Sep 04 02:28:21 +0000 2026",
+      "favorite_count": 750,
+      "retweet_count": 54,
+      "reply_count": 58,
+      "quote_count": 0,
+      "bookmark_count": 1139,
+      "views": "79371",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095700015528431616/img/TE4URs_LwUa-HdXx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095700462846812186"
+    },
+    {
+      "id": "2095695746481959334",
+      "text": "在我的 https://t.co/XHG2RJ4fPk 中，不仅保存着设计灵感、思考笔记、喜欢的事物，\n\n还有那些值得被珍藏的生活照片。 https://t.co/HATrAS73BF",
+      "created_at": "Fri Sep 04 02:09:36 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "996",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRVn40PawAA4hz6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095695746481959334"
+    },
+    {
+      "id": "2095534304831086921",
+      "text": "一定是有 @benjitaylor 之后的 X 才能做出如此愉悦的交互指示细节。 https://t.co/OyvarmDQQB",
+      "created_at": "Thu Sep 03 15:28:06 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1968",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095534271473795072/img/MkAZRuWqXrWd72ET.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095534304831086921"
+    },
+    {
+      "id": "2095493420253094060",
+      "text": "给我自己的网站访问统计系统，增加了一点交互趣味性。 https://t.co/zFIl3tA2Ku",
+      "created_at": "Thu Sep 03 12:45:38 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "3071",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095493074336321536/img/CozNKRM26RSYLTLF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095493420253094060"
+    },
+    {
+      "id": "2095457958683689072",
+      "text": "感觉 Codex, Claude Code 急需对齐这个交互。\n@ChatGPT @claudeai \n https://t.co/5ARJZRgUWb",
+      "created_at": "Thu Sep 03 10:24:43 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 0,
+      "reply_count": 23,
+      "quote_count": 0,
+      "bookmark_count": 20,
+      "views": "5047",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095202829765898244/img/uPtUPRl6FjXYgsuM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095457958683689072"
+    },
+    {
+      "id": "2095439967157989702",
+      "text": "同意！\n\nFable 5.1 比 GPT 5.6 Sol 好太多了。",
+      "created_at": "Thu Sep 03 09:13:14 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 24,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "5449",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2095439967157989702"
+    },
+    {
+      "id": "2095145841195717085",
+      "text": "不知道 flodo 是不是被哪里推荐了，\n\n访问和下载都在涨。 https://t.co/frSH1ECVuY",
+      "created_at": "Wed Sep 02 13:44:29 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1674",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNz_K-bAAAyJYU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095145841195717085"
+    },
+    {
+      "id": "2095141317722681738",
+      "text": "今天不小心打开了一下百度的首页，发现它竟然使用了近两年最流行的 AI 蓝紫色。 https://t.co/dOuGL67ar6",
+      "created_at": "Wed Sep 02 13:26:30 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2482",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRNvx0QasAARJVY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095141317722681738"
+    },
+    {
+      "id": "2095076603802042762",
+      "text": "现在泛滥的工具、网站收录和展示网站，不仅让 AI 做了自动化。甚至邮件也是让 AI 来发。\n\n注册上去并认领的动力都没了。 https://t.co/X69pJDCs2S",
+      "created_at": "Wed Sep 02 09:09:21 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 36,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1801",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRM028ibgAAPVWd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095076603802042762"
+    },
+    {
+      "id": "2095059560461750602",
+      "text": "现在它有了一个更小的弹窗。 https://t.co/KkO666bgGZ",
+      "created_at": "Wed Sep 02 08:01:38 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "2601",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRMlaYIb0AAZdYE.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRMlf-sbEAARc9O.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2095059560461750602"
+    },
+    {
+      "id": "2094974934946845036",
+      "text": "关于如何更高效地利用 Claude Fable 5.1，我的使用经验是：\n\n当 Context window 的百分比达到 50% 时，手动执行一次 /compact，然后再继续对话。\n\n通过这个方式，几乎可以在同一个会话中完成很多很多轮的任务，并且有着很好的历史上下文，还保持着较好的模型执行效果，同时相对比较节省 token 消耗。\n\n一举三得。",
+      "created_at": "Wed Sep 02 02:25:21 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 26,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2949",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRLX7Sma0AAhCg8.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2094974934946845036"
+    },
+    {
+      "id": "2094973878611436012",
+      "text": "如何快速制作一张干净的截图：\n\n在 Minshot 中截图后，可以快速框选局部区域，回车，便可裁剪掉冗杂的边缘信息。 https://t.co/PdB0rOpWHv",
+      "created_at": "Wed Sep 02 02:21:10 +0000 2026",
+      "favorite_count": 17,
+      "retweet_count": 0,
+      "reply_count": 21,
+      "quote_count": 1,
+      "bookmark_count": 17,
+      "views": "4990",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2094973602160627712/img/2bb1tbQ2MrWKvTyu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094973878611436012"
+    },
+    {
+      "id": "2094966999449542779",
+      "text": "cleanshot 最近发布了录屏编辑功能，minshot 也有，我自己一直在用。\n\n有什么是你试用过 minshot 但是觉得还是离不开 cleanshot 的功能吗？\n\n欢迎反馈。\n\nhttps://t.co/NTFzbWZbF9",
+      "created_at": "Wed Sep 02 01:53:49 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "2398",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094966999449542779"
+    },
+    {
+      "id": "2094622915899928919",
+      "text": "今天 @minttrapp Minttr 在一个产品网站上被列出来了。\n\n虽然 Minttr 的 OG Image 还有很大的提升空间和需要更新，但现在的版本放到这一众产品列表中，感觉还是挺好看的。😂 https://t.co/ZBrLdBVJUt",
+      "created_at": "Tue Sep 01 03:06:34 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 28,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1668",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRGYH1_agAALY65.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094622915899928919"
+    },
+    {
+      "id": "2094611576271810922",
+      "text": "睡眠确实少一些，不过插空搞的时候更多。而且，我晚上创造力和效率不大好。\n\n所以，晚上睡前一小时用来打游戏了。",
+      "created_at": "Tue Sep 01 02:21:30 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1742",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094611576271810922"
+    },
+    {
+      "id": "2094589696450199967",
+      "text": "你可能不知道，我在发布了 minshot 过去两个月后的今天，依然保持着我自己使用的是免费版本。\n\n所以，当我自己超过了每天的使用次数时，我会一直遇到这个弹窗。我想一直让自己保持这种交互体感。用久了之后，竟然不觉得有问题。(坏了坏了）\n\n我想我可能再优化一下，减弱这个弹窗打扰的环节，但同时保留这个步骤。\n\nhttps://t.co/aodmXjVjEb",
+      "created_at": "Tue Sep 01 00:54:33 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 1,
+      "reply_count": 36,
+      "quote_count": 1,
+      "bookmark_count": 9,
+      "views": "6319",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRF6HIobAAA_M77.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094589696450199967"
+    },
+    {
+      "id": "2094446943686799542",
+      "text": "从我个人角度来讲，这是一个为我的个人项目们打造的一个服务于个人项目的项目。\n\n好玩儿(我喜欢打造产品)加 Codex 还有一点 token，然后就试了试让它给我开发一个。\n\n结果它开始了两天，搭出来了一个勉强能跑的，但继续迭代会比较费劲的版本。\n\n但我意识到，这会发展成一个我自己信赖，并且用在我的 N 个个人项目上的工具时，便切换成 Claude Code 继续迭代它。\n\n另外，这个想法其实在我脑海中冒出了3次左右了。之所以现在动手做出来，也是出于前两天看到了一个帖子，是 Typefully的 @frankdilo 发的一个帖子: Typefully 最初是 Mailbrew 的一个营销副项目。\n\n这成了我动手的一个引子。\n\n于是就这样开始了。",
+      "created_at": "Mon Aug 31 15:27:18 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 26,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "3354",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094446943686799542"
+    },
+    {
+      "id": "2094439404005703891",
+      "text": "如果 AI 能够提高研发效率10倍及以上的话，\n\n过去一年才能开发并发布一个产品，现在一年差不多得开发并发布 10 个产品吧。\n\n我今年才一共有了 5 - 6 款，不算多了。\n\nhttps://t.co/cX3doZCJlx\n\nhttps://t.co/aodmXjULOD\n\nhttps://t.co/0rYw7KQ925 \n\nhttps://t.co/TTlLFN51lJ\n\nhttps://t.co/myXWSlSg8B\n\nhttps://t.co/as8WbNrRMC",
+      "created_at": "Mon Aug 31 14:57:21 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "1603",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRDxiI7a0AI_TxT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094439404005703891"
+    },
+    {
+      "id": "2094433092819968101",
+      "text": "手机版的也用了一段时间了，提醒时间稳定触发。 https://t.co/VuLRl87JtC",
+      "created_at": "Mon Aug 31 14:32:16 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2637",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRDrytPbcAAAHX4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094433092819968101"
+    },
+    {
+      "id": "2094402248583606432",
+      "text": "我之前在 Gridea web 上就是用的这个，甚至现在也是。自部署了一套。\n\n但是我发现它有点儿重，而且 UI 不太好。之前遇到的坑是在部署时，遇到了很多的数据库相关的错误。导致后面无法升级上去了。不过那都是 AI 时代之前的了，现在可能那些错误以及部署应该会方便很多了。\n\n而它的在线版本，又有点儿贵。免费版只能一个网站，我今年开了很多新坑，或者说打造了很多新的小工具和产品，于是能够添加多个网站，甚至聚合展示等就成了我的刚需，于是就自己打造一个了。",
+      "created_at": "Mon Aug 31 12:29:42 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "3079",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2094402248583606432"
+    },
+    {
+      "id": "2094374437009424478",
+      "text": "还真搞了一个，不过这个初版的 UI 还不咋地。\n\n但... 至少没广告了 😂。 https://t.co/SFmyNUGPSS",
+      "created_at": "Mon Aug 31 10:39:12 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 38,
+      "quote_count": 0,
+      "bookmark_count": 16,
+      "views": "7954",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRC2UtjaIAAXS16.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094374437009424478"
+    },
+    {
+      "id": "2094371580512178277",
+      "text": "发布了一个非常非常早期的 mac 版本！\n\nflodo - macOS 原生待办事项 app。在一周的开始选几个本周要做的事情，在一天的开始选几个今天要做的事情。\n\n然后，开始吧！\n\nhttps://t.co/rQ8neeIyIA\n\n也欢迎加入我自己的 build 宇宙群，看看我都在搞些什么个人产品。\n\nhttps://t.co/Se6DgYJBV9 https://t.co/xYwRJN8mw6",
+      "created_at": "Mon Aug 31 10:27:50 +0000 2026",
+      "favorite_count": 81,
+      "retweet_count": 2,
+      "reply_count": 31,
+      "quote_count": 1,
+      "bookmark_count": 97,
+      "views": "24924",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRCzHbkaAAAdO1i.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094371580512178277"
+    },
+    {
+      "id": "2094334002488627404",
+      "text": "AI slop 的标志之一：\n\n自行添加一个小灰字的描述性文本，而且在中间添加一个 \" · \"。\n\n你中招了没？有没有人感兴趣如何消除 N 个类似的 AI slop。 https://t.co/ML56Rx9bi7",
+      "created_at": "Mon Aug 31 07:58:31 +0000 2026",
+      "favorite_count": 41,
+      "retweet_count": 1,
+      "reply_count": 14,
+      "quote_count": 2,
+      "bookmark_count": 23,
+      "views": "11789",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRCQ_onaIAAxwUA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2094334002488627404"
+    },
+    {
+      "id": "2094254021016186910",
+      "text": "大部分的 AI aha 时刻，都在时间维度的一周或频次维度的十次后，渐渐祛魅了。",
+      "created_at": "Mon Aug 31 02:40:42 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1964",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094254021016186910"
+    },
+    {
+      "id": "2094248106087047385",
+      "text": "AI 小技巧：\n\n当使用 AI Agent（如 Claude Code /Codex）时，告诉它：\n\nUI 文案原则——不要解释性、啰嗦的文案，只显示最必要的内容和元素。",
+      "created_at": "Mon Aug 31 02:17:12 +0000 2026",
+      "favorite_count": 27,
+      "retweet_count": 2,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 27,
+      "views": "4813",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2094248106087047385"
+    },
+    {
+      "id": "2093912615496081726",
+      "text": "UI 设计实验：\n\n简洁、节省空间的清单分类列表。 https://t.co/BPOfTkJ87z",
+      "created_at": "Sun Aug 30 04:04:05 +0000 2026",
+      "favorite_count": 44,
+      "retweet_count": 0,
+      "reply_count": 41,
+      "quote_count": 0,
+      "bookmark_count": 44,
+      "views": "8962",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2093912449145868288/img/0Ia0cYM4_MbwLFNH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093912615496081726"
+    },
+    {
+      "id": "2093608162045915254",
+      "text": "干净又丝滑的 UI 细节。",
+      "created_at": "Sat Aug 29 07:54:17 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "4050",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093608162045915254"
+    },
+    {
+      "id": "2093541630875947239",
+      "text": "参加 @avec 的活动，获得了一张 $10 亚马逊礼品卡。  \n\n我很少在亚马逊上购物，上次还是几年前购买电子书使用来着，有什么值得买的嘛？ https://t.co/CCwNDw06ux",
+      "created_at": "Sat Aug 29 03:29:55 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1175",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQ3BAjZaoAEP4ud.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2093541630875947239"
+    },
+    {
+      "id": "2093493489971691979",
+      "text": "Me too.\n\nFor me, the main reason for using @bot is to connect my X account and data. But in reality, I still have to purchase the API separately.",
+      "created_at": "Sat Aug 29 00:18:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2096",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093493489971691979"
+    },
+    {
+      "id": "2093332751558783088",
+      "text": "太酷啦！",
+      "created_at": "Fri Aug 28 13:39:54 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "2464",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093332751558783088"
+    },
+    {
+      "id": "2093156615906369865",
+      "text": "还稍微有点儿出乎意料的，Codex 竟然高出这么多。\n\n因为我的主力是 Claude Code。",
+      "created_at": "Fri Aug 28 02:00:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 29,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "4200",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2093156615906369865"
+    },
+    {
+      "id": "2092790989287293074",
+      "text": "你的主力 AI Agent 应用是？",
+      "created_at": "Thu Aug 27 01:47:08 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 2,
+      "bookmark_count": 2,
+      "views": "6343",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092790989287293074"
+    },
+    {
+      "id": "2092578640227901539",
+      "text": "UI 设计细节：\n\nRaycast 2.0 相比 1.0 少了很多线条分割，采用留白或背景色使页面更干净。 https://t.co/vGTUNmccRU",
+      "created_at": "Wed Aug 26 11:43:20 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 0,
+      "reply_count": 44,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "7178",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQpVHtDbIAA23Yz.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQpVK2LaQAAHYgF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092578640227901539"
+    },
+    {
+      "id": "2092456563260940364",
+      "text": "我想可能有一天我会打造自己的网站分析系统，\n\n因为我不想在 ahrefs 中看到这样的广告条幅。 https://t.co/SDegidmObO",
+      "created_at": "Wed Aug 26 03:38:15 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 19,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "10429",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQnl2D4a4AEpaK0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092456563260940364"
+    },
+    {
+      "id": "2092449994901274774",
+      "text": "这对么... Tibo 在公开问要不要剪头发 😂\n\n最近 Tibo 的露脸视频和头像差别较大，反馈强烈。 https://t.co/p21SbfGhZp",
+      "created_at": "Wed Aug 26 03:12:09 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1929",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQnf_KuaQAAngzW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092449994901274774"
+    },
+    {
+      "id": "2092444060351123538",
+      "text": "我们什么时候能有一个 Dia mobile 像 Arc search 一样?@diabrowser",
+      "created_at": "Wed Aug 26 02:48:34 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1041",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092444060351123538"
+    },
+    {
+      "id": "2092429654192017892",
+      "text": "是的，Minshot 也有海外付费用户啦！\n\n提醒一下，免费也能用。\n\nhttps://t.co/NTFzbWZbF9\n\nMinshot - 一款 macOS 原生截图与标注、图片压缩、录屏与编辑的三合一小工具。 https://t.co/9FZWGfMuWg",
+      "created_at": "Wed Aug 26 01:51:19 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "1532",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQnNRmbaQAAiD9W.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092429654192017892"
+    },
+    {
+      "id": "2092256176448864436",
+      "text": "好的图标动效一定是遵从图标的含义而单独设计的。 https://t.co/7jEBWet0Yy",
+      "created_at": "Tue Aug 25 14:21:59 +0000 2026",
+      "favorite_count": 88,
+      "retweet_count": 7,
+      "reply_count": 28,
+      "quote_count": 0,
+      "bookmark_count": 72,
+      "views": "7410",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092255271817244673/img/zy1-gRF89w_39xHL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092256176448864436"
+    },
+    {
+      "id": "2092169167734735315",
+      "text": "只有挑剔的 UI 设计师或开发者才会需要这个功能？\n\nminshot - 图片压缩小工具，微小但实用的更新：\n\n压缩图片时，可以设置自定义缩放尺寸。当 UI 设计师发给你 4096px * 4096px 尺寸的头像图片，而你只需要显示在 120px 宽度的场景时，可以自己输入想要减小到的尺寸。\n\n一步到位。\n\nhttps://t.co/aodmXjVjEb",
+      "created_at": "Tue Aug 25 08:36:14 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "1510",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQjcPrFaoAAUJMp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092169167734735315"
+    },
+    {
+      "id": "2092091392164331967",
+      "text": "iCloud 还是订阅的 50 GB 的，有点儿不够用，于是在 X 上搜索土耳其区的 iCloud 的奇技淫巧。\n\n想到，大家真的使用土耳其区的 iCloud 作为自己设备的主账号登录嘛，总感觉怪怪的。",
+      "created_at": "Tue Aug 25 03:27:11 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 49,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "5615",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092091392164331967"
+    },
+    {
+      "id": "2092089399110750466",
+      "text": "设计细节：\n\niCloud 升级页面中，使用用户的照片拼接到 Logo 中。 https://t.co/yAtKxfwBKp",
+      "created_at": "Tue Aug 25 03:19:16 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "2816",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQiYG9VbkAA3wS9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2092089399110750466"
+    },
+    {
+      "id": "2092076747105919249",
+      "text": "借助 Claude Fable 5 把 Gridea @getgridea 从 Next.js 13 升级到了 Next.js 16.3, 并且用上了最新的路由优化技术。应用内的页面切换快了不少。\n\n这次升级任务一开始是让 Codex 帮我处理的，但它只能做到 95 分，总是差那么一点儿完不成。果然 Fable 5 还是最佳 AI 模型。",
+      "created_at": "Tue Aug 25 02:29:00 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 17,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2010",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2092076747105919249"
+    },
+    {
+      "id": "2091884711027306689",
+      "text": "Claude Code 和 Codex（尤其是 Codex）真是吃存储空间的大户...",
+      "created_at": "Mon Aug 24 13:45:55 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1832",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091884711027306689"
+    },
+    {
+      "id": "2091882657693245634",
+      "text": "触控板没电了。🪫 https://t.co/vbPNt8mlkG",
+      "created_at": "Mon Aug 24 13:37:45 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1140",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQfcJGjbYAEeey_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091882657693245634"
+    },
+    {
+      "id": "2091825526247923995",
+      "text": "申请了一个小红书的行家，虽然不知道有啥用，主要它老给我推，而且我真的没啥服务可提供的，就写了一个 UI 设计咨询。\n\n提供 review UI 设计问题，用户体验问题，产品设计问题等。\n\n反正也没人买 😂 https://t.co/UtKhDJlUR4",
+      "created_at": "Mon Aug 24 09:50:44 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2182",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQeoOkOaEAAxTJD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091825526247923995"
+    },
+    {
+      "id": "2091814074577498364",
+      "text": "推荐一篇讲 UI 设计中，关于动画的 12 个基本原理的精彩好文，\n\n搭配了大量的实际可体验的 UI 过渡动画的 Demo，非常不错。\n\n理解这些原则可以帮助你在软件中创建更自然、更直观的动画。\n\nhttps://t.co/fuUsUyG95K https://t.co/j0C8Bf98nw",
+      "created_at": "Mon Aug 24 09:05:14 +0000 2026",
+      "favorite_count": 224,
+      "retweet_count": 23,
+      "reply_count": 25,
+      "quote_count": 0,
+      "bookmark_count": 242,
+      "views": "10344",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091813840011051008/img/gPapHP0wAm3RTRAk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091814074577498364"
+    },
+    {
+      "id": "2091808178459861171",
+      "text": "有点儿期待实时生成的世界模型的 AI 应用了。 https://t.co/9o3ErQM8bS",
+      "created_at": "Mon Aug 24 08:41:48 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1204",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2091808084356476928/img/PIiyuFqesN9VUkqP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091808178459861171"
+    },
+    {
+      "id": "2091775248530395221",
+      "text": "minshot 又更新啦！\n\n这次带来了全新的「画笔工具」。可以在截图上自由绘制。\n\n如果你喜欢 tldraw，那么你可能会喜欢 minshot。\n\n还有几个其他的小更新，欢迎使用。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/j5b78G7QbS",
+      "created_at": "Mon Aug 24 06:30:57 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "1867",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQd5Y_6bwAACUvl.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQd6WYHaUAAgrtH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091775248530395221"
+    },
+    {
+      "id": "2091736829020299682",
+      "text": "新的一周开始了，所有待办事项都自动流入到“稍后”，而上周原本设定了日期要完成的，则一直挂起在“今天”。\n\n选择本周想要处理的 3-5 个事项，然后开始。 https://t.co/98q6loyOC4",
+      "created_at": "Mon Aug 24 03:58:17 +0000 2026",
+      "favorite_count": 46,
+      "retweet_count": 2,
+      "reply_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 36,
+      "views": "10117",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQdXRNabUAATqXh.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091736829020299682"
+    },
+    {
+      "id": "2091728362003939452",
+      "text": "不知道什么时候开始 Cursor 编辑器的 UI 对于原本已有的主题适配非常差。\n\n很多信息的可读性、配色啥的都乱了。 https://t.co/2s4T4Kjez6",
+      "created_at": "Mon Aug 24 03:24:38 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 15,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "4797",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQdPvA-bAAA_V06.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091728362003939452"
+    },
+    {
+      "id": "2091708574884085906",
+      "text": "对这个生活质量的改进非常满意，现在几乎不再有看不到“封面”的链接卡片了。\n\n可以通过图片一眼看出这是哪个网站。图片的优势还是很大的。 https://t.co/33HYTZGj7D",
+      "created_at": "Mon Aug 24 02:06:00 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 17,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2114",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQc9pEvaAAANFqL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2091708574884085906"
+    },
+    {
+      "id": "2091050766224228483",
+      "text": "搞不明白这两天搞的 xxxbid 那些网站的意义是什么，感觉是纯纯诈骗，有钱随便花当投广告？",
+      "created_at": "Sat Aug 22 06:32:07 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 58,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "4462",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2091050766224228483"
+    },
+    {
+      "id": "2090997706529689845",
+      "text": "Clean your mac. https://t.co/mQaAlMuIbV",
+      "created_at": "Sat Aug 22 03:01:16 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "2857",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQS3R3RbAAAgbLi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090997706529689845"
+    },
+    {
+      "id": "2090621263870050721",
+      "text": "使用 ByePhotos 清理相册照片简直太方便了。\n\niCloud 存储空间又满了，赶紧清理一波。 https://t.co/pr6avC8wpl",
+      "created_at": "Fri Aug 21 02:05:25 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1546",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQNgssEaIAAxeyL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090621263870050721"
+    },
+    {
+      "id": "2090431170358264295",
+      "text": "Apple 的提醒事项 app，本应该做的更好一些。\n\n这样我就不用费劲打造自己的了。 https://t.co/lWPdF51RGJ",
+      "created_at": "Thu Aug 20 13:30:04 +0000 2026",
+      "favorite_count": 92,
+      "retweet_count": 5,
+      "reply_count": 52,
+      "quote_count": 1,
+      "bookmark_count": 56,
+      "views": "15414",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQKzIQ4aEAAKArL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090431170358264295"
+    },
+    {
+      "id": "2090359178879742364",
+      "text": "UI 设计小技巧：\n\n当你的应用需要申请一些权限才能更好地被用户使用时，在弹出左侧这些申请系统权限的弹窗前，提前告知用户为甚么，以及有个权限列表的提前感知。 https://t.co/0BTdn8ZelT",
+      "created_at": "Thu Aug 20 08:43:59 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 10,
+      "views": "2357",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQJyUHWaIAAgNBR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090359178879742364"
+    },
+    {
+      "id": "2090278674943914377",
+      "text": "还好把它给修复了。 https://t.co/39PzVu5eqL",
+      "created_at": "Thu Aug 20 03:24:06 +0000 2026",
+      "favorite_count": 30,
+      "retweet_count": 1,
+      "reply_count": 29,
+      "quote_count": 0,
+      "bookmark_count": 21,
+      "views": "15229",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQIpQxdbAAAHq4L.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090278674943914377"
+    },
+    {
+      "id": "2090273807080763719",
+      "text": "如果你也喜欢探索和研究 UI 设计细节，这篇来自 @benjitaylor 去年写的关于 Honkish 这个应用是如何设计的文章，绝对值得一看。\n\n里面有很多意想不到，打破常规的设计。游戏性、温度、实时情感提示等。\n\n优秀的软件是由其所有静心设计的细节共同构成的。\n\nhttps://t.co/lMFITkiRls https://t.co/E3twDInSgr",
+      "created_at": "Thu Aug 20 03:04:45 +0000 2026",
+      "favorite_count": 181,
+      "retweet_count": 22,
+      "reply_count": 8,
+      "quote_count": 1,
+      "bookmark_count": 206,
+      "views": "9584",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2090273006870470656/img/zdCvl3v3GDbWiC5I.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2090273807080763719"
+    },
+    {
+      "id": "2090271431909347477",
+      "text": "macOS 都到 27 了。这个原生日期选择器的 UI 就舍不得更新一下...\n\n哪怕更新成和 iOS 一模一样的都行。 https://t.co/Y180o5jZfp",
+      "created_at": "Thu Aug 20 02:55:19 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "19814",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQIip0Aa0AAgNOH.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2090271431909347477"
+    },
+    {
+      "id": "2090046360951423324",
+      "text": "好看！",
+      "created_at": "Wed Aug 19 12:00:58 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2018",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2090046360951423324"
+    },
+    {
+      "id": "2089915992092852683",
+      "text": "UI 设计细节：\n\nGrok Bot 的 dmg 的安装窗口界面。 https://t.co/6mVAOBSFTI",
+      "created_at": "Wed Aug 19 03:22:55 +0000 2026",
+      "favorite_count": 101,
+      "retweet_count": 9,
+      "reply_count": 64,
+      "quote_count": 0,
+      "bookmark_count": 31,
+      "views": "13822",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQDfWLObsAACmuC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089915992092852683"
+    },
+    {
+      "id": "2089899297773154653",
+      "text": "开发多个 Mac 原生应用的好处之一是，\n\n可以将在一个产品中精调不错的 UI 设计细节，应用到多款产品中，代码都在同一台电脑上，Claude Code 可以很方便的参考。",
+      "created_at": "Wed Aug 19 02:16:35 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1191",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089899297773154653"
+    },
+    {
+      "id": "2089894643492409768",
+      "text": "X 创作者收益计划，伴随着过去一周的再次新冠😷，而中道崩殂。 https://t.co/fvissT2MPA",
+      "created_at": "Wed Aug 19 01:58:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2186",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQDLwujbQAAn01B.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089894643492409768"
+    },
+    {
+      "id": "2089893442319237607",
+      "text": "创业圈儿挺有意思的。\n\n之前一直关注的从 Cortex 到 Eden 再到现在的 Space，Matt &amp; Ari 原来已经退出了 Eden，开始了这个新项目。\n\n而这些项目，前前后后都是相似技术领域，但讲着不同的故事，还挺鲜活和敢于改变的。\n\n而 Eden 也变成 DAN KOE 更加擅长和专注的个人创作者的领域。 https://t.co/lhLrbTxTB6",
+      "created_at": "Wed Aug 19 01:53:19 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 18,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1247",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQDJk7ubMAAdcpv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089893442319237607"
+    },
+    {
+      "id": "2089638210351833101",
+      "text": "给 Minttr 做了一个体验增强的优化：\n\n当保存的链接没有 og image （社交媒体封面图）时，则会兜底截一张网站截图。\n\n之所以做这个优化，是最近随着 AI 的发展，大量的人创作各种各样的网站。而很少人知道可以为网站配置一个 og image 来增强链接在社交媒体分享时的视觉表现。\n\n这样保存到  Minttr 中的链接也就尽可能有一个比较不错的视觉展示了。\n\nhttps://t.co/cX3doZDhb5",
+      "created_at": "Tue Aug 18 08:59:07 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "3616",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP_ivw4bIAAtc5c.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089638210351833101"
+    },
+    {
+      "id": "2089631064646205503",
+      "text": "给 Minshot 增加了一个「元素截图」的功能。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/Dtiqm9VOuD",
+      "created_at": "Tue Aug 18 08:30:43 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 13,
+      "views": "2517",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089630942709305344/img/BymFWOGUqCF7-0ZN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089631064646205503"
+    },
+    {
+      "id": "2089559957339582639",
+      "text": "将 AI 生图应用到个人网站中的设计案例：\n\nhttps://t.co/hjKcl1QyPr\n\n还挺有意思的。 https://t.co/qBM644VvlR",
+      "created_at": "Tue Aug 18 03:48:10 +0000 2026",
+      "favorite_count": 33,
+      "retweet_count": 7,
+      "reply_count": 50,
+      "quote_count": 0,
+      "bookmark_count": 35,
+      "views": "4838",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089559794172690433/img/xP0rwKwlH6lO3CrB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089559957339582639"
+    },
+    {
+      "id": "2089541876328329702",
+      "text": "macOS 27 beta6 更新的这两张壁纸不错。 https://t.co/HvCEoRRWoK",
+      "created_at": "Tue Aug 18 02:36:19 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 0,
+      "reply_count": 61,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "10269",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP-LAtBa8AAFmi5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089541876328329702"
+    },
+    {
+      "id": "2089540845687255307",
+      "text": "我也遇到这个 bug 了，不过随着升级到 macOS 27 beta6 就解决了。\n\n同时 Dia 浏览器左上角顶部双击的 bug 还没有修好。好奇将来 @diabrowser  团队能够像 @raycast 团队一样分享一些技术方案的故事。\n\n这样也好知道他们究竟面临了多大的困难，导致问题很难解决。",
+      "created_at": "Tue Aug 18 02:32:14 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2974",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2089540845687255307"
+    },
+    {
+      "id": "2089536998327591280",
+      "text": "当一个人的设计风格印在经常使用的产品中时是怎样的感觉？\n\n当知道将来 Cursor 的设计和更新将不再有 Ryo style 或 Ryo taste，竟然还有点“戒断反应”。\n\n可能将来某一天 Benji 离开 X 时也会有这样的感觉吧。",
+      "created_at": "Tue Aug 18 02:16:56 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "3784",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2089536998327591280"
+    },
+    {
+      "id": "2089532635244798159",
+      "text": "不是... 他们真的发布了这个么。 https://t.co/2SwX47Sj9U",
+      "created_at": "Tue Aug 18 01:59:36 +0000 2026",
+      "favorite_count": 28,
+      "retweet_count": 0,
+      "reply_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 20,
+      "views": "16707",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089532214111584256/img/8A7be_L0NBE48WIe.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089532635244798159"
+    },
+    {
+      "id": "2089507690540339547",
+      "text": "一个隐藏的 UI 设计技巧:\n\n当为界面元素设计不同时间出场动画时，优先展示最主要的信息。而不是按界面元素的从上到下。 https://t.co/Q5r2mGO2XC",
+      "created_at": "Tue Aug 18 00:20:29 +0000 2026",
+      "favorite_count": 28,
+      "retweet_count": 4,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 19,
+      "views": "3198",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2089264404650921984/img/__-SCXnLqNZ7sOY5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089507690540339547"
+    },
+    {
+      "id": "2089351257546953041",
+      "text": "持续迭代、打磨、与用户建立连接的好案例。\n\n其中 AI 时代清理白名单的迭代与思考非常不错。",
+      "created_at": "Mon Aug 17 13:58:52 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "3358",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2089351257546953041"
+    },
+    {
+      "id": "2089201793624674348",
+      "text": "虽然没看过上架电影院的牛来，但这个制作的还挺有意思的。",
+      "created_at": "Mon Aug 17 04:04:57 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 18,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "2968",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2089201793624674348"
+    },
+    {
+      "id": "2089199616843796543",
+      "text": "虽然这很酷，但我要怎么使用输入法打出三角的字符😂",
+      "created_at": "Mon Aug 17 03:56:18 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 32,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "6516",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2089199616843796543"
+    },
+    {
+      "id": "2089178651489382875",
+      "text": "给自己的桌面添了一抹绿色。 https://t.co/bdDKfYEA0l",
+      "created_at": "Mon Aug 17 02:33:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "958",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP5A54HbgAA6qmu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089178651489382875"
+    },
+    {
+      "id": "2089177133251965034",
+      "text": "不知道 Raycast 是不是有专门做开机启动后的 Suggestion 的优化，但结果看上去是比较符合的。\n\n推荐的几个，就是我重启电脑后需要启动的：\n\n截图、录屏工具 - Minshot\n磁盘清理 - Cleeen\n听音乐 - 汽水音乐\n主力编程工具 - Claude\n开发用浏览器 - Chrome https://t.co/cViBEe7Xzx",
+      "created_at": "Mon Aug 17 02:26:58 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "2699",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HP4_CjvbgAAA52S.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2089177133251965034"
+    },
+    {
+      "id": "2088542046370079091",
+      "text": "邮票框，永远有新玩儿法",
+      "created_at": "Sat Aug 15 08:23:21 +0000 2026",
+      "favorite_count": 37,
+      "retweet_count": 2,
+      "reply_count": 30,
+      "quote_count": 0,
+      "bookmark_count": 30,
+      "views": "7061",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2088542046370079091"
+    },
+    {
+      "id": "2087164066326606173",
+      "text": "UI 设计细节分享：\n\n当 hover 到左上角的 Logo 上时，变为一个返回的图标，增强操作指示性。 https://t.co/6p8yqfCLDV",
+      "created_at": "Tue Aug 11 13:07:45 +0000 2026",
+      "favorite_count": 42,
+      "retweet_count": 3,
+      "reply_count": 56,
+      "quote_count": 0,
+      "bookmark_count": 24,
+      "views": "5303",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2087163913041547264/img/L30xUtlDiqxEe0Q7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087164066326606173"
+    },
+    {
+      "id": "2087116297700270264",
+      "text": "太糟糕了...",
+      "created_at": "Tue Aug 11 09:57:56 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1234",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2087116297700270264"
+    },
+    {
+      "id": "2087008848230121514",
+      "text": "推荐 5 个我经常阅读的与 AI / 设计 / 技术相关的 newsletter，也是我闲暇时会去逛的“好奇心兔子洞”：\n\n1. Ben's Bites - 关于创业公司、投资、AI 咨询与小教程\nhttps://t.co/9wxYvMFyKt\n\n2. Jim Nielsen's Notes - 记录他的阅读以及两句想法。比较适合作为读书来静心阅读。\nhttps://t.co/UIlUJDhBPF\n\n3. Poche --explore - 类似当初 read .cv 似的设计/AI 相关灵感网站，内容很心，喜欢读一读这里的 summary。https://t.co/66e90SzfF7\n\n4. DEX 周刊 - 老牌 UI 设计相关的周刊\nhttps://t.co/6ij7pb8F8C\n\n5. Dense Discovery - 从一名很喜欢的独立开发者做赞助投放发现的精选设计、科技、艺术相关的 newsletter。\nhttps://t.co/CyJKqgZNTc",
+      "created_at": "Tue Aug 11 02:50:58 +0000 2026",
+      "favorite_count": 44,
+      "retweet_count": 2,
+      "reply_count": 55,
+      "quote_count": 1,
+      "bookmark_count": 96,
+      "views": "3897",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaK7z5bwAA_vn4.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaK_QIaMAAXwH5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaLEHpbgAA0rsj.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPaLKv3bEAAG3kz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2087008848230121514"
+    },
+    {
+      "id": "2086819421516141038",
+      "text": "AI agent 发展这么久了，到现在为止用的最趁手的 YouTube 视频转文字 Blog 版本的提示词，还是来自 @jiayuan_jy 当初分享的这个。\n\n挺好用的，非常适合在看视频之前或者没有时间去看视频时浏览核心信息。\n\n---\n\n这是一个视频的链接：\n\n<YouTube 视频链接>\n\n你将把一段 YouTube 视频重写成\"阅读版本\"，并创建一个 Page。按内容主题分成若干小节；目标是让读者通过阅读就能完整理解视频讲了什么，就好像是在读一篇 Blog 版的文章一样。\n\n输出要求：\n\n1. 元数据\n- 标题\n- 作者\n- 网址\n\n2. Overview\n用一段话点明视频的核心论题与结论。\n\n3. 按照主题来梳理\n- 每个小节都需要根据视频中的内容详细展开，让我不需要再二次查看视频了解详情，每个小节不少于 500 字。\n- 若出现方法/框架/流程，将其重写为条理清晰的步骤或段落。\n- 若有关键数字、定义、原话，请如实保留核心词，并在括号内补充注释。\n\n4. 框架 & 心智模型（Framework & Mindset）\n\n可以从视频中抽象出什么 framework & mindset，将其重写为条理清晰的步骤或段落，每个 framework & mindset 不少于 500 字。\n\n风格与限制：\n- 永远不要高度浓缩！\n- 不新增事实；若出现含混表述，请保持原意并注明不确定性。\n- 专有名词保留原文，并在括号给出中文释义（若转录中出现或能直译）。\n- 要求类的问题不用体现出来（例如 > 500 字）。\n- 避免一个段落的内容过多，可以拆解成多个逻辑段落（使用 bullet points）。\n- 使用英文思考，但中文回复，注意保持技术名词的英文描述。",
+      "created_at": "Mon Aug 10 14:18:15 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 1,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 34,
+      "views": "2484",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086819421516141038"
+    },
+    {
+      "id": "2086815992357986663",
+      "text": "今天体验了一款新的 Email app @avec , 其中有很多值得研究和欣赏的 UI、交互设计细节。\n\n这是其中一个，直接打破常规的按钮： https://t.co/24PpEvyZ4L",
+      "created_at": "Mon Aug 10 14:04:38 +0000 2026",
+      "favorite_count": 44,
+      "retweet_count": 0,
+      "reply_count": 65,
+      "quote_count": 0,
+      "bookmark_count": 31,
+      "views": "5072",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2086815660475338752/img/CyQC_y_XQyOppEpW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086815992357986663"
+    },
+    {
+      "id": "2086751435107225787",
+      "text": "用 AI 做好 UI 设计很难，分享下从 Claude Design 的作者 Nate 学到的 5 条你可以直接拿来使用的技巧：\n\n1. 提供高质量的上下文。输入决定输出。不要只给模型一个模糊的描述，而是带有你的品牌定义、字体、截图、细节想法等。\n\n2. 海量生成。针对布局、图标、文案大小等多种设计维度，要求 AI 一次性生成 5 个甚至更多的版本。\n\n3. 筛选与反馈。挑选出你认为“A 方案的布局不错，B 方案的配色有感觉”的部分，然后告诉 AI：“在 A 和 B 的基础上，再为我生成 6 个变体”\n\n4. 参数化控制面板。为我构建一个专门的微调工具，让我能手动拖拽光标和调整参数。\n\n5. 利用语音输入。语音是提供上下文最快的方式。",
+      "created_at": "Mon Aug 10 09:48:06 +0000 2026",
+      "favorite_count": 23,
+      "retweet_count": 2,
+      "reply_count": 80,
+      "quote_count": 1,
+      "bookmark_count": 38,
+      "views": "5790",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPWhTuabkAA2Htg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086751435107225787"
+    },
+    {
+      "id": "2086713248716632483",
+      "text": "分享一篇我今天看到，预定本周最佳设计细节解析文章的案例：\n\n一篇来自设计师开发的第一款 iOS 应用「干饭手册」，写的太全面、太细节、太有设计与巧思了。\n\n从 App 开始前的背景、图标、Onboarding、各页面的设计细节，需求是怎样的，又为什么那样设计。面面具到，而且很值得学习。\n\n另外，最后甚至还有技术复盘，我自己作为 Developer 的角色，都很少有这样的扎实回顾了。\n\n下面也摘取了一些我很喜欢的插图，另外文章中还有很多很多。\n\n推荐阅读，如果你是对设计、对构建自己的产品感兴趣的朋友，一定会有所启发。\n\nhttps://t.co/6N8mGSClaH",
+      "created_at": "Mon Aug 10 07:16:22 +0000 2026",
+      "favorite_count": 165,
+      "retweet_count": 19,
+      "reply_count": 19,
+      "quote_count": 1,
+      "bookmark_count": 234,
+      "views": "14658",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPV9ck9a4AA6W-i.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPV9g0iaAAAgnVZ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPV9r1xbkAAdjKN.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPV9262bIAAvQnI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086713248716632483"
+    },
+    {
+      "id": "2086649834162057468",
+      "text": "无论做什么，最好能清楚真正能让你保持动力的是什么。 https://t.co/Yssb7uOh1v",
+      "created_at": "Mon Aug 10 03:04:23 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2133",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPVEjKkagAAPwbz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2086649834162057468"
+    },
+    {
+      "id": "2086634658067066944",
+      "text": "简单实用！",
+      "created_at": "Mon Aug 10 02:04:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1921",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2086634658067066944"
+    },
+    {
+      "id": "2086010082991739131",
+      "text": "讲道理，豆包在国内的服务做的还真是独树一帜的，像 ChatGPT 和 Claude 这类都完全无法竞争掉的。\n\n做个旅行计划，寻找合适的餐厅和商品，连接国内本地化服务。无论是从 AI 回复的响应速度，还是连接能力，都挺厉害的。",
+      "created_at": "Sat Aug 08 08:42:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 21,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1428",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2086010082991739131"
+    },
+    {
+      "id": "2085898265191649563",
+      "text": "听闻 X 刚改了创作者收益计划，看了一眼自己的，竟然比原本的多出了好多。\n\n这就是原创内容的魅力嘛 🥹\n\n感觉再努努力，就能够上分成了。 https://t.co/x1B4lBdC52",
+      "created_at": "Sat Aug 08 01:17:55 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 59,
+      "quote_count": 2,
+      "bookmark_count": 1,
+      "views": "5869",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPKZad_a8AABUdp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085898265191649563"
+    },
+    {
+      "id": "2085693981279895592",
+      "text": "UI 设计细节：\n\n当扫描出可清理的内容时，可以在存储空间的小条中，看到清理后大概能节省出的空间部分。 https://t.co/wnfimUqAag",
+      "created_at": "Fri Aug 07 11:46:10 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1696",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPHfTB5bAAAmv4G.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085693981279895592"
+    },
+    {
+      "id": "2085648936526815683",
+      "text": "Graker v1.5.0 更新：\n\n1. 优化底部工具条布局和 UI，增加操作按钮。\n2. 优化当直接粘贴到输入框时，会自动执行语法检查或翻译。\n3. 新增调整窗口宽度按钮，大段文本查看更方便。\n\nhttps://t.co/4RF5PmGxmX https://t.co/NeRILowiZJ",
+      "created_at": "Fri Aug 07 08:47:10 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 1,
+      "reply_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "views": "3037",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPG2hOTaMAAZsfz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085648936526815683"
+    },
+    {
+      "id": "2085636528836149352",
+      "text": "好吧，这次是 Marc 来分享在中国旅游的见闻了。\n\n从国外网友发出来还挺有意思的。😂",
+      "created_at": "Fri Aug 07 07:57:52 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2070",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085636528836149352"
+    },
+    {
+      "id": "2085629296207597859",
+      "text": "你的 Mac 磁盘空间够用嘛？我今天又见底了...\n\n当同时开发 Swift、Go、Android、Node.js 等项目时，512 GB 的磁盘空间是真不够用啊。\n\n可以看看你的每个文件夹的大小，然后将那些不再需要的文件/文件夹删掉。\n\n还在小范围测试，这里发了尝鲜链接：\n\nhttps://t.co/Se6DgYJBV9 https://t.co/g7uyXnpN34",
+      "created_at": "Fri Aug 07 07:29:07 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 62,
+      "quote_count": 0,
+      "bookmark_count": 14,
+      "views": "6065",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085628391009705984/img/_RyqBmLrSqBTFmAH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085629296207597859"
+    },
+    {
+      "id": "2085564153427787933",
+      "text": "终于还是创建了一个属于自己的 Telegram 群组。\n\nhttps://t.co/2SHGt7G7NK\n\n我从 2017 年打造开源版的 Gridea 开始，直到进入 2026 年，断断续续地推出自己的个人项目，分享讨论自己在打造个人产品时的想法与进程。\n\n在此期间，有几款商业产品、长期项目，也有一些自用的业余小工具。\n\n今年随着 AI 模型的飞速发展，使我构建产品的速度也越来越快。于是创建群组为自己的每个小产品有一个专门的快速沟通与交流的地方。\n\n之前尝试过 X Chat 群组，但是功能和体验都太拉了，目前看 Telegram 依然是最佳选择。\n\n欢迎感兴趣的朋友加入，看看 Zayn 又在构建什么。",
+      "created_at": "Fri Aug 07 03:10:16 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 63,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "4442",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085564153427787933"
+    },
+    {
+      "id": "2085550668610510961",
+      "text": "你永远可以创作出更具创意和精益求精的 UI 交互。\n https://t.co/Tnl7CzoVKz",
+      "created_at": "Fri Aug 07 02:16:41 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "2829",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085450768622952448/img/qnSqB2S0zHbFLhsc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085550668610510961"
+    },
+    {
+      "id": "2085549682789601490",
+      "text": "谢谢，不过按照我对于 Minttr 中的 AI Chat 来看的话，10 分制，最多也就 2 分。\n\n这里还有大量的可优化和迭代的地方。",
+      "created_at": "Fri Aug 07 02:12:46 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1803",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2085549682789601490"
+    },
+    {
+      "id": "2085364757985701948",
+      "text": "什么？Arc 浏览器的 Folder（文件夹）功能还没有在 Dia @diabrowser 浏览器中实现？\n\n今天学到了：\n\n将 Group 拖拽到 Pin 的区域，即可创建一个常驻的文件夹。\n\n也就是 Pinned Group = Folder。 https://t.co/wzG3O5ZYxz",
+      "created_at": "Thu Aug 06 13:57:57 +0000 2026",
+      "favorite_count": 71,
+      "retweet_count": 0,
+      "reply_count": 56,
+      "quote_count": 1,
+      "bookmark_count": 39,
+      "views": "14183",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2085364210343772160/img/keexzA4R6T1zmN8Y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085364757985701948"
+    },
+    {
+      "id": "2085349055253901516",
+      "text": "忘记说了，前段时间不是 ModHeader 被爆安全问题被 Chrome 浏览器封杀了嘛，\n\n所以我也搞了一个极简版的 Request Header 修改浏览器插件，如果有需要的朋友欢迎使用。\n\nhttps://t.co/euSWFEUksp https://t.co/o9MjMUagzs",
+      "created_at": "Thu Aug 06 12:55:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1499",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HPCleHsbUAAxKlE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2085349055253901516"
+    },
+    {
+      "id": "2085341845085978696",
+      "text": "最近一段时间，附近离职的人的从提出离职到 lastday 的时间越来越短了。\n\n而且，AI 发展这么快，离职和寻求变化的人也多了起来。",
+      "created_at": "Thu Aug 06 12:26:54 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 0,
+      "reply_count": 69,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "7398",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2085341845085978696"
+    },
+    {
+      "id": "2084984409162436765",
+      "text": "一个 Chrome 小恐龙主题风格的，火柴人版本超级玛丽小游戏，\n\n别笑，你也无法一次过关，免费在线挑战：\n\nhttps://t.co/0H0P7P0txr\n\n欢迎分享你的成绩截图。 https://t.co/MGSYpynBv0",
+      "created_at": "Wed Aug 05 12:46:34 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "5184",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084980676932345856/img/XBJtoQIi0l4798ep.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084984409162436765"
+    },
+    {
+      "id": "2084945549439181300",
+      "text": "Claude 的 AI 模型命名真是糟糕，最近因为想省着 Fable 5 在关键事情上使用，然后有的会切换尘 Opus 5 来使用。\n\n但是看到这个 “Opus 5” 的时候总是会恍惚一下，是不是选了费钱的模型... https://t.co/d6PsmjJbwg",
+      "created_at": "Wed Aug 05 10:12:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1438",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO82yZIacAETQ0f.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2084945549439181300"
+    },
+    {
+      "id": "2084926074354561437",
+      "text": "Coming soon...\n\n免费且开源，一款 macOS 原生磁盘清理与空间管理工具。\n\n关注并私信我，可以提前尝鲜。（如果你有需要的话）\n\n或者关注我，等我在 X 发布。 https://t.co/uJjIQx6XTQ",
+      "created_at": "Wed Aug 05 08:54:46 +0000 2026",
+      "favorite_count": 18,
+      "retweet_count": 0,
+      "reply_count": 58,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "6169",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO8kkoYakAAZKvW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084926074354561437"
+    },
+    {
+      "id": "2084919057854431684",
+      "text": "分享 UI 设计细节：\n\n来自 Cloudflare 的创建 worker / pages 的页面。\n\n非常干净、功能清晰、有着独特的设计和布局风格。 https://t.co/Y8hB4rQtJR",
+      "created_at": "Wed Aug 05 08:26:53 +0000 2026",
+      "favorite_count": 26,
+      "retweet_count": 0,
+      "reply_count": 40,
+      "quote_count": 0,
+      "bookmark_count": 19,
+      "views": "4697",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO8ef8DaUAAT40k.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084919057854431684"
+    },
+    {
+      "id": "2084845030116892765",
+      "text": "UI 设计细节：\n\n当你保存一个重复的链接到 @minttrapp 时，会得到提醒。 https://t.co/3c6L3lBwBz",
+      "created_at": "Wed Aug 05 03:32:44 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 13,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "3336",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO7bAPZakAA_whV.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084845030116892765"
+    },
+    {
+      "id": "2084819548214309202",
+      "text": "Paper @paper  将 Web 技术中那些好的东西，带到了设计领域。\n\nhttps://t.co/3yeJQfJXJb",
+      "created_at": "Wed Aug 05 01:51:29 +0000 2026",
+      "favorite_count": 102,
+      "retweet_count": 6,
+      "reply_count": 15,
+      "quote_count": 2,
+      "bookmark_count": 65,
+      "views": "9437",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084585783537680384/img/q8dlOrpo2fB5wmCq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084819548214309202"
+    },
+    {
+      "id": "2084818005650022519",
+      "text": "每次因为想要记录一个未来时间提醒的事情而打开 Apple 的提醒事项时，\n\n都为这个糟糕的界面和交互叹一口气。 https://t.co/Rh5AiTUWuI",
+      "created_at": "Wed Aug 05 01:45:21 +0000 2026",
+      "favorite_count": 23,
+      "retweet_count": 0,
+      "reply_count": 23,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "10597",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO7CnWkaEAEWFE_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084818005650022519"
+    },
+    {
+      "id": "2084564987822194957",
+      "text": "UI 设计小技巧：\n\n让你的客户端左上角系统菜单和侧边栏的菜单左侧图标水平居中对齐在同一个竖线上。 https://t.co/3mHLc2PYAw",
+      "created_at": "Tue Aug 04 08:59:57 +0000 2026",
+      "favorite_count": 231,
+      "retweet_count": 6,
+      "reply_count": 38,
+      "quote_count": 2,
+      "bookmark_count": 170,
+      "views": "17972",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO3cbBDbsAAzPYO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084564987822194957"
+    },
+    {
+      "id": "2084562141198315907",
+      "text": "Airtable 被收购了，宣布着上个时代的文档类产品彻底结束了。\n\n新时代完完全全开始了。",
+      "created_at": "Tue Aug 04 08:48:38 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 1,
+      "reply_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "10658",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084562141198315907"
+    },
+    {
+      "id": "2084559578440847706",
+      "text": "推荐两个非常好看又好用的动效组件：\n\n- 动态边界光束\nhttps://t.co/w5S7gaDDFP\n\n- 动态思考球\nhttps://t.co/FvNIQUH1pO https://t.co/bAIJOZWrrP",
+      "created_at": "Tue Aug 04 08:38:27 +0000 2026",
+      "favorite_count": 1982,
+      "retweet_count": 225,
+      "reply_count": 32,
+      "quote_count": 10,
+      "bookmark_count": 2341,
+      "views": "117912",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084559040278048769/img/1IcSEK_xaONT3E7b.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084559578440847706"
+    },
+    {
+      "id": "2084551172959216032",
+      "text": "现在工作中越来越多的 AI 制造的垃圾文档，完全未经人审阅和校准，然后污染者企业上下文。\n\nhttps://t.co/O6wxusplSz https://t.co/TS7rncuHQD",
+      "created_at": "Tue Aug 04 08:05:03 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "2241",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO3QI-daoAAJ6Gz.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2084551172959216032"
+    },
+    {
+      "id": "2084496515108909116",
+      "text": "✨ - 喜欢这个 Mac 空间分析结果的 UI 设计。\n\n将网站访问统计的“访问流量占比”借鉴到了“空间占比”的表达上。\n\n那么请问广大推友，这款应用应该起个什么名字？ https://t.co/gMxCIEKAWN",
+      "created_at": "Tue Aug 04 04:27:51 +0000 2026",
+      "favorite_count": 17,
+      "retweet_count": 0,
+      "reply_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "5631",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HO2d_rQacAAXeL2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084496515108909116"
+    },
+    {
+      "id": "2084467555755036860",
+      "text": "不是... 千问办公这个图标，真就对标 Workbuddy 呗...\n\n看上去像是完全没有考虑品牌化。",
+      "created_at": "Tue Aug 04 02:32:47 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "2668",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084467555755036860"
+    },
+    {
+      "id": "2084210922449731768",
+      "text": "使用 Opus 5 一句话直出了一款网页游戏！\n\n火柴人大冒险。\n\nhttps://t.co/rgsLmv3lr3 https://t.co/4pSlcIGvX3",
+      "created_at": "Mon Aug 03 09:33:01 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 1,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "3383",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084210647202668544/img/CYniQPfOBDhdJVIy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084210922449731768"
+    },
+    {
+      "id": "2084142829874692590",
+      "text": "这个奔跑换镜效果好丝滑啊。",
+      "created_at": "Mon Aug 03 05:02:26 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1610",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084142829874692590"
+    },
+    {
+      "id": "2084116369315123486",
+      "text": "喜欢这个 Mac 清理工具的 dock 栏的 UI 设计。 https://t.co/K4d46sXDWL",
+      "created_at": "Mon Aug 03 03:17:18 +0000 2026",
+      "favorite_count": 21,
+      "retweet_count": 1,
+      "reply_count": 49,
+      "quote_count": 1,
+      "bookmark_count": 16,
+      "views": "12621",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2084116220815835136/img/I8HyP3nJMXf2EzyQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2084116369315123486"
+    },
+    {
+      "id": "2084094052023316746",
+      "text": "✨ - 独立开发小技巧：\n\n打造比你的竞争对手速度快一些的应用。",
+      "created_at": "Mon Aug 03 01:48:37 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 34,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "2591",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2084094052023316746"
+    },
     {
       "id": "2083591516912751012",
       "text": "+1",
@@ -25,7 +3569,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "621",
+      "views": "1130",
       "lang": "qst",
       "is_retweet": false,
       "is_quote": true,
@@ -40,8 +3584,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 2,
-      "views": "732",
+      "bookmark_count": 3,
+      "views": "1195",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -57,7 +3601,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "865",
+      "views": "1247",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -73,12 +3617,12 @@
       "id": "2083435163305017821",
       "text": "清理范围越来越完善了。 https://t.co/NhIXQNkVHL",
       "created_at": "Sat Aug 01 06:10:25 +0000 2026",
-      "favorite_count": 4,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 18,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "3009",
+      "views": "3549",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -99,7 +3643,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1083",
+      "views": "1496",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -119,12 +3663,12 @@
       "id": "2083424472951124396",
       "text": "喜欢这个数字切换时的过渡动画。 https://t.co/v1VosK1D3z",
       "created_at": "Sat Aug 01 05:27:57 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1667",
+      "views": "2042",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -145,7 +3689,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "884",
+      "views": "1123",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -161,12 +3705,12 @@
       "id": "2083409703263158591",
       "text": "这个有意思 https://t.co/O5tiibugjy",
       "created_at": "Sat Aug 01 04:29:15 +0000 2026",
-      "favorite_count": 4,
+      "favorite_count": 5,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "1342",
+      "views": "1750",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -186,8 +3730,8 @@
       "retweet_count": 0,
       "reply_count": 43,
       "quote_count": 0,
-      "bookmark_count": 18,
-      "views": "5061",
+      "bookmark_count": 19,
+      "views": "5459",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -203,7 +3747,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1965",
+      "views": "2513",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -214,12 +3758,12 @@
       "id": "2083214707062878666",
       "text": "一般很少上厕所，但如果真上的话，就直接放那儿了。\n\n心想应该不会丢，即使真的丢了，影响也不算特别大，没啥太值钱的东西。😂",
       "created_at": "Fri Jul 31 15:34:25 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1273",
+      "views": "1451",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -235,7 +3779,7 @@
       "reply_count": 51,
       "quote_count": 1,
       "bookmark_count": 5,
-      "views": "9096",
+      "views": "10330",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -251,12 +3795,12 @@
       "id": "2083029056879198367",
       "text": "如果说当初 Arc 浏览器有什么我最喜欢的功能，那就是这个：\n\n滑动切换 Profile！\n\n现在终于在 Dia @diabrowser 浏览器中实现了。\n\n这才是浏览器多工作分区的最佳设计！ https://t.co/eMyZFEd6nI",
       "created_at": "Fri Jul 31 03:16:42 +0000 2026",
-      "favorite_count": 306,
+      "favorite_count": 305,
       "retweet_count": 7,
       "reply_count": 87,
       "quote_count": 4,
-      "bookmark_count": 110,
-      "views": "28956",
+      "bookmark_count": 107,
+      "views": "29961",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -274,10 +3818,10 @@
       "created_at": "Fri Jul 31 03:11:39 +0000 2026",
       "favorite_count": 42,
       "retweet_count": 1,
-      "reply_count": 7,
+      "reply_count": 6,
       "quote_count": 0,
       "bookmark_count": 12,
-      "views": "3981",
+      "views": "4152",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -298,7 +3842,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1288",
+      "views": "1424",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -314,7 +3858,7 @@
       "reply_count": 31,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "2506",
+      "views": "2606",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -330,7 +3874,7 @@
       "reply_count": 8,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "2257",
+      "views": "2358",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -346,12 +3890,12 @@
       "id": "2082767805276168206",
       "text": "正好看到功能引导了，截了个图。 https://t.co/84SoEnUhCZ",
       "created_at": "Thu Jul 30 09:58:35 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1547",
+      "views": "1651",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -372,7 +3916,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1577",
+      "views": "1664",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -393,7 +3937,7 @@
       "reply_count": 19,
       "quote_count": 0,
       "bookmark_count": 7,
-      "views": "2494",
+      "views": "2629",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -418,7 +3962,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "2267",
+      "views": "2375",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -439,7 +3983,7 @@
       "reply_count": 23,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "4285",
+      "views": "4463",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -464,7 +4008,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2106",
+      "views": "2188",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -479,8 +4023,8 @@
       "retweet_count": 1,
       "reply_count": 25,
       "quote_count": 0,
-      "bookmark_count": 16,
-      "views": "3416",
+      "bookmark_count": 17,
+      "views": "3537",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -501,7 +4045,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "2710",
+      "views": "2800",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -519,10 +4063,10 @@
       "created_at": "Wed Jul 29 08:55:53 +0000 2026",
       "favorite_count": 1,
       "retweet_count": 0,
-      "reply_count": 7,
+      "reply_count": 6,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "2638",
+      "views": "2727",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -538,7 +4082,7 @@
       "reply_count": 7,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2696",
+      "views": "2768",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -554,7 +4098,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "1180",
+      "views": "1266",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -575,7 +4119,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "848",
+      "views": "908",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -596,7 +4140,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 13,
-      "views": "2981",
+      "views": "3111",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -612,7 +4156,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "3073",
+      "views": "3152",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -628,7 +4172,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "2236",
+      "views": "2295",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -644,7 +4188,7 @@
       "reply_count": 9,
       "quote_count": 2,
       "bookmark_count": 5,
-      "views": "6371",
+      "views": "6647",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -655,12 +4199,12 @@
       "id": "2082284663293522348",
       "text": ". @minttrapp Mac app has a quick note window.\n\nand you can adjust the window size for different scenarios.\n\nsuch as writing a little inspired idea, or writing a long email. https://t.co/9aSalwWrNo",
       "created_at": "Wed Jul 29 01:58:45 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 2,
       "retweet_count": 1,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "628",
+      "views": "739",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -681,7 +4225,7 @@
       "reply_count": 16,
       "quote_count": 0,
       "bookmark_count": 11,
-      "views": "3548",
+      "views": "3626",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -702,7 +4246,7 @@
       "reply_count": 5,
       "quote_count": 0,
       "bookmark_count": 11,
-      "views": "3426",
+      "views": "3529",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -723,7 +4267,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1888",
+      "views": "1933",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -739,7 +4283,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "991",
+      "views": "1032",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -755,7 +4299,7 @@
       "reply_count": 13,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1460",
+      "views": "1508",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -766,12 +4310,12 @@
       "id": "2081934872122380384",
       "text": "我体验了很多笔记类软件后发现，有一个图片粘贴的痛点大家都没有处理很好：\n\n在网页（或者说电脑桌面）上截图并插入到笔记中是一个我经常进行的操作。但是很多笔记类软件如 Obsidian、Notion、Craft 等，无一例外，都显示的是图片的“实际像素”。\n\n而这个“实际像素”，在 Mac 截图场景会由于 Retina 屏幕的 DPR=2，而导致和截图时的视觉尺寸产生差异。\n\n例如网页内容显示的是 600px，截图软件显示的也是如此，但粘贴到笔记软件中就变成了 1200px（或者说比 600px 大，显示了图片的“实际像素”），导致图片看起来比在网页中看到的更宽、图片内容也因此变模糊。\n\n终于，在 Minttr 中这个体验细节被我解决了。以“视觉像素”为主，看到的是多宽，截图是多宽，在编辑器中显示的就是多宽。拥有相同尺寸显示的同时，也拥有最佳的清晰度。",
       "created_at": "Tue Jul 28 02:48:48 +0000 2026",
-      "favorite_count": 25,
+      "favorite_count": 26,
       "retweet_count": 3,
       "reply_count": 27,
       "quote_count": 2,
       "bookmark_count": 27,
-      "views": "8086",
+      "views": "8424",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -787,12 +4331,12 @@
       "id": "2081922697773392071",
       "text": "✨ - 设计细节：\n\n当 hover 到 music 的时候，显示实时播放的音乐小组件。 https://t.co/cZ5e4NVrBG",
       "created_at": "Tue Jul 28 02:00:26 +0000 2026",
-      "favorite_count": 7,
+      "favorite_count": 6,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1480",
+      "views": "1529",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -813,7 +4357,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "549",
+      "views": "593",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -834,7 +4378,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2417",
+      "views": "2497",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -845,12 +4389,12 @@
       "id": "2081742716116062614",
       "text": "Update. https://t.co/XG4LGfzZhV",
       "created_at": "Mon Jul 27 14:05:15 +0000 2026",
-      "favorite_count": 8,
+      "favorite_count": 9,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1242",
+      "views": "1282",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -871,7 +4415,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 19,
-      "views": "3155",
+      "views": "3272",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -892,7 +4436,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "2373",
+      "views": "2417",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -907,8 +4451,8 @@
       "retweet_count": 0,
       "reply_count": 3,
       "quote_count": 2,
-      "bookmark_count": 11,
-      "views": "11005",
+      "bookmark_count": 10,
+      "views": "11156",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -924,7 +4468,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1330",
+      "views": "1359",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -940,7 +4484,7 @@
       "reply_count": 25,
       "quote_count": 0,
       "bookmark_count": 13,
-      "views": "6839",
+      "views": "6929",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -961,7 +4505,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1659",
+      "views": "1694",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -982,7 +4526,7 @@
       "reply_count": 62,
       "quote_count": 2,
       "bookmark_count": 6,
-      "views": "38029",
+      "views": "38477",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -998,7 +4542,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "2685",
+      "views": "2732",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -1019,7 +4563,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2474",
+      "views": "2494",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -1040,7 +4584,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "728",
+      "views": "748",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -1055,8 +4599,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 4,
-      "views": "1787",
+      "bookmark_count": 3,
+      "views": "1823",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -1077,7 +4621,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1745",
+      "views": "1766",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -3674,12 +7218,12 @@
       "id": "2072297263591051735",
       "text": "朋友们，\n\n今天对于 Minttr 和我来说，都是一个非常重要的日子，因为 Minttr 在经历了 一年多的使用与打磨后，终于对外开放注册了。🎉🎉🎉\n\n诚然，它依然是不完美的，就像我所记录的卡片笔记一样。它的基础功能已经相对稳定，可以放心地记录、安心的打造自己的想法博物馆。\n\n现阶段更重要的是，将它带给更多需要的人。也欢迎大家介绍给自己的朋友使用。\n\n再次介绍下 Minttr：\n\nMinttr 是一款为个人兴趣探索打造的卡片笔记应用，支持将笔记、链接、图片等保存到同一个地方。\n\n到现在为止，我在 Minttr 中记录了 721 条灵感笔记，我喜欢设计、产品和技术，并企图在打造软件中找到完美的平衡。\n\n我在做饭时、散步时、阅读时、甚至搭乘地铁时，把想法记下来。支撑我打造出了 Minttr 以及其他几款个人产品。\n\n好点子不是硬想出来的，是来自一个个思考瞬间，来自日积月累的记录。\n\n我使用 Minttr 保存任何有启发的链接，尤其是 X 帖子，这不断影响着我的设计，影响着我对于 AI 趋势的感受。\n\n值得一提的是，保存链接的同时记录下当下所想，会在卡片视图中一同呈现，这些宝贵的个人备注，值得第一优先级。\n\n还有一些围绕 AI 的改进：\n\n- 保存的图片会自动进行 AI 化处理，Minttr 的搜索功能，绝对值得一试。\n- 有灵感，有思考，但不完整？Reflect 会给一些不同视角、不同观点的输入。85% 的早期用户都给出了手动好评。这也是对它最有力的解释。\n- AI Chat 就是那个 ChatGPT 却拥有了你笔记的上下文。\n\n如果你正在寻找趁手的笔记应用，欢迎加入 Minttr，打造属于自己的想法博物馆。 ⬇️\n\nhttps://t.co/tMnnx52eHD",
       "created_at": "Wed Jul 01 12:32:23 +0000 2026",
-      "favorite_count": 64,
+      "favorite_count": 75,
       "retweet_count": 13,
-      "reply_count": 5,
+      "reply_count": 6,
       "quote_count": 6,
-      "bookmark_count": 21,
-      "views": "23401",
+      "bookmark_count": 29,
+      "views": "30609",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
