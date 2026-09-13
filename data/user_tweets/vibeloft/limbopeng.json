@@ -7,15 +7,410 @@
     "nickname": "Limbo",
     "profile_url": "https://vibeloft.ai/profile/limbo"
   },
-  "generated_at": "2026-09-04T12:00:18.981421Z",
+  "generated_at": "2026-09-13T03:00:12.192467Z",
   "stats": {
-    "tweet_count": 709,
-    "latest_tweet_created_at": "2026-09-04T03:04:52Z",
-    "latest_tweet_id": "2095709654433386822",
+    "tweet_count": 727,
+    "latest_tweet_created_at": "2026-09-12T14:56:41Z",
+    "latest_tweet_id": "2098787891682099512",
     "oldest_tweet_created_at": "2024-03-14T09:13:41Z",
     "oldest_tweet_id": "1768203837389848627"
   },
   "tweets": [
+    {
+      "id": "2098787891682099512",
+      "text": "V2EX 上有个热帖问：Vibe Coding 的代码怎么放心上线？ 我最近面试的过程中，也有老板这样问。\n\n评论区给出的方案也五花八门，大概只有这几种：让 AI 自己做自动化测试、让 AI 做 Review、人工 Review 等等。\n\n这确实是一种心理变化。把 Vibe Coding 的代码安全地推向生产，本质不是彻底消灭 bug，而是将工程重心的控制权从编码实现，转移到契约约束与确定性验证上。\n\n为什么在没有 Vibe Coding 的时候，我们敢于上线？说白了，其实是心里有一个全局感。Vibe Coding 会造成这种全局感的缺失，那怎么弥补这种全局感呢？\n\n1. 高层次方案 review：首先，从高层次要看一下给出的方案文档是否 OK。这部分没法让 AI 帮你决策，还是要自己 review，然后再和 AI 讨论，直到这些方案你已经烂熟于心。\n\n2. 编码实现与端到端测试：对于编码实现，直接在工地做。做完之后，除了一些单元测试之外，还要做端到端测试和一些对抗测试。因为单元测试很容易让人产生虚假的安全感，AI 会基于它已经写出的错误假设来编造断言；这些看起来正确的单元测试，往往挡不住真实的线上问题。\n\n3. 静态类型与 CI/CD：AI 生成代码的编辑成本趋于0，但人眼逐行 review 很难做到。所以防御必须依赖高杠杆的确定性攻击链，比如严苛的静态类型、CI/CD 等等。\n\n4. 权限最小化、灰度发布与全链路感知：最后一点还是要控制权限最小化，做好灰度发布和及时回滚，以及全链路 trace 和全链路感知。\n\n关于 4 这部分不管在 Vibe Coding，还是没有 Vibe Coding 的时代，都是应该去做的。只不过你做得越好，就越敢频繁上线。\n\nhttps://t.co/9PFmgTv786",
+      "created_at": "Sat Sep 12 14:56:41 +0000 2026",
+      "favorite_count": 94,
+      "retweet_count": 11,
+      "reply_count": 8,
+      "quote_count": 3,
+      "bookmark_count": 112,
+      "views": "8300",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2098787891682099512"
+    },
+    {
+      "id": "2098354531625279738",
+      "text": "macOS 外接鼠标横向滚动技巧\n\n别再去费劲拖拽底部的水平滚动条了，横向滚动优先试这两个快捷键：\n\n1、 Shift + 滚轮：行业主流逻辑。像剪映这类时间轴软件，按住 Shift 滚滚轮即可左右平移。\n2、Command + 滚轮：部分特立独行软件的解法。若 Shift 无效，换成 Command 试试（比如 Cap）。\n\n口诀：先 Shift 后 Command，彻底告别手动拉条。",
+      "created_at": "Fri Sep 11 10:14:40 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "130",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR7ZuBCa0AAqQ_z.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098354531625279738"
+    },
+    {
+      "id": "2098321301622718789",
+      "text": "我想知道，它在干嘛？\nGLM-5.3 Flash 最新的表现有点拉，真有点怀疑它是不是之前 ox-alpha （牛来）模型的flash版本， flash中的flash, 够稀的了。 https://t.co/z1bQABgcZ4",
+      "created_at": "Fri Sep 11 08:02:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "104",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR67yCFaoAAbxdj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098321301622718789"
+    },
+    {
+      "id": "2097910457105613056",
+      "text": "今天给 dsh A 股工作台更新了个我自己特别喜欢的功能，也就是它会根据我的设置风格，来把一些专业的术语、技术指标，深入浅出地讲给我，还会给我生成一个可以交互的网页，是完全基于我的持仓数据的，这样更好地去理解。\n\n为了更好的去呈现效果，我这个插件改成内嵌的形式，走的 dsh sandbox iframe，同时又能在独立窗口打开，这样的话我整个 A 股工作台就更加完善一些，特别是对于小白用户是比较友好的。",
+      "created_at": "Thu Sep 10 04:50:04 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "390",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR1Fm95bMAAod-C.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097910457105613056"
+    },
+    {
+      "id": "2097849239674171526",
+      "text": "Vibe coding 的时候怎么提供更好的情绪价值呢？把头像给 codex 生成宠物，点他，鞭策他 ... https://t.co/yZn1LDRlPs",
+      "created_at": "Thu Sep 10 00:46:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "112",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097848819371454464/img/f-OWxjkmtZCTUwBe.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097849239674171526"
+    },
+    {
+      "id": "2097721777984360873",
+      "text": "给儿子拍张照，一键生成一组微信表情包；\n把自己和老婆的合照丢进去，一键生成一组\"棒打鸳鸯\"动态表情——以后吵架不用打字，直接斗图。\n\n我写的一个 skill：只需要一张图（头像就行），自动生成一组动态表情包，还能自动发布到微信表情开放平台，全程零手工。\n\n接下来继续打磨，支持更多风格和字体效果，不得不感叹：GPT Image 2.5 真是又快又好。",
+      "created_at": "Wed Sep 09 16:20:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "136",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "animated_gif",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HRyZSrlboAAAlar.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRyZT4xaUAAMG2W.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRyZU0DbsAEJbBd.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRyZX68bsAEW6F8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097721777984360873"
+    },
+    {
+      "id": "2097693006719848470",
+      "text": "刚把 Tressight app 背后的生图模型从 gpt-image-2 换成了 gpt-image-2.5-flare。\n\n同一张照片，同一套流程，同一条链路：\n以前 90 秒一张，现在 15 秒。\n\n快了 6 倍，效果还更好了，这下我的 Tony 老师就不用苦苦等待了。 https://t.co/4uPHcoC3jp",
+      "created_at": "Wed Sep 09 14:26:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "178",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097692964248334336/img/osLnAOWOwJVQRiYt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097693006719848470"
+    },
+    {
+      "id": "2097595012393640071",
+      "text": "我有点不太明白 Cap 为什么消耗那么多内存? @cap https://t.co/OGNzHjzUf2",
+      "created_at": "Wed Sep 09 07:56:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "53",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwnb7ybgAAgC_w.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097595012393640071"
+    },
+    {
+      "id": "2097483501025288264",
+      "text": "deepseek-v4.1-flash-expires-on-0910 这速度和效果，你觉得怎么样？\n\n使用的工具：https://t.co/z2dNpDQjjp https://t.co/X6kDqePXv6",
+      "created_at": "Wed Sep 09 00:33:30 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "225",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRvByuSagAAbK1r.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2097483501025288264"
+    },
+    {
+      "id": "2096953562458956110",
+      "text": "Herdr 这类工具，对绝大多数人是没必要的。\n\n你平时只开一个 codex, Claude Code 干活，装它纯属多余，它对你就是个花哨的终端服务器。\n\n除非你有这样的需求：同时管着几个 coding agent，还能相互协作。\n\n我现在的工作流是：codex cli GPT6-Astra 贵模型先做架构设计、把任务拆细，然后驱动 Pi、Claude Code、Antigravity 用稍微便宜模型并行开工，写实现、跑测试。我要做的只剩盯着谁卡住了。\n\n多 agent 放养的痛点，Herdr都能搞定，而且比 Tmux 更容易上手：\n\n一、持久运行不中断（保留了 tmux 服务器持有会话、客户端可随时 detach/attach 的核心模型）； \n二、自动标注每个 agent 的状态：干活中、被卡住、闲置，不用逐个窗口翻； 三、agent 能互相驱动，一个 agent 可以开面板、拉起另一个、等对方真阻塞了再接管（需要先安装对应skill)",
+      "created_at": "Mon Sep 07 13:27:43 +0000 2026",
+      "favorite_count": 99,
+      "retweet_count": 9,
+      "reply_count": 13,
+      "quote_count": 2,
+      "bookmark_count": 106,
+      "views": "11434",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096951032354148352/img/6bC8J861QM-NY2vP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096953562458956110"
+    },
+    {
+      "id": "2096943175948718170",
+      "text": "一句暴论：有条件的大家还是走 ChatGPT 官方订阅吧，折腾中转站很多时候完全浪费时间。",
+      "created_at": "Mon Sep 07 12:46:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "270",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096943175948718170"
+    },
+    {
+      "id": "2096870643581260201",
+      "text": "怎么 vibe 出来 所谓 “高级点” 的UI，问题不在 AI，在你。\n\n“高级” 从来不是一句咒语，是一堆具体的视觉决策：配色、留白、字体层级、动效节奏。你说不出来，它就只能瞎猜。\n\n下面 14 个灵感站，让 AI 照着抄出高级页面，同时也是提升自己审美的参考。\n\n我按用途整理了 14 个灵感站，建议收藏：\n\n🎨 整体风格\n① https://t.co/d670nfOSz4｜整体视觉风格参考\n② https://t.co/BpUesQ9lly｜最新设计趋势，跟住当下审美\n\n📱 UI 截图\n③ https://t.co/jRPGpR0RwY｜海量真实 App 网页截图\n④ https://t.co/wF2lNA3fHR｜按产品流程拆解，看完整用户路径\n\n🧩 组件级\n⑤ https://t.co/BKiKA4TR22｜Hero 首屏\n⑥ https://t.co/0pIEFhm4X3｜导航栏\n⑦ https://t.co/0QJKSMq0nU｜UI 动效\n⑧ https://t.co/ZNybjYsdNX｜渐变配色\n⑨ https://t.co/gfXGxsYPWW｜CTA 按钮\n⑩ https://t.co/5F5Ws7x5U5｜Logo 灵感\n\n🛠 特定场景\n⑪ https://t.co/btaBEDIvoA｜社交媒体配图\n⑫ https://t.co/4I60dU8YUB｜移动端网页\n⑬ https://t.co/hGg2zTUp1L｜设计系统组件\n⑭ https://t.co/HNiu8CjpVd｜AI 可读的设计规范 .md 文件\n\n用法建议：开工前先逛 10 分钟，挑 2-3 张最接近你想要的感觉的图，连同网址一起丢给 AI，附一句 “照这个风格重做”。",
+      "created_at": "Mon Sep 07 07:58:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "280",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRmUAxkboAAtHow.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRmUAxHaoAA6-Aq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096870643581260201"
+    },
+    {
+      "id": "2096836270165213519",
+      "text": "炒股的兄弟应该都有这个体验：同花顺能给你看行情，但它永远不知道你为什么买的、当初脑子里在想什么。\n\n所以我自己动手写了个 dsh-astock-workbench，DeepSeek Harness（dsh）的插件，MIT 开源。\n\n实盘，靠这个 A 股工作台，快回本了 ～\n\n基于你的真实持仓与投资者画像，给出同花顺给不了的 AI 分析与买卖时机参考； 决策日志与长期账面，沉淀属于你自己的投资纪律。\n\n项目：https://t.co/RkqjuGOFLm",
+      "created_at": "Mon Sep 07 05:41:38 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "701",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096835216413454336/img/8OFr8xoO8U1sR6DW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096836270165213519"
+    },
+    {
+      "id": "2096628293734957290",
+      "text": "我有一点太傻了。智谱赠送的周六周日两天无限量狂蹬的体验套餐，结果我没有切换到体验套餐，而是用自己的个人套餐，消耗的还是自己 coding plan 里的额度。哎呀，我真太傻了！\n\n再一个，智谱做这个产品，把这一块隐藏得也太深了。我还以为领取了之后，接下来的消耗都会优先扣除体验套餐赠送的额度，谁知道还要人工去点一下、切换一下。。。",
+      "created_at": "Sun Sep 06 15:55:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "209",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRi35ZIbsAASLwg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096628293734957290"
+    },
+    {
+      "id": "2096607826760388916",
+      "text": "吐槽下，GPT-6 Astra 才放出来两天，大家不是在想它能打开哪扇新门，是在比谁先把同一扇门再拍一遍：Blender 建个城、Godot 做个小游戏、解剖模型、线稿丢给它自己涂、做一些3D小网页...\n\n以前发新模型，起码还能看到几条歪路：有人拿它干没人想过的脏活，有人用它拆自己行业里真正痛的环节。现在最快出圈的路径就一条——打开软件，生成一个能转的 3D，配上延时视频。Computer Use 本该把电脑变成新界面，结果大家只用它证明：看，我也会让 AI 自己点鼠标。(也包括我，我上一篇推文就是这样做的）\n\nAstra 能操作整个电脑。可两天后，电脑在大家手里只剩下三样：建模、写代码、录演示。\n\n很多人，包括我，想象力枯竭了，请问 AGI 来了吗？",
+      "created_at": "Sun Sep 06 14:33:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "209",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2096607826760388916"
+    },
+    {
+      "id": "2096512563479785887",
+      "text": "GPT6 Astra x Claude Opus 5 的作品，教师节快到了，搞点特殊的。\n\n体验地址：https://t.co/U4gOTzH4ux\n开源地址：https://t.co/Qfq3rMso5u https://t.co/A4Wvc24TS6",
+      "created_at": "Sun Sep 06 08:15:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "229",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096512152647647232/img/NenEOMENKfdPtRPS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096512563479785887"
+    },
+    {
+      "id": "2096078810005557505",
+      "text": "前段时间我用 dsh 写了个 A 股工作台插件，越写越好奇它咋做到这么丝滑的热插拔？一切皆插件是个啥意思？\n\n让 AI 把源码和官方文档扒了一遍，写了这篇《dsh Cordis 与插件开发》交互手册。\n\n文章讲清两件事：Cordis 怎么管插件的装、卸、互找，以及怎么亲手写一个自己的插件。插件没反应怎么排障、依赖挂了怎么自动重连、为什么改配置不用重启，全都给了答案。\n\n为了方便理解，我分了 11 章配 8 个能点的交互动画，插件树装卸、fiber 状态机、waterfall 决策链全是可玩的可视化，代码取自官方教程直接能跑。啃文档一周的事，点着动画一小时就有体感。\n\n最后呢，还是建议大家写一个 dsh 的插件来感受一下它的魔力，这样更有体感。\n\nhttps://t.co/s5Bfovj3n5",
+      "created_at": "Sat Sep 05 03:31:46 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "334",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbEgzTaQAAYHx9.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbEg0hbMAI5F2g.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbEgzVaAAAPKPx.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRbEg0haUAA03n5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2096078810005557505"
+    },
+    {
+      "id": "2095887778345357672",
+      "text": "使用豆包办公，我创建的一个 skill 一句话能够生成科普视频，过程如图。一个「主题 → 9:16 竖版图文解说视频」的端到端流水线，把「写稿 → 配图 → 配音 → 对齐字幕 → 合成」全部串起来，你只给一个主题，它出一整条带配音、字幕、运镜、转场的成片。\n\n极低的成本出一个视频。 https://t.co/Xlpx5krJkl",
+      "created_at": "Fri Sep 04 14:52:40 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "262",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2095885021970333696/img/tt7vcKpLdqu3qjLq.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRYVi-va0AA7wkM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2095887778345357672"
+    },
     {
       "id": "2095709654433386822",
       "text": "写了一个 dsh (deepseek harness) 的插件，把我真实的持仓同步上去了，想让 AI 来辅助我炒股。今天我先跑一天看看效果怎么样，不知道大家感不感兴趣？\n\n主要功能包括：\n\n1. 设置项里可以设置自己的一些期望和个性化配置\n2. 实时数据：查看大盘和个股\n3. 个人资产情况：可以通过截图让它构建一次，之后就可以直接通过 AI 对话让它做个股分析\n4. 交易决策：可以生成决策日志\n5. 定时任务：在中午和下午交易结束后分别做复盘\n\n大概是这样的，在 vibe coding 的同时，带来一些小小的A股震撼😂",
@@ -25,7 +420,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "147",
+      "views": "296",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +441,7 @@
       "reply_count": 2,
       "quote_count": 1,
       "bookmark_count": 3,
-      "views": "1398",
+      "views": "2478",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -70,8 +465,8 @@
       "retweet_count": 4,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 30,
-      "views": "1744",
+      "bookmark_count": 31,
+      "views": "1877",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -92,7 +487,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "613",
+      "views": "679",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -108,7 +503,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "162",
+      "views": "181",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -124,7 +519,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "189",
+      "views": "209",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -140,7 +535,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "222",
+      "views": "237",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -156,7 +551,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "315",
+      "views": "360",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -172,7 +567,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "145",
+      "views": "159",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -188,7 +583,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "94",
+      "views": "106",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -204,7 +599,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "284",
+      "views": "311",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -220,7 +615,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "169",
+      "views": "183",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -268,12 +663,12 @@
       "id": "2092815138273497426",
       "text": "My first iOS app has finally launched after about a month of development, and it's been a challenging process. However, it feels like a small but significant milestone.\n\nThis is your exclusive hairstyle designer that helps you analyze face shape and hairstyle, recommends suitable hairstyles and hair colors, allows for hairstyle design (you can also describe your desired hairstyle through natural language), and supports 2D viewing of new hairstyles from all angles. You just need to upload a photo and wait a few dozen seconds.\n\nhttps://t.co/PG50bvdMUk",
       "created_at": "Thu Aug 27 03:23:06 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 3,
       "retweet_count": 2,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "199",
+      "views": "328",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
