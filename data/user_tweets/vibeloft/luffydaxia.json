@@ -7,15 +7,79 @@
     "nickname": "大侠Luffy",
     "profile_url": "https://vibeloft.ai/profile/luffy"
   },
-  "generated_at": "2026-09-11T13:00:13.863367Z",
+  "generated_at": "2026-09-14T16:00:08.946193Z",
   "stats": {
-    "tweet_count": 61,
-    "latest_tweet_created_at": "2026-09-05T11:57:48Z",
-    "latest_tweet_id": "2096206156872220954",
+    "tweet_count": 64,
+    "latest_tweet_created_at": "2026-09-13T08:56:08Z",
+    "latest_tweet_id": "2099059541875048817",
     "oldest_tweet_created_at": "2025-09-09T13:06:10Z",
     "oldest_tweet_id": "1965401343298093237"
   },
   "tweets": [
+    {
+      "id": "2099059541875048817",
+      "text": "千万不要把.cc域名作为产品域名! https://t.co/0uzCi7h75Z",
+      "created_at": "Sun Sep 13 08:56:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "11",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSFbf82bMAAvSZo.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2099059541875048817"
+    },
+    {
+      "id": "2098717373838582163",
+      "text": "最近做了个自己很想用的素材管理工具：ClipSeek。\n\n不用记文件名，也不用一层层翻文件夹，直接描述你想找的画面。\n\n比如输入：\n\n「海边奔跑的人」\n「雨夜里的霓虹街道」\n「一个人在咖啡馆工作」\n\nClipSeek 会直接从你的视频和照片里，把相关画面找出来。\n\n目前主要支持：\n\n1. 自然语言搜素材：输入人物、动作、场景、氛围，直接搜索对应的视频帧画面和照片\n\n2. 以图搜图：拖一张图片进去，寻找视觉上相似的素材\n\n3. 素材管理：支持标签、文件夹分类和统一预览\n\n所有素材分析和 AI 搜索都在本地完成，原始视频、照片和索引不会上传。\n\n如果你平时有比较多的视频、摄影、设计素材需要管理，可以来试试看。\n\nhttps://t.co/iqyBNTrudF",
+      "created_at": "Sat Sep 12 10:16:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "60",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSAkLWfaYAAWydu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098717373838582163",
+      "pinned": true
+    },
+    {
+      "id": "2098663380769014235",
+      "text": "来自 https://t.co/CVRQEk5Zef 站长的好评，找无版权的视频和照片，可以试试clipseek，除了比普通的素材网站搜索更强，访问速度还快！ https://t.co/cGR4u9PBJ6",
+      "created_at": "Sat Sep 12 06:41:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "19",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR_yE2ZagAAn2EH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098663380769014235"
+    },
     {
       "id": "2096206156872220954",
       "text": "分享一个做想通过社媒做需求调研，又不想花钱和折腾的小技巧。\n\n可以尝试使用官方的AI工具，比如小红书的点点。\n\n不用辛苦搞各种爬虫，官方帮你免费接入。\n\n可以试试看，好用回来告诉我。 https://t.co/8gkTNZpsZO",
@@ -25,7 +89,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "18",
+      "views": "24",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +110,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "81",
+      "views": "84",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +131,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "34",
+      "views": "37",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
