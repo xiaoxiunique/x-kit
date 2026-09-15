@@ -7,15 +7,40 @@
     "nickname": "yekk",
     "profile_url": "https://vibeloft.ai/profile/yekk"
   },
-  "generated_at": "2026-09-12T03:00:07.853477Z",
+  "generated_at": "2026-09-15T06:00:07.608007Z",
   "stats": {
-    "tweet_count": 35,
-    "latest_tweet_created_at": "2026-09-02T11:21:30Z",
-    "latest_tweet_id": "2095109860895695019",
+    "tweet_count": 36,
+    "latest_tweet_created_at": "2026-09-12T13:23:50Z",
+    "latest_tweet_id": "2098764523805266223",
     "oldest_tweet_created_at": "2018-05-20T08:02:57Z",
     "oldest_tweet_id": "998111822812086275"
   },
   "tweets": [
+    {
+      "id": "2098764523805266223",
+      "text": "The best part of a road trip stays with you long after you park.\n\nMytess 2.7 brings routes, stops and photos into a day-by-day story. Tap a place, follow it on the map, revisit the moment.\n\nBuilt to help you remember where your Tesla took you.\n\nhttps://t.co/mobo8sgEpn https://t.co/DyQJZpC8RA",
+      "created_at": "Sat Sep 12 13:23:50 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "22",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSBPLtVbwAAfQNG.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSBPLtWaAAAlvPa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098764523805266223"
+    },
     {
       "id": "2095109860895695019",
       "text": "Mytess 2.6 is here 🚗\n\nExplore a clearer Statistics dashboard and your all-time TOP Tesla records, with more polish across maps, sharing and Apple Watch.\n\nThanks for your support and recommendations! Self-host TeslaMate? Try Mytess: https://t.co/PCM2AwFbUD\n\n#TeslaMate https://t.co/ZMHvP0fzc1",
@@ -25,7 +50,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "37",
+      "views": "38",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -54,7 +79,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "39",
+      "views": "40",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +108,7 @@
       "text": "RT @wykrhm: Team Spirit are the Grand Champions of The International 2026. CONGRATULATIONS!! Yatoro &amp; Collapse are the first ever Three Tim…",
       "created_at": "Sun Aug 23 13:45:41 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1909,
+      "retweet_count": 1908,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -566,7 +591,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "71",
+      "views": "72",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -591,7 +616,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "115",
+      "views": "116",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
