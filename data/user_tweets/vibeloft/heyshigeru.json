@@ -7,15 +7,94 @@
     "nickname": "Shigeru",
     "profile_url": "https://vibeloft.ai/profile/shigeru"
   },
-  "generated_at": "2026-09-14T17:00:07.487483Z",
+  "generated_at": "2026-09-17T21:00:08.886504Z",
   "stats": {
-    "tweet_count": 519,
-    "latest_tweet_created_at": "2026-09-12T14:06:37Z",
-    "latest_tweet_id": "2098775289421771188",
+    "tweet_count": 522,
+    "latest_tweet_created_at": "2026-09-17T11:49:18Z",
+    "latest_tweet_id": "2100552672298619105",
     "oldest_tweet_created_at": "2024-05-13T16:08:03Z",
     "oldest_tweet_id": "1790051388438839409"
   },
   "tweets": [
+    {
+      "id": "2100552672298619105",
+      "text": "丽江古城也是个乡土大卖场。逛完来吃野生菌火锅了。 https://t.co/deLrcvscr4",
+      "created_at": "Thu Sep 17 11:49:18 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "189",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSapTClbsAALuNq.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSapTB8bkAAs_lO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100552672298619105"
+    },
+    {
+      "id": "2100403010883162301",
+      "text": "早起吃米线。点了一份煎蛋细粉，跟臭豆腐粗粉，才二十多块，而且这分量居然是小碗的，在杭州感觉得四十打底了。 https://t.co/JGugiyVaPT",
+      "created_at": "Thu Sep 17 01:54:36 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "176",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSYhZp-akAAGSqm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100403010883162301"
+    },
+    {
+      "id": "2100262966650445930",
+      "text": "落地云南先来顿烧烤，除了鸡爪跟豆腐其他都好吃（这俩主要不入味），尤其是薄荷牛肉。\n\n可惜忘记跟老板说微辣了，第一顿就在嘶哈嘶哈中吃完。 https://t.co/J0uLCHDGnl",
+      "created_at": "Wed Sep 16 16:38:06 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "159",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSWh_FCbMAA4VI6.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSWh_FAbgAAeJnF.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSWh_FBaoAAjv_F.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSWh_E1aMAAxRAV.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100262966650445930"
+    },
     {
       "id": "2098775289421771188",
       "text": "没能听到《爱情来了》的采样还是可惜。感觉有些乐团真的在慢慢进步，慢慢值得期待，「慢慢走」。 https://t.co/6mj9TCJApu",
@@ -25,7 +104,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "762",
+      "views": "793",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -45,8 +124,8 @@
       "retweet_count": 15,
       "reply_count": 9,
       "quote_count": 1,
-      "bookmark_count": 251,
-      "views": "12500",
+      "bookmark_count": 252,
+      "views": "12715",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -56,7 +135,8 @@
           "url": "https://pbs.twimg.com/amplify_video_thumb/2097978626805526528/img/6NJL37SQUluhty8g.jpg"
         }
       ],
-      "url": "https://x.com/i/status/2097978982633480275"
+      "url": "https://x.com/i/status/2097978982633480275",
+      "pinned": true
     },
     {
       "id": "2097903432170684457",
@@ -67,7 +147,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "630",
+      "views": "642",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +168,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 15,
-      "views": "1262",
+      "views": "1271",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -116,7 +196,7 @@
       "text": "RT @netflix: POSSIBLE LOVE, a new film from Lee Chang-dong, acclaimed director of Burning and Secret Sunshine, is South Korea's Official Se…",
       "created_at": "Thu Aug 27 01:36:14 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 884,
+      "retweet_count": 885,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -136,7 +216,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "213",
+      "views": "214",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -157,7 +237,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 27,
-      "views": "2130",
+      "views": "2135",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +258,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "520",
+      "views": "521",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -199,7 +279,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "333",
+      "views": "334",
       "lang": "qme",
       "is_retweet": false,
       "is_quote": false,
@@ -220,7 +300,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "428",
+      "views": "429",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -236,7 +316,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "444",
+      "views": "445",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -252,7 +332,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "508",
+      "views": "509",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -268,7 +348,7 @@
       "reply_count": 6,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "3605",
+      "views": "3606",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -432,7 +512,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1175",
+      "views": "1176",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
