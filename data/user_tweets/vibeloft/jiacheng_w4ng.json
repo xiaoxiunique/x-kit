@@ -7,15 +7,110 @@
     "nickname": "Jason Wang",
     "profile_url": "https://vibeloft.ai/profile/jasonwang"
   },
-  "generated_at": "2026-09-11T10:00:11.385822Z",
+  "generated_at": "2026-09-17T17:00:13.214391Z",
   "stats": {
-    "tweet_count": 56,
-    "latest_tweet_created_at": "2026-09-11T08:18:44Z",
-    "latest_tweet_id": "2098325355455299878",
+    "tweet_count": 61,
+    "latest_tweet_created_at": "2026-09-16T16:47:31Z",
+    "latest_tweet_id": "2100265332904701957",
     "oldest_tweet_created_at": "2022-12-21T01:50:22Z",
     "oldest_tweet_id": "1605380124320206849"
   },
   "tweets": [
+    {
+      "id": "2100265332904701957",
+      "text": "不能以是否看代码来判断是不是vibe coding，而应该以是否对交付负责来判断。不看代码，但是对整体架构、实现路径了然于胸，上线前经过严格测试，那就不能算是vibe coding，那就是认真地ship\n。反之，架构混乱、只要能跑根本不管项目复杂度，这才是vc。",
+      "created_at": "Wed Sep 16 16:47:31 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "116",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100265332904701957"
+    },
+    {
+      "id": "2100263430221672704",
+      "text": "非常讨厌“小编”这个说法，编辑就是编辑，不存在小编这个说法。在编辑前面加个小字来自我矮化，似乎就不用或者可以更少地去承担这个角色所需要承担的责任，这是很不好的。同样的，vibe coding也是一样。build就是build，不要用vibe coding的讲法去自我矮化，如果要ship，那就要承担对应的责任。\nvibe coding是个贬义词，望周知。",
+      "created_at": "Wed Sep 16 16:39:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "12",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2100263430221672704"
+    },
+    {
+      "id": "2099735899219321215",
+      "text": "这几天在重新设计RockFocus的Onboarding，有2个感受蛮深的点想要分享下。\n\n1. 让画面动起来。动起来的目的不是为了好看，而是通过动效来引导视觉和动作，让用户知道眼睛往哪里看，手往哪里点。Onboard的是新用户，对app完全不熟悉，产品要主动一点\n2. 不要罗列功能，而是说明价值。用户没有开发者一样的上下文去把功能串起来，也没有义务去脑补功能可以解决什么问题。Onboarding应该很清楚地告诉用户，这个产品要解决的问题是什么、是怎么解决的。务必让用户在Onboarding的过程中就体验到产品价值，争取试用，最好能直接付费\n\nOnboarding翻译成新手引导，这是一个非常糟糕的翻译，这个翻译让人觉得Onboarding的目的就是引导不会使用的人学会如何使用产品，很多人都被这个翻译误导了。Onboarding应该是一次销售，开发者清楚说明价值，用户决定是否要用自己的时间或者钱包来买单。",
+      "created_at": "Tue Sep 15 05:43:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2099735256974979072/img/VNdxIeWsqpL7ZQ1B.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2099735899219321215"
+    },
+    {
+      "id": "2098959278589857865",
+      "text": "周末骑车中 https://t.co/LdoxDAh6GO",
+      "created_at": "Sun Sep 13 02:17:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "15",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSEAVZTbAAAjxdx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098959278589857865"
+    },
+    {
+      "id": "2098546579389247521",
+      "text": "好想法 https://t.co/lIdHu1a8aB",
+      "created_at": "Fri Sep 11 22:57:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "5",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR-I_RFa0AA90WF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2098546579389247521"
+    },
     {
       "id": "2098325355455299878",
       "text": "说一个我的产品细节。做多语言的时候，涉及到单位的表述，例如分钟、毫升这种，我不会在非英语情况下使用min或者ml，即便min和ml在排版上通常会更轻松。这么做的两个原因：遵循每一个语言，尊重不知道min 是什么的用户。",
@@ -25,7 +120,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "4",
+      "views": "7",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +136,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "12",
+      "views": "14",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -57,7 +152,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "6",
+      "views": "12",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -562,7 +657,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2848",
+      "views": "2883",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -684,7 +779,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "62",
+      "views": "68",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
