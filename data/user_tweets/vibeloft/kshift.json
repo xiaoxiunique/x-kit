@@ -7,15 +7,162 @@
     "nickname": "kshift",
     "profile_url": "https://vibeloft.ai/profile/kshift"
   },
-  "generated_at": "2026-09-15T05:00:09.791862Z",
+  "generated_at": "2026-09-18T09:00:07.102394Z",
   "stats": {
-    "tweet_count": 763,
-    "latest_tweet_created_at": "2026-09-14T07:57:08Z",
-    "latest_tweet_id": "2099407081795469675",
+    "tweet_count": 770,
+    "latest_tweet_created_at": "2026-09-18T06:10:06Z",
+    "latest_tweet_id": "2100829700923011271",
     "oldest_tweet_created_at": "2014-07-01T05:46:32Z",
     "oldest_tweet_id": "483849113784426496"
   },
   "tweets": [
+    {
+      "id": "2100829700923011271",
+      "text": "不给 AI 充钱了，本周给索尼充钱。 https://t.co/xLG4BwfyTM",
+      "created_at": "Fri Sep 18 06:10:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "53",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSelZNXacAAKBhy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100829700923011271"
+    },
+    {
+      "id": "2100790705291727274",
+      "text": "有没有做硬件的朋友搞一下「Apple Watch 睡眠表带」这种产品啊？\n这次新功能必须要睡觉戴表了... https://t.co/yT6Q4jGXzL",
+      "created_at": "Fri Sep 18 03:35:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "148",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSeBrlHb0AAa4Bu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100790705291727274"
+    },
+    {
+      "id": "2100778739701616983",
+      "text": "节衣缩食，已经降低到 5.6-luna medium 了。 https://t.co/YHJMaJyw5b",
+      "created_at": "Fri Sep 18 02:47:36 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "650",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSd3A4lb0AAhmB3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100778739701616983"
+    },
+    {
+      "id": "2100501493547925816",
+      "text": "听说你在找 https://t.co/7m1wX1pEP5 https://t.co/hLzQmLmTTi",
+      "created_at": "Thu Sep 17 08:25:56 +0000 2026",
+      "favorite_count": 59,
+      "retweet_count": 7,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 98,
+      "views": "8417",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZ64m3bcAA0R8L.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100501493547925816"
+    },
+    {
+      "id": "2100462522063347723",
+      "text": "听说我谢谢你 @thsottiaux https://t.co/9uxGJlxaez",
+      "created_at": "Thu Sep 17 05:51:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "344",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZXfISaQAATOlz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100462522063347723"
+    },
+    {
+      "id": "2100441447115968949",
+      "text": "WHYYYYYYYYYYYYYYYY @thsottiaux https://t.co/BmuvQ0Usyu",
+      "created_at": "Thu Sep 17 04:27:19 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "599",
+      "lang": "und",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZETNnb0AA_5UH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100441447115968949"
+    },
+    {
+      "id": "2100050651883729163",
+      "text": "不用 gpt-6 也能 kuku 报错？ https://t.co/tA3Rvb3FJO",
+      "created_at": "Wed Sep 16 02:34:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "170",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSTgogrbUAAk0fH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100050651883729163"
+    },
     {
       "id": "2099407081795469675",
       "text": "这一天天的。 https://t.co/aZaPxwsHsT",
@@ -25,7 +172,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "204",
+      "views": "255",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -44,9 +191,9 @@
       "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 2,
-      "quote_count": 0,
+      "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1145",
+      "views": "1264",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +214,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "101",
+      "views": "171",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +235,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "198",
+      "views": "225",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -109,7 +256,7 @@
       "reply_count": 22,
       "quote_count": 1,
       "bookmark_count": 11,
-      "views": "4547",
+      "views": "4611",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -130,7 +277,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "542",
+      "views": "566",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -151,7 +298,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "87",
+      "views": "91",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -172,7 +319,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "123",
+      "views": "127",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -193,7 +340,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "131",
+      "views": "135",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -209,7 +356,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "177",
+      "views": "182",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -230,7 +377,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "381",
+      "views": "389",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -251,7 +398,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "203",
+      "views": "205",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -276,7 +423,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "669",
+      "views": "687",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
