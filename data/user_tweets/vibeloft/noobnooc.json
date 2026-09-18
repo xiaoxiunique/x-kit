@@ -7,25 +7,425 @@
     "nickname": "Nooc",
     "profile_url": "https://vibeloft.ai/profile/apple"
   },
-  "generated_at": "2026-09-15T07:00:08.341785Z",
+  "generated_at": "2026-09-18T11:00:08.988310Z",
   "stats": {
-    "tweet_count": 936,
-    "latest_tweet_created_at": "2026-09-15T04:35:58Z",
-    "latest_tweet_id": "2099718845397414261",
+    "tweet_count": 956,
+    "latest_tweet_created_at": "2026-09-18T07:19:00Z",
+    "latest_tweet_id": "2100847037533348202",
     "oldest_tweet_created_at": "2025-09-26T10:18:35Z",
     "oldest_tweet_id": "1971519763898908991"
   },
   "tweets": [
     {
-      "id": "2099718845397414261",
-      "text": "macOS 27 还有 362 天更新好，这 362 天里我该做些什么呢 https://t.co/2yqmMKuzy8",
-      "created_at": "Tue Sep 15 04:35:58 +0000 2026",
+      "id": "2100847037533348202",
+      "text": "公司的保洁，清理厕所垃圾时，如果有人，就一直在门口死等。\n\n搞得我每次拉屎都挺有压力的",
+      "created_at": "Fri Sep 18 07:19:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "592",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2100847037533348202"
+    },
+    {
+      "id": "2100763648096624765",
+      "text": "把 Jev 脑子整宕机了，号称最快的模型居然用了整整两秒半来回答这个问题 https://t.co/FmE0Bne8u7",
+      "created_at": "Fri Sep 18 01:47:38 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "951",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSdpPfxbkAAHk6Y.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2100763648096624765"
+    },
+    {
+      "id": "2100762973233164334",
+      "text": "来自 Jev 判断 https://t.co/OxP70DpZVz",
+      "created_at": "Fri Sep 18 01:44:57 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "246",
+      "views": "421",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSdorlSasAAo2Ff.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100762973233164334"
+    },
+    {
+      "id": "2100755331949441360",
+      "text": "全家和罗森的饮品，全是第二瓶加 1 元，或者就第二瓶免费送。\n\n我想知道这是上海特色还是中国特色还是便利店特色，导致我现在外出完全都不想进这些便利店。\n\n买一瓶觉得亏大发了，买两瓶又懒得拿。",
+      "created_at": "Fri Sep 18 01:14:35 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1049",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2100755331949441360"
+    },
+    {
+      "id": "2100740778968703183",
+      "text": "让我康康怎么个事 https://t.co/OJxhnWY7Mv",
+      "created_at": "Fri Sep 18 00:16:46 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "382",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSdUmg3aAAAT_3T.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100740778968703183"
+    },
+    {
+      "id": "2100596587177361439",
+      "text": "macOS 27 的 Music app 更新还可以，终于越来越像 iOS 的了 https://t.co/x2yGalvLB4",
+      "created_at": "Thu Sep 17 14:43:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "534",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSbRRr-asAAx7uI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100596587177361439"
+    },
+    {
+      "id": "2100590027973779582",
+      "text": "我不行了，越来越夸张了 🫪 本来就没几个付费用户，还每个国家来一个 https://t.co/Jjj1uILWa2",
+      "created_at": "Thu Sep 17 14:17:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "535",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSbLfYBaIAAkZ0J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100590027973779582"
+    },
+    {
+      "id": "2100546363536904609",
+      "text": "之前谁在 X 上说 App Store 的预览图不需要真的截图的，这咋给我拒了 🤡 https://t.co/TJGBhIFY8m",
+      "created_at": "Thu Sep 17 11:24:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "552",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSajyA4bIAAhRAt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100546363536904609"
+    },
+    {
+      "id": "2100404303127306254",
+      "text": "Figma 迎来重大更新，图标变白色了 https://t.co/ll2wQbmirq",
+      "created_at": "Thu Sep 17 01:59:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "603",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSYifLja4AA60dR.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2100404303127306254"
+    },
+    {
+      "id": "2100401186751099145",
+      "text": "Mercury 推出了记账服务，有必要为我这 200 块的业务开一个每个月 35 块的记账服务吗 😀 https://t.co/dtXStMzVlg",
+      "created_at": "Thu Sep 17 01:47:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "308",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSYfhOPa0AA-mbl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100401186751099145"
+    },
+    {
+      "id": "2100208693241577795",
+      "text": "人可以懒到什么程度 https://t.co/1wOCl5Cezv",
+      "created_at": "Wed Sep 16 13:02:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "548",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVwoxYbMAAC5lu.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100208693241577795"
+    },
+    {
+      "id": "2100191123839029740",
+      "text": "Fable: 人狠话不多\nAstra: 话不多",
+      "created_at": "Wed Sep 16 11:52:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "345",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2100191123839029740"
+    },
+    {
+      "id": "2100176950694408268",
+      "text": "一张图证明一个 app 全是自然流量 https://t.co/cTYvNnquHV",
+      "created_at": "Wed Sep 16 10:56:19 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "1836",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVTzZ9a8AAv7Mw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100176950694408268"
+    },
+    {
+      "id": "2100087462039355444",
+      "text": "用 Sofi 绑定了 Wise 账号，于是就出现了我曾经取现过 100 万美元的记录 🤡 https://t.co/88q7TZlBKP",
+      "created_at": "Wed Sep 16 05:00:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "538",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSUCaO8bsAAbFye.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100087462039355444"
+    },
+    {
+      "id": "2100064912865366337",
+      "text": "Sketch 新出的这个 Elyx，我觉得官网的设计就很一般啊，还卡卡的 https://t.co/1PpYvIJzZT",
+      "created_at": "Wed Sep 16 03:31:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "700",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2100064912865366337"
+    },
+    {
+      "id": "2099872279811473610",
+      "text": "Claude 居然会监视我在 terminal 里的操作 🤡 https://t.co/iNNgajKeYT",
+      "created_at": "Tue Sep 15 14:45:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "535",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSQ-nYsbwAAZcmk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2099872279811473610"
+    },
+    {
+      "id": "2099867758762893522",
+      "text": "至此 Google Play 的保护费是赚回来了，以后的收入就都是赚的了 😄 https://t.co/OlM8f0agyV",
+      "created_at": "Tue Sep 15 14:27:42 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "594",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSQ6dTkbEAA7Gf7.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2099867758762893522"
+    },
+    {
+      "id": "2099849579533623373",
+      "text": "不会 App Store 还有爬虫吧？就算是，这量是不是也有点太夸张了？ https://t.co/cn97bnwcsk",
+      "created_at": "Tue Sep 15 13:15:27 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2368",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSQp5nPbkAAb7OS.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2099849579533623373"
+    },
+    {
+      "id": "2099823312004391343",
+      "text": "$GOOGL 派息了，我该拿这钱去买点什么好呢 https://t.co/w5i6qJNJA4",
+      "created_at": "Tue Sep 15 11:31:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "303",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSQSK4AaEAAVGpi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2099823312004391343"
+    },
+    {
+      "id": "2099789459021778954",
+      "text": "新版 Xcode 居然还有这个选项 https://t.co/baONHHzqi6",
+      "created_at": "Tue Sep 15 09:16:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "376",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSPzU4_bsAA9V_C.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2099789459021778954"
+    },
+    {
+      "id": "2099718845397414261",
+      "text": "macOS 27 还有 362 天更新好，这 362 天里我该做些什么呢 https://t.co/2yqmMKuzy8",
+      "created_at": "Tue Sep 15 04:35:58 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1279",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -43,10 +443,10 @@
       "created_at": "Tue Sep 15 02:31:39 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
-      "reply_count": 0,
+      "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "351",
+      "views": "565",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +462,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "837",
+      "views": "883",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +483,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "602",
+      "views": "643",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -99,7 +499,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "2257",
+      "views": "2280",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -120,7 +520,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "769",
+      "views": "791",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +541,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "729",
+      "views": "791",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -162,7 +562,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "955",
+      "views": "968",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -178,7 +578,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1618",
+      "views": "1653",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -194,7 +594,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1307",
+      "views": "1318",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -219,7 +619,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "849",
+      "views": "863",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -235,7 +635,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 9,
-      "views": "2553",
+      "views": "2581",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -251,7 +651,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "441",
+      "views": "452",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -267,7 +667,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "2107",
+      "views": "2127",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -288,7 +688,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "731",
+      "views": "743",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -304,7 +704,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1470",
+      "views": "1479",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -325,7 +725,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "920",
+      "views": "926",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -341,7 +741,7 @@
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "2778",
+      "views": "2791",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -14835,12 +15235,12 @@
       "id": "2001125698883461438",
       "text": "📣 Echobell 是一款即时通知 app，可以与 TradingView/GitHub/Home Assistant 等服务集成，实现电话/实效性通知。只要对应的服务支持 Webhook/Email 即可。\n\n此外还可以将通知频道分享给他人，让订阅的人也能在第一时间收到通知。在 App Store 搜索回声铃（Echobell）即可下载使用。 https://t.co/qHzZhnpdNf",
       "created_at": "Wed Dec 17 03:02:00 +0000 2025",
-      "favorite_count": 13,
+      "favorite_count": 12,
       "retweet_count": 2,
       "reply_count": 6,
       "quote_count": 0,
       "bookmark_count": 14,
-      "views": "11699",
+      "views": "11803",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
