@@ -7,15 +7,36 @@
     "nickname": "Erian",
     "profile_url": "https://vibeloft.ai/profile/erian"
   },
-  "generated_at": "2026-09-15T10:00:04.770575Z",
+  "generated_at": "2026-09-18T14:00:08.946106Z",
   "stats": {
-    "tweet_count": 11,
-    "latest_tweet_created_at": "2026-07-22T14:36:10Z",
-    "latest_tweet_id": "2079938557104578829",
+    "tweet_count": 12,
+    "latest_tweet_created_at": "2026-09-16T00:21:44Z",
+    "latest_tweet_id": "2100017255526613497",
     "oldest_tweet_created_at": "2023-10-24T13:54:28Z",
     "oldest_tweet_id": "1716815422262239687"
   },
   "tweets": [
+    {
+      "id": "2100017255526613497",
+      "text": "跨时代升级了 https://t.co/NTD8756Pf4",
+      "created_at": "Wed Sep 16 00:21:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSTCdoObAAAYT4u.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100017255526613497"
+    },
     {
       "id": "2079938557104578829",
       "text": "RT @60fpsdesign: rollout 🎞️ https://t.co/RyJzgx9QAG",
@@ -42,7 +63,7 @@
       "text": "RT @MaxVOAO: My new monitor https://t.co/DvA2ax6v9Z",
       "created_at": "Wed Jul 22 14:32:50 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 594,
+      "retweet_count": 592,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -67,7 +88,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "221",
+      "views": "226",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +109,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "166",
+      "views": "169",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -109,7 +130,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "85",
+      "views": "87",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
