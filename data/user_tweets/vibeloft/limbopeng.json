@@ -7,25 +7,237 @@
     "nickname": "Limbo",
     "profile_url": "https://vibeloft.ai/profile/limbo"
   },
-  "generated_at": "2026-09-16T11:00:08.339146Z",
+  "generated_at": "2026-09-19T10:00:07.968152Z",
   "stats": {
-    "tweet_count": 732,
-    "latest_tweet_created_at": "2026-09-16T10:01:00Z",
-    "latest_tweet_id": "2100163030718005340",
+    "tweet_count": 741,
+    "latest_tweet_created_at": "2026-09-19T09:02:28Z",
+    "latest_tweet_id": "2101235463038378143",
     "oldest_tweet_created_at": "2024-03-14T09:13:41Z",
     "oldest_tweet_id": "1768203837389848627"
   },
   "tweets": [
     {
-      "id": "2100163030718005340",
-      "text": "团队 AI 代码 Review怎么做？写代码的门槛确实低了，但审查反而成了整个团队最堵的地方。自动化代码审查不是把大模型丢进流水线碰运气，而是用严密的确定性工程把底座撑起来，让模型在最适合的节点发挥推理价值。\n\n👇 实战阿里开源的这套框架，把 2 万人的踩坑经验全写进去了\n\nhttps://t.co/6Rg3bU8fwB https://t.co/lfVoe4mSFD",
-      "created_at": "Wed Sep 16 10:01:00 +0000 2026",
+      "id": "2101235463038378143",
+      "text": "没有灵感？看完这个你就知道Jev能做啥，不能做啥了 ⬇ \n\n1️⃣ 先说本质上能做什么\n\n从一组固定选项里选出最合适的一项（Choice）\n按你定的量表打分（Score）\n判断某句话是否成立，给出 0–1 概率（Noul）\n\n一次请求里并行问很多个问题，延迟几乎不随问题数线性变慢\n把结果交给代码：高置信度自动做，低置信度转人工或再调大模型\n\n适合「几秒内能拍板」的判断，不适合需要长推理、长文生成的任务。\n\n2️⃣ 接下来是推上及社区整理的使用场景：👇\n\n1. 客服、工单、邮件分拣\n\n场景：来了一封邮件或一张工单，同时判断部门、紧急程度、是否退款、要不要人工。\n\n例子：\n- 官方常见演示：一张工单同时问「急不急」「该给哪个部门」「有没有退款意图」\n- 这封邮件今天要不要回\n- 批量分几百封邮件、给客服回复打分\n- 拿个人简历海量筛JD，估计拿到面试/offer 的可能性\n\n2. 浏览器和电脑操作、各种 XX Use\n\n场景：程序先读页面 DOM 或 OCR 出屏幕上的可点击项，Jev 选「点哪个、做哪类操作」。\n\n例子：\n- Browser Use + Jev Ultrafast\n- typesafe-computer-use：OCR 后让 Jev 选下一步\n- Stagehand、Kernel、语音控浏览器、Mac 日历自动建日程\n- Amazon 商品筛选、Web/手机端到端测试\n- Android 界面操作原型：先列出合法动作，再让 Jev 选一个\n\n3. Agent 意图、分类、路由、监督、护栏\n\n场景：agent 每走一步，问 「意图」「用哪个模型」「调哪个工具」「有没有跑偏」「这个工具调用能不能执行」「走哪条路径」。\n\n例子：\n- Eve / Ephraim / Firstmate / jev-router：按难度或意图把任务分给便宜模型或贵模型\n- pi-warden：盯规则、废话、死循环、不可逆操作\n- typesafe-ai-firewall：每个风险单独问一个 Noul，比笼统问「危不危险」误拦少很多\n- foreman：监督 Codex worker 是否完成、测过、跑偏、卡住\n\n4. 代码审查和开发工具\n\n场景：看 diff、看生成代码、看将要执行的命令，输出风险分和路由，不写长评语。\n\n例子：\n- jev-review：风险矩阵 → 文件画像 → 严重度 → 该给谁看\n- PR 风险检查：泄密、删测试、危险权限等\n- 命令执行前安全分级、越狱提示预筛、按自然语言团队规范判代码\n- fast-jev-compaction：替 Claude Code 的摘要压缩，改成「保留/删除」，原文不被改写\n- 代码注释有用性打分、ESLint 规则是否命中\n\n5. 检索、过滤、记忆压缩\n\n场景：一堆候选文档/记忆里，判断该进上下文还是丢掉。\n\n例子：\n- RAG 重排，有人拿它对比 Cohere Rerank\n- PostgreSQL 自然语言 WHERE（pg-jev）：作者报约 1 秒筛 129 行、约 $0.0009\n- 网页去广告、X 信息流过滤\n- 公司政策/代码文件定位：这页能不能回答这个问题\n\n6. 内容、广告、审核\n\n场景：这条帖子有没有潜力、广告卖点是什么、是否违规、是否像机器人。\n\n例子：\n- 实时帖子潜力、广告拆解\n- prompt injection / 漏洞代码检测（jev-sec-bench，作者报注入识别约 96.5%）\n- Crowdcheck：用合成人设批量估一条帖子会被读、赞、转、拉黑的概率\n- X 垃圾评论、黄、暴力等识别过滤\n\n7. 游戏和实时控制\n\n场景：每个 tick 把合法动作和结构化状态喂给 Jev，它只从合法集合里选一步。\n\n例子：\n- Doom、2048、贪吃蛇、俄罗斯方块、围棋/五子棋、乒乓球\n- 宝可梦对战：根据属性、状态、招式选招\n- 任天堂大乱斗：同时控 4 个角色对打，作者称两千万 token 也只要几美分\n官方也做过 Doom 类演示：把游戏状态结构化后高频问「往哪走、开不开枪」\n\n8. 机器人、驾驶、群体模拟\n\n场景：底层控制和安全仍在代码里，Jev 做低频战术判断。\n\n例子：\n- jev-drone：相机状态转结构化数据，Jev 选战术，飞行控制和避障不交给它\n- Home Assistant 集成：把房间状态问成传感器/自动化条件\n- NPC、大量 3D agent 并行意图选择\n\n9. 交易和策略\n\n场景：盘口或规则变成状态，Jev 给买/卖/持有，下单仍由程序执行。\n\n例子：\n- jev-trader：每个 Monad 区块做一次买卖判断，作者报模型延迟约 81 ms\nNQ 订单簿回测、股票短期方向判断\n- 行情回测\n\n10. 专业领域筛选\n\n场景：论文、简历、法规、保险、招聘，选项是固定的「纳入/排除/哪一类」。\n\n例子：\n- 系统综述题录筛选，有人报高召回\n- ADHD 语料摘要纳入/排除\n- GDPR 条文一次问 13 个监管问题，比 13 次单独请求更快更便宜\n- 简历按岗位政策筛选\n- 网络安全实验：根据不断累积的遥测，估失陷概率、分类、严重度\n- 科学文献主题标注、引用是否对得上证据\n\n11. 互动和实验向应用\n\n场景：证明「很多小判断叠起来也能变成产品」。\n\n例子：\n- EC 实时导购：边聊边判断该推哪类商品\n- 语音控 PPT：持续判断「现在这句话对应哪一页」\n\n3️⃣ 它不擅长的\n\n- 不写代码、邮件、报告、解释\n- 不做精确算术、日期比较（官方提过这类「锯齿」）\n- 非多模态，不直接吃截图、音频、视频，得先转成文本或结构\n- 不该把不可逆操作直接交给它；阈值和执行必须写在代码里\n- 选项里如果放「其他」，有人发现它容易往「其他」上靠\n\n一句话：凡是软件里本来就该写成 if/switch 的判断，只是规则太模糊、类别太多、语言太乱，Jev 就适合顶上。 感知、记忆、执行、生成，仍然要配别的东西。",
+      "created_at": "Sat Sep 19 09:02:28 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "161",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2101235463038378143"
+    },
+    {
+      "id": "2101090330015932570",
+      "text": "这本可交互小册子，讲 TypeSafe 新模型 Jev：是什么、调用长啥样、怎么用？为啥这样设计，哪些使用场景等.. 除了翻阅官网外，这个是非常快速理解 Jev的方式之一。\n歧义工单路由、等级设计实验台、置信度阈值路由器…10 个组件全可点，数字全来自官方文档实测。\n 👉 https://t.co/aS3mRXJLdm https://t.co/zIBgZWkVT9",
+      "created_at": "Fri Sep 18 23:25:45 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "21",
+      "views": "102",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSiR1xHbcAA5qYa.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101090330015932570"
+    },
+    {
+      "id": "2100997073382568308",
+      "text": "Jev + deepseek v4 flash 非常棒的组合，我把我的项目，一堆意图识别的东西用 Jev 重构，效果特别好，也特别快，非常省钱。再搭配 DeepSeek V4 Flash 的速度，简直快到飞起。 https://t.co/gybIxcVUzO",
+      "created_at": "Fri Sep 18 17:15:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "83",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100996737465036800/img/EhKz5j9W2NDu6IAL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100997073382568308"
+    },
+    {
+      "id": "2100937995637673986",
+      "text": "让Jev驱动加密货币实时交易吧，刚刚我给我的 dsh 加密合约工作台加上 Jev 决策，监测对某指定的加密货币，每5秒钟让它决策一次：买入、卖出还是观望，并让它自动下单。\n\nJev 决策依据只有两样：我喂它的 8 个语义桶 + 写死的判定标准；它做的是把这两样融合成一个校准过的概率来给出决策，收到买入或卖出动作之后，程序会自动进行交易。\n\n后台看了下，500 多次 Jev 调用还不到 $0.01",
+      "created_at": "Fri Sep 18 13:20:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "92",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100936255039303680/img/amRn5KiOuHPNVb3q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSgG4BAawAAmrYk.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSgG_92bUAAGatG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100937995637673986"
+    },
+    {
+      "id": "2100874186738782547",
+      "text": "借 @tualatrix 的帖子，AI 时代独立开发现状：代码写完了，用户在哪里？\n以我自身目前的经历，最近我聊了一圈转型做独立开发的朋友，发现大家都在经历同一个荒诞循环：\n\n1. Vibe coding 把造软件的门槛干到了地板上，两小时撸出一个完整产品，人人以为下周就能 “躺着收钱了”；\n  \n2. 结果一上线才发现，整条路上都是同行，都是“沙县小吃”，唯一的过路顾客还是路过的外卖小哥；\n\n3. 睡后收入一分没见着，先贡献了满配月付$200刀coding plan、小程序300/年、苹果开发者 699/年 和 各种服务器、域名等成本，成了全网最稳定的 “付费受众”；\n\n4. 社恐多年的老程序员，硬生生被逼得每天在镜头前打光剪视频、在推特和小红书日更 Building in Public，不要逼脸的讨流量卖吆喝 ...\n\n一顿操作猛如虎，折腾下来，事实是：代码做完，连上战场的门票都不算。真正决定生死的是后续的冷启动、获客、运营和持续迭代。能卖出去，才是真正的核心壁垒。自媒体也不是一蹴而就的，抛出脸面就得忍着挨骂，心态不好就别玩了。",
+      "created_at": "Fri Sep 18 09:06:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "165",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSfN2R4akAEUNiP.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSfN2R5aEAAmzia.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSfN2izbMAAAnE8.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSfN3PYaMAAIqaO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100874186738782547"
+    },
+    {
+      "id": "2100853854925713428",
+      "text": "antigravity 调研能力、gemini-3.8-flash-high的中文写作能力、多模态能力、生图能力... 这么强，为啥浪费不用呢？ 比起其他邪修方法，在 zcode, codex 等设置自定义命令，让其启 agy cli 来跑任务不香吗？ https://t.co/atTrWBUDLf",
+      "created_at": "Fri Sep 18 07:46:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "186",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSe7AqWa4AAJ6XH.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSe7BVYawAACad-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100853854925713428"
+    },
+    {
+      "id": "2100603077799874619",
+      "text": "在小红书上，五菱发布了一个 AI 生成的视频，拿历史人物柳宗元生成一个 vlog，来介绍自家的产品，流量特别好。\n\n我在想，怎么没有人去做这个生意呢？帮助企业用 AI 做另类宣传片，用历史人物或者神话人物生成一个生活 vlog，把企业产品加进去，还是挺有趣的。 https://t.co/fq4lYp3y0z",
+      "created_at": "Thu Sep 17 15:09:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSbWtO8a0AAo2Bo.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2100603077799874619"
+    },
+    {
+      "id": "2100484774364324236",
+      "text": "平时你花钱买的服务，现在 ZCode 里面都能够免费提供。 https://t.co/rLMbNbzRnG",
+      "created_at": "Thu Sep 17 07:19:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "77",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZrjw4bAAA57Vk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100484774364324236"
+    },
+    {
+      "id": "2100477505396514980",
+      "text": "上午在闲鱼上接了一个小单，要把一堆 对账的PDF 解析对账单并导出到 Excel 里。正常来说，这个单三四百块钱；如果有扫描件，需要 OCR，价格会更贵。\n\n好家伙给我一顿砍价，说为知识付费，没想到要价这么高。算了，50就50吧，让他给我一个五星好评就当养养店铺。虽然我10分钟就搞定了，但为了职业操守还是过了一上午才交付。\n\n现在挣个💰太难了..",
+      "created_at": "Thu Sep 17 06:50:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "135",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZlGO2aQAAtf1d.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZlGOqbIAABasB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100477505396514980"
+    },
+    {
+      "id": "2100163030718005340",
+      "text": "团队 AI 代码 Review怎么做？写代码的门槛确实低了，但审查反而成了整个团队最堵的地方。自动化代码审查不是把大模型丢进流水线碰运气，而是用严密的确定性工程把底座撑起来，让模型在最适合的节点发挥推理价值。\n\n👇 实战阿里开源的这套框架，把 2 万人的踩坑经验全写进去了\n\nhttps://t.co/6Rg3bU8fwB https://t.co/lfVoe4mSFD",
+      "created_at": "Wed Sep 16 10:01:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "241",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,11 +258,11 @@
       "text": "换电脑、重装系统，或者从一个 AI 编程工具切到另一个时，最容易被忽略的可能就是这些散落各处的聊天记录。换个环境可能就找不到了。\nGitHub 上这个 ai-data-extractor，专门把散落在本机的 vibe coding 记录捞出来，统一导出和归档。\n\n它支持 Claude Code、Codex CLI、Cursor、Windsurf、Trae、Aider 等 10 种工具，可以自动寻找本地数据，把对话、代码上下文、修改建议和工具调用统一转换成 JSONL，也能合并到一个文件中。\n\n这就实用多了。\n\n除了换电脑前做备份，还可以让 AI 定期 review 这些记录，找出反复出现的任务，把重复工作抽成 Skill，或者清洗后整理成模型训练数据。\n\n以前只想着保存代码，现在看，和 AI 一起写代码的过程也该存下来。\n\nhttps://t.co/KNXLA8ubPh",
       "created_at": "Wed Sep 16 03:00:45 +0000 2026",
       "favorite_count": 3,
-      "retweet_count": 0,
+      "retweet_count": 1,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "159",
+      "views": "247",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -66,7 +278,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "118",
+      "views": "135",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -87,7 +299,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "265",
+      "views": "326",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -111,12 +323,12 @@
       "id": "2099064573001371737",
       "text": "李沐大神最近在小红书开答疑，600 多条提问，71 条他本人的回复，我全翻完了。\n\n原话都放在下面，一个字没改。先说最有分量的一句，有人聊 agent 时代什么能力重要，他说：\n\n\"agent是能力放大器，就是能力x10，而不是加法器，不是能力+10\"\n\n如果你的能力是0，它不可能让你变成10。乘的是判断力。agent 干出来的东西，你得看得懂、验得了对错，才接得住这 10 倍。完全不懂的领域，需求提不准、结果好坏分不清，乘出来就是 0。所以它不拉平差距，反而把强的人放得更强，人和人的差距是乘出来的。\n\n一、关于程序员\n\n问：在 code agent 普遍落地的时候，对于程序员来说最重要的技能是什么？\n\n\"tech leader的能力吧，目前干掉了是基础的代码实现、review、运行。但tech leader干的活不止是这些\"\n\n问：现在还要不要学编程？\n\n\"目前来看，编程还是要学的。你可以不用写代码，但是得review代码，至少能够看得懂AI写的代码在干嘛\"\n\n问：这个时候去学其他编程语言，会不会必要性不大？\n\n\"目前来看，能够熟悉一个语言就行了吧。人的工作现在主要是给AI来review一下代码，防止他犯一些很低级的错误，或者整个设计上是绕了没必要的弯路。\"\n\n问：底层知识的学习还重要吗？\n\n\"我觉得还是要的。我用agent干，我不是很懂的东西，都干出来不太行。\"\n\n问：业务算法岗，将来该向哪个方向发展？应该提升哪方面的能力？\n\n“简单来看，就是以前要五个人才能完成的工作，现在能不能你带着agent能完成？”\n\n问：两年之后市场上真正需要的 AI 应用工程师会是什么样的？\n\n\"两年之后比较难说，因为技术发展太快，但今天能看到的是，需要的是能够负责一大块东西的人。以前是这样的人带一个五到十人的小团队去完成，现在可能就变成一个人带着一堆Agent去完成了。\"\n\n问：计算机博士生应该更注重培养哪些技能？\n\n\"我认为是解决事情的能力，能够带agent完成，之前可能要一个人带一个五到十人团队完成的事情。\"\n\n二、关于学习\n\n问：现在的学生还需要老师做哪些指导？\n\n\"学生跟导师打杂的时代应该过去了。应该把学生看成independent researcher，学生能够带着agent独立完成工作。导师只要给一些更高level的指导就行了。\"\n\n问：非计算机专业的学生想学习 AI，推荐什么样的学习路径？\n\n\"先用AI做点什么事情吧。\"\n\n问：非 AI 专业想接触 AI，从哪里学起？\n\n\"用AI做个项目看看？\"\n\n问：文科生该如何利用 AI 建立自己的核心竞争力？\n\n\"我觉得可以试试，每天找一个topic，然后跟AI问二十个问题。\"\n\n问：该深耕一门技术追求深度，还是同时保持广度？\n\n\"我认为是深度优先。先把一件事情做深了，然后再尝试着做另外一件事情，去做广。\"\n\n问：大学三年高度依赖 AI，感觉什么都没学到，学习方向应该放在哪？\n\n\"我觉得学历可能不是最关键的，越到职业的后期，学历可能越没那么重要。但如果你都觉得自己过于依赖AI，没学到什么东西，这一点可能更加重要一点。至少先了解AI完成的工作，他在背后到底在干什么事情？\"\n\n问：现在的环境，还推荐读博士吗？\n\n“现在的一个困境是说，之前做一个研究，从头到尾做，人学到了东西很多。现在很多时候你让agent做，结果上来讲他做的也不差，但是人学到东西变少了。所以，博士期间要干什么事情，这个是目前不是那么明确。”\n\n三、关于心态和行业\n\n问：30 岁了还没深入 AI，求鼓励。\n\n“四十岁了都来得及，三十岁我觉得没问题。”\n\n问：对于非天才的普通人来说，AI 算法研究的未来在哪里？\n\n“我觉得做AI算法的人，大部分是也是普通人吧。”\n\n问：管理岗位后面还有必要转吗？特别是在大公司。\n\n“目前来看，大公司的管理岗位很多，就是把上面的话传给下面，这一块应该是要被替代了。但真正的管理还是挺难的，目前来看，大家对AI做真正的管理，还是有心理障碍吧。”\n\n问：具身领域会是泡沫吗？\n\n“短期看，肯定是有泡沫的。但这是一个自然的方向，因为A I做了白领的工作之后，就是要做蓝领的工作。但确实说具体什么时候能够落地，真正的发展起来，很有可能也是一个漫长的时间。就像无人驾驶，花了多少时间？”\n\n问：端侧 AI 是否是真实需求？\n\n“十年前，我很相信端侧，但深度学习那一波一直是在打脸。目前短期来看，因为GPU的价格走高，所以导致说端侧上应该会有一些应用吧，比如说在Mac Mini上跑些模型。但长期来看，我认为还是一个比较小众的需求。”\n\n问：AI 时代，算法工程师和用 GPT 的文科生比，优势在哪？\n\n“AI能把人的优势放大十倍，你比别人厉害的地方，在利用AI之后，能够更厉害。”",
       "created_at": "Sun Sep 13 09:16:07 +0000 2026",
-      "favorite_count": 130,
+      "favorite_count": 132,
       "retweet_count": 28,
       "reply_count": 4,
       "quote_count": 2,
-      "bookmark_count": 152,
-      "views": "17031",
+      "bookmark_count": 155,
+      "views": "17694",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -127,12 +339,12 @@
       "id": "2098787891682099512",
       "text": "V2EX 上有个热帖问：Vibe Coding 的代码怎么放心上线？ 我最近面试的过程中，也有老板这样问。\n\n评论区给出的方案也五花八门，大概只有这几种：让 AI 自己做自动化测试、让 AI 做 Review、人工 Review 等等。\n\n这确实是一种心理变化。把 Vibe Coding 的代码安全地推向生产，本质不是彻底消灭 bug，而是将工程重心的控制权从编码实现，转移到契约约束与确定性验证上。\n\n为什么在没有 Vibe Coding 的时候，我们敢于上线？说白了，其实是心里有一个全局感。Vibe Coding 会造成这种全局感的缺失，那怎么弥补这种全局感呢？\n\n1. 高层次方案 review：首先，从高层次要看一下给出的方案文档是否 OK。这部分没法让 AI 帮你决策，还是要自己 review，然后再和 AI 讨论，直到这些方案你已经烂熟于心。\n\n2. 编码实现与端到端测试：对于编码实现，直接在工地做。做完之后，除了一些单元测试之外，还要做端到端测试和一些对抗测试。因为单元测试很容易让人产生虚假的安全感，AI 会基于它已经写出的错误假设来编造断言；这些看起来正确的单元测试，往往挡不住真实的线上问题。\n\n3. 静态类型与 CI/CD：AI 生成代码的编辑成本趋于0，但人眼逐行 review 很难做到。所以防御必须依赖高杠杆的确定性攻击链，比如严苛的静态类型、CI/CD 等等。\n\n4. 权限最小化、灰度发布与全链路感知：最后一点还是要控制权限最小化，做好灰度发布和及时回滚，以及全链路 trace 和全链路感知。\n\n关于 4 这部分不管在 Vibe Coding，还是没有 Vibe Coding 的时代，都是应该去做的。只不过你做得越好，就越敢频繁上线。\n\nhttps://t.co/9PFmgTv786",
       "created_at": "Sat Sep 12 14:56:41 +0000 2026",
-      "favorite_count": 198,
+      "favorite_count": 197,
       "retweet_count": 21,
       "reply_count": 16,
       "quote_count": 7,
       "bookmark_count": 244,
-      "views": "29145",
+      "views": "29497",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -148,7 +360,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "154",
+      "views": "164",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -169,7 +381,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "133",
+      "views": "154",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -190,7 +402,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "426",
+      "views": "428",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -211,7 +423,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "152",
+      "views": "154",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -232,7 +444,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "181",
+      "views": "185",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -265,7 +477,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "191",
+      "views": "195",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -307,7 +519,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "239",
+      "views": "241",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -327,8 +539,8 @@
       "retweet_count": 9,
       "reply_count": 13,
       "quote_count": 2,
-      "bookmark_count": 106,
-      "views": "11776",
+      "bookmark_count": 107,
+      "views": "11927",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -365,7 +577,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "315",
+      "views": "318",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -390,7 +602,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 3,
-      "views": "752",
+      "views": "756",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
