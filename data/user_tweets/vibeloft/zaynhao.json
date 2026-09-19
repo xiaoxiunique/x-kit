@@ -7,25 +7,683 @@
     "nickname": "Zayn Hao",
     "profile_url": "https://vibeloft.ai/profile/zaynhao"
   },
-  "generated_at": "2026-09-16T08:00:11.599841Z",
+  "generated_at": "2026-09-19T07:00:10.631169Z",
   "stats": {
-    "tweet_count": 1016,
-    "latest_tweet_created_at": "2026-09-16T03:55:59Z",
-    "latest_tweet_id": "2100071171811340363",
+    "tweet_count": 1050,
+    "latest_tweet_created_at": "2026-09-19T05:01:18Z",
+    "latest_tweet_id": "2101174774525489291",
     "oldest_tweet_created_at": "2025-11-05T00:20:12Z",
     "oldest_tweet_id": "1985864689126109598"
   },
   "tweets": [
     {
-      "id": "2100071171811340363",
-      "text": "什么是 10x 打工人，\n\nAI 将人尤其是软件工程师的开发效率提升了 10 倍以上，那是不是意味着一名工程师可以同时打 10 份工，而且不会降低交付效率。",
-      "created_at": "Wed Sep 16 03:55:59 +0000 2026",
+      "id": "2101174774525489291",
+      "text": "这几天都在做自己的小产品，没顾上玩儿 Jev, 让我看看怎么个回事儿。\n\n并且，我有好多适合这个 model 发挥作用的实验场景，Let' try it. https://t.co/ODmqhtROG7",
+      "created_at": "Sat Sep 19 05:01:18 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "649",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjfCGKagAAe0ba.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101174774525489291"
+    },
+    {
+      "id": "2101122326494601289",
+      "text": "谢谢反馈， https://t.co/XHG2RJ4fPk 终于被大家看到了 😭",
+      "created_at": "Sat Sep 19 01:32:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "672",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2101122326494601289"
+    },
+    {
+      "id": "2100952782572597508",
+      "text": "审核通过了，人生第一款上架 App Store 的 app ，是一款 todo 应用。\n\n2026 年了，可能没有人需要一款新的 todo 应用。但为了我自己，还有一些喜欢这款小应用的朋友能方便地使用，最终还是上架了。\n\n我想接下来，就是让它变得更好的时候。\n\nhttps://t.co/Gh6JPtxd4T https://t.co/stCf1MhNNR",
+      "created_at": "Fri Sep 18 14:19:11 +0000 2026",
+      "favorite_count": 50,
+      "retweet_count": 2,
+      "reply_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 20,
+      "views": "9423",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSgVarKa0AAdBrY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100952782572597508"
+    },
+    {
+      "id": "2100920476814229986",
+      "text": "给 Graker 也换上了自定义的图标，感觉好多了。\n\nhttps://t.co/EjXxSVvcpQ https://t.co/roe6VmwG9p",
+      "created_at": "Fri Sep 18 12:10:49 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "915",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSf253uawAAuf1v.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100920476814229986"
+    },
+    {
+      "id": "2100877412821012887",
+      "text": "分享一下这个 OCR 功能设计时的一些细节和想法，希望对你有所启发：\n\n“OCR” 几乎是人尽皆知的一个词，都知道代表什么，但是在功能菜单按钮中，中文语境菜单按钮会使用“识别文本”，但是我又想携带上“OCR”这个词，因为这个词大家一眼扫过去就能唤出对于这个功能的记忆。\n\n于是原本想的是“识别文本(OCR)”。一个英文括号 + 直接补充到后面的文本后缀。\n\n但是这样的补充会导致菜单文案变得啰嗦。于是设计了一个图标：\n\n扫描文本 + OCR 的小角标的图标。这样既不影响按钮文案的干净设计，又能携带上这个词，来通过视觉传达出这个熟悉的概念。",
+      "created_at": "Fri Sep 18 09:19:42 +0000 2026",
       "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "1977",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSfPxava0AAmJo5.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2100877412821012887"
+    },
+    {
+      "id": "2100863375068864850",
+      "text": "为 Graker 增加了一个语法检查场景的选项。\n\n因为在 X 的帖子这个场景下，是允许不写主语、小写、缩写、甚至某些特意拉长写错的写法的。\n\nhttps://t.co/EjXxSVvcpQ https://t.co/yZrLgVGXkj",
+      "created_at": "Fri Sep 18 08:23:55 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "818",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSe_gkeacAACTPy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100863375068864850"
+    },
+    {
+      "id": "2100831571217621354",
+      "text": "是因为这个 app 太垃圾了嘛  \n\nflodo 提交审核一周了，还没有审核通过。🥲 https://t.co/79MpXBMw85",
+      "created_at": "Fri Sep 18 06:17:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 9,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "3014",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSenLFEb0AArulU.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100831571217621354"
+    },
+    {
+      "id": "2100797610311438751",
+      "text": "Minshot v0.31.0：新增 OCR 文字/二维码识别。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/O916wUCpJS",
+      "created_at": "Fri Sep 18 04:02:35 +0000 2026",
+      "favorite_count": 21,
+      "retweet_count": 1,
+      "reply_count": 6,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "views": "3719",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100797445471109120/img/IbpYSdBBXv2rsyFw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100797610311438751"
+    },
+    {
+      "id": "2100773472922391015",
+      "text": "终于还是达到了 X 原创内容收益的申请资格，\n\n持续高精力地分享，分享我在打造个人产品中的一些想法、疑问、以及 aha moment. https://t.co/7rcuCLcFBK",
+      "created_at": "Fri Sep 18 02:26:41 +0000 2026",
+      "favorite_count": 20,
       "retweet_count": 0,
       "reply_count": 6,
       "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1464",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSdyLKMbUAAoWh_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100773472922391015"
+    },
+    {
+      "id": "2100769361527214081",
+      "text": "我一直有给 @minttrapp 设置一个注册的事件提醒。我发现最近两个月注册量非常少，隔三差五蹦出2-3 个注册。\n\n但是我发现，原来是我错了！！😭\n\n原来是我上线了 Google 邮箱授权登录后，这类渠道的注册没有统计上。今天查看了下真实数量后，发现用户数在开放注册后，已经比原来多了三倍。\n\n突然有点儿欣慰。",
+      "created_at": "Fri Sep 18 02:10:20 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1462",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2100769361527214081"
+    },
+    {
+      "id": "2100753863682986215",
+      "text": "Minshot 有了新的 dmg 窗口。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/zIFQl62kBC",
+      "created_at": "Fri Sep 18 01:08:45 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
       "bookmark_count": 3,
-      "views": "1925",
+      "views": "808",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSdge0-agAAF5di.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100753863682986215"
+    },
+    {
+      "id": "2100604936484696165",
+      "text": "如果 ChatGPT 的 token 还是一直这个定价的话，我可能不会在这里处理我所有的事情。\n\n@diabrowser 依然是我目前的选择。",
+      "created_at": "Thu Sep 17 15:16:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1373",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100604936484696165"
+    },
+    {
+      "id": "2100566966104985621",
+      "text": "谢谢，很感谢大家在 X 分享关于 Minshot 的帖子。🫡",
+      "created_at": "Thu Sep 17 12:46:06 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1395",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100566966104985621"
+    },
+    {
+      "id": "2100536394464850164",
+      "text": "总觉的右上角这个信息展示区域的设计太丑了，但是这两个信息又都是我经常会扫一眼的，所以又希望一直展示。\n\n不知道 X 上有没有厉害的设计师，对重新设计这里有什么想法？ https://t.co/Tks5zS3Q5m",
+      "created_at": "Thu Sep 17 10:44:37 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "7118",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSaadP-acAAM8RI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100536394464850164"
+    },
+    {
+      "id": "2100524663109734506",
+      "text": "我还使用 minshot 制作了一个额外的版本： https://t.co/YqTqshaWHH",
+      "created_at": "Thu Sep 17 09:58:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1046",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100496728080437249/img/iS_819o3v9FR6WAC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100524663109734506"
+    },
+    {
+      "id": "2100504146705264739",
+      "text": "软件进入超个性化时代，这是我今天阅读的最有启发和写的好的文章。\n\nJulie 通过大量的生活场景的例子，实际的案例来讲述了为什么“超个性化”在这个时代越来越重要了。\n\n“可乐今天仍然很受欢迎。它们仍然比自己做饮料更便宜、更高效。也许有一天，当私人机器人能按我们具体口味调制饮品时，这就不再成立。”\n\n无论是对于我们未来如何与 AI 共处，如何看待软件的发展，还是对于小到作为独立开发者应该如何思考和反思应该打造什么样的软件和功能，都非常有启发。\n\n顺带一提，这篇文章给我读起来的感觉，就像是上学时阅读的那种文章，案例非常生动。",
+      "created_at": "Thu Sep 17 08:36:28 +0000 2026",
+      "favorite_count": 24,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 49,
+      "views": "7123",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100504146705264739"
+    },
+    {
+      "id": "2100495576764661807",
+      "text": "我自己的使用场景是，当需要截取一张图显示在屏幕，然后对照着做一些事情的时候。\n\n比如，有个朋友评论我之前也有用过，就是截图 Figma  的设计稿，然后打开代码编辑器，对照着写代码。\n\n还有的时候，会用来截取某个系统的一个表单详情，对照着填写。\n\n再或者某次线上考试，答错了之后，将答案截图 Pin 住，然后重新考试的时候可以对照着查看。\n\n大概这些例子吧。",
+      "created_at": "Thu Sep 17 08:02:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "761",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100495576764661807"
+    },
+    {
+      "id": "2100493454199624014",
+      "text": "泪目了，对于 minshot 这么全和认真的好评真是用心了。\n\n还是第一次听到“大而全但又小而美”的评价，确实挺奇怪 。😂\n\n另外，还“泄露”了一些粗糙至极的试验性功能。\n\n但这种质量的软件，卖 $4.99，我自己是敢说真的不贵，甚至我都不咋赚钱，因为那个支付平台扣的手续费太高了。 （13% 左右...）\n\n另外，对于这次的 「Pin」功能，我自己也是挺满意的。",
+      "created_at": "Thu Sep 17 07:53:59 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1564",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100493454199624014"
+    },
+    {
+      "id": "2100480302980518057",
+      "text": "为 Minshot 这个「Pin」功能疯狂打 Call！\n\n我从未体验过如此丝滑的在 Pin 窗口和截图编辑器窗口来回切换的软件。\n\n截图 - 编辑器 - Pin 无位移，像是在同一个窗口中一样。\n\n更不用说，Pin 窗口左上角这几个小图标按钮有多让人喜欢了。\n\n如果你是设计师、开发者、甚至是经常想要将截图 Pin 到桌面的朋友，绝对值得一试。\n\nhttps://t.co/aodmXjVjEb",
+      "created_at": "Thu Sep 17 07:01:43 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 2,
+      "bookmark_count": 8,
+      "views": "4078",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100480127276843008/img/_vin8LDm6obvtPQ0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100480302980518057"
+    },
+    {
+      "id": "2100466625560645799",
+      "text": "UI 设计细节：\n\nDia 浏览器的更新日志在 new tab 的右下角。 https://t.co/kPL4SnsacP",
+      "created_at": "Thu Sep 17 06:07:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "676",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZbLe7boAArmCz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100466625560645799"
+    },
+    {
+      "id": "2100427259752628291",
+      "text": "分享一个桌面绿植养护小妙招：\n\n把水浇透。\n\n我最近在桌面放了一盆迷你椰子树，但是过了两周后，发现叶子没有那么翠绿和有光泽了。甚至买了一个小喷壶。\n\n后来发现时浇水没有浇透的原因，如果是感觉缺水了，浇一点，只湿一半的土就不太管用。如果浇透了，就能顶很长时间。\n\nAI 时代不用学编程了，ChatGPT 教给我的这个方法挺不错。",
+      "created_at": "Thu Sep 17 03:30:57 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1043",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100427259752628291"
+    },
+    {
+      "id": "2100418057428758898",
+      "text": "别的不知道，如果使用 CSS 来适配这种场景，就是手拿把掐。\n\n不过原生应用也是能做。我自己是靠 AI 了。😅",
+      "created_at": "Thu Sep 17 02:54:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "912",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100418057428758898"
+    },
+    {
+      "id": "2100412191396773952",
+      "text": "Claude 在 Fable 的活动结束后，明显不耐用了。甚至很难读懂它这句话，像是上学时的阅读理解题一样，要琢磨这是增加了还是减少了。😅\n\n我想在现在 GPT-6 Astra 的强势竞争下，会有很多用户流向 Codex。 https://t.co/xDaoegyeUR",
+      "created_at": "Thu Sep 17 02:31:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "792",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSYpWjEaIAADDdt.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100412191396773952"
+    },
+    {
+      "id": "2100405007661367513",
+      "text": "Notion 竟然给侧边栏添加了一个分享的功能嘛 😂 https://t.co/qAQe1DbxxI",
+      "created_at": "Thu Sep 17 02:02:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "887",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSYjF1ra0AAfEkw.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100405007661367513"
+    },
+    {
+      "id": "2100399206150398237",
+      "text": "X 的算法又让人琢磨不定了，这个帖子为 Gabriel 已经增加了 2000 多粉丝，\n\n作为发帖人的我都有点羡慕了，哈哈哈",
+      "created_at": "Thu Sep 17 01:39:28 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1997",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100399206150398237"
+    },
+    {
+      "id": "2100390228993397064",
+      "text": "这大概就是设计工程师吧 🤔",
+      "created_at": "Thu Sep 17 01:03:48 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1580",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100390228993397064"
+    },
+    {
+      "id": "2100246099386872138",
+      "text": "还没有灰度到 X的这个更新，但最近 X 真的又发布了很多更新，比如搜索和 Toast 通知。\n\n对于关心设计细节的推友很友好。😌 https://t.co/m2kQskDGu6",
+      "created_at": "Wed Sep 16 15:31:05 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "2370",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100242215519887360/img/-BO7Y_JmIp-kLFuY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100246099386872138"
+    },
+    {
+      "id": "2100241156638744649",
+      "text": "你在手机上使用什么浏览器，我还在用 Arc search，尽管它已经不再更新。🥹 https://t.co/luAx8IjMWz",
+      "created_at": "Wed Sep 16 15:11:26 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1924",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSWOMreaYAAXT3U.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100241156638744649"
+    },
+    {
+      "id": "2100223985686618362",
+      "text": "谢谢。漫长的回忆开始攻击我。 Gridea 的开源客户端版已经过去快 8 年了。\n\n那个时代的 10k star 还是挺有含金量的吧。（还挺自豪的。🥺 https://t.co/2ggaY4Klz2",
+      "created_at": "Wed Sep 16 14:03:13 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "2286",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSV-LgGasAAMUku.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100223985686618362"
+    },
+    {
+      "id": "2100221666647519386",
+      "text": "I'm 33.\n\nSolo founder from China.\n\nBuilding tools and products that I use myself and that are useful to others.\n\nSharing UI design details, product insights, and AI tips on X as I build my personal products.\n\nFeel free to connect with me. https://t.co/SVs8aaZ2vB",
+      "created_at": "Wed Sep 16 13:54:00 +0000 2026",
+      "favorite_count": 48,
+      "retweet_count": 1,
+      "reply_count": 11,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "4604",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSV8ap0a8AAuFaT.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2100221666647519386"
+    },
+    {
+      "id": "2100220047923032284",
+      "text": "这个真的有用！之前不支持中文输入用起来就太难了。",
+      "created_at": "Wed Sep 16 13:47:34 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1206",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2100220047923032284"
+    },
+    {
+      "id": "2100196292580487248",
+      "text": "以防有人对是如何制作出这样的视频感兴趣，\n\n这张图就是全部了，没有侧边栏，录屏并编辑，添加一些文字片段、聚焦细节片段，\n\n可以更简单一些。\n\n（即将更新到下个版本的 minshot 中。 https://t.co/ZfgsCA6Lmk",
+      "created_at": "Wed Sep 16 12:13:10 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1568",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVk--DbYAANW4C.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100196292580487248"
+    },
+    {
+      "id": "2100194937304445219",
+      "text": "以防你想通过视频来看看 Minshot 截图工具这次全新的 UI 视觉更新，\n\n我使用 Minshot 制作了一个。 https://t.co/oiezFDyKTW",
+      "created_at": "Wed Sep 16 12:07:47 +0000 2026",
+      "favorite_count": 19,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 11,
+      "views": "6165",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2100194785902678016/img/ZgDWxC9sf0Bdgatd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100194937304445219"
+    },
+    {
+      "id": "2100180053774741637",
+      "text": "最近北京傍晚的云有点儿淡淡橘黄色，和我做的这个动态壁纸第三幕还挺像的。\n\nhttps://t.co/MzELfcl5Pt https://t.co/Mv0LOZh8mH",
+      "created_at": "Wed Sep 16 11:08:38 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "926",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVWUcIbsAACqBp.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSVWW8oaEAAdaSQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100180053774741637"
+    },
+    {
+      "id": "2100071171811340363",
+      "text": "什么是 10x 打工人，\n\nAI 将人尤其是软件工程师的开发效率提升了 10 倍以上，那是不是意味着一名工程师可以同时打 10 份工，而且不会降低交付效率。",
+      "created_at": "Wed Sep 16 03:55:59 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 8,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "views": "3557",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -38,10 +696,10 @@
       "created_at": "Wed Sep 16 03:19:48 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
-      "reply_count": 10,
+      "reply_count": 23,
       "quote_count": 2,
       "bookmark_count": 1,
-      "views": "4046",
+      "views": "7343",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -62,7 +720,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1112",
+      "views": "1554",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -78,7 +736,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1077",
+      "views": "1271",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -96,10 +754,10 @@
       "created_at": "Tue Sep 15 12:55:56 +0000 2026",
       "favorite_count": 2,
       "retweet_count": 0,
-      "reply_count": 1,
+      "reply_count": 2,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "2242",
+      "bookmark_count": 4,
+      "views": "2754",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -120,7 +778,7 @@
       "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 12,
-      "views": "4237",
+      "views": "4623",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -141,7 +799,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "4018",
+      "views": "4164",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -162,7 +820,7 @@
       "reply_count": 25,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1909",
+      "views": "2004",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -183,7 +841,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "4205",
+      "views": "4392",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -194,12 +852,12 @@
       "id": "2099668176846131435",
       "text": "看完了这个帖子中 Brain 和 Rasmus 关于 hover 链接时，要不要显示一个信息卡片。\n\n非常精彩和值得反思。",
       "created_at": "Tue Sep 15 01:14:37 +0000 2026",
-      "favorite_count": 8,
+      "favorite_count": 9,
       "retweet_count": 1,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "2306",
+      "views": "2420",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -215,7 +873,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "660",
+      "views": "700",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -231,12 +889,12 @@
       "id": "2099653126219596210",
       "text": "终于有人提这个了。由于这个设定，得小心计算哪天使用重置卡是更合算的。",
       "created_at": "Tue Sep 15 00:14:49 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 2,
-      "views": "2476",
+      "views": "2605",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -252,7 +910,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "2600",
+      "views": "2678",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -268,7 +926,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 21,
-      "views": "4687",
+      "views": "4781",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -284,12 +942,12 @@
       "id": "2099502431663170003",
       "text": "Minshot - macOS 原生截图工具，现已更新！\n\n全新的图标与交互，让体验更愉悦，更顺手。\n\n欢迎体验和使用。\n\nhttps://t.co/NTFzbWZbF9 https://t.co/Oi9NBOrQfu",
       "created_at": "Mon Sep 14 14:16:01 +0000 2026",
-      "favorite_count": 18,
+      "favorite_count": 19,
       "retweet_count": 0,
-      "reply_count": 8,
+      "reply_count": 9,
       "quote_count": 1,
-      "bookmark_count": 30,
-      "views": "9508",
+      "bookmark_count": 31,
+      "views": "15059",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -310,7 +968,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "785",
+      "views": "807",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -331,7 +989,7 @@
       "reply_count": 2,
       "quote_count": 1,
       "bookmark_count": 3,
-      "views": "1952",
+      "views": "1993",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -352,7 +1010,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 13,
-      "views": "2791",
+      "views": "2844",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -373,7 +1031,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2477",
+      "views": "2495",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -394,7 +1052,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 6,
-      "views": "3480",
+      "views": "3505",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -415,7 +1073,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1539",
+      "views": "1555",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -7767,12 +8425,12 @@
       "id": "2072297263591051735",
       "text": "朋友们，\n\n今天对于 Minttr 和我来说，都是一个非常重要的日子，因为 Minttr 在经历了 一年多的使用与打磨后，终于对外开放注册了。🎉🎉🎉\n\n诚然，它依然是不完美的，就像我所记录的卡片笔记一样。它的基础功能已经相对稳定，可以放心地记录、安心的打造自己的想法博物馆。\n\n现阶段更重要的是，将它带给更多需要的人。也欢迎大家介绍给自己的朋友使用。\n\n再次介绍下 Minttr：\n\nMinttr 是一款为个人兴趣探索打造的卡片笔记应用，支持将笔记、链接、图片等保存到同一个地方。\n\n到现在为止，我在 Minttr 中记录了 721 条灵感笔记，我喜欢设计、产品和技术，并企图在打造软件中找到完美的平衡。\n\n我在做饭时、散步时、阅读时、甚至搭乘地铁时，把想法记下来。支撑我打造出了 Minttr 以及其他几款个人产品。\n\n好点子不是硬想出来的，是来自一个个思考瞬间，来自日积月累的记录。\n\n我使用 Minttr 保存任何有启发的链接，尤其是 X 帖子，这不断影响着我的设计，影响着我对于 AI 趋势的感受。\n\n值得一提的是，保存链接的同时记录下当下所想，会在卡片视图中一同呈现，这些宝贵的个人备注，值得第一优先级。\n\n还有一些围绕 AI 的改进：\n\n- 保存的图片会自动进行 AI 化处理，Minttr 的搜索功能，绝对值得一试。\n- 有灵感，有思考，但不完整？Reflect 会给一些不同视角、不同观点的输入。85% 的早期用户都给出了手动好评。这也是对它最有力的解释。\n- AI Chat 就是那个 ChatGPT 却拥有了你笔记的上下文。\n\n如果你正在寻找趁手的笔记应用，欢迎加入 Minttr，打造属于自己的想法博物馆。 ⬇️\n\nhttps://t.co/tMnnx52eHD",
       "created_at": "Wed Jul 01 12:32:23 +0000 2026",
-      "favorite_count": 75,
+      "favorite_count": 76,
       "retweet_count": 13,
       "reply_count": 6,
       "quote_count": 6,
       "bookmark_count": 29,
-      "views": "31090",
+      "views": "32205",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
