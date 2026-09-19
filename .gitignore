@@ -26,3 +26,21 @@ tmp_media/
 tweets_*.json
 search_*.json
 *.log
+
+# ── 凭据与密钥：绝不入库（防止重演 2026-09-20 的 13 处泄露）──
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.keychain
+*.p8
+*.mobileprovision
+*.csr
+key.properties
+keystore.properties
+*_session.json
+*_cookies.json
