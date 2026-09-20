@@ -7,15 +7,78 @@
     "nickname": "XiuerOld",
     "profile_url": "https://vibeloft.ai/profile/xiuerold"
   },
-  "generated_at": "2026-09-17T16:00:06.297207Z",
+  "generated_at": "2026-09-20T15:00:09.918272Z",
   "stats": {
-    "tweet_count": 127,
-    "latest_tweet_created_at": "2026-09-11T02:35:35Z",
-    "latest_tweet_id": "2098239001111179580",
+    "tweet_count": 130,
+    "latest_tweet_created_at": "2026-09-20T10:56:39Z",
+    "latest_tweet_id": "2101626588530163784",
     "oldest_tweet_created_at": "2014-01-24T12:20:56Z",
     "oldest_tweet_id": "426691081695010816"
   },
   "tweets": [
+    {
+      "id": "2101626588530163784",
+      "text": "https://t.co/CdhBbQ9vVh",
+      "created_at": "Sun Sep 20 10:56:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSp6O4faUAA3s_6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101626588530163784"
+    },
+    {
+      "id": "2101492390687305908",
+      "text": "RT @RyanEls4: Does it make sense to learn to code these days? https://t.co/J9p06zmvwf",
+      "created_at": "Sun Sep 20 02:03:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 125,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSj8h8UWcAAlq1g.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101492390687305908"
+    },
+    {
+      "id": "2100902110804210005",
+      "text": "https://t.co/AR6qqXPBRX",
+      "created_at": "Fri Sep 18 10:57:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "21",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSfnVDja0AA4wh1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2100902110804210005"
+    },
     {
       "id": "2098239001111179580",
       "text": "Classic https://t.co/Uk3IIzrdIA",
@@ -25,7 +88,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "23",
+      "views": "25",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +109,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "23",
+      "views": "25",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +130,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "20",
+      "views": "22",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +151,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "37",
+      "views": "40",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -109,7 +172,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "28",
+      "views": "30",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -130,7 +193,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "52",
+      "views": "54",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -151,7 +214,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "46",
+      "views": "47",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
