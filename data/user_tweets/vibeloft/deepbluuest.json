@@ -7,21 +7,169 @@
     "nickname": "bluue deep",
     "profile_url": "https://vibeloft.ai/profile/bluuedeep"
   },
-  "generated_at": "2026-09-18T12:00:08.236907Z",
+  "generated_at": "2026-09-21T11:00:10.617707Z",
   "stats": {
-    "tweet_count": 824,
-    "latest_tweet_created_at": "2026-09-18T09:04:46Z",
-    "latest_tweet_id": "2100873655114924399",
+    "tweet_count": 832,
+    "latest_tweet_created_at": "2026-09-21T03:06:08Z",
+    "latest_tweet_id": "2101870564520730882",
     "oldest_tweet_created_at": "2024-11-25T03:34:00Z",
     "oldest_tweet_id": "1860889649750966376"
   },
   "tweets": [
     {
+      "id": "2101870564520730882",
+      "text": "Crypto 的历史，就是从“发token”\n进化到“懒得发了，直接赌”的 历史\n\n1. 最开始Crypto创造一个有价值的token：BTC\n\n2. 接着，用价值token 给其他项目众筹：ETH\n\n3. 于是大家发现，其他价值资产可以创造更多众筹：ICO\n\n4. 然后发现，好像连自己众筹也不需要  直接交易所帮忙：IEO\\IDO\n\n5. 接着发现，甚至可以先交易，先用产品，然后再送token给你：Defi、LP mining、Airdrop\n\n6. 继续，只要证明是我的，任何东西都可以变成资产：NFT、Gamefi、SocialFi\n\n7. 然后 发现，token其实也不需要一个项目：Meme\n\n8. 接着 发token 这个过程也可以去掉：Pre market\n\n9. 再往后，其实token 都不需要了吧：Prediction market、美股",
+      "created_at": "Mon Sep 21 03:06:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "35",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2101870564520730882"
+    },
+    {
+      "id": "2101851858574979081",
+      "text": "近一周的收获\n已经保存了这么多的 UI和交互方向的网站了 https://t.co/PNJ8pUzIJV",
+      "created_at": "Mon Sep 21 01:51:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "42",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HStHDu1bYAA0xqg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101851858574979081"
+    },
+    {
+      "id": "2101850808732299433",
+      "text": "如果以后APP可以的话\n\n在手机上只做一个官方基础版本兜底\n\n其他可以暴露API或者SDK\n用户可以自己接管 定制自己的UI是不是很好\n\n这样奇形怪状的屏幕也不用考虑专门适配\n设计师甚至可以借此盈利 焕发第二春\n好的设计还能给APP反过来带来热度\n\n不喜欢设计的  就可以直接做一个语音或者chat就行\n（堪比部分AI硬件）",
+      "created_at": "Mon Sep 21 01:47:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HStGKTHaUAA5GDp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101850808732299433"
+    },
+    {
+      "id": "2101848529253859408",
+      "text": "自从有了AI之后\n\n已经耗费token做（fork+乱想）了自己的\n\n—— 输入法\n—— 邮件\n—— 笔记\n—— 记账\n—— 行程提醒\n—— 网站\n—— 书签管理\n\n但至今仍未盈利（好吧 纯享受就完事了）",
+      "created_at": "Mon Sep 21 01:38:34 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "22",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2101848529253859408"
+    },
+    {
+      "id": "2101492031671709948",
+      "text": "老师太高产了",
+      "created_at": "Sun Sep 20 02:01:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2101492031671709948"
+    },
+    {
+      "id": "2101141655768432986",
+      "text": "如果从2026年开始 网络上新产生的内容语料 \n都是AI制造的\n\n那么AI以后如何进步 如何获得新的语料\n\n也即是说\n孩子们，为了AI的未来\n我们也要保持现充 https://t.co/C6R9vNUqsr",
+      "created_at": "Sat Sep 19 02:49:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "27",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjBIrGbkAAalnS.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2101141655768432986"
+    },
+    {
+      "id": "2101140709403500925",
+      "text": "买不起Duo\n可以开发软件\n以适配Duo\n\nDuo儿滚（想好APP 名字了）\n针对不听话孩子的 记账本 https://t.co/M0KtO88KZW",
+      "created_at": "Sat Sep 19 02:45:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "33",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSi_-rGasAEm82y.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101140709403500925"
+    },
+    {
+      "id": "2101139739286106139",
+      "text": "Notion 感觉很久没有大动作了\ntimeline刷到出现的频率比较低\n最近一次竟然是：原生代码重写（不是说重写不好的意思，但是相比其他的  普通人并不太在意）\n\n虽然Noiton的功能和协作几乎无可替代\n但明显感受到增长压力\n（之前还买了一年AI，结果已经很久没打开Notion了）\n\n* Obsidian在AI时代确实有天然的优势\n* 瓦全可以基于AI自己创造顺手的工具\n* 一大堆开源好用方案在等着\n* 自从文字和教育出现，记录和写点什么的冲动这东西 就不会消失了\n\n——Anytype之前刷到也要重新设计了 2.0\n虽然Anytype 我一直觉得 拿着一手好牌\n里面装了坨大的。。\n\n在整个互联网和软件工程领域，AI实在是来的太快了\n卖铲子的生意真是永远都不过时",
+      "created_at": "Sat Sep 19 02:42:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2101139739286106139"
+    },
+    {
       "id": "2100873655114924399",
       "text": "RT @GodotSancho: 害，第一次做 YouTube 视频有点紧张。\n\n重点关注三条产业新闻：\n1）SK 海力士与英特尔潜在合作；\n\n2）半导体设备关键零部件交期大幅拉长，验证 AI 与 HBM 扩产正进入物理瓶颈；  \n\n3）AI 算力正从 GPU 单一路线转向 A…",
       "created_at": "Fri Sep 18 09:04:46 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1,
+      "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -41,7 +189,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "42",
+      "views": "61",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -73,7 +221,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "44",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -259,7 +407,7 @@
       "text": "RT @XFreeze: SpaceXAI just launched Grok Bot and this is a much bigger step toward actual AI coworkers\n\nInstead of simply chatting with Gro…",
       "created_at": "Wed Aug 12 02:20:40 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 213,
+      "retweet_count": 212,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -3533,7 +3681,7 @@
       "reply_count": 0,
       "quote_count": 2,
       "bookmark_count": 3,
-      "views": "7450",
+      "views": "7454",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
