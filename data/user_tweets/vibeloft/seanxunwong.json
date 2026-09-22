@@ -7,15 +7,73 @@
     "nickname": "Sean Wong",
     "profile_url": "https://vibeloft.ai/profile/seanwong"
   },
-  "generated_at": "2026-09-19T21:00:07.555902Z",
+  "generated_at": "2026-09-22T20:00:11.505017Z",
   "stats": {
-    "tweet_count": 312,
-    "latest_tweet_created_at": "2026-09-18T01:42:54Z",
-    "latest_tweet_id": "2100762458084577353",
+    "tweet_count": 316,
+    "latest_tweet_created_at": "2026-09-22T16:50:20Z",
+    "latest_tweet_id": "2102440370001113285",
     "oldest_tweet_created_at": "2018-07-27T14:33:20Z",
     "oldest_tweet_id": "1022852441484611584"
   },
   "tweets": [
+    {
+      "id": "2102440370001113285",
+      "text": "Claude 才是 YYDS",
+      "created_at": "Tue Sep 22 16:50:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2102440370001113285"
+    },
+    {
+      "id": "2102414434975220131",
+      "text": "胡子细节 https://t.co/U5gVrTDeOR",
+      "created_at": "Tue Sep 22 15:07:16 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS1GxhZboAABc09.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102414434975220131"
+    },
+    {
+      "id": "2101965437957443874",
+      "text": "Claude 是真的耐用，反观 Codex 我买了两个 Plus 号都不够用，主要我都没用 Astra https://t.co/qvPio0lyyu",
+      "created_at": "Mon Sep 21 09:23:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "60",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSuuEyDbsAA9OTk.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2101965437957443874"
+    },
     {
       "id": "2100762458084577353",
       "text": "这两天用美国豆包明显速度变慢了，应该是快要发新模型了",
@@ -25,7 +83,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "42",
+      "views": "58",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +99,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "222",
+      "views": "305",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +120,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1367",
+      "views": "1372",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -78,7 +136,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "53",
+      "views": "54",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -318,6 +376,31 @@
       "url": "https://x.com/i/status/2092144011138244836"
     },
     {
+      "id": "2092100775770193933",
+      "text": "相比于最近不知道怎么火起来的 OpenLogi，我更推荐 Logi Options Plus Mini，它可以基于官方的 Logi Options+ 进行功能删减后安装最精简的版本。 https://t.co/yjNCIm9B57",
+      "created_at": "Tue Aug 25 04:04:28 +0000 2026",
+      "favorite_count": 168,
+      "retweet_count": 12,
+      "reply_count": 10,
+      "quote_count": 2,
+      "bookmark_count": 219,
+      "views": "23979",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQig6WpagAEviFP.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQihBGvbQAAHzyI.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2092100775770193933"
+    },
+    {
       "id": "2091182821763379634",
       "text": "1 小时快速 Vibe 了一个玩具，可以用唤醒词快速激活豆包输入法的语音输入模式 https://t.co/Hs7wXyGQpg",
       "created_at": "Sat Aug 22 15:16:51 +0000 2026",
@@ -384,7 +467,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 8,
-      "views": "4204",
+      "views": "4205",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -570,7 +653,7 @@
       "reply_count": 6,
       "quote_count": 3,
       "bookmark_count": 324,
-      "views": "21461",
+      "views": "21480",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -643,7 +726,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "131",
+      "views": "133",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -891,7 +974,7 @@
       "text": "RT @claudeai: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits 50% higher, thro…",
       "created_at": "Sun Jul 12 23:12:19 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 7167,
+      "retweet_count": 7146,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -957,7 +1040,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "344",
+      "views": "345",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -989,7 +1072,7 @@
       "reply_count": 0,
       "quote_count": 2,
       "bookmark_count": 1,
-      "views": "1706",
+      "views": "1723",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
