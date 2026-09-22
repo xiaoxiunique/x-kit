@@ -7,25 +7,580 @@
     "nickname": "孙悟元",
     "profile_url": "https://vibeloft.ai/profile/wuyuan"
   },
-  "generated_at": "2026-09-19T03:00:11.024648Z",
+  "generated_at": "2026-09-22T02:00:12.389195Z",
   "stats": {
-    "tweet_count": 1236,
-    "latest_tweet_created_at": "2026-09-19T02:42:04Z",
-    "latest_tweet_id": "2101139734018023705",
+    "tweet_count": 1263,
+    "latest_tweet_created_at": "2026-09-21T23:02:09Z",
+    "latest_tweet_id": "2102171555254218958",
     "oldest_tweet_created_at": "2026-05-04T11:16:46Z",
     "oldest_tweet_id": "2051259735933157471"
   },
   "tweets": [
     {
-      "id": "2101139734018023705",
-      "text": "谁能告诉我，对于普通开发者，有什么能将Jev真正发挥价值的用例？ https://t.co/rzenZAAEQf",
-      "created_at": "Sat Sep 19 02:42:04 +0000 2026",
-      "favorite_count": 1,
+      "id": "2102171555254218958",
+      "text": "what？ https://t.co/kgmBr6EyLO",
+      "created_at": "Mon Sep 21 23:02:09 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "171",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSxp4xIaYAAeb6H.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102171555254218958"
+    },
+    {
+      "id": "2102122297079582805",
+      "text": "按照身边的人调查法，我觉得中国跨儿考虑自杀的是100%",
+      "created_at": "Mon Sep 21 19:46:25 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "374",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2102122297079582805"
+    },
+    {
+      "id": "2102120947864277490",
+      "text": "RT @zza2ku: 666，演都不演了\n“未成年人的已婚親生父母可以選擇把孩子從公立學校退學、沒收智能手機，並刪除社交媒體”\nhttps://t.co/VfSh0TLdMh https://t.co/6kA4n6HZay",
+      "created_at": "Mon Sep 21 19:41:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 9,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSudO8hXYAAjs7d.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSudP-zXAAA1b9c.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102120947864277490"
+    },
+    {
+      "id": "2102119874910883861",
+      "text": "我是真分不出来 https://t.co/L77FnUdUl3",
+      "created_at": "Mon Sep 21 19:36:48 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 0,
+      "reply_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "768",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSw64j5bAAAD930.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102119874910883861"
+    },
+    {
+      "id": "2102095285791154494",
+      "text": "Grok App 终于支持自定义mcp了！ https://t.co/BS3xC6GCax",
+      "created_at": "Mon Sep 21 17:59:05 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "117",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSwkhGKacAAHYdN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102095285791154494"
+    },
+    {
+      "id": "2102081448723558798",
+      "text": "根据你所知道的关于我的一切，布置这个房间。 https://t.co/diWMrPTiXc",
+      "created_at": "Mon Sep 21 17:04:06 +0000 2026",
+      "favorite_count": 9,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "23",
+      "views": "272",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSwX7EOakAA2CgT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSwX7isawAAfiBB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102081448723558798"
+    },
+    {
+      "id": "2102066726053761453",
+      "text": "RT @acnekot: 我用我朋友的账号试了，真的很快就开了",
+      "created_at": "Mon Sep 21 16:05:36 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "4",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2102066726053761453"
+    },
+    {
+      "id": "2102066584873500916",
+      "text": "RT @LuminaFable2020: 机厅的嘈杂让我手机发出惊鸣的警告 https://t.co/lc3iILT7Hc",
+      "created_at": "Mon Sep 21 16:05:02 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSwGUoaboAA3r0m.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102066584873500916"
+    },
+    {
+      "id": "2102064153737507031",
+      "text": "RT @miomiokawai: @amber_medusozoa 有一说一\n我觉得她顶的过至少二十个寒涟漪\n寒常常是看见人自杀后报警\n然后把人晾一边\n非必要不联系\n必要也不一定联系\n后续是几乎没看见什么好的后续\n牧是一窝一窝的端\n而且还很关注后续\n后续冒泡了继续端\n一把下来至…",
+      "created_at": "Mon Sep 21 15:55:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2102064153737507031"
+    },
+    {
+      "id": "2102012576448360658",
+      "text": "RT @Ilikesleepinghh: 好重好重好重\n@wuyuandev 女鹅你有口福了 https://t.co/3xmhzJhSqq",
+      "created_at": "Mon Sep 21 12:30:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "ja",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSvB8doaAAAaFCm.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSvB8dqb0AApU7D.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSvB8dpacAA_bis.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSvB8dmbEAEzipy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102012576448360658"
+    },
+    {
+      "id": "2101804758801727958",
+      "text": "不知道为什么Cloudflare的快速 Tunnel现在又火了一次，这玩意肯定已经好几年了，当然我不确定它们有没有改进那个一小时限制 https://t.co/bVojT5ksIz",
+      "created_at": "Sun Sep 20 22:44:38 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "386",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSscSW-a4AAEVm4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101804758801727958"
+    },
+    {
+      "id": "2101757817392914666",
+      "text": "RT @fang_danie121: 2022年11月，西安。一女子因为在商店里买东西的时候没戴口罩，就被防疫人员扣住了。\n女子哀求说：我要回家一趟，我家里炉子上还煮着饭呢。家里没有大人，只有一个一岁左右的小孩。\n防疫人员说：你想回去可以，先把这个背会了再说，然后拿了几本有关防…",
+      "created_at": "Sun Sep 20 19:38:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 145,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2101757817392914666"
+    },
+    {
+      "id": "2101737173565558842",
+      "text": "笑飞了：西班牙下令屏蔽 Archive. today 的新闻，在HackerNews的上第一个评论就是用archive today来饶过这条新闻的付费墙的 https://t.co/DmSpKfuzif",
+      "created_at": "Sun Sep 20 18:16:05 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 2,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "351",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSre0NjbUAEkoNL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101737173565558842"
+    },
+    {
+      "id": "2101708240900010177",
+      "text": "mtf笑话第一集",
+      "created_at": "Sun Sep 20 16:21:07 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "420",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2101708240900010177"
+    },
+    {
+      "id": "2101659749632938285",
+      "text": "这个世界公平的残酷 https://t.co/RCemwkzDsn",
+      "created_at": "Sun Sep 20 13:08:25 +0000 2026",
+      "favorite_count": 62,
+      "retweet_count": 2,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "3147",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSqYYbJbEAAwqEi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101659749632938285"
+    },
+    {
+      "id": "2101655810296467947",
+      "text": "RT @intqwq: 查过了，这居然是真的！ https://t.co/n07BBLpAmK",
+      "created_at": "Sun Sep 20 12:52:46 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 8,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSppwCtbcAE_nZK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101655810296467947"
+    },
+    {
+      "id": "2101241281938895166",
+      "text": "怎么最近出事的这么多？说法还不一样 https://t.co/ZzIYW6u2qZ",
+      "created_at": "Sat Sep 19 09:25:35 +0000 2026",
+      "favorite_count": 23,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "803",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSkbzTZaUAAYEHL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101241281938895166"
+    },
+    {
+      "id": "2101239771376836637",
+      "text": "以防你不知道，我们有一个产品叫\nHacker Trans\n\nhttps://t.co/XmVPqJ4ZXN",
+      "created_at": "Sat Sep 19 09:19:35 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1099",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2101239771376836637"
+    },
+    {
+      "id": "2101222358912487528",
+      "text": "可爱的头像！\n顺便一提，即将发布 Zakura Bot，grokbot的开源替代品，不同的是它还提供完整的云端 Agent 界面与功能，非常适合跨专业团队使用 https://t.co/lgLkcCmz5C",
+      "created_at": "Sat Sep 19 08:10:23 +0000 2026",
+      "favorite_count": 50,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 8,
+      "views": "1393",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSkKl5pboAAHQ-d.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101222358912487528"
+    },
+    {
+      "id": "2101220856374632859",
+      "text": "听说很多精神科的医生最终也进了精神科，恭喜逃离 https://t.co/UWAs6nNCi4",
+      "created_at": "Sat Sep 19 08:04:25 +0000 2026",
+      "favorite_count": 33,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1064",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSkJOx-aAAAA2ak.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101220856374632859"
+    },
+    {
+      "id": "2101208972921553399",
+      "text": "尝试给zakura添加用jev来审批工具调用 https://t.co/2whrYHBEuV",
+      "created_at": "Sat Sep 19 07:17:12 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "268",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSj-a30bcAAQ0B3.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2101208972921553399"
+    },
+    {
+      "id": "2101203077525311934",
+      "text": "原来是跨女负责被欺凌，跨男负责欺凌别人，然后锅由所有跨性别者一起背",
+      "created_at": "Sat Sep 19 06:53:46 +0000 2026",
+      "favorite_count": 35,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 2,
+      "bookmark_count": 4,
+      "views": "4799",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2101203077525311934"
+    },
+    {
+      "id": "2101192080907292977",
+      "text": "RT @seaskyfor: 坦坦荡荡见长辈 香香软软见自己 https://t.co/OUzMBbpn7A",
+      "created_at": "Sat Sep 19 06:10:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjeE4bakAA6hYO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101192080907292977"
+    },
+    {
+      "id": "2101187415486738786",
+      "text": "看到这种萌萌哒的样式真的很好看，\n再看看自己的博客，已经被岁月抹平棱角了。 https://t.co/B6bEp070bi",
+      "created_at": "Sat Sep 19 05:51:32 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "2619",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjqtr-asAAyxaS.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjqzZUasAAfQTT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101187415486738786"
+    },
+    {
+      "id": "2101178542268821654",
+      "text": "以防你不知道，ChatGPT在画图的时候点一下就能开始玩贪吃蛇。\n奇妙的设计+1 https://t.co/FBqeoXw1ym",
+      "created_at": "Sat Sep 19 05:16:17 +0000 2026",
+      "favorite_count": 31,
+      "retweet_count": 5,
+      "reply_count": 22,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1063",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjivQ3awAA7pWs.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjivxDaoAAieVs.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2101178542268821654"
+    },
+    {
+      "id": "2101146475657089138",
+      "text": "冷笑话：唐纳德小特朗普总统 https://t.co/y93D4ppBjC",
+      "created_at": "Sat Sep 19 03:08:51 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "474",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjFjklbUAAU2Od.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2101146475657089138"
+    },
+    {
+      "id": "2101145869202620767",
+      "text": "听说有个儿科医生被撞了？",
+      "created_at": "Sat Sep 19 03:06:27 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "191",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2101145869202620767"
+    },
+    {
+      "id": "2101139734018023705",
+      "text": "谁能告诉我，对于普通开发者，有什么能将Jev真正发挥价值的用例？ https://t.co/rzenZAAEQf",
+      "created_at": "Sat Sep 19 02:42:04 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "310",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,12 +596,12 @@
       "id": "2101136562784498098",
       "text": "https://t.co/i9I9r4ADid",
       "created_at": "Sat Sep 19 02:29:28 +0000 2026",
-      "favorite_count": 6,
-      "retweet_count": 0,
-      "reply_count": 1,
+      "favorite_count": 92,
+      "retweet_count": 10,
+      "reply_count": 3,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "70",
+      "bookmark_count": 10,
+      "views": "2008",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -62,12 +617,12 @@
       "id": "2101132209872945169",
       "text": "似乎是继Jev后新的让人难以理解的AI模型出现了\n我将尽力思考他们这个帖子说了什么",
       "created_at": "Sat Sep 19 02:12:10 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "32",
+      "views": "183",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -79,7 +634,7 @@
       "text": "RT @gdioiui: b 站很多人想要 xyn 家教呢\n这个算不算一个方向🤔 https://t.co/j5tbcHbYp1",
       "created_at": "Sat Sep 19 00:48:53 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 4,
+      "retweet_count": 12,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -100,7 +655,7 @@
       "text": "RT @Wanda12300: 呜呜呜感觉别的小药娘都好厉害，要么打比赛拿奖，要么家里有矿，要么是天赋党，就我一个人什么都不会",
       "created_at": "Fri Sep 18 16:51:21 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 10,
+      "retweet_count": 20,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -115,12 +670,12 @@
       "id": "2100987780201660918",
       "text": "欢迎下次光临喵~",
       "created_at": "Fri Sep 18 16:38:15 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "111",
+      "views": "258",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -131,12 +686,12 @@
       "id": "2100969976316518442",
       "text": "蛤？？？",
       "created_at": "Fri Sep 18 15:27:31 +0000 2026",
-      "favorite_count": 7,
+      "favorite_count": 12,
       "retweet_count": 0,
-      "reply_count": 1,
+      "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "379",
+      "views": "972",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -152,7 +707,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "169",
+      "views": "283",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -168,12 +723,12 @@
       "id": "2100938133747761263",
       "text": "第一次上大学躲在床帘里偷偷抹眼泪正常吗 https://t.co/M0TGR5sMKw",
       "created_at": "Fri Sep 18 13:20:59 +0000 2026",
-      "favorite_count": 5,
+      "favorite_count": 11,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "410",
+      "views": "1008",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -189,12 +744,12 @@
       "id": "2100899226163278250",
       "text": "MiniMax意识到自己好像还没有偷数据被抓，于是紧急撤回了minimax-code的开源 https://t.co/rQwgpOS3r6",
       "created_at": "Fri Sep 18 10:46:22 +0000 2026",
-      "favorite_count": 38,
+      "favorite_count": 49,
       "retweet_count": 1,
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1122",
+      "views": "1660",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -210,12 +765,12 @@
       "id": "2100896889042522229",
       "text": "代开低价区，40元6个月的x premium。\n私信联系 https://t.co/dNxT0gyXGZ",
       "created_at": "Fri Sep 18 10:37:05 +0000 2026",
-      "favorite_count": 19,
+      "favorite_count": 24,
       "retweet_count": 0,
-      "reply_count": 31,
+      "reply_count": 34,
       "quote_count": 0,
-      "bookmark_count": 10,
-      "views": "1365",
+      "bookmark_count": 12,
+      "views": "1641",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -236,7 +791,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "558",
+      "views": "585",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -253,7 +808,7 @@
       "text": "RT @Demonnn77: 想象一下你死了，晶哥跟你爹妈一块看你推特",
       "created_at": "Thu Sep 17 19:56:20 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 163,
+      "retweet_count": 166,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -273,7 +828,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "258",
+      "views": "285",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -289,12 +844,12 @@
       "id": "2100573591687639426",
       "text": "有人说，你连死都不怕，为什么不敢活着。\n根本不是那回事： https://t.co/KdYWXoBZyj",
       "created_at": "Thu Sep 17 13:12:25 +0000 2026",
-      "favorite_count": 11,
+      "favorite_count": 10,
       "retweet_count": 1,
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "339",
+      "views": "499",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -310,12 +865,12 @@
       "id": "2100566441334579650",
       "text": "解锁猫成就：穿睡衣刷新在五一广场 https://t.co/JvCafCStLz",
       "created_at": "Thu Sep 17 12:44:00 +0000 2026",
-      "favorite_count": 31,
+      "favorite_count": 32,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "818",
+      "views": "844",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -406,7 +961,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "742",
+      "views": "748",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -427,7 +982,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "175",
+      "views": "182",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -469,7 +1024,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "211",
+      "views": "222",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -490,7 +1045,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1",
+      "views": "2",
       "lang": "zh",
       "is_retweet": true,
       "is_quote": false,
@@ -506,7 +1061,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "320",
+      "views": "325",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -522,7 +1077,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "384",
+      "views": "390",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -538,7 +1093,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "3",
+      "views": "4",
       "lang": "zh",
       "is_retweet": true,
       "is_quote": false,
@@ -4965,7 +5520,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "4556",
+      "views": "4837",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
