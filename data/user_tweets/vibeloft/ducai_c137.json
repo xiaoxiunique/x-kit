@@ -7,15 +7,52 @@
     "nickname": "ditto",
     "profile_url": "https://vibeloft.ai/profile/ditto"
   },
-  "generated_at": "2026-09-19T23:00:03.723949Z",
+  "generated_at": "2026-09-22T22:00:08.911644Z",
   "stats": {
-    "tweet_count": 196,
-    "latest_tweet_created_at": "2026-09-10T00:58:35Z",
-    "latest_tweet_id": "2097852198575325338",
+    "tweet_count": 198,
+    "latest_tweet_created_at": "2026-09-22T20:25:24Z",
+    "latest_tweet_id": "2102494492268134438",
     "oldest_tweet_created_at": "2022-04-27T12:42:56Z",
     "oldest_tweet_id": "1519296035352625152"
   },
   "tweets": [
+    {
+      "id": "2102494492268134438",
+      "text": "https://t.co/9jhH97tTKq",
+      "created_at": "Tue Sep 22 20:25:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2102494472752013312/img/BfjFihYLkQuwr0Ye.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102494492268134438"
+    },
+    {
+      "id": "2102237991918088524",
+      "text": "今日新知识：\n和民主最直接的制度是其实抽签，而不是选举。",
+      "created_at": "Tue Sep 22 03:26:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "5",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2102237991918088524"
+    },
     {
       "id": "2097852198575325338",
       "text": "我用GPT-6 花了几个小时做的Tūī鸟的动画，我tm..... https://t.co/lhHJqjliBa",
@@ -25,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "12",
+      "views": "14",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -50,7 +87,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "38",
+      "views": "42",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -66,7 +103,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "17",
+      "views": "19",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -1214,7 +1251,7 @@
       "reply_count": 2,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "234",
+      "views": "238",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
