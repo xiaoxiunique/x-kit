@@ -7,15 +7,36 @@
     "nickname": "飞流",
     "profile_url": "https://vibeloft.ai/profile/liufei"
   },
-  "generated_at": "2026-09-19T16:00:10.073464Z",
+  "generated_at": "2026-09-22T15:00:42.407397Z",
   "stats": {
-    "tweet_count": 74,
-    "latest_tweet_created_at": "2026-09-14T02:00:27Z",
-    "latest_tweet_id": "2099317322389577821",
+    "tweet_count": 75,
+    "latest_tweet_created_at": "2026-09-21T14:33:10Z",
+    "latest_tweet_id": "2102043465844703488",
     "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
     "oldest_tweet_id": "1819316924146466942"
   },
   "tweets": [
+    {
+      "id": "2102043465844703488",
+      "text": "你们远程遥控目前是啥方案，我用 Hermes https://t.co/YwuFrDg7fi",
+      "created_at": "Mon Sep 21 14:33:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "4",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSv1J_ObgAAZXhk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102043465844703488"
+    },
     {
       "id": "2099317322389577821",
       "text": "一语道破",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "8",
+      "views": "10",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "23",
+      "views": "24",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -57,7 +78,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "19",
+      "views": "20",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -73,7 +94,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "42",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -670,7 +691,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "286",
+      "views": "289",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
