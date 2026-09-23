@@ -7,15 +7,31 @@
     "nickname": "非机",
     "profile_url": "https://vibeloft.ai/profile/oosvg"
   },
-  "generated_at": "2026-09-20T14:00:06.588328Z",
+  "generated_at": "2026-09-23T13:00:09.309140Z",
   "stats": {
-    "tweet_count": 323,
-    "latest_tweet_created_at": "2026-09-07T03:32:47Z",
-    "latest_tweet_id": "2096803841782010284",
+    "tweet_count": 324,
+    "latest_tweet_created_at": "2026-09-21T16:29:59Z",
+    "latest_tweet_id": "2102072861058080778",
     "oldest_tweet_created_at": "2025-09-19T12:07:03Z",
     "oldest_tweet_id": "1969010345097281913"
   },
   "tweets": [
+    {
+      "id": "2102072861058080778",
+      "text": "低廉的价格，可日常当我一个小助手。",
+      "created_at": "Mon Sep 21 16:29:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2102072861058080778"
+    },
     {
       "id": "2096803841782010284",
       "text": "赚钱本身就是一场看起来没有终点的推山。把“推山”直接对应成赚钱，其实很贴切：每天上班、加班、卷业绩、，就像推石头上山。\n钱到账了、目标完成了，石头好像到了山顶，但很快又要开始下一轮：还贷、养家、想换更好的车房、想再多赚一点……石头又滚下来了。\n永远推不到“一劳永逸”的顶峰，现实西西弗斯",
@@ -25,7 +41,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "79",
+      "views": "83",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +57,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "39",
+      "views": "41",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
