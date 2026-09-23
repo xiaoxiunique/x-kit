@@ -7,15 +7,36 @@
     "nickname": "Timothy Lau",
     "profile_url": "https://vibeloft.ai/profile/timothylau"
   },
-  "generated_at": "2026-09-20T03:00:07.076068Z",
+  "generated_at": "2026-09-23T02:00:10.823804Z",
   "stats": {
-    "tweet_count": 55,
-    "latest_tweet_created_at": "2026-09-16T17:00:31Z",
-    "latest_tweet_id": "2100268604336050594",
+    "tweet_count": 56,
+    "latest_tweet_created_at": "2026-09-22T16:14:41Z",
+    "latest_tweet_id": "2102431399013986555",
     "oldest_tweet_created_at": "2023-11-16T06:36:17Z",
     "oldest_tweet_id": "1725040072020595027"
   },
   "tweets": [
+    {
+      "id": "2102431399013986555",
+      "text": "自己做了个剪刀石头布的游戏，结果发现怎么玩都赢不了。。。\n\n到底谁能赢 jev 啊？\n\nhttps://t.co/ChmXCn03yF https://t.co/CLmlSNTfQP",
+      "created_at": "Tue Sep 22 16:14:41 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS1QLbHbAAAtubA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2102431399013986555"
+    },
     {
       "id": "2100268604336050594",
       "text": "如果最近因为 Typeless 降低免费额度而担忧不够用\n如果你觉得现在 AI 语音输入法软件自动整理过于激进\n如果你懒得自己调整提示词来优化语音输出效果\n如果你受够了一个软件要 15 MB 以上才能安装到你的电脑\n如果你喜欢轻量、无感、swift 原生\n\n欢迎体验 https://t.co/7IcvGdIzVF，它能给你所有你想要的",
@@ -25,7 +46,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "123",
+      "views": "133",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +62,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "122",
+      "views": "126",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +83,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "61",
+      "views": "62",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -488,7 +509,7 @@
       "text": "RT @SpaceX: Mechazilla has caught the Super Heavy booster! https://t.co/6R5YatSVJX",
       "created_at": "Sun Oct 13 12:37:34 +0000 2024",
       "favorite_count": 0,
-      "retweet_count": 60148,
+      "retweet_count": 60109,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
