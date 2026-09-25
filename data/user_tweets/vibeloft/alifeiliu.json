@@ -7,15 +7,52 @@
     "nickname": "飞流",
     "profile_url": "https://vibeloft.ai/profile/liufei"
   },
-  "generated_at": "2026-09-22T15:00:42.407397Z",
+  "generated_at": "2026-09-25T14:00:16.862453Z",
   "stats": {
-    "tweet_count": 75,
-    "latest_tweet_created_at": "2026-09-21T14:33:10Z",
-    "latest_tweet_id": "2102043465844703488",
+    "tweet_count": 77,
+    "latest_tweet_created_at": "2026-09-24T13:20:06Z",
+    "latest_tweet_id": "2103112239645667520",
     "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
     "oldest_tweet_id": "1819316924146466942"
   },
   "tweets": [
+    {
+      "id": "2103112239645667520",
+      "text": "如果 Claude CLI 模型达到限额，但是工作还没做完咋办？可以试下 /export 斜杠命令导出会话，交给其他接力！ https://t.co/yFQ5E7VpDg",
+      "created_at": "Thu Sep 24 13:20:06 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "8",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HS_BOYyacAASXm2.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2103112239645667520"
+    },
+    {
+      "id": "2102778860207231397",
+      "text": "Strava locked their route builder behind an $60/year paywall. So I made x-route — a modern, offline-first route planner:\n\n🚴 Fluid route planning\n📈 BRouter-grade elevation &amp; slope filter\n🔒 100% offline-first\n🆓 Free &amp; MIT\n\nTry it (no login needed) 👇 https://t.co/Lv6uje8acr",
+      "created_at": "Wed Sep 23 15:15:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2102778860207231397"
+    },
     {
       "id": "2102043465844703488",
       "text": "你们远程遥控目前是啥方案，我用 Hermes https://t.co/YwuFrDg7fi",
@@ -25,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "4",
+      "views": "9",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +83,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "10",
+      "views": "11",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": true,
@@ -691,7 +728,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "289",
+      "views": "297",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
