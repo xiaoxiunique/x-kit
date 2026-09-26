@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:01:17.705359Z",
+  "generated_at": "2026-09-26T19:01:19.568796Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -1206,13 +1206,13 @@
       "vibeloft_username": "wangguania",
       "vibeloft_nickname": "王大力",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/wangguania",
-      "started_at": "2026-09-23T20:00:03.081501Z",
+      "started_at": "2026-09-26T19:00:40.539951Z",
       "data_file": "data/user_tweets/vibeloft/hellsign.json",
       "stop_on_existing": true,
       "handle": "hellsign",
-      "updated_at": "2026-09-23T20:00:03.835822Z",
-      "completed_at": "2026-09-23T20:00:03.834920Z",
-      "completed_at_local": "2026-09-24T04:00:03.834937+08:00",
+      "updated_at": "2026-09-26T19:01:19.568785Z",
+      "completed_at": "2026-09-26T19:01:19.566670Z",
+      "completed_at_local": "2026-09-27T03:01:19.566696+08:00",
       "history_complete": true,
       "pages_collected_total": 1,
       "new_tweets_last_run": 0,
