@@ -7,15 +7,36 @@
     "nickname": "miao",
     "profile_url": "https://vibeloft.ai/profile/miao"
   },
-  "generated_at": "2026-09-23T22:00:13.801493Z",
+  "generated_at": "2026-09-26T21:02:36.072951Z",
   "stats": {
-    "tweet_count": 47,
-    "latest_tweet_created_at": "2026-09-13T05:35:48Z",
-    "latest_tweet_id": "2099009128626864374",
+    "tweet_count": 49,
+    "latest_tweet_created_at": "2026-09-26T13:43:34Z",
+    "latest_tweet_id": "2103842921204285659",
     "oldest_tweet_created_at": "2026-06-26T11:33:38Z",
     "oldest_tweet_id": "2070470538565488965"
   },
   "tweets": [
+    {
+      "id": "2103842921204285659",
+      "text": "RT @unixzii: 把昨天做的合成器玩具又完善了一下，发出来给大家玩玩～\n\nhttps://t.co/TNdy7FJYJy https://t.co/PWI484whu6",
+      "created_at": "Sat Sep 26 13:43:34 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 34,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2103194675620573184/img/_RK8oRFU0MN7RGwM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2103842921204285659"
+    },
     {
       "id": "2099009128626864374",
       "text": "RT @yetone: 看一个 Harness 的开发者是不是所谓的 Harness 开发「老资历」，就看他怎么实现 Edit tool，我一般看 Edit tool 的实现逻辑就能推测出这个人是从哪一年开始开发 Harness 的了",
@@ -69,7 +90,7 @@
       "text": "RT @huxlab: 今晚别刷Netflix了。\n\n去看这个SpaceX AI工程师1小时的课程。\n\n这是我见过最清晰、端到端讲透GrokBot到底该怎么真正用起来的课。\n\n从单agent开始，一路到loop、graph、多智能体协作、verification和agent-f…",
       "created_at": "Sat Sep 05 08:58:17 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1076,
+      "retweet_count": 1078,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -85,7 +106,7 @@
       "text": "RT @gkxspace: 卧槽，提示词这玩意真得看文科生啊😅\n\n我刚试了一下，写作时只加一句：禁止使用状语\n\n前后效果差得离谱，不加就是一股 AI 味，加上以后就是很牛逼的小说质感\n\n就这么一句话，我感觉自己都能当作家了。。。\n\n看来想玩好 AI，语言底子还是得够厚，羡慕文科…",
       "created_at": "Sat Sep 05 08:53:15 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 347,
+      "retweet_count": 346,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -206,7 +227,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "37",
+      "views": "38",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -234,7 +255,7 @@
       "text": "RT @seekjourney: 后悔知道晚了，通过我的 github 雷达发现一个宝藏仓库：video-shotcraft\n\n106 个镜头配方、162 种风格、161 个动态预览，还把分镜、运镜、节奏、音效和 Remotion 实现都整理成了 Agent Skill。\n\n最…",
       "created_at": "Sun Jul 26 01:02:52 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 219,
+      "retweet_count": 218,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -308,6 +329,31 @@
       "is_quote": false,
       "media": [],
       "url": "https://x.com/i/status/2081173894581694721"
+    },
+    {
+      "id": "2080889145489301984",
+      "text": "独立站已支持cloudflare及VPS双部署方式，只需简单配置环境变量，即可一键部署\nbun run deploy (部署到cloudflare)\nbun run deploy:vps (部署到vps) https://t.co/1NzqthiPCv",
+      "created_at": "Sat Jul 25 05:33:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "48",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HODNnRrbcAExHHG.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HODNoNqb0AAKgEy.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2080889145489301984"
     },
     {
       "id": "2080824884964491764",
@@ -404,7 +450,7 @@
       "text": "RT @LvPza: 把常用的一套视觉方法，做成了一个开源 Skill：\n给它一句话、一个主题、一种情绪，或者一张参考图，它会直接生成一张安静、克制、带纸张与印刷质感的独立杂志风海报。欢迎大家使用👏\n开源地址：\nhttps://t.co/fdVj1WxqE8 https://t…",
       "created_at": "Thu Jul 23 07:44:59 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 173,
+      "retweet_count": 174,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -514,7 +560,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "33",
+      "views": "35",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -530,7 +576,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "49",
+      "views": "51",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -848,7 +894,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "215",
+      "views": "217",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
