@@ -7,15 +7,31 @@
     "nickname": "kael",
     "profile_url": "https://vibeloft.ai/profile/user8a66d319"
   },
-  "generated_at": "2026-09-24T00:00:14.320732Z",
+  "generated_at": "2026-09-26T23:01:54.239651Z",
   "stats": {
-    "tweet_count": 79,
-    "latest_tweet_created_at": "2026-09-13T10:24:05Z",
-    "latest_tweet_id": "2099081678501364111",
+    "tweet_count": 80,
+    "latest_tweet_created_at": "2026-09-24T08:55:00Z",
+    "latest_tweet_id": "2103045525352382898",
     "oldest_tweet_created_at": "2026-05-31T11:48:52Z",
     "oldest_tweet_id": "2061052286357614612"
   },
   "tweets": [
+    {
+      "id": "2103045525352382898",
+      "text": "DMIT 补货啦！\n📦 套餐: https://t.co/RzmsHD3yR0.TINY\n💰 价格: $10.9 / 月付\n⚙️ 配置: 1 vCPU | 2GB | 20GB\n🌐 地区: 美国 · 洛杉矶 (1Gbps)\n📊 流量: 1000GB\n🏷️ 标签: #CN2GIA #优化线路 #解锁友好 #可月付\n🚀 购买地址: https://t.co/hfkT92WKBM\nVPS 库存:https://t.co/MdMGp9q4pS",
+      "created_at": "Thu Sep 24 08:55:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "22",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2103045525352382898"
+    },
     {
       "id": "2099081678501364111",
       "text": "在闲鱼做GPT代充一周就赚回了我的20X费用。比起自己做产品来，这也太容易了吧？",
@@ -452,7 +468,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "97",
+      "views": "98",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -658,7 +674,7 @@
       "id": "2076198818866159912",
       "text": "Grok Build CLI可能会把整个代码仓库包括.env 密钥全都上传，使用需谨慎 https://t.co/DRyNEMcBLn",
       "created_at": "Sun Jul 12 06:55:46 +0000 2026",
-      "favorite_count": 4,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
