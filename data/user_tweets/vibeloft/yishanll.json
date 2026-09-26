@@ -7,15 +7,94 @@
     "nickname": "Yishan",
     "profile_url": "https://vibeloft.ai/profile/yishan"
   },
-  "generated_at": "2026-09-23T23:00:05.522968Z",
+  "generated_at": "2026-09-26T22:01:53.200680Z",
   "stats": {
-    "tweet_count": 298,
-    "latest_tweet_created_at": "2026-09-17T10:33:10Z",
-    "latest_tweet_id": "2100533514643087368",
+    "tweet_count": 302,
+    "latest_tweet_created_at": "2026-09-26T16:17:22Z",
+    "latest_tweet_id": "2103881623829930319",
     "oldest_tweet_created_at": "2022-10-10T06:45:04Z",
     "oldest_tweet_id": "1579362359587794944"
   },
   "tweets": [
+    {
+      "id": "2103881623829930319",
+      "text": "Muse 给我推了一条差不多一年前的新闻 😅 https://t.co/ntgMlBULEA",
+      "created_at": "Sat Sep 26 16:17:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "18",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTJ9DTkagAANcKF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2103881623829930319"
+    },
+    {
+      "id": "2103517029240357036",
+      "text": "折腾两天用上 Muse 了，最后用的 https://t.co/30ytVeBcFQ 送的 $15 开远程浏览器访问 https://t.co/vgZB1c5n4N 用没添加等候名单没注册过 Meta 的新号开好了，中间咸鱼还买了 17.8 开通服务都没顺利开上 🤷🏼‍♂️ https://t.co/gGjJ1DuHC7",
+      "created_at": "Fri Sep 25 16:08:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "119",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTExi8JbYAAwbRg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2103517029240357036"
+    },
+    {
+      "id": "2103362521369620676",
+      "text": "我承认看到这一句时我笑了 https://t.co/iBnoVfC48z",
+      "created_at": "Fri Sep 25 05:54:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "47",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTClEC7aIAEeYsp.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2103362521369620676"
+    },
+    {
+      "id": "2103177406827884763",
+      "text": "今天试着用 Opus 5.5 梳理业务做图示，理解到位视觉拿捏，效果比 Astra 是好上不少，后者突然就不香了，即便前两天我还觉得它像个话很密偶尔抓不住重点但终归是靠谱的同事，现在只想喊退钱 😁",
+      "created_at": "Thu Sep 24 17:39:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "54",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2103177406827884763"
+    },
     {
       "id": "2100533514643087368",
       "text": "这些唱衰 Raycast 的帖子要是能换来一次官方黑五折扣活动也挺好的 😎",
@@ -25,7 +104,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "48",
+      "views": "49",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -37,7 +116,7 @@
       "text": "RT @raycast: Sold out in 5 hours 🤯\n\nIf you missed it, we're giving away 3 Raycast keyboards.\n\nTo enter:\n1️⃣ Follow @raycast and @nuphystudi…",
       "created_at": "Fri Aug 28 13:37:23 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1293,
+      "retweet_count": 1291,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -204,7 +283,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1906",
+      "views": "1907",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -413,7 +492,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "41",
+      "views": "42",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
