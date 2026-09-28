@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T09:02:04.156553Z",
+  "generated_at": "2026-09-28T10:01:20.487463Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -370,13 +370,13 @@
       "vibeloft_username": "wangdouglas",
       "vibeloft_nickname": "Roki",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/wangdouglas",
-      "started_at": "2026-09-25T11:00:07.227087Z",
+      "started_at": "2026-09-28T10:00:41.257110Z",
       "data_file": "data/user_tweets/vibeloft/wangdouglas.json",
       "stop_on_existing": true,
       "handle": "wangdouglas",
-      "updated_at": "2026-09-25T11:00:08.127706Z",
-      "completed_at": "2026-09-25T11:00:08.126661Z",
-      "completed_at_local": "2026-09-25T19:00:08.126673+08:00",
+      "updated_at": "2026-09-28T10:01:20.487450Z",
+      "completed_at": "2026-09-28T10:01:20.485946Z",
+      "completed_at_local": "2026-09-28T18:01:20.485976+08:00",
       "history_complete": true,
       "pages_collected_total": 1,
       "new_tweets_last_run": 0,
