@@ -7,15 +7,78 @@
     "nickname": "Joey Zhu",
     "profile_url": "https://vibeloft.ai/profile/joeyzhu"
   },
-  "generated_at": "2026-09-26T07:02:06.040846Z",
+  "generated_at": "2026-09-29T06:02:01.991438Z",
   "stats": {
-    "tweet_count": 43,
-    "latest_tweet_created_at": "2026-09-26T01:21:29Z",
-    "latest_tweet_id": "2103656168438861993",
+    "tweet_count": 46,
+    "latest_tweet_created_at": "2026-09-28T11:08:20Z",
+    "latest_tweet_id": "2104528629401342207",
     "oldest_tweet_created_at": "2025-03-06T08:47:06Z",
     "oldest_tweet_id": "1897569616156905638"
   },
   "tweets": [
+    {
+      "id": "2104528629401342207",
+      "text": "If you don't want to read the long article and need a launch video.\n\nTry https://t.co/F5AczEOx2i, give it a URL, output is a $10k video. https://t.co/07oWfv8NcH",
+      "created_at": "Mon Sep 28 11:08:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "39",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104528560488853504/img/F1zdysdfKF5BDobO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104528629401342207"
+    },
+    {
+      "id": "2104284652186038752",
+      "text": "A week ago, if I told you this launch video cost $10,000 to make, you’d probably say:\n\n“Worth it. It looks incredible.”\n\nToday, it costs $10. https://t.co/f2oUm5VfK6",
+      "created_at": "Sun Sep 27 18:58:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104283521452036096/img/tNvyBgyUOpYkJYeN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104284652186038752"
+    },
+    {
+      "id": "2104108956109193583",
+      "text": "We just brought Opus 5.5 motion video capabilities to every model.\n\nClaude, GPT, Gemini, DeepSeek - they can all create amazing motion videos now.\n\nHere’s one made by DeepSeek 👇\nThe video is one-shot on https://t.co/F5AczEOx2i https://t.co/Ir2RIRPFVu",
+      "created_at": "Sun Sep 27 07:20:42 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "23",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2104108800211066880/img/CcKKfsAdkGFZeZeV.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104108956109193583"
+    },
     {
       "id": "2103656168438861993",
       "text": "看看我们的 https://t.co/LKZml4BXYA",
@@ -46,7 +109,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "7",
+      "views": "13",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -83,7 +146,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "60",
+      "views": "80",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -442,7 +505,7 @@
       "id": "2074770758040158671",
       "text": "Introducing MotionFlare 🎬\n\nTurn any website into on-brand marketing, advertising, and social video.\n\nDrop in a URL. Get finished videos back, voice-over, text, motion, all matched to your brand.\n\n→ https://t.co/wYQaeWjK6C https://t.co/3yrXefbgJK",
       "created_at": "Wed Jul 08 08:21:10 +0000 2026",
-      "favorite_count": 5,
+      "favorite_count": 4,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 1,
@@ -484,7 +547,7 @@
       "id": "2074558503587627250",
       "text": "Also try https://t.co/VbSf8wYHnl\n\nWebsite to video",
       "created_at": "Tue Jul 07 18:17:45 +0000 2026",
-      "favorite_count": 72,
+      "favorite_count": 71,
       "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 0,
