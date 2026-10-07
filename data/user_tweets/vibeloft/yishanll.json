@@ -7,15 +7,230 @@
     "nickname": "Yishan",
     "profile_url": "https://vibeloft.ai/profile/yishan"
   },
-  "generated_at": "2026-09-26T22:01:53.200680Z",
+  "generated_at": "2026-10-07T21:01:53.080482Z",
   "stats": {
-    "tweet_count": 302,
-    "latest_tweet_created_at": "2026-09-26T16:17:22Z",
-    "latest_tweet_id": "2103881623829930319",
+    "tweet_count": 313,
+    "latest_tweet_created_at": "2026-10-07T07:00:54Z",
+    "latest_tweet_id": "2107727854415045095",
     "oldest_tweet_created_at": "2022-10-10T06:45:04Z",
     "oldest_tweet_id": "1579362359587794944"
   },
   "tweets": [
+    {
+      "id": "2107727854415045095",
+      "text": "初始设置下，Dot 比 Grok bot 啰嗦太多了",
+      "created_at": "Wed Oct 07 07:00:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "17",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2107727854415045095"
+    },
+    {
+      "id": "2107726213653614915",
+      "text": "很有帮助！我约等于闲置的打印机现在也有新用途了。下一步就是再规划和定义下打印内容",
+      "created_at": "Wed Oct 07 06:54:23 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "17",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2107726213653614915"
+    },
+    {
+      "id": "2107063975477444681",
+      "text": "OpenAI 里有些插件比如 tldraw / figma 等已经出现在之前客户端改版后的左侧栏里了，现在能够通过 Dots 直接对话创建文档，并从侧栏进入对应插件查看产出物，然后右侧栏对话继续修改，用着挺方便的。 https://t.co/P6A8T9OSmg",
+      "created_at": "Mon Oct 05 11:02:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "39",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT3LIoYbMAAiRiA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT3LJfLaUAAufaj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2107063975477444681"
+    },
+    {
+      "id": "2106783751728668978",
+      "text": "发现要真的把 Grok Bot 用起来，我需要现在 Super Grok 30美元这档至少 10x 用量才行 🤯",
+      "created_at": "Sun Oct 04 16:29:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2106783751728668978"
+    },
+    {
+      "id": "2106422097165860962",
+      "text": "Muse gadget 上手了，就是不懂是模型还是 M5Stack S3 这麦克风收音问题，语音转文本明显没有 Muse 客户端里的准  🤔  下一步看看有啥好玩的捣鼓捣鼓 https://t.co/x3XJ7voQeG",
+      "created_at": "Sat Oct 03 16:32:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "71",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTuDuoFacAEAlLL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2106422097165860962"
+    },
+    {
+      "id": "2105527292793692356",
+      "text": "蜂拥而上的 Personal Agent 虚拟机注册 Claude，丰富了 A\\ 的识别侧栏，一批符合特征的老号被封 😅 我猜的",
+      "created_at": "Thu Oct 01 05:16:40 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "173",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105527292793692356"
+    },
+    {
+      "id": "2105189610544664595",
+      "text": "ChatGPT site 的登录页也太有趣了吧 https://t.co/gTifPdZjqh",
+      "created_at": "Wed Sep 30 06:54:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "37",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTcixJMacAAX98P.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105189610544664595"
+    },
+    {
+      "id": "2105101170561962435",
+      "text": "手贱点了 Claude 设置里的 Reflect，Peak Hour 硕大的 9 AM China Time 让我惊出一身冷汗 🥶 https://t.co/OgwCUzhY8b",
+      "created_at": "Wed Sep 30 01:03:24 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "58",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTbSWnMbEAArWOg.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105101170561962435"
+    },
+    {
+      "id": "2105092998166180221",
+      "text": "ChatGPT 外观设置里有个橙色主题叫 Absolutely 这事太幽默了 🎭 https://t.co/BKpv6AliW5",
+      "created_at": "Wed Sep 30 00:30:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "36",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTbKpM_bkAA-MQ3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105092998166180221"
+    },
+    {
+      "id": "2104831569710211198",
+      "text": "X 里的 Grok 和 Grok 的 Grok 终于合二为一了 🤩 https://t.co/uB7V9fZXyn",
+      "created_at": "Tue Sep 29 07:12:06 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTXdBmXa0AAT966.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104831569710211198"
+    },
+    {
+      "id": "2104107202944647354",
+      "text": "一觉醒来有点认不出 Codex 了 https://t.co/EB63sKeBcQ",
+      "created_at": "Sun Sep 27 07:13:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "52",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTNKRIYa8AA7w5c.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104107202944647354"
+    },
     {
       "id": "2103881623829930319",
       "text": "Muse 给我推了一条差不多一年前的新闻 😅 https://t.co/ntgMlBULEA",
@@ -25,7 +240,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "18",
+      "views": "41",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +261,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "119",
+      "views": "163",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +282,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "47",
+      "views": "48",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +303,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "54",
+      "views": "58",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -104,7 +319,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "49",
+      "views": "50",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -116,7 +331,7 @@
       "text": "RT @raycast: Sold out in 5 hours 🤯\n\nIf you missed it, we're giving away 3 Raycast keyboards.\n\nTo enter:\n1️⃣ Follow @raycast and @nuphystudi…",
       "created_at": "Fri Aug 28 13:37:23 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1291,
+      "retweet_count": 1278,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -136,7 +351,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "136",
+      "views": "137",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -283,7 +498,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1907",
+      "views": "1914",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
