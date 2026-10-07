@@ -7,15 +7,353 @@
     "nickname": "大侠Luffy",
     "profile_url": "https://vibeloft.ai/profile/luffy"
   },
-  "generated_at": "2026-09-26T17:01:18.707834Z",
+  "generated_at": "2026-10-07T16:01:59.505461Z",
   "stats": {
-    "tweet_count": 70,
-    "latest_tweet_created_at": "2026-09-22T16:41:28Z",
-    "latest_tweet_id": "2102438140783050815",
+    "tweet_count": 87,
+    "latest_tweet_created_at": "2026-10-07T08:56:32Z",
+    "latest_tweet_id": "2107756952428466303",
     "oldest_tweet_created_at": "2025-09-09T13:06:10Z",
     "oldest_tweet_id": "1965401343298093237"
   },
   "tweets": [
+    {
+      "id": "2107756952428466303",
+      "text": "这几天一直忙着修 bug、赶上线，没怎么看后台。\n\n刚打开一看，没想到国庆期间也出了些单。\n\n世界纷纷扰扰，但总有人在认真生活，也有人在默默做事。\n\n挺好的。 https://t.co/WYlrpOwFjA",
+      "created_at": "Wed Oct 07 08:56:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUBA-FrbkAA6Veu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUBBLduboAAfnX9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2107756952428466303"
+    },
+    {
+      "id": "2107717845471883306",
+      "text": "这个可爱的logo是用 @s1dashu  开源的 ip-as-logo skill + 女朋友头像来做的，应该没有 ip 侵权风险了吧？ https://t.co/iFlK4CUQ3Z",
+      "created_at": "Wed Oct 07 06:21:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUAdZS0bIAAxqvp.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2107717845471883306"
+    },
+    {
+      "id": "2107313436908814597",
+      "text": "摄影的朋友们，如果你记得某张照片的画面，却想不起文件名和拍摄日期，通常怎么找到它？\n\n靠文件夹、标签、图片搜索，还是一张张翻？\n\n我在做一个本地照片搜索工具，想听听大家实际用着顺手的方法。\n\nhttps://t.co/0ob6jZNbdx",
+      "created_at": "Tue Oct 06 03:34:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2107313436908814597"
+    },
+    {
+      "id": "2107150605643092115",
+      "text": "Looking for more people who are actually building things with AI.\nIndie hackers, solo founders, small accounts — what are you working on?\nDrop your project below. I’d love to follow more builders 👇",
+      "created_at": "Mon Oct 05 16:47:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2107150605643092115"
+    },
+    {
+      "id": "2106801684928438589",
+      "text": "对普通人来说，不懂语言镜头，如何用AI做出电影级的镜头呢？\n\n我们知道，AI在模仿能力上是很厉害的，只要我们提供给它一个例子，让它照模仿照着做，一般都不会很差。\n\n这点其实也是跟人很像的，对于新手，最好的学习就是给他一个优秀的例子照着学。\n\n那么问题来了，如何收集和搜索方便的素材场景呢？ClipSeek 就可以很好帮你处理这个场景，可以把电影都存进去，然后通过自然语言来搜索镜头即可。",
+      "created_at": "Sun Oct 04 17:40:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "14",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2106801684928438589"
+    },
+    {
+      "id": "2106038171154989492",
+      "text": "做 marketing 还是得用心规划才有用，发个链接就走，是不会有效果的。\n\n1. v2ex 取得日热榜第一（国庆当天） \n2. linux sb 获得站长精华贴推荐\n\n请继续加油，做 marketing 工作好累... https://t.co/pGcyMidAE8",
+      "created_at": "Fri Oct 02 15:06:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "36",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTomgJia0AAabZi.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTomiWJbsAAev32.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2106038171154989492"
+    },
+    {
+      "id": "2105923344361271510",
+      "text": "挣不到钱，大部分时候不是你技术能力不行，而是需求洞察不够精准。 https://t.co/oqgE6kDn4x",
+      "created_at": "Fri Oct 02 07:30:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTm-Hm1bwAAlCGL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105923344361271510"
+    },
+    {
+      "id": "2105702164677202019",
+      "text": "刚试了下 dot，接上 Gmail 处理了几封客服邮件。\n\n现在最大的感觉是：我可能还没想明白这种 Personal Agent 到底该怎么用。\n\n如果是你，会把哪些事情交给它？\n\n想抄抄大家的使用场景 😂 https://t.co/Qq2BBmtSoZ",
+      "created_at": "Thu Oct 01 16:51:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "50",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTjyrtBacAE5zVA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105702164677202019"
+    },
+    {
+      "id": "2105614634459992244",
+      "text": "I used to think being good at coding was the coolest thing.\n\nNow I realize marketing is the part that really drains me 😂\n\nWriting copy, finding channels, posting, figuring out how to get people to notice what you’re building...\n\nEvery part of it takes more energy out of me than coding.",
+      "created_at": "Thu Oct 01 11:03:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "29",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105614634459992244"
+    },
+    {
+      "id": "2105575131695469034",
+      "text": "我的 ClipSeek 成功上架 Microsoft Store 啦🎉\n\n今天回复的送激活码！\n\nhttps://t.co/K11u312USu",
+      "created_at": "Thu Oct 01 08:26:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "31",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105575131695469034"
+    },
+    {
+      "id": "2105491615569866771",
+      "text": "老外的推广是有点厉害，刚发布的浏览器插件，就给我发了个邮件让我付 $9 来获得更多曝光。\n\n估计是监控到我的support email发过来的，非常精准了。\n\n这个就像国内刚注册公司填的那个工商电话，没两天就会开始疯狂收到各种营销电话。 https://t.co/QZZYY3QVxU",
+      "created_at": "Thu Oct 01 02:54:53 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "34",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTg0Q1Wb0AA_K5m.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105491615569866771"
+    },
+    {
+      "id": "2105474371259371718",
+      "text": "用 Codex 做了个产品演示视频，配音和音效用ElevenLabs，配音换了很多版才没有老外讲中文的味道。\n\n@ElevenLabs https://t.co/iOLwqdQR6C",
+      "created_at": "Thu Oct 01 01:46:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "245",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105473961845022720/img/gDjteP6uWzzj5GUD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105474371259371718"
+    },
+    {
+      "id": "2105260970310549744",
+      "text": "Made a product video for ClipSeek with Codex GPT-6 Astro.\n\nGPT-6 Astro is ridiculously good at this — from understanding the product to putting together the visuals and flow.\n\nMaking product videos suddenly feels a lot easier. 😮 https://t.co/8QvR9guYZb",
+      "created_at": "Wed Sep 30 11:38:23 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "169",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2105259326491475968/img/_TBagjMOFAWdFcs9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105260970310549744"
+    },
+    {
+      "id": "2105244479309705592",
+      "text": "Hi, I'm Daxia 👋\n\nI'm an indie developer building AI products.\n\nOver the years I've built tools around video, search, transcription and content creation.\n\nRight now I'm working on https://t.co/o2GvCACllq — a local AI media search tool that lets you find specific moments inside videos and photos using natural language.\n\nI share:\n\n• What I'm building\n• Things I learn while building AI products\n• Experiments that worked — and ones that didn't\n• Thoughts on local AI, agents and creator tools\n\nIf you're also building things on the internet, we'll probably have a lot to talk about.",
+      "created_at": "Wed Sep 30 10:32:52 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "82",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105244479309705592",
+      "pinned": true
+    },
+    {
+      "id": "2104931949777432975",
+      "text": "WebView2 是 tauri在Windows端的渲染引擎，那么问题来了，打包到 Windows Store 的程序要不要把 WebView2 打包进来?\n\nDeepSeek 和 ChatGPT 的意见不一样，逼的我去看文档。\n\ntauri 和微软的文档明确指出打包到 Windows Store 要离线模式，但是这样就会让安装包多出170MB，这很难让人接受。\n\n微软的文档也指出，绝大多数Win 10和Win 11的设备都已经包含了WebView2。\n\n在不违反微软政策的前提下，最终我的方案是：\n\n1. 采用skip模式，不包含WebView2 。\n2. 在应用启动的阶段检查WebView2是否缺失，让用户自己去下载安装。\n\n不知道大家有没有更好的方案呢？",
+      "created_at": "Tue Sep 29 13:50:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "81",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2104931949777432975"
+    },
+    {
+      "id": "2104849968813281454",
+      "text": "对 Personal Agent 我始终有顾虑，把这么多个人数据接入到一个云端的Agent，如何保证这些数据的安全？如何保证受利益驱动的商业公司会按照隐私条款来履约？\n\n大家应该不会这么快忘记zcode了吧？\n\n还是人们根本就不care？@Muse @CueAgents",
+      "created_at": "Tue Sep 29 08:25:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "37",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2104849968813281454"
+    },
+    {
+      "id": "2104224580365877353",
+      "text": "中秋在香港逛的不错的展，在香港文化博物馆。\n\n关于纪念张国荣的，香港电影，港乐等，展品很丰富，都是一手的珍贵物品。\n\n人不多，逛展体验也特别好，估计回展出很长一段时间，有兴趣的朋友路过香港可以去看看。 https://t.co/rGYD72hmaU",
+      "created_at": "Sun Sep 27 15:00:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "87",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTO1GNhacAApGGt.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTO1GNpakAA7MCf.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTO1GNjaMAAbVE_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTO1GNebYAAuyVY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104224580365877353"
+    },
     {
       "id": "2102438140783050815",
       "text": "有了AI，开发产品变得容易太多了！一个好想法甚至一天就能落地，提交Chrome Store了，坐等上线。 https://t.co/namvCviauU",
@@ -25,7 +363,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "10",
+      "views": "24",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +384,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "43",
+      "views": "54",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +405,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "32",
+      "views": "41",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -83,7 +421,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "29",
+      "views": "36",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -97,15 +435,14 @@
       "favorite_count": 4,
       "retweet_count": 5,
       "reply_count": 4,
-      "quote_count": 4,
-      "bookmark_count": 2,
-      "views": "986",
+      "quote_count": 5,
+      "bookmark_count": 3,
+      "views": "1091",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
       "media": [],
-      "url": "https://x.com/i/status/2100109237137395898",
-      "pinned": true
+      "url": "https://x.com/i/status/2100109237137395898"
     },
     {
       "id": "2099810237423243416",
@@ -115,8 +452,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "75",
+      "bookmark_count": 1,
+      "views": "81",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -137,7 +474,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "49",
+      "views": "53",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -158,7 +495,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "123",
+      "views": "126",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -178,8 +515,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "48",
+      "bookmark_count": 1,
+      "views": "50",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -200,7 +537,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "31",
+      "views": "33",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -221,7 +558,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "91",
+      "views": "93",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -242,7 +579,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "43",
+      "views": "45",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -263,7 +600,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "84",
+      "views": "87",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -279,7 +616,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "15",
+      "views": "16",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -300,7 +637,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "22",
+      "views": "23",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -316,7 +653,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "20",
+      "views": "21",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
