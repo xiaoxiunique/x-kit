@@ -7,15 +7,156 @@
     "nickname": "William Wanghui",
     "profile_url": "https://vibeloft.ai/profile/williamwanghui"
   },
-  "generated_at": "2026-09-27T01:01:17.455483Z",
+  "generated_at": "2026-10-08T00:02:36.374558Z",
   "stats": {
-    "tweet_count": 137,
-    "latest_tweet_created_at": "2026-09-23T10:16:07Z",
-    "latest_tweet_id": "2102703551806087473",
+    "tweet_count": 144,
+    "latest_tweet_created_at": "2026-10-05T04:49:32Z",
+    "latest_tweet_id": "2106970018345091242",
     "oldest_tweet_created_at": "2009-03-02T13:50:28Z",
     "oldest_tweet_id": "1269216141"
   },
   "tweets": [
+    {
+      "id": "2106970018345091242",
+      "text": "乡下人又进城了。顺便逛逛公园。过几天日比谷这棵大银杏树应该要变金黄了。也不知哪一天才会有空来欣赏。 https://t.co/AdYCJ4F3Ob",
+      "created_at": "Mon Oct 05 04:49:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT12CaWa4AEkE7m.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT12Djra0AAocuY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2106970018345091242"
+    },
+    {
+      "id": "2105497703841165787",
+      "text": "跟着孩子们学到了不少单词。比如susibaka https://t.co/pUQfXybqfo",
+      "created_at": "Thu Oct 01 03:19:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "23",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTg6_6FaMAAHoJM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105497703841165787"
+    },
+    {
+      "id": "2105449529562804407",
+      "text": "Sol 6.1 light 比Opus 5.5省，但是比它蠢。\nSol 6.1 medium 跟Opus 5.5差不多，但是比它费。\nChatGPT 这回合输的很惨啊。",
+      "created_at": "Thu Oct 01 00:07:39 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "13",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105449529562804407"
+    },
+    {
+      "id": "2104946007188652191",
+      "text": "今天才注意到原来claude的界面语言选项里面没有中文。。。这算是中邪了，痛恨到了一定程度吗？新加坡人岂不是遭池鱼之殃？繁体中文也没有，是因为用繁体中文的人太少吗？ https://t.co/tX6bVxTJON",
+      "created_at": "Tue Sep 29 14:46:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "27",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZEUpSbMAAAosj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104946007188652191"
+    },
+    {
+      "id": "2104944224324243563",
+      "text": "不停地弹窗提示：“Temporarily unable to authenticate. Please retry.”\n我还以为我被封了，原来是claude疯了。。。 https://t.co/rWteTydYrd",
+      "created_at": "Tue Sep 29 14:39:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "17",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTZDWPobkAAQXdK.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104944224324243563"
+    },
+    {
+      "id": "2104891733654077574",
+      "text": "opus 5.5，当前的神：又快又好又省。",
+      "created_at": "Tue Sep 29 11:11:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2104891733654077574"
+    },
+    {
+      "id": "2104207264706154774",
+      "text": "几个月前觉得Cloude显得厉害是靠大力出奇迹。现在反过来了。感觉Codex在靠大力出奇迹。额度刷刷就跑完了。 https://t.co/lH8KTbz3oY",
+      "created_at": "Sun Sep 27 13:51:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "18",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTOlFq7bMAAP-48.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104207264706154774"
+    },
     {
       "id": "2102703551806087473",
       "text": "同时启动了4个task。3个在codex，1个在claude。它们轮番地向我提问。不是弱智问题，是真的需要我确认。感觉带了个4人小组。因为问题不弱智，所以我觉得好累。感觉可以再加一个task，就到管理极限了。",
@@ -25,7 +166,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "10",
+      "views": "19",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +182,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "162",
+      "views": "172",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -57,7 +198,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "33",
+      "views": "37",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -73,7 +214,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "13",
+      "views": "16",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -94,7 +235,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "14",
+      "views": "16",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -110,7 +251,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "31",
+      "views": "35",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -126,7 +267,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "30",
+      "views": "33",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -147,7 +288,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "25",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -172,7 +313,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "35",
+      "views": "36",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -193,7 +334,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "69",
+      "views": "70",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -296,7 +437,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "72",
+      "views": "73",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
