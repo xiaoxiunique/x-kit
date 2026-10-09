@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:03:38.029008Z",
+  "generated_at": "2026-10-09T04:04:13.516729Z",
   "users": {
     "chunxiangai": {
       "status": "failed",
@@ -146,7 +146,7 @@
       "data_file": "data/user_tweets/vibeloft/kira_kamo_ne.json",
       "stop_on_existing": true,
       "handle": "kira_kamo_ne",
-      "updated_at": "2026-09-28T02:00:40.097176Z",
+      "updated_at": "2026-10-09T04:01:28.211648Z",
       "completed_at": "2026-08-02T11:01:15.688012Z",
       "completed_at_local": "2026-08-02T19:01:15.688056+08:00",
       "history_complete": false,
@@ -159,7 +159,7 @@
       "latest_tweet_id": "2053067750051045715",
       "oldest_tweet_created_at": "2026-04-03T11:28:49Z",
       "oldest_tweet_id": "2040028743637570001",
-      "failed_at": "2026-09-28T02:00:40.094234Z"
+      "failed_at": "2026-10-09T04:01:28.209879Z"
     },
     "benshandebiao": {
       "status": "completed",
@@ -168,21 +168,21 @@
       "vibeloft_username": "userbb4cc8af",
       "vibeloft_nickname": "本山德彪",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/userbb4cc8af",
-      "started_at": "2026-09-28T02:01:17.111281Z",
+      "started_at": "2026-10-09T04:02:07.563868Z",
       "data_file": "data/user_tweets/vibeloft/benshandebiao.json",
       "stop_on_existing": true,
       "handle": "benshandebiao",
-      "updated_at": "2026-09-28T02:02:34.647316Z",
-      "completed_at": "2026-09-28T02:02:34.644368Z",
-      "completed_at_local": "2026-09-28T10:02:34.644385+08:00",
+      "updated_at": "2026-10-09T04:04:13.516709Z",
+      "completed_at": "2026-10-09T04:04:13.511404Z",
+      "completed_at_local": "2026-10-09T12:04:13.511433+08:00",
       "history_complete": true,
-      "pages_collected_total": 2,
-      "new_tweets_last_run": 4,
+      "pages_collected_total": 3,
+      "new_tweets_last_run": 28,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
-      "tweet_count": 765,
-      "latest_tweet_created_at": "2026-09-26T15:17:16Z",
-      "latest_tweet_id": "2103866501036171378",
+      "tweet_count": 793,
+      "latest_tweet_created_at": "2026-10-08T06:39:40Z",
+      "latest_tweet_id": "2108084897718075769",
       "oldest_tweet_created_at": "2024-12-18T07:25:51Z",
       "oldest_tweet_id": "1869282914850259239",
       "failed_at": "2026-08-05T10:10:39.807596Z"
