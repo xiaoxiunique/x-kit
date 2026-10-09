@@ -7,15 +7,161 @@
     "nickname": "Leo",
     "profile_url": "https://vibeloft.ai/profile/leo3"
   },
-  "generated_at": "2026-09-28T11:02:30.672111Z",
+  "generated_at": "2026-10-09T13:03:04.783283Z",
   "stats": {
-    "tweet_count": 524,
-    "latest_tweet_created_at": "2026-09-27T16:31:39Z",
-    "latest_tweet_id": "2104247606407037205",
+    "tweet_count": 531,
+    "latest_tweet_created_at": "2026-10-06T13:35:13Z",
+    "latest_tweet_id": "2107464699197743250",
     "oldest_tweet_created_at": "2020-03-14T02:50:49Z",
     "oldest_tweet_id": "1238658817325289473"
   },
   "tweets": [
+    {
+      "id": "2107464699197743250",
+      "text": "这给以后发布app增加了好多东西，\n还需要做更多标题和搜索结果图！\n还要适配Duo！ https://t.co/FawnAtAmFw",
+      "created_at": "Tue Oct 06 13:35:13 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "109",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT83ykyaMAAhWAM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2107464699197743250"
+    },
+    {
+      "id": "2107364783318303019",
+      "text": "这是以后所有的app都必须为iPhone Duo 做好 App 适配，必须提供iPhone Duo的截图啊！ https://t.co/cNTolO8UzK",
+      "created_at": "Tue Oct 06 06:58:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "151",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HT7c7kxaMAA0w5t.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2107364783318303019"
+    },
+    {
+      "id": "2106292098819670351",
+      "text": "建议给做这种沙雕视频的token费用大倍数计算！ https://t.co/7ZfPtbbAnv",
+      "created_at": "Sat Oct 03 07:55:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "119",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2106028948031475712/img/33VI8XI2hTEYvWOM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2106292098819670351"
+    },
+    {
+      "id": "2106061867647189342",
+      "text": "临睡前的脑子真不好使，\n发现youtube到期了，\n正好看见飞机群有合租的，\n然后就上当受骗了！ https://t.co/lNHAdAoGgS",
+      "created_at": "Fri Oct 02 16:40:52 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "204",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTo7mIgbQAAdPJY.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTo77a9aUAA0tRr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2106061867647189342"
+    },
+    {
+      "id": "2106021387735556323",
+      "text": "中国男足直接原地解散算了！",
+      "created_at": "Fri Oct 02 14:00:01 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "120",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2106021387735556323"
+    },
+    {
+      "id": "2105640276077514781",
+      "text": "工作还是不努力啊！ https://t.co/0SMLIH5xo2",
+      "created_at": "Thu Oct 01 12:45:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "126",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTi6wNlaYAE1QNX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105640276077514781"
+    },
+    {
+      "id": "2105608547447067027",
+      "text": "😂 https://t.co/wcYBP4fPMv",
+      "created_at": "Thu Oct 01 10:39:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "99",
+      "lang": "qme",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTifzkebEAAw5jT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105608547447067027"
+    },
     {
       "id": "2104247606407037205",
       "text": "网易UU远程那都好，就这个页面配色太... ... https://t.co/6sgZwa1xJn",
@@ -25,7 +171,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "214",
+      "views": "235",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +192,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "92",
+      "views": "95",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +213,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "127",
+      "views": "132",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +234,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "126",
+      "views": "129",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -109,7 +255,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "181",
+      "views": "184",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -134,7 +280,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "119",
+      "views": "122",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -155,7 +301,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "129",
+      "views": "132",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -171,7 +317,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "131",
+      "views": "134",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -192,7 +338,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "165",
+      "views": "167",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -213,7 +359,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "183",
+      "views": "185",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -234,7 +380,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "135",
+      "views": "137",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -583,7 +729,7 @@
       "reply_count": 67,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "11127",
+      "views": "11128",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -604,7 +750,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "259",
+      "views": "280",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
