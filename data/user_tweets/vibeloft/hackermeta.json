@@ -7,15 +7,310 @@
     "nickname": "BeWords",
     "profile_url": "https://vibeloft.ai/profile/bewords"
   },
-  "generated_at": "2026-09-29T03:02:27.136715Z",
+  "generated_at": "2026-10-10T04:02:28.675841Z",
   "stats": {
-    "tweet_count": 401,
-    "latest_tweet_created_at": "2026-09-28T12:44:17Z",
-    "latest_tweet_id": "2104552776248504710",
+    "tweet_count": 416,
+    "latest_tweet_created_at": "2026-10-08T00:35:00Z",
+    "latest_tweet_id": "2107993125449073132",
     "oldest_tweet_created_at": "2012-06-04T05:15:19Z",
     "oldest_tweet_id": "209513644097146880"
   },
   "tweets": [
+    {
+      "id": "2107993125449073132",
+      "text": "Gemini 就静静看着\nCodex 和 Claude 卷来卷去🤓",
+      "created_at": "Thu Oct 08 00:35:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "66",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2107993125449073132"
+    },
+    {
+      "id": "2107425434879295783",
+      "text": "Codex 6.1 Sol + 6 Astra 出的效果\n相比Grok Bot 没那么酷炫🤔 https://t.co/AhTs0CxE0g",
+      "created_at": "Tue Oct 06 10:59:12 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "86",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/media/HT8UNf8acAAAt1q.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2107425434879295783"
+    },
+    {
+      "id": "2107401755000737875",
+      "text": "Saw this Claude promo and wondered: could I rebuild the whole thing in pure code?\n\nSo I made one for Grok. No After Effects, no Blender. Just Three.js + GSAP + a synth soundtrack written in Python.\n\n50 seconds, 6 modes, every frame rendered in a browser 👇\n\n#Grok #GrokBot https://t.co/qeaKlBysHD",
+      "created_at": "Tue Oct 06 09:25:06 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "234",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/media/HT7-HRQakAA4RLq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2107401755000737875"
+    },
+    {
+      "id": "2107102819987923081",
+      "text": "iOS 跑 安卓游戏 模拟器\n成功跑上 我的世界 安装apk🤔\n真能折腾🙃",
+      "created_at": "Mon Oct 05 13:37:15 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "229",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2107102819987923081"
+    },
+    {
+      "id": "2106731050697372004",
+      "text": "一个高通 410 无线网卡\n让 Gemini 3.8 成功刷 入 Debian 系统\n基本全自动\n\nAI 改变生活 https://t.co/dbIxZejGNN",
+      "created_at": "Sun Oct 04 12:59:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "70",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTycuLrbkAAY4_5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2106731050697372004"
+    },
+    {
+      "id": "2106130786755969338",
+      "text": "Codex 重置到账了",
+      "created_at": "Fri Oct 02 21:14:44 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "114",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2106130786755969338"
+    },
+    {
+      "id": "2105913630520947034",
+      "text": "Muse的模型就这样了\n不能要求更多了👀 https://t.co/z5FO2nxaJR",
+      "created_at": "Fri Oct 02 06:51:50 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "96",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTm1R7ebsAEh1ET.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTm1R7MboAAkvYx.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTm1R7MasAAtikf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105913630520947034"
+    },
+    {
+      "id": "2105911769076207754",
+      "text": "京东上面找第三方\n重油烟保洁4个小时260\n保洁说到他们手140\n\n劳动力太廉价了\n保洁公司提成也太狠了",
+      "created_at": "Fri Oct 02 06:44:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "99",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105911769076207754"
+    },
+    {
+      "id": "2105838756683186418",
+      "text": "Grok bot 可以让它自己安装Blender\n渲染模型 玩法一下就多了起来？\n\nMuse 模型智力不行\n渲染的模型看着脑壳疼 https://t.co/ZplUpY1laK",
+      "created_at": "Fri Oct 02 01:54:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "95",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTlxLQ-bkAA-ARr.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTlxLQxbMAAYNFa.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTlxLQ5boAApfXb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105838756683186418"
+    },
+    {
+      "id": "2105721276425978044",
+      "text": "这么优秀的吗？\n35B 模型量化 只需要 2.9G 运存结合磁盘按需读取就能跑 ？\n\n内存：edge0-35b ≈2.9 GB\n磁盘：4bit checkpoint 约 23 GB（edge0-35b）/ 4.2 GB （edge0-8b）；专家权重 mmap 按需读取，不一次性载入内存。 https://t.co/je6PkXsAy2",
+      "created_at": "Thu Oct 01 18:07:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "121",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkGVeCaMAA2neZ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTkGVeNbMAAkwBd.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2105721276425978044"
+    },
+    {
+      "id": "2105698310237598143",
+      "text": "RT @HackerMeta: @buaaxhm 如果老板让我来判断中国区封号，本地有微信+clash 类软件开着，直接封🤣",
+      "created_at": "Thu Oct 01 16:36:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105698310237598143"
+    },
+    {
+      "id": "2105348735958196439",
+      "text": "感觉 Codex 开始故意玩套路\n\nGemini 4 Pro 快点来",
+      "created_at": "Wed Sep 30 17:27:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "190",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2105348735958196439"
+    },
+    {
+      "id": "2105252164239302876",
+      "text": "iPhone 跑安卓\n一机双系统\n 期待🤩",
+      "created_at": "Wed Sep 30 11:03:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "172",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2105252164239302876"
+    },
+    {
+      "id": "2105194965735481426",
+      "text": "iPhone，iPad安装\n微软的 远程桌面\n远程访问真的丝滑",
+      "created_at": "Wed Sep 30 07:16:07 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "115",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2105194965735481426"
+    },
+    {
+      "id": "2104852029193818391",
+      "text": "macOS 可以用的rdp 协议\n搭配 Tailscale\n\n实现 Windows 远程桌面访问 macOS\n\n真香啊🎉\nhttps://t.co/5WgrdDZM2R https://t.co/t7Y3p8fItH",
+      "created_at": "Tue Sep 29 08:33:24 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "172",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTXvwnyaoAENL6l.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2104852029193818391"
+    },
     {
       "id": "2104552776248504710",
       "text": "听说Claude 喜欢封号\n我替你们报仇\n\n把它的IP永封👀 https://t.co/Fsi8jn6reh",
@@ -25,7 +320,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "126",
+      "views": "156",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +341,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "187",
+      "views": "217",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +357,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "270",
+      "views": "284",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -78,7 +373,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "228",
+      "views": "236",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -122,7 +417,7 @@
       "text": "RT @claudeai: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for…",
       "created_at": "Tue Sep 22 16:42:13 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 9016,
+      "retweet_count": 9034,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -244,7 +539,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "759",
+      "views": "767",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
