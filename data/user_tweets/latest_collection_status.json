@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:03:10.093542Z",
+  "generated_at": "2026-10-11T16:01:15.660671Z",
   "users": {
     "chunxiangai": {
       "status": "failed",
@@ -1676,13 +1676,13 @@
       "vibeloft_username": "heichenya",
       "vibeloft_nickname": "Heichen",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/heichenya",
-      "started_at": "2026-10-08T08:03:03.536685Z",
+      "started_at": "2026-10-11T16:00:39.600273Z",
       "data_file": "data/user_tweets/vibeloft/heichenya.json",
       "stop_on_existing": true,
       "handle": "heichenya",
-      "updated_at": "2026-10-08T08:03:40.378987Z",
-      "completed_at": "2026-10-08T08:03:40.377268Z",
-      "completed_at_local": "2026-10-08T16:03:40.377292+08:00",
+      "updated_at": "2026-10-11T16:01:15.660645Z",
+      "completed_at": "2026-10-11T16:01:15.658202Z",
+      "completed_at_local": "2026-10-12T00:01:15.658258+08:00",
       "history_complete": true,
       "pages_collected_total": 1,
       "new_tweets_last_run": 0,
