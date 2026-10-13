@@ -7,15 +7,566 @@
     "nickname": "AI设计钟师傅",
     "profile_url": "https://vibeloft.ai/profile/drmrzhong"
   },
-  "generated_at": "2026-10-10T09:02:06.055602Z",
+  "generated_at": "2026-10-13T10:02:42.301201Z",
   "stats": {
-    "tweet_count": 717,
-    "latest_tweet_created_at": "2026-10-07T11:44:24Z",
-    "latest_tweet_id": "2107799198171123777",
+    "tweet_count": 740,
+    "latest_tweet_created_at": "2026-10-13T08:46:43Z",
+    "latest_tweet_id": "2109928810686894308",
     "oldest_tweet_created_at": "2025-05-10T09:59:01Z",
     "oldest_tweet_id": "1921142926496661551"
   },
   "tweets": [
+    {
+      "id": "2109928810686894308",
+      "text": "「AI女爱豆因怀孕暂停活动」，这标题我看了三遍😅\n\n有说是虚拟人设的剧本，也有说其实是真人、被团名带歪了。公司原文到现在没人拿得出来。\n\n图 1 来源：https://t.co/NwLUdQGRvO\n图 2 来源：https://t.co/gQuokCPWbl https://t.co/PL5W94pRKk",
+      "created_at": "Tue Oct 13 08:46:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "190",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUf5DWtakAAxi_R.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUf5DYGbwAA1p0C.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109928810686894308"
+    },
+    {
+      "id": "2109812934826463574",
+      "text": "X 新订阅 4 档怎么选、老会员怎么切，一篇说清\n\n时间线上在传：「SpaceXAI 超级会员」来了，一次订阅畅享 Grok Bot、X 会员、Cursor 会员、Grok 会员，最低每月 8 美金，首月五折。\n\n合成一套订阅这件事是真的。但对照官方公告和定价文档，有几处对不上：官方名称叫 The X Subscription，没有「超级会员」这个说法；$8 档不含 Grok Bot；「首月一律五折」在公告和定价文档里都没写。\n\n结论：先按需求选档，新用户走官网定价页，老用户走 unify 切换页，旧套餐按未使用时间按比例退款。\n\n具体步骤：\n\n1. 先看清四档，再决定买哪档\n· Plus：$8/月，基础用量，不含 Grok Bot\n· Premium：$30/月，4 倍用量，完整 X Premium+ 权益从这档起\n· Super：$100/月，15 倍用量\n· Ultra：$200/月，50 倍用量\n\n2. 要用 Grok Bot 或完整 X Premium+ 的，起步就是 Premium 档，别冲着 $8 去\n\n3. 新用户：从 xAI 官网的定价页（pricing）订阅。@grok 官号回复里给的也是这个入口\n\n4. 已经在用 SuperGrok、Cursor 或 X Premium 的：别直接新开，从 xAI 账户中心的 unify 页，或 Cursor 官网的 unify 页切换\n\n5. 切换结账时，被合并的旧套餐会直接取消，按未使用的时间按比例退款\n\n6. 结账前去账户账单页看一眼有没有限时优惠。公告只说切换时「可能」有，以账单页为准\n\n注意事项：\n\n· 新套餐按标价全额扣款，别默认按五折算预算\n· 一次订阅没法在最低价同时拿到 Grok Bot、完整 X Premium+ 和 50 倍用量，要全拉满就是 Ultra 档\n· Cursor 是经 Apple 订阅的，官方没法代退，这部分得自己处理（具体怎么退这一步需要补充）\n· 官方上线时间是 2026 年 10 月 12 日，后面档位和权益有变化，以官方定价文档为准\n\n图 1 来源：https://t.co/7UdWdnGmLG\n图 2 来源：https://t.co/84v4gFa580\n图 3 来源：https://t.co/jjrniK4Pev",
+      "created_at": "Tue Oct 13 01:06:16 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "826",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUePgOFa8AAS7K1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUePgZZaIAAvshM.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUePge6awAA1XqP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109812934826463574"
+    },
+    {
+      "id": "2109811463472959835",
+      "text": "郑钦文拿下中网女单冠军，7-5、6-4，直落两盘。\n\n10 月 11 日在北京，决赛对手是米拉·安德烈耶娃。\n\n这个冠军带出来的几项纪录，按一手报道摆一下：\n\n· WTA 官网：首位赢得中网这项 WTA 1000 赛事的中国女子球员\n· 新华社：中网办了 20 届，第一位本土女单冠军\n· 新华社：也是第一位持外卡闯进决赛、最后夺冠的球员\n· 路透社：比分 7-5、6-4\n\n顺便说清一个细节：更准确的说法是女单冠军、本土单打冠军，「首位中国冠军」算是简写版。\n\n平时不怎么看网球的，记住这几个就够了：20 届，第一次，外卡进场，两盘解决。\n\n图 2 来源：https://t.co/rJgsxLLUqd\n图 3 来源：https://t.co/5aHLV2Grpa",
+      "created_at": "Tue Oct 13 01:00:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "375",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeOTqsaIAAj7N_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeOTu_a8AA7nrB.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeOT30bgAAEp9W.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109811463472959835"
+    },
+    {
+      "id": "2109810719739044327",
+      "text": "REA 说白了就是给 Claude Code、Codex 接上一套逆向工具，没源码的二进制、Electron、.NET、网站都能丢给 AI 拆着看。\n\n新玩法又来了，就是别拿别人家的商业软件乱试😅\n\n图 2 来源：https://t.co/yVbEc4ZOil\n图 3 来源：https://t.co/F6AFb13NhL https://t.co/FrxvtTAdZj",
+      "created_at": "Tue Oct 13 00:57:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "388",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeNqNka4AA3J87.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeNqNtbQAA3dzn.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeNqZQa0AAnnyJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109810719739044327"
+    },
+    {
+      "id": "2109612148200821133",
+      "text": "新中式细线设色，别只拿来画古诗。我用它画了今天的城市：便利店、地铁站、老小区、深夜写字楼。\n\n4 段提示词，一段对一张图，直接拿走。换题材只改“画的是现代城市的日常：”后面那一句。\n\n① 便利店\n新中式细线设色插画，画的是现代城市的日常：深夜街角一家亮着灯的 24 小时便利店。用工笔白描的均匀细墨线勾出玻璃门、货架、冰柜和门口的一辆共享单车，线条干净不抖。只在少数地方平涂矿物色：屋檐与招牌用石青、石绿，店内灯光用淡藤黄，门口一个小小的外卖骑手背影用一点朱砂红。其余大面积留白，像宣纸底色，微微泛暖，有极淡的纸纹。店的上方飘着两团传统画法的云纹，旁边一棵团状树冠的树，用同样的细线和青绿设色。构图偏下，上方留出三分之二的空白。不要水墨晕染，不要写实光影，不要 3D 质感。画面里不要出现任何文字、印章、logo 或水印。竖幅构图。\n\n② 地铁站台\n新中式细线设色插画，画的是现代城市的日常：早高峰的地铁站台。用工笔白描的均匀细墨线勾出站台、屏蔽门、刚进站的列车车头和一排低头看手机的候车人，线条干净不抖，人物很小。只在少数地方平涂矿物色：列车车身的腰线用石青，站台立柱用石绿，候车人群里只有一个人撑着一把朱砂红的伞。其余大面积留白，像宣纸底色，微微泛暖，有极淡的纸纹。站台上方的留白里飘着两团传统画法的云纹，仿佛屋顶不存在。构图偏下，上方留出三分之二的空白。不要水墨晕染，不要写实光影，不要 3D 质感。画面里不要出现任何文字、印章、logo 或水印。竖幅构图。\n\n③ 老小区阳台\n新中式细线设色插画，画的是现代城市的日常：傍晚的老小区阳台。用工笔白描的均匀细墨线勾出一栋六层居民楼的侧面，每层阳台上有晾衣杆、空调外机、花盆和防盗网，线条干净不抖。只在少数地方平涂矿物色：几件晾着的衣服用石青和石绿，一户窗里的灯光用淡藤黄，一只蹲在空调外机上的猫用一点朱砂红的项圈点出来。其余大面积留白，像宣纸底色，微微泛暖，有极淡的纸纹。楼旁一棵团状树冠的老树，楼顶上方飘着一团传统画法的云纹，都用同样的细线和青绿设色。构图偏下，上方留出三分之二的空白。不要水墨晕染，不要写实光影，不要 3D 质感。画面里不要出现任何文字、印章、logo 或水印。竖幅构图。\n\n④ 深夜写字楼\n新中式细线设色插画，画的是现代城市的日常：深夜还亮着灯的写字楼一角。用工笔白描的均匀细墨线勾出一座玻璃幕墙写字楼的上半截，一格一格的窗户排列整齐，线条干净不抖。只在少数地方平涂矿物色：幕墙的横向分隔带用石青、石绿，整栋楼只有三四格窗户用淡藤黄点亮，其中一格窗里有一个很小的伏案身影，桌上一只朱砂红的杯子。其余大面积留白，像宣纸底色，微微泛暖，有极淡的纸纹。楼腰处横着一带传统画法的云纹，把楼的下半截遮住，远处一弯细细的月亮。构图偏下，上方留出三分之二的空白。不要水墨晕染，不要写实光影，不要 3D 质感。画面里不要出现任何文字、印章、logo 或水印。竖幅构图。\n\n规律就三条：细线勾形，颜色只给三四处，剩下全留白。\n\n画法参考了 @MrLarus 的新中式古诗系列。",
+      "created_at": "Mon Oct 12 11:48:25 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "675",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbZDOkaoAATBsk.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbZDOnagAA0ak-.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbZDQ_asAAHcUH.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbZDZ5awAA82NS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109612148200821133"
+    },
+    {
+      "id": "2109611704514760730",
+      "text": "Karpathy 今天凌晨发帖，把“人们对 AI 的理解差距”画成了一个漏斗，四层：\n\n· 约 60 亿人：几乎没接触过大模型\n· 10–20 亿人：偶尔用免费版，看到的是个笨拙的聊天机器人\n· 约 2000 万人：在数学和编程里用前沿模型，过去几周几个月的项目，现在一句提示做完\n· 约 5000 人：在内部接触前沿系统\n\n他说这是粗略估算，但四层人在同一时间看到的不是同一个东西。\n\n做了十几年设计，我对第二层最有体感。很多同行试过免费版，得到一张不能用的图、一段空话，就下了结论。不是他们不聪明，是他们手里没有一个“又大又难、自己真在乎”的问题去压它。Karpathy 也是这么解释的：问题越大、周期越长，差距才显出来。\n\n所以想往下一层走，不用先换工具，先换问题：把你手上最头疼的那个完整项目交给它，而不是问它一句话。\n\n你觉得自己在哪一层？\n\n数字来自 @karpathy 原帖，图是我按他的数字画的。",
+      "created_at": "Mon Oct 12 11:46:39 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 14,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "547",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbYpNkaoAE-SJi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109611704514760730"
+    },
+    {
+      "id": "2109487280197120323",
+      "text": "懂车帝 vs 华为第二季开播了，这回剧情还加了一条股东背景线，不过目前都是网上猜的😂\n\n图 1 来源：https://t.co/M4s51CBRAK\n图 2 来源：https://t.co/ZCK2SV1bZZ\n图 3 来源：https://t.co/HnG0PRTYYq https://t.co/RjJTL6doMc",
+      "created_at": "Mon Oct 12 03:32:14 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "489",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZnfaBb0AEmJ3k.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZnfZ5aIAApbM_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZnfd3aYAATHQP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109487280197120323"
+    },
+    {
+      "id": "2109485564772950508",
+      "text": "Omoda 5 在新山后桥脱落，马来西亚 JPJ 直接把相关车型的型式批准和新车上牌停了，等技术调查查完再说\n\n先停再查，这个顺序挺干脆的\n\n图 2 来源：https://t.co/H8t3yw3cNf https://t.co/0B21ga8KY7\n图 3 来源：https://t.co/wFdvpZkwog https://t.co/YCHC7oTeYa https://t.co/q8kmVRKnBb",
+      "created_at": "Mon Oct 12 03:25:25 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "610",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZl21Mb0AAFGtW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZl21HbcAAAveY.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZl21BbIAAN5Q_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109485564772950508"
+    },
+    {
+      "id": "2109483457307168993",
+      "text": "比亚迪在欧洲的知名度，是中国新进车企里最高的：法德英三国平均 53%。\n\n但放到整个市场看，丰田、大众、宝马在 96% 到 98%。\n\n先把几份数据摆一下：\n\n· Brand Finance：这三个市场里，中国汽车品牌平均知名度约 30%，德系、日系、韩系超过 90%\n· 同一份报告：中国品牌熟悉度 19%，考虑购买 5%；比亚迪考虑购买是 7%\n· Cetelem 汽车观察室 2027（13 国、15770 名驾驶者）：对欧洲车企持正面看法的 90%，中国车企 61%\n· 同一调查：欧洲平均约五分之一的人更愿买本国品牌，法国是二分之一\n\n巴黎车展主办方负责人塞尔日·加绍对新华社说，和上届比，一些中国品牌在欧洲的知名度和市场根基明显增强了，下一步还要提升品牌认知。\n\n至于“短短三四年口碑形成”“华为在欧洲知名度低”，有人这么说，目前没有对应的公开调查。\n\n知名度 53%，考虑购买 7%。认识你和愿意买你，中间每一步都在往下掉。\n\n图 2 来源：https://t.co/PtpYqwNAHD https://t.co/M863iQxZOn\n图 3 来源：https://t.co/aUcn5xoRWU https://t.co/ipPmjH5pk3\n图 4 来源：https://t.co/zWeQvQve1f https://t.co/yuYV3gcmle",
+      "created_at": "Mon Oct 12 03:17:03 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "517",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZkAPHbsAEetF1.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZkAPwbkAAarfz.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZkAUNaYAAgjsR.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZkAZSaEAAACo5.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109483457307168993"
+    },
+    {
+      "id": "2109468385658700051",
+      "text": "美的app之前我还在吐槽他们的黑暗模式不去适配,硬是拖了1个多月才更新了上去",
+      "created_at": "Mon Oct 12 02:17:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "611",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2109468385658700051"
+    },
+    {
+      "id": "2109465748452307165",
+      "text": "谷歌出了个 Mac 会议笔记应用，模型全在本机跑，官方写的是没有云订阅费用。\n\n全称 Google AI Edge Foresight，谷歌开发者博客 10 月 6 日发布，目前是实验性应用。原帖说只支持苹果芯片的 Mac。\n\n简单分享一下亮点：\n\n· 完全本机处理，敏感数据不离开设备\n· 接系统音频和麦克风，能离线配合任意会议平台用\n· 会议转写可以建索引，之后再召回\n· 能拿实时会议内容去补全你手写的速记\n· 背后是 EmbeddingGemma 2 和 Gemma 4\n\n在谷歌官方博客里，它被当作 EmbeddingGemma 2 搭配 Gemma 4 做本地检索和推理的示例应用。\n\n时间线上也在讨论，它能不能替代付费的会议笔记工具。\n\n我更在意的是这个信号：转写、检索、推理这一整套，已经能在一台 Mac 上离线串起来了。实验版后面能走多远，还得看谷歌怎么推",
+      "created_at": "Mon Oct 12 02:06:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "473",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZTsz-aQAA45SM.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZTsz_asAAhoj5.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZTs5dboAAcSWb.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109465748452307165"
+    },
+    {
+      "id": "2109437029381816387",
+      "text": "RT @drmrzhong: 卧槽,有人用claude code+opus 5.5去翻NASA的TESS数据,翻出了一个116光年外、1.4倍地球大小的系外行星候选体\n\n真的这么强的吗?😂\n\nhttps://t.co/n7oOTZYons",
+      "created_at": "Mon Oct 12 00:12:33 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2109437029381816387"
+    },
+    {
+      "id": "2109435364599533982",
+      "text": "补缴社保差额，吐槽能理解，但「多地都要补 1—9 月」对不上。\n\n本来日子就紧，突然多出一笔，屋漏偏逢连夜雨，换谁都不舒服。\n\n可把两地的官方说法放在一起看，差别不小。\n\n青岛税务局写的是：2025 年度新下限自 1 月 1 日起执行，1—9 月按 4416 元缴过的，要按 4504 元补差额。这确实是补 1—9 月。\n\n北京人社局写的是：2026 年度上下限从 7 月起执行，补的是 7 月起的差额，12 月 31 日前缴清不计滞纳金。\n\n另外，也不是人人都要补。只有工资低于新下限、或高于旧上限的才涉及，在新上下限之间的不用动。\n\n「套餐涨价后追溯」这个比喻挺形象，但公告里没这么说。补几个月、从哪天算，得看你在哪个城市。\n\n对正好卡在下限附近的人来说，这笔钱还是实打实要掏的。",
+      "created_at": "Mon Oct 12 00:05:56 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 30,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "3084",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2109435364599533982"
+    },
+    {
+      "id": "2109276683358683222",
+      "text": "首尔街头豪车多？有几组数据可以当补充看看。\n\n有人观察说，首尔保时捷、宾利常见，服务业密集，男女都很注重发型、穿搭和妆容。\n\n韩国进口汽车协会的数据，经媒体报道：\n\n· 2024 年售价 1 亿韩元以上的进口车里，保时捷登记 8254 辆，宾利 400 辆\n· 2023 年宾利是 810 辆，被称为亚洲第一\n\n另外两个容易被忽略的点：\n\n· 超豪华车里法人登记比例很高，2023 年宾利约 76%，保时捷约 61%\n· 2024 年起，8000 万韩元以上的法人车要挂绿色号牌，这几个品牌销量随后下滑\n\n还有一个反直觉的数字：2025 年末，首尔人均车辆数是全国最低，大约 2.94 人一辆。\n\n所以街上看到的豪车，和普通人有多能花，中间还隔着一层公司账本。\n\n图 1：首尔登记车总量与进口车占比、人均车辆全国最低（https://t.co/rC4dvfsuaz）\n图 2：1亿韩元以上进口车及保时捷、宾利登记量（https://t.co/Qj7Fxg8AIZ）\n图 3：宾利曾为亚洲销量第一及后续绿色号牌后的下滑（https://t.co/us8bDYkU8N）",
+      "created_at": "Sun Oct 11 13:35:24 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "548",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWngVNaIAAp2eB.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWngVKa4AApyaH.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWngVJagAARLbj.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2109276683358683222"
+    },
+    {
+      "id": "2109240466994770356",
+      "text": "人民日报也谈尊界 V800 的刹车踏板了。\n\n10 月 11 日，人民日报发文《四部门联手，对“速成车”说不！》，里面有一句：\n\n「尽管事件有待权威的调查结论，但有一点毋庸置疑：一辆汽车的刹车踏板，绝不应该在驾驶中出现“断裂”！」\n\n先把时间线摆一下：\n\n· 10 月 8 日，懂车帝发布测试：三台不同批次的 V800，在 100 到 0 的紧急制动里，分别在第 3、第 4、第 2 次全力制动时断了踏板支架，峰值踏板力 1612N\n· 10 月 8 日晚，尊界回应：制动系统按高于国标和行标的要求开发，用户实际使用中没有发生过断裂，会优化部件并提供免费升级\n· 10 月 10 日，工信部等四部门就汽车研发测试验证的管理发了征求意见稿\n\n人民日报对「速成车」的解释是：为了抢占市场份额，过度压缩研发周期、删减实车验证流程而推出的车型。\n\n有两点要分清。调查结论还没出，目前没有缺陷认定，也没有召回公告。人民日报这句话划的是底线，不是给这台车下结论。\n\n我前两天写过，达标和够用是两回事。今天补一句：验证是产品里最容易被进度挤掉的部分，因为它不产生看得见的功能。砍掉一轮验证，发布会上没人看得出来，出问题的时候才看得出来。\n\n图 1：人民日报原话（中国日报转载）\n图 2：懂车帝测试与尊界回应（经济参考报）\n图 3：四部门征求意见稿（新华网）",
+      "created_at": "Sun Oct 11 11:11:29 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1092",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWG4xgaUAAvkvQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWG5G9agAAkqMi.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUWG56GbIAAnHVs.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109240466994770356"
+    },
+    {
+      "id": "2109205794755674419",
+      "text": "让 Opus 5.5 读一遍你最近 100 次会话，它能把你的工作流整理出来。\n\n时间线上有人演示了这个用法，收藏很高。做法是让 Opus 分析最近 100 次会话，自动生成三样东西：\n\n· 项目指令\n· 你反复纠正它的地方\n· 用到的工具清单\n\n然后把这些装进 Claude Projects，下次开新会话直接复用。\n\n我最在意第二条。同一句纠正说过不止一次，就该写进指令里，以前这一步全靠自己记。 https://t.co/hS990aWuDc",
+      "created_at": "Sun Oct 11 08:53:43 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "550",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2109205794755674419"
+    },
+    {
+      "id": "2109067062178189375",
+      "text": "卧槽,有人用claude code+opus 5.5去翻NASA的TESS数据,翻出了一个116光年外、1.4倍地球大小的系外行星候选体\n\n真的这么强的吗?😂\n\nhttps://t.co/n7oOTZYons",
+      "created_at": "Sat Oct 10 23:42:26 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "817",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2109067062178189375"
+    },
+    {
+      "id": "2108928038209564707",
+      "text": "领 Grok Bot 邮箱之前，过一遍这 6 条：\n\n1. 名字想好了吗？两三年后还愿意用的那种\n2. 先让 Bot 只查不领，确认名字可用\n3. 领了不能改名、不能删除\n4. 任何人都能往这个地址发信\n5. 第一件事让它只收不发\n6. 要拿它注册的服务，是发验证码还是发确认链接？后者它可能点不了\n\n出处都在官方帮助页，最后一条是我自己测出来的。",
+      "created_at": "Sat Oct 10 14:30:00 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "740",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUQun7LaMAAPyRq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2108928038209564707"
+    },
+    {
+      "id": "2108912935708062064",
+      "text": "X 创作者收益，我还差 42.25 万次曝光。从今天起公开记录。\n\n资格页 4 项我过了 3 项，卡在最后一项：90 天内 50 万次“已验证首页时间线曝光”。我现在是 7.75 万。\n\n翻后台才看懂这条有多难，它只算认证用户在首页刷到你的次数：\n\n· 10 月 7 日，首页曝光 765 次，认证用户 144 次，占 19%\n· 10 月 6 日，336 次里 78 次，占 23%\n· 10 月 9 日，51 次里 0 次\n· 回复不计入\n\n也就是说，帖子的总浏览量和这个数是两回事。\n\n接下来每天记一次：发了什么、认证占比多少、进度条走了多少。\n\n已经开通的朋友，你那 50 万主要是哪类内容攒出来的？",
+      "created_at": "Sat Oct 10 13:30:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "635",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HURSxtYbgAAAF-a.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2108912935708062064"
+    },
+    {
+      "id": "2108911228232008109",
+      "text": "我也开了家 AI 代充小站\nChatGPT Plus / Pro、Claude、SuperGrok、蓝 V 都有\n专人逐单发货，用得放心\nUSDT 付款免手续费，欢迎大家光临\nhttps://t.co/BHsLT32i1b 网址对应: ai充值会员，简单易记 https://t.co/ziu14x3yje",
+      "created_at": "Sat Oct 10 13:23:13 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "865",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HURbNvPbQAAD5R0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2108911228232008109",
+      "pinned": true
+    },
+    {
+      "id": "2108897836209250551",
+      "text": "尊界 V800 这件事，我从做设计的角度只看一个点。\n\n懂车帝说，三台车都在 100 到 0 的急刹里断了踏板支架，峰值踏板力 1612N。尊界回应说，制动系统是按高于国标和行标的要求开发的，同时会优化这个部件、给车主免费升级。\n\n这两句话可以同时成立。达标和够用，是两回事。\n\n标准定的是下限。人在最慌的那一脚会踩多重，才是设计该对着的工况。\n\n你觉得「符合标准」算不算回答？",
+      "created_at": "Sat Oct 10 12:30:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "575",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUQyJBzaAAAmsE_.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2108897836209250551"
+    },
+    {
+      "id": "2108882741936721928",
+      "text": "想拿 Grok Bot 邮箱注册账号的，先等等：确认链接它点不了。\n\n它读信只能拿到纯文本，按钮后面的链接地址读不到。客户端里又没有收件箱，你自己也看不到这封信。\n\n所以「点击确认订阅」这种邮件，它点不了，你也点不了。我订的一份日报就卡在了「待确认」。\n\n发验证码的那种我还没测。有人试出绕过的办法了吗？",
+      "created_at": "Sat Oct 10 11:30:01 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "757",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUQw_25bsAEY0Bl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2108882741936721928"
+    },
+    {
+      "id": "2108860430047404465",
+      "text": "Grok Bot 邮箱，时间线上都在喊快去抢。\n\n抢之前先看官方帮助页里的这句话：\n\n「你只能有一个地址。不能改名，也不能删除。」\n\n更要命的是，领取时弹出来的批准卡上，一个字都没提这件事。看着就像一次普通授权。\n\n我截了图 👇 https://t.co/vlh1HbyqrG",
+      "created_at": "Sat Oct 10 10:01:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "728",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUQtSnwaMAE0ZFk.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2108860430047404465"
+    },
     {
       "id": "2107799198171123777",
       "text": "3 分钟看懂 Binance Intelligence：币安把 AI 做进了交易所\n\n10 月 5 日，币安发布了 Binance Intelligence，把三款产品放到了一起。我用 3 分钟的视频按使用顺序拆开讲：\n\n0:00 产品越多，新手越容易看不懂\n0:28 Binance AI：For You 页面、每 4 小时的市场简报、按你水平写的小提示\n1:13 AI Pro：一句大白话，变成看得见的策略流程\n1:30 三条规矩：本人确认、独立子账户、AI 动不了你的资金\n1:56 Agent OS：给开发者的接口\n2:08 对普通用户，到底多了什么\n2:20 它替不了你的事\n\n几点说明：\n· 内容依据币安官方新闻稿和产品页整理，画面里的界面是官方演示图，我还没有做新版产品的实测。\n· 功能分批开放，各地区是否可用、费用和额度，以开通页面的实际显示为准。\n· AI 的输出可能出错，官方也写明不构成任何建议。加密货币和股票价格波动大，亏损自担。\n\n文字版的详细拆解在这里：https://t.co/ChnxKSVT7c",
@@ -25,7 +576,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "885",
+      "views": "1002",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -35,8 +586,7 @@
           "url": "https://pbs.twimg.com/amplify_video_thumb/2107798714651963394/img/VyIbAQBIYZnlOgxn.jpg"
         }
       ],
-      "url": "https://x.com/i/status/2107799198171123777",
-      "pinned": true
+      "url": "https://x.com/i/status/2107799198171123777"
     },
     {
       "id": "2107460792014795176",
@@ -63,7 +613,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "884",
+      "views": "946",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -84,7 +634,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "2231",
+      "views": "2433",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -121,7 +671,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1547",
+      "views": "1588",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -154,7 +704,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "4246",
+      "views": "4365",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -165,12 +715,12 @@
       "id": "2102298433948471725",
       "text": "分享一个可以一键生成grok bot卡通头像的提示词，原提示词太长，作者放到了这个网站上\nhttps://t.co/tVB5yDlYdd https://t.co/ZkvjjNr8N5",
       "created_at": "Tue Sep 22 07:26:20 +0000 2026",
-      "favorite_count": 17,
+      "favorite_count": 18,
       "retweet_count": 1,
       "reply_count": 4,
       "quote_count": 0,
-      "bookmark_count": 18,
-      "views": "4947",
+      "bookmark_count": 20,
+      "views": "5112",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -191,7 +741,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1727",
+      "views": "1761",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -224,7 +774,7 @@
       "text": "RT @Pexoai_offical: Now you can create videos the way you vibe-code.  \n\nMeet Pexo, your AI video agent.  \n\nShare your vision and references…",
       "created_at": "Tue Sep 22 01:09:28 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 760,
+      "retweet_count": 759,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -265,7 +815,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2893",
+      "views": "2940",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -302,7 +852,7 @@
       "reply_count": 7,
       "quote_count": 1,
       "bookmark_count": 2,
-      "views": "3442",
+      "views": "3469",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -318,7 +868,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2275",
+      "views": "2298",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -334,7 +884,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "3063",
+      "views": "3097",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -355,7 +905,7 @@
       "reply_count": 24,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "6137",
+      "views": "6188",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -376,7 +926,7 @@
       "reply_count": 8,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2154",
+      "views": "2178",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -397,7 +947,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "2743",
+      "views": "2769",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -455,7 +1005,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 14,
-      "views": "3202",
+      "views": "3223",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -480,7 +1030,7 @@
       "reply_count": 33,
       "quote_count": 1,
       "bookmark_count": 27,
-      "views": "9994",
+      "views": "10068",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -505,7 +1055,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "1562",
+      "views": "1589",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -521,12 +1071,12 @@
       "id": "2099314157262942636",
       "text": "当你觉得地铁已经满员的时候😂 https://t.co/eKPgJqINer",
       "created_at": "Mon Sep 14 01:47:53 +0000 2026",
-      "favorite_count": 285,
+      "favorite_count": 284,
       "retweet_count": 9,
       "reply_count": 12,
       "quote_count": 0,
       "bookmark_count": 93,
-      "views": "243800",
+      "views": "243827",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -547,7 +1097,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1126",
+      "views": "1144",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -568,7 +1118,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1609",
+      "views": "1624",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -584,7 +1134,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1284",
+      "views": "1297",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -600,7 +1150,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1169",
+      "views": "1190",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -637,7 +1187,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1312",
+      "views": "1325",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -653,7 +1203,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "3468",
+      "views": "3484",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -669,7 +1219,7 @@
       "reply_count": 7,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "2255",
+      "views": "2270",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -690,7 +1240,7 @@
       "reply_count": 29,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "5026",
+      "views": "5039",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
