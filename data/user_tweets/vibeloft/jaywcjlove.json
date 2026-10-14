@@ -7,25 +7,1692 @@
     "nickname": "Kenny Wang",
     "profile_url": "https://vibeloft.ai/profile/jiang"
   },
-  "generated_at": "2026-10-11T17:11:33.921242Z",
+  "generated_at": "2026-10-14T15:04:44.029874Z",
   "stats": {
-    "tweet_count": 1762,
-    "latest_tweet_created_at": "2026-10-11T14:18:29Z",
-    "latest_tweet_id": "2109287525873484195",
+    "tweet_count": 1839,
+    "latest_tweet_created_at": "2026-10-14T13:43:00Z",
+    "latest_tweet_id": "2110365758761185665",
     "oldest_tweet_created_at": "2025-06-04T10:55:48Z",
     "oldest_tweet_id": "1930216911528440196"
   },
   "tweets": [
     {
+      "id": "2110365758761185665",
+      "text": "MeowOut - 菜单栏工具箱，附带一个督促你保持健康的像素宠物和轻量 2FA 工具\n\n👉 https://t.co/ntFDynFOqz https://t.co/XPuVsepuHN",
+      "created_at": "Wed Oct 14 13:43:00 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "400",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110365556927004672/img/VzRTpHK4i9fjzywz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110365758761185665"
+    },
+    {
+      "id": "2110363844958892133",
+      "text": "Agent Muster - 在浏览器中管理本地 AI 编码智能体、项目与对话，支持通过钉钉或飞书机器人收发任务\n\n👉 https://t.co/6Slq6Zww2x https://t.co/T4HfVKmf80",
+      "created_at": "Wed Oct 14 13:35:23 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "342",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUmEpgzaUAAB62k.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110363844958892133"
+    },
+    {
+      "id": "2110308285794627840",
+      "text": "Earshot - 实时、完全在设备本地转录 Mac 上的任何应用，并标注说话人\n\n👉 https://t.co/aiK8YwSZgq https://t.co/tFXSmZSp2j",
+      "created_at": "Wed Oct 14 09:54:37 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 12,
+      "views": "1045",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110308129686876160/img/j40A40agO1xLM6Lz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110308285794627840"
+    },
+    {
+      "id": "2110307454290624512",
+      "text": "Apple TV 4K（第四代） 只更新了芯片(A19) + Siri AI https://t.co/lwGIQbjXoH",
+      "created_at": "Wed Oct 14 09:51:19 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "549",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUlRZjIawAAvb1Z.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110307454290624512"
+    },
+    {
+      "id": "2110302523122950553",
+      "text": "Android Rapid Transfer - 通过 USB 传输文件的原生 macOS 应用\n\n原生开源应用，支持在 Mac/Linux 与安卓手机之间通过 USB 传输照片、视频和文件。\n\n👉 https://t.co/IXlg3hQWsf https://t.co/x2Wv3gR6e8",
+      "created_at": "Wed Oct 14 09:31:43 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 3,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 21,
+      "views": "2057",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110302349671768065/img/f5uhbH-OSh-nuKXD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110302523122950553"
+    },
+    {
+      "id": "2110300314247315895",
+      "text": "Nogrammerly - 完全本地运行的 AI 写作助手\n\n在几乎所有应用中检查拼写、语法、清晰度与语气，并支持一键改写。\n\n👉 https://t.co/AgTUD0sazt https://t.co/z8ckaSXyxd",
+      "created_at": "Wed Oct 14 09:22:57 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "490",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110300222941483008/img/eFpF20LGaWmDF4ad.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110300314247315895"
+    },
+    {
+      "id": "2110295933351297036",
+      "text": "又发现一个聚划算的联通卡 300G/300分钟\n\n首月 0 元 285G+0.15元每分钟\n次月起 39元/月300G/300分钟，长期自动续约\n\n注意⚠️ 详情页面上的激活链接 https://t.co/NLl030C8Jb",
+      "created_at": "Wed Oct 14 09:05:32 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 8,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "3415",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUlGKJjaAAAehR1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110295933351297036"
+    },
+    {
+      "id": "2110290044498092402",
+      "text": "Apple 昨天发布的 Apple TV 是全新一代 Apple TV 4K（第四代）硬件，距离上一代已经过去约四年\n\n下图对比硬件更新了哪些 👇 https://t.co/ikDtcD6gjg",
+      "created_at": "Wed Oct 14 08:42:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "1093",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUlBPdTakAER9nn.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110290044498092402"
+    },
+    {
+      "id": "2110269130817606128",
+      "text": "ESP32 iPhone Agent - 让 AI 操作一部真实的 iPhone\n\n只要一块约 40 多元的 ESP32，不需要开发者账号、不需要 Xcode、不用越狱。\n\n👉 https://t.co/fkwlpD4GHk https://t.co/GyJwfQfunq",
+      "created_at": "Wed Oct 14 07:19:02 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "1738",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkuYIYboAAuabl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110269130817606128"
+    },
+    {
+      "id": "2110264267811475721",
+      "text": "Musicer - 本地音乐播放器，支持添加歌词，修改音乐元数据哦 https://t.co/gEXEJ59Xiy",
+      "created_at": "Wed Oct 14 06:59:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "374",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkpu0iasAAwXf1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110264267811475721"
+    },
+    {
+      "id": "2110260414592553109",
+      "text": "歌词搜索下载的好网站\n\n👉 https://t.co/PFMjXWFQIk https://t.co/R4vErVCO9c",
+      "created_at": "Wed Oct 14 06:44:24 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 5,
+      "views": "993",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkl8E-aUAAQrlv.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkmYdCbcAA6JH-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110260414592553109"
+    },
+    {
+      "id": "2110259290804208023",
+      "text": "Pluck - 基于 yt-dlp 的视频音乐原声 macOS 下载器\n\n可在 Mac 应用里下载 YouTube、Spotify、Apple Music 链接及几乎所有网站上的视频和音乐。\n\n👉 https://t.co/1gSn0A4cZY https://t.co/jdywwoh0mb",
+      "created_at": "Wed Oct 14 06:39:56 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 10,
+      "views": "616",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkk0mjaoAERW1w.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2110259290804208023"
+    },
+    {
+      "id": "2110247781944455201",
+      "text": "MC Download Manager - 原生开源 macOS 下载管理器\n\n可接管浏览器下载、以多连接并行加速，并下载网页视频。\n\n👉 https://t.co/3dWrlbD8Dl https://t.co/U9WzXUdNrt",
+      "created_at": "Wed Oct 14 05:54:12 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "401",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkaUXxagAAtkzT.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkaZFSboAAEsw8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110247781944455201"
+    },
+    {
+      "id": "2110243542123860174",
+      "text": "Paste Quick v2.6.0 发布，注重隐私与简洁的剪贴板管理工具\n\n本次更新新增剪切板安全设置选项\n\n👉 https://t.co/uJtnb5lLtz https://t.co/jZEYoHIj6Z",
+      "created_at": "Wed Oct 14 05:37:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "445",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkWiXFacAAJqvu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkWzfvaoAADxUN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110243542123860174"
+    },
+    {
+      "id": "2110234407001010237",
+      "text": "ftop - 轻量级系统监视器，采用可调整大小的悬浮玻璃面板。\n\n👉 https://t.co/lsF4BmwykX https://t.co/pILFaKfUR9",
+      "created_at": "Wed Oct 14 05:01:03 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 20,
+      "views": "2267",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110233929546711040/img/iGZw0ZRf-UiQnKxF.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkO8t3a0AAGUzj.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2110234407001010237"
+    },
+    {
+      "id": "2110226964451926453",
+      "text": "Audiout - 将 Mac 音频同步到多个 AirPlay 音箱，支持分区音量和保存音箱组。\n\n👉 https://t.co/WhKptJBctO https://t.co/tp4QH3VF0F",
+      "created_at": "Wed Oct 14 04:31:29 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "337",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUkIMBKb0AAqLD6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110226964451926453"
+    },
+    {
+      "id": "2110212451694514479",
+      "text": "JET Pilot - 开源的 Kubernetes 原生桌面客户端，可跨集群、命名空间和云账号统一管理。\n\n👉 https://t.co/WhCeNYbISW https://t.co/0lyqfGK2Ip",
+      "created_at": "Wed Oct 14 03:33:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "406",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110211600531824642/img/_qmCLHBRQatcooLD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110212451694514479"
+    },
+    {
+      "id": "2110206888650695021",
+      "text": "新款 HomePod mini 2 和第一代区别 https://t.co/EXXm3rBMI4",
+      "created_at": "Wed Oct 14 03:11:42 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 3,
+      "bookmark_count": 8,
+      "views": "33989",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUj1fQ2bUAE4ISv.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUj1xNGawAATPbq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110206888650695021"
+    },
+    {
+      "id": "2110204033449464053",
+      "text": "ClipLock - 轻量级菜单栏剪贴板历史应用，复制内容以 AES-256-GCM 加密保存，一键即可清空。\n\n👉 https://t.co/R2QTFzX6U9 https://t.co/dqpihQM255",
+      "created_at": "Wed Oct 14 03:00:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "376",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjy9sAa0AAZL7A.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjzLKTbYAATfYJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110204033449464053"
+    },
+    {
+      "id": "2110201233445401076",
+      "text": "妈的，备案为什么非要买一个 ESC？ https://t.co/lt4hASVmA7",
+      "created_at": "Wed Oct 14 02:49:14 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 11,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "5318",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjwm_bbQAAbEQs.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110201233445401076"
+    },
+    {
+      "id": "2110196207545114776",
+      "text": "Termstead - 原生 macOS SSH 客户端，支持树形会话、跳板主机与 SFTP，密码保存在钥匙串中。\n\n👉 https://t.co/KwynRLlUFN https://t.co/9ljElAgeyo",
+      "created_at": "Wed Oct 14 02:29:16 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 19,
+      "views": "2476",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjpJ5JasAAiow6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110196207545114776"
+    },
+    {
+      "id": "2110194676485755152",
+      "text": "是不是觉得跟我的音乐应用图标颜色冲突\n\n所以 Apple Music 图标变成了白色？😂 https://t.co/r8Xg6vw7FN",
+      "created_at": "Wed Oct 14 02:23:11 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "330",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjpytBb0AAkRUe.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjqCYBb0AAHBzn.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2110194676485755152"
+    },
+    {
+      "id": "2110192435553046896",
+      "text": "Kombucha - 菜单栏应用，将 MacBook 充电限制在你设定的电量区间内，以延长电池寿命。\n\n👉 https://t.co/WLrbLDQQer https://t.co/Bw1nmydZpa",
+      "created_at": "Wed Oct 14 02:14:16 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "307",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjoUgYbAAAPQOD.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjochAawAAU4QA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110192435553046896"
+    },
+    {
+      "id": "2110190156544405774",
+      "text": "Ping Warden - 菜单栏 Mac 应用，在游戏和通话期间暂停 Apple Wireless Direct Link，以降低网络延迟。\n\n👉 https://t.co/sLzDfr5Tot https://t.co/BCm7wErgFk",
+      "created_at": "Wed Oct 14 02:05:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "314",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjlQVLbIAAo7lr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110190156544405774"
+    },
+    {
+      "id": "2110187416984457224",
+      "text": "Pinto Notes - 类似 Apple Notes 的笔记应用\n\nChatGPT、Claude、Codex 等 AI 工具可读取和编辑，并支持导入 Apple Notes。\n\n👉 https://t.co/mwxtxBPona https://t.co/lOhSXKtfmh",
+      "created_at": "Wed Oct 14 01:54:20 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 2,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 15,
+      "views": "1738",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjjk01bgAAkyY3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110187416984457224"
+    },
+    {
+      "id": "2110177967108403303",
+      "text": "Muster - 在编码代理需要你时立刻提醒，无需切换应用即可直接回复。\n\n原生 macOS 的菜单栏应用\n\n👉 https://t.co/H063wSZXyz https://t.co/aHyoTabh89",
+      "created_at": "Wed Oct 14 01:16:47 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 4,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "962",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjbjKsbIAERhGl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110177967108403303"
+    },
+    {
+      "id": "2110173173266493811",
+      "text": "Solenta - 面向编程智能体的桌面应用\n\n所有会话共享同一份本地记忆，用 GitHub issues 作为计划，并通过 Git worktree 隔离任务。\n\n支持 Claude Code、Codex、Cursor、Kimi、Grok、OpenCode\n\n👉 https://t.co/L45Q7I4z5V https://t.co/X8OfwFFzBJ",
+      "created_at": "Wed Oct 14 00:57:44 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 12,
+      "views": "1682",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjW-JvaYAA60cv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110173173266493811"
+    },
+    {
+      "id": "2110166187527245917",
+      "text": "FocusCursor v3.5 发布， 清晰地突出显示光标的位置， 让光标的移动和点击一目了然\n\n本次更新画板绘制矩形圆形支持颜色填充\n\n👉 https://t.co/s0HOZd9NRX",
+      "created_at": "Wed Oct 14 00:29:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "353",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110165941032239104/img/-Hm-fvWzo5X7sGmE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110166187527245917"
+    },
+    {
+      "id": "2110162130314068044",
+      "text": "Utter - Mac 上的本地语音听写，更新非常活跃\n\n👉 https://t.co/IxhvbO5ArS https://t.co/0FpGA1Du8R",
+      "created_at": "Wed Oct 14 00:13:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "339",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjNNh5aUAAj_Iq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110162130314068044"
+    },
+    {
+      "id": "2110161177515057628",
+      "text": "Claudius - 在菜单栏显示 Claude Code 的 5 小时和每周用量限额，预测何时用完，并在触达限额前发出提醒。\n\n👉 https://t.co/LZzxBi32gt https://t.co/gFACAIHiTD",
+      "created_at": "Wed Oct 14 00:10:04 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "871",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110161074712719360/img/wvseBL9LxP947trT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110161177515057628"
+    },
+    {
+      "id": "2110009167964717289",
+      "text": "littleguys - 免费开源的 Mac 应用，以类似 WhatsApp 的方式与你的 AI 智能体聊天。\n\n👉 https://t.co/26ppHIiIg5 https://t.co/1PhEWciQl3",
+      "created_at": "Tue Oct 13 14:06:02 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 18,
+      "views": "1556",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2110009057201496064/img/6lP7ZbBq6mmo13bI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110009167964717289"
+    },
+    {
+      "id": "2110007624561508561",
+      "text": "苹果新品 HomeView 这个是 Home Pod ？",
+      "created_at": "Tue Oct 13 13:59:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "456",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2110007624561508561"
+    },
+    {
+      "id": "2110007014583931145",
+      "text": "DynamicNotch - 把带刘海的 MacBook 变成实时系统表面：展示媒体、下载、AirDrop、计时器、录屏、连接事件、锁屏过渡与硬件 HUD。\n\n👉 https://t.co/oYDxFPW5zq https://t.co/CVBvIkT5SW",
+      "created_at": "Tue Oct 13 13:57:28 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "790",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUg_ahxbYAEo87s.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110007014583931145"
+    },
+    {
+      "id": "2109967424393204122",
+      "text": "Utter - Mac 上的本地语音听写：按住按键说话，松开后文字出现在光标处，离线可用、无需账户。\n\n👉 https://t.co/IxhvbO5ArS https://t.co/UlWrYHdutO",
+      "created_at": "Tue Oct 13 11:20:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 4,
+      "views": "638",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUgcLyHaAAAAi7k.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109967424393204122"
+    },
+    {
+      "id": "2109966680176857294",
+      "text": "Pulse  - 原生应用，显示AI 编程服务的剩余额度\n\n以停靠在屏幕边缘的圆环显示，支持 Claude Code、Codex、Cursor、Copilot 等 70 多个 AI 编程服务\n\n👉 https://t.co/LZwe6jpXvT https://t.co/dRXopiMizk",
+      "created_at": "Tue Oct 13 11:17:12 +0000 2026",
+      "favorite_count": 27,
+      "retweet_count": 2,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 40,
+      "views": "4327",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109966447292366848/img/HSxOrgQeQeEEePq7.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUgbVklbwAAMUCo.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109966680176857294"
+    },
+    {
+      "id": "2109961573376950670",
+      "text": "WolfClip - 剪贴板历史管理器\n\n适用于 macOS 和 Linux 的，按一个快捷键即可选取之前复制的内容并粘贴到任意应用。\n\n👉 https://t.co/irZ1K8ob7Z https://t.co/3CEoVT5yaZ",
+      "created_at": "Tue Oct 13 10:56:54 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "views": "1326",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109961502514110464/img/-12O7os_KJ0_G1gZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109961573376950670"
+    },
+    {
+      "id": "2109941942457114692",
+      "text": "汉字从甲骨文 -&gt; 简体的完整演变\n\n👉 https://t.co/PlY9joo3ur https://t.co/XX6ouhKC6B",
+      "created_at": "Tue Oct 13 09:38:54 +0000 2026",
+      "favorite_count": 11,
+      "retweet_count": 2,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 19,
+      "views": "2407",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUgE3-baMAEl73I.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109941942457114692"
+    },
+    {
+      "id": "2109939824165834793",
+      "text": "适用于 Mac 的免费、完全本地的按住说话听写工具\n\n使用 Parakeet 在设备端识别语音\n并自动清理语气词和重说的句子\n\n👉 https://t.co/KnuN3rf49H https://t.co/bZhQV7aeBk",
+      "created_at": "Tue Oct 13 09:30:29 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 7,
+      "views": "1329",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUgC6CAbEAEE6-C.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109939824165834793"
+    },
+    {
+      "id": "2109935214856401278",
+      "text": "Songtide - 免费的 YouTube Music 原生 Mac 客户端\n\n内置均衡器、可视化、同步歌词和菜单栏迷你播放器。\n\n👉 https://t.co/QcG9qEq8oc https://t.co/plOBxuuK75",
+      "created_at": "Tue Oct 13 09:12:10 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 11,
+      "views": "1184",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUf-o_daYAA4SnN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109935214856401278"
+    },
+    {
+      "id": "2109932619312017658",
+      "text": "Lemma - 面向数学阅读的 PDF 阅读器：像编辑器理解代码那样理解教材和论文。\n\nSwift 开发，原生 macOS 应用\n\n👉 https://t.co/DQ8sWI3Ap7 https://t.co/xcXo5aRH6a",
+      "created_at": "Tue Oct 13 09:01:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "402",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109932240683794432/img/x58nXJahcyWUCIcJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109932619312017658"
+    },
+    {
+      "id": "2109903731546624099",
+      "text": "Evir - 本地优先的桌面 AI Agent\n\n👉 https://t.co/7IrWVzDaGR https://t.co/6Pa2v6Q76u",
+      "created_at": "Tue Oct 13 07:07:04 +0000 2026",
+      "favorite_count": 12,
+      "retweet_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 14,
+      "views": "2012",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUfiJDhawAA4nY-.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109903731546624099"
+    },
+    {
+      "id": "2109890005556760956",
+      "text": "ShellRS - 跨平台 SSH 客户端，GPU 渲染界面\n\n支持主机管理、SFTP 与端口转发\n\n👉 https://t.co/iZI30f6OTT https://t.co/mSbOoqV4kx",
+      "created_at": "Tue Oct 13 06:12:31 +0000 2026",
+      "favorite_count": 19,
+      "retweet_count": 3,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 20,
+      "views": "2044",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUfVbTTaEAAWavJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109890005556760956"
+    },
+    {
+      "id": "2109886173753819334",
+      "text": "Scap v1.14 发布，自用截图、标注与画板的原生应用\n\n本次更新新增绘制图形填充颜色\n\n👉 https://t.co/FP6YpiYcPB https://t.co/ju4vOQDiX1",
+      "created_at": "Tue Oct 13 05:57:18 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "427",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUfSB8oaQAE640K.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109886173753819334"
+    },
+    {
+      "id": "2109878276785422839",
+      "text": "Motion2MixamoRig - 把视频里人物的动作，或一张照片里的姿态，转到 Adobe Mixamo rig 的 3D 角色上\n\n👉 https://t.co/Kdth7QkWgy https://t.co/792bOgoM3s",
+      "created_at": "Tue Oct 13 05:25:55 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "808",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109878169121746944/img/GjahtXkWOGjbHFg8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109878276785422839"
+    },
+    {
+      "id": "2109855640743280671",
+      "text": "BetterWispr - 免费开源、本地优先的 Wispr Flow 替代品：用 Whisper、Parakeet 和 Apple 语音在设备端听写\n\n👉 https://t.co/WFg8MuPF81 https://t.co/RgQjOblmZs",
+      "created_at": "Tue Oct 13 03:55:58 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 3,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 12,
+      "views": "1446",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUe1_ZJaUAAahU2.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109855640743280671"
+    },
+    {
+      "id": "2109850915633311927",
+      "text": "Tern - 原生 SSH 和 SFTP 客户端\n\n带有加密保险库、密码管理器登录，并可同步到你自己的 Git 仓库。\n\n👉 https://t.co/bNWlZWEX8J https://t.co/2K3Xz2Yy56",
+      "created_at": "Tue Oct 13 03:37:12 +0000 2026",
+      "favorite_count": 56,
+      "retweet_count": 5,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 61,
+      "views": "5904",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeyAPtaIAAqJr8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109850915633311927"
+    },
+    {
+      "id": "2109842665923809651",
+      "text": "Yovoice - 在本地运行的声音创作工具\n\n支持文字转语音、音色克隆、情绪控制、歌曲生成和 MIDI 编曲。 \n\n👉 https://t.co/RRfcNG1F3L https://t.co/ZVaZTS2QfR",
+      "created_at": "Tue Oct 13 03:04:25 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 5,
+      "views": "408",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeqhXobIAEOI4J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109842665923809651"
+    },
+    {
+      "id": "2109838316409647205",
+      "text": "Videoer v2.7 发布，批量视频格式转换的原生 macOS 应用\n\n本次更新导出新增帧率和音频编码设置\n\n👉 https://t.co/ibCDwJoLev https://t.co/VW9evoYwR6",
+      "created_at": "Tue Oct 13 02:47:08 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "407",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUemQ8BaMAA5YdG.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109838316409647205"
+    },
+    {
+      "id": "2109834999608606989",
+      "text": "CoreTend - 开源的磁盘空间地图、清理和完整卸载工具\n\n只把文件移到废纸篓并可撤销，无遥测，附带只读 MCP 服务器。\n\n👉 https://t.co/Eh8iyrkHfT https://t.co/VTjx8mpENf",
+      "created_at": "Tue Oct 13 02:33:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "392",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUejd8ZbcAEJpbl.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109834999608606989"
+    },
+    {
+      "id": "2109833889569259658",
+      "text": "TinyPrune - 本地优先的文件生命周期规则原生 macOS 工具\n\n可将过期的下载、截图和开发者文件夹移至废纸篓，支持预览和“保留”覆盖。\n\n👉 https://t.co/bEFI6FZn4E https://t.co/Mu0J1fKBV9",
+      "created_at": "Tue Oct 13 02:29:32 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "381",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeieYraAAEovnv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109833889569259658"
+    },
+    {
+      "id": "2109833325519200595",
+      "text": "akou - 开源的通话与会议录音工具\n\n在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。\n\n👉 https://t.co/bIMVVrfFRz https://t.co/Ffmdl677Mn",
+      "created_at": "Tue Oct 13 02:27:18 +0000 2026",
+      "favorite_count": 25,
+      "retweet_count": 5,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 24,
+      "views": "1299",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUeh12ca8AApqng.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109833325519200595"
+    },
+    {
+      "id": "2109832252301684769",
+      "text": "Grove - 用多个仓库的 Git worktree 为每个功能创建独立工作区，便于并行运行 Claude Code 会话，并可在 Claude 账户之间迁移会话。\n\n👉 https://t.co/RnBVS1evft https://t.co/xpfxLkVE11",
+      "created_at": "Tue Oct 13 02:23:02 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "953",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUehPiDaQAAmWwf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109832252301684769"
+    },
+    {
+      "id": "2109831718723350711",
+      "text": "Brow  - 刘海中的 Claude Code 多账户速率限制监控工具，显示 5 小时与每周限制的已用比例及重置时间\n\n👉 https://t.co/DQz2W1LaLf https://t.co/F4HrrDanPy",
+      "created_at": "Tue Oct 13 02:20:55 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "626",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109831635353161728/img/2rshxWsvBBSskgcM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109831718723350711"
+    },
+    {
+      "id": "2109668746319278415",
+      "text": "MacTools  v2.0- 原生开源的 macOS 菜单栏工具集\n\n采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能\n\n👉 https://t.co/RIhya5VfkG https://t.co/gdsDaEZBAq",
+      "created_at": "Mon Oct 12 15:33:19 +0000 2026",
+      "favorite_count": 90,
+      "retweet_count": 9,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 113,
+      "views": "7425",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUcMUiRbUAEGD9r.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUcMY_ZbgAAPrll.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109668746319278415"
+    },
+    {
+      "id": "2109618130502951061",
+      "text": "触控屏条 Touch Bar 接近一千五，不回来也罢 😁\n\n我自带的 Touch Bar 几乎没有怎么用过 😂 https://t.co/DECksCyd35",
+      "created_at": "Mon Oct 12 12:12:11 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1928",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109617680525533185/img/h4l3TfpoCfbyKG6N.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109618130502951061"
+    },
+    {
+      "id": "2109591160759173561",
+      "text": "Paseo - 多个 Coding Agent 放一起的界面 + 手机控制\n\n👉 https://t.co/Mxbrfta2xU https://t.co/fr7uatXJOd",
+      "created_at": "Mon Oct 12 10:25:01 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "1057",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbFwTaboAAGcvQ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109591160759173561"
+    },
+    {
+      "id": "2109587446405189648",
+      "text": "红果短剧，支持 Android 电视版 APK 的版本\n\n👉 https://t.co/nEzEOPDGXp https://t.co/4a7qx7RgoE",
+      "created_at": "Mon Oct 12 10:10:16 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 8,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 21,
+      "views": "3150",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUbB4ToaoAABfK8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109587446405189648"
+    },
+    {
+      "id": "2109586160653865068",
+      "text": "Tendedero：截图挂在屏幕晾衣绳上\n\n现在应用在卷创意？有想法，思路打开了 \n\n👉 https://t.co/HpVw6qoym1 https://t.co/Mm7hR9Maw3",
+      "created_at": "Mon Oct 12 10:05:09 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 2,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 4,
+      "views": "842",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2107726580567195648/img/ojJcvaVIk-ctPbOc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109586160653865068"
+    },
+    {
+      "id": "2109581456439984606",
+      "text": "竟然有「归属地」禁止下单的 https://t.co/uTOd0G2Ogl",
+      "created_at": "Mon Oct 12 09:46:28 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "666",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUa9CNsasAA6G6n.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109581456439984606"
+    },
+    {
+      "id": "2109561975869202451",
+      "text": "我的 Luna Ultra 带上小雨伞会不会很 der ？ https://t.co/4O7aeI9oYx",
+      "created_at": "Mon Oct 12 08:29:03 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "881",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109560860138221568/img/ME-HrhBSg52x8hr-.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUarPwNaYAAWO03.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109561975869202451"
+    },
+    {
+      "id": "2109531422260404697",
+      "text": "有不少人反应，卡办不了，提示「欠费拆机」\n\n意思是你在「联通」以前有欠费，\n需要补交欠费，才能重新办理新卡\n\n⚠️ 如果有「首冲」，24小时内，会付款渠道原路返回 https://t.co/dVmTblpuYi",
+      "created_at": "Mon Oct 12 06:27:38 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "682",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUaOzIZb0AASBSN.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUaO7c8bcAATZzE.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2109531422260404697"
+    },
+    {
+      "id": "2109525762764317153",
+      "text": "Sitch - 原生开源的截图应用，支持 macOS/Windows\n\n快捷键截屏、加上标志性箭头、模糊敏感信息，一键粘贴到 Slack\n\n👉 https://t.co/cKyCDlG33y https://t.co/uIFnEubV6z",
+      "created_at": "Mon Oct 12 06:05:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "470",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109525731592286208/img/1-KX_02t5tyjNllT.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109525762764317153"
+    },
+    {
+      "id": "2109517156904005833",
+      "text": "RainDesktop - 在窗口后方下雨效果的原生 macOS 应用\n\n雨滴会在标题栏上弹跳、沿窗口两侧流下，离开电脑时桌面还会慢慢被淹没。\n\n👉 https://t.co/nYLBDfO433 https://t.co/mw6J9aczC0",
+      "created_at": "Mon Oct 12 05:30:57 +0000 2026",
+      "favorite_count": 13,
+      "retweet_count": 4,
+      "reply_count": 2,
+      "quote_count": 1,
+      "bookmark_count": 16,
+      "views": "1410",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUaCR97aQAAOAv7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109517156904005833"
+    },
+    {
+      "id": "2109507659720442138",
+      "text": "Caprock - 本地优先、无遥测的开源 AI 编码代理观测仪表盘工具\n\n并行运行多款 AI 编码代理，看清每个 Agent 正在干什么、消耗多少费用、什么时候需要人工介入干预\n\n👉 https://t.co/f8vCRGWJvr https://t.co/YWnWv6nEw4",
+      "created_at": "Mon Oct 12 04:53:13 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "463",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZ5idfbcAAxM6J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109507659720442138"
+    },
+    {
+      "id": "2109488799059481008",
+      "text": "Oleafly - 本地优先的科研写作工作区，支持 LaTeX、Typst、Markdown 和可选 AI 工具\n\n👉 https://t.co/6o86TrtFPl https://t.co/VHQ9dWNH9U",
+      "created_at": "Mon Oct 12 03:38:16 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 16,
+      "views": "1419",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZo33SaYAADXvZ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109488799059481008"
+    },
+    {
+      "id": "2109487330449109145",
+      "text": "Keyameleon - 为每个物理键盘分别设定输入法，并在你用该键盘打字时自动切换的开源工具。\n\n👉 https://t.co/8aeg9RwuI1 https://t.co/Id6z5m7OoI",
+      "created_at": "Mon Oct 12 03:32:26 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "430",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZnhiCbgAA7-tI.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109487330449109145"
+    },
+    {
+      "id": "2109485915009859814",
+      "text": "Pippa - 拖放文件即可运行本地 AI 工作流\n\n原生 macOS 应用，无需账户或订阅\n\n👉 https://t.co/BmUQCY9c1d https://t.co/3u0cQayjM7",
+      "created_at": "Mon Oct 12 03:26:49 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "407",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109485775377362944/img/Mv4c9A3r_L8KfYQ9.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109485915009859814"
+    },
+    {
+      "id": "2109482805310984282",
+      "text": "MissionClose - 可直接在 Mission Control 中关闭窗口\n\n👉 https://t.co/dIVZs72ObS https://t.co/bt7gDBKRfW",
+      "created_at": "Mon Oct 12 03:14:27 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "415",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109482697089519616/img/h4B0QMRLubL3ns2p.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109482805310984282"
+    },
+    {
+      "id": "2109480538100908397",
+      "text": "KiwiDesk - 开箱即用、可用 Lua 深度定制的平铺窗口管理器\n\n👉 https://t.co/Per2qjJLa0 https://t.co/RiWY7P6p4D",
+      "created_at": "Mon Oct 12 03:05:27 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "434",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109480292574756864/img/Dk4oRVaB9sy49_IX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109480538100908397"
+    },
+    {
+      "id": "2109479324390916184",
+      "text": "Gamely - 游戏模式启动时自动关闭触发角，停止游戏后恢复设置\n\n👉 https://t.co/b3QsMtrTM1 https://t.co/OzuhEXFrBt",
+      "created_at": "Mon Oct 12 03:00:37 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "389",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZgQSNakAA596c.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109479324390916184"
+    },
+    {
+      "id": "2109478337940979962",
+      "text": "Configgy - 将应用设置备份并恢复到已有的云文件夹\n无需备份登录信息或密钥。  \n\n👉 https://t.co/81jLRM0kaw https://t.co/4P72x2F36g",
+      "created_at": "Mon Oct 12 02:56:42 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "550",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZfIe5aYAAJOzu.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZfRoPaEAAR0cR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109478337940979962"
+    },
+    {
+      "id": "2109471115567591604",
+      "text": "Findly - 可从屏幕边缘呼出的 Finder 风格文件抽屉菜单栏应用\n\n👉 https://t.co/CsnBcF5xqN https://t.co/WNSjcjCnI9",
+      "created_at": "Mon Oct 12 02:28:00 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "945",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUZYxeYbwAA2LsF.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109471115567591604"
+    },
+    {
+      "id": "2109451320939962542",
+      "text": "AquaType - 可离线使用的注音输入法，能容错纠正按键并推荐正确词语\n\n👉 https://t.co/0scTUZU74O https://t.co/u7d8DMxsaR",
+      "created_at": "Mon Oct 12 01:09:21 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 3,
+      "views": "474",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109451191226966016/img/w3_3otw1hBCkFYVm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109451320939962542"
+    },
+    {
+      "id": "2109444274278551836",
+      "text": "本地音乐模型，生成音乐与音频音乐，质量堪比 Suno \n\n非常强大，强大得可怕 😂\n\n👉 https://t.co/jeGRGzIAo3",
+      "created_at": "Mon Oct 12 00:41:21 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 2,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 6,
+      "views": "1238",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2109444274278551836"
+    },
+    {
+      "id": "2109442921959498200",
+      "text": "SwiftVM - 用于在 macOS 上运行和管理虚拟机的原生应用\n\n👉 https://t.co/etQbm60Asb https://t.co/9gYUUJ8POF",
+      "created_at": "Mon Oct 12 00:35:58 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 16,
+      "views": "956",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUY-05dacAAQBHD.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUY_JC_aMAAWlGM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109442921959498200"
+    },
+    {
+      "id": "2109438878994276360",
+      "text": "Chorus - 向多个 AI 提问，并排比较回答\n\n开源原生 macOS 应用\n\n👉 https://t.co/R9YkM02QlZ https://t.co/hJW9vfJrNE",
+      "created_at": "Mon Oct 12 00:19:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "405",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2109438698836439040/img/VgqINBYVI-wme7l_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109438878994276360"
+    },
+    {
+      "id": "2109434519845789714",
+      "text": "Yowl  - 菜单栏防盗警报原生 macOS 工具\n\nMacBook 被拔掉电源时会响起警报并锁定屏幕\n\n也可选择启用移动检测\n\n👉 https://t.co/7ij2t79bWK https://t.co/6API5lmGS4",
+      "created_at": "Mon Oct 12 00:02:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "469",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUY3PrwaMAAHbmk.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUY3U1rbwAAr5ZD.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2109434519845789714"
+    },
+    {
       "id": "2109287525873484195",
       "text": "MacAssistant - macOS 系统维护工具箱\n\n涵盖应用管理、修复、命令执行与侧载。\n\n👉 https://t.co/RE96jIqJyO https://t.co/iRox47bjx1",
       "created_at": "Sun Oct 11 14:18:29 +0000 2026",
-      "favorite_count": 9,
-      "retweet_count": 1,
-      "reply_count": 2,
+      "favorite_count": 37,
+      "retweet_count": 7,
+      "reply_count": 3,
       "quote_count": 1,
-      "bookmark_count": 18,
-      "views": "1421",
+      "bookmark_count": 45,
+      "views": "4007",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,12 +1708,12 @@
       "id": "2109248739533889538",
       "text": "两段视频相隔二十年，看看现在它们摆放元器件的速度，现在有多快\n\n感叹，我从 06年到 26年刚好从事 IT 工作 20 年，现在竟然不用人写代码了 😂 https://t.co/7KSUdXa3iA",
       "created_at": "Sun Oct 11 11:44:22 +0000 2026",
-      "favorite_count": 4,
+      "favorite_count": 5,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 1,
-      "bookmark_count": 0,
-      "views": "1647",
+      "bookmark_count": 1,
+      "views": "2572",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,12 +1729,12 @@
       "id": "2109241509308735700",
       "text": "Headroom - 磁盘空间分析与可视化工具，帮助查找占用并清理文件\n\n👉 https://t.co/Fu7anV1bHb https://t.co/21zwTO82uH",
       "created_at": "Sun Oct 11 11:15:38 +0000 2026",
-      "favorite_count": 1,
-      "retweet_count": 1,
+      "favorite_count": 4,
+      "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 8,
-      "views": "760",
+      "bookmark_count": 10,
+      "views": "999",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -87,8 +1754,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 4,
-      "views": "962",
+      "bookmark_count": 5,
+      "views": "1182",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -104,12 +1771,12 @@
       "id": "2109236687515889706",
       "text": "Awesome Open-Source Web Apps\n\nhttps://t.co/6tIONDKK2w",
       "created_at": "Sun Oct 11 10:56:28 +0000 2026",
-      "favorite_count": 4,
+      "favorite_count": 6,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 6,
-      "views": "857",
+      "bookmark_count": 9,
+      "views": "1194",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -125,7 +1792,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "651",
+      "views": "826",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -141,12 +1808,12 @@
       "id": "2109213026448822472",
       "text": "Tapestry - 将触控板轻点/按住/斜向滑动映射为按键/快捷指令或应用启动\n\n👉 https://t.co/eGZVha80bj https://t.co/YmZYgPT6iK",
       "created_at": "Sun Oct 11 09:22:27 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 4,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 5,
-      "views": "562",
+      "views": "750",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -162,12 +1829,12 @@
       "id": "2109199274902978563",
       "text": "Beav - 小红书 AI 运营工作台，支持内容采集、素材管理与 AI 创作\n\n👉 https://t.co/fQL5oFoL92 https://t.co/WQ4yoDhw6n",
       "created_at": "Sun Oct 11 08:27:48 +0000 2026",
-      "favorite_count": 26,
-      "retweet_count": 2,
+      "favorite_count": 51,
+      "retweet_count": 6,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 41,
-      "views": "3045",
+      "bookmark_count": 71,
+      "views": "4851",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -188,7 +1855,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 4,
-      "views": "726",
+      "views": "866",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -204,12 +1871,12 @@
       "id": "2109186301765505425",
       "text": "车载大屏用 13 英寸 iPad Air 替代\n\n挂入倒挡时，自动显示倒车影像，这是个什么思路？ https://t.co/TuQvhWgTol",
       "created_at": "Sun Oct 11 07:36:15 +0000 2026",
-      "favorite_count": 111,
-      "retweet_count": 1,
-      "reply_count": 10,
-      "quote_count": 0,
-      "bookmark_count": 49,
-      "views": "68750",
+      "favorite_count": 326,
+      "retweet_count": 10,
+      "reply_count": 17,
+      "quote_count": 5,
+      "bookmark_count": 139,
+      "views": "166189",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -229,12 +1896,12 @@
       "id": "2109183398245998714",
       "text": "TunnelFlow - 跨平台 SSH 隧道与端口转发管理工具\n\n👉 https://t.co/U6JtLg8DBX https://t.co/QHDn9puRHp",
       "created_at": "Sun Oct 11 07:24:43 +0000 2026",
-      "favorite_count": 15,
+      "favorite_count": 16,
       "retweet_count": 4,
       "reply_count": 0,
-      "quote_count": 0,
+      "quote_count": 1,
       "bookmark_count": 10,
-      "views": "1888",
+      "views": "2116",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -250,12 +1917,12 @@
       "id": "2109182020303937697",
       "text": "Openvid - 在浏览器中制作带缩放效果、设备样机和自定义背景的精美屏幕演示视频。\n\n👉 https://t.co/m4sulct6t5 https://t.co/amDM7pVM4w",
       "created_at": "Sun Oct 11 07:19:15 +0000 2026",
-      "favorite_count": 0,
-      "retweet_count": 0,
+      "favorite_count": 3,
+      "retweet_count": 1,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "326",
+      "bookmark_count": 4,
+      "views": "459",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -276,7 +1943,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "343",
+      "views": "450",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -292,12 +1959,12 @@
       "id": "2109173436241338722",
       "text": "Unison UI - Unison 文件同步工具的图形界面\n\n👉 https://t.co/Z0AcoUODcP https://t.co/GHc3WhKSRM",
       "created_at": "Sun Oct 11 06:45:08 +0000 2026",
-      "favorite_count": 10,
+      "favorite_count": 12,
       "retweet_count": 2,
       "reply_count": 2,
       "quote_count": 0,
-      "bookmark_count": 3,
-      "views": "1150",
+      "bookmark_count": 4,
+      "views": "1515",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -313,12 +1980,12 @@
       "id": "2109172049575096328",
       "text": "红果短剧 - 开源 Mac 短剧播放器与下载器 \n\n在 Mac 上发现短剧、按集下载、接着观看，把已下载的分集合并为一个视频\n\n👉 https://t.co/tLVs4ToDks https://t.co/Dvt83upbsn",
       "created_at": "Sun Oct 11 06:39:37 +0000 2026",
-      "favorite_count": 31,
-      "retweet_count": 5,
-      "reply_count": 0,
-      "quote_count": 0,
-      "bookmark_count": 62,
-      "views": "5884",
+      "favorite_count": 45,
+      "retweet_count": 9,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 85,
+      "views": "11536",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -338,8 +2005,8 @@
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 1,
-      "views": "535",
+      "bookmark_count": 3,
+      "views": "624",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -355,12 +2022,12 @@
       "id": "2109168680445874583",
       "text": "Redpen - 用语音为截图添加红笔批注，并发送给 AI 模型\n\n👉 https://t.co/uMDL6ZzfcS https://t.co/V3acWwvueB",
       "created_at": "Sun Oct 11 06:26:14 +0000 2026",
-      "favorite_count": 3,
+      "favorite_count": 5,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 2,
-      "views": "632",
+      "bookmark_count": 4,
+      "views": "758",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -376,12 +2043,12 @@
       "id": "2109167740514861519",
       "text": "Caffeinator - 菜单栏工具，可防止 Mac 休眠并定时睡眠、重启或关机\n\n👉 https://t.co/x6PqX8hwwp https://t.co/t2ld2y9Vfe",
       "created_at": "Sun Oct 11 06:22:30 +0000 2026",
-      "favorite_count": 6,
-      "retweet_count": 0,
+      "favorite_count": 7,
+      "retweet_count": 2,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "1018",
+      "views": "1191",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -406,7 +2073,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "546",
+      "views": "652",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -422,12 +2089,12 @@
       "id": "2109137487377608898",
       "text": "Mousip - 倾斜鼠标滚轮即可切换 macOS 桌面空间和全屏应用的菜单栏工具\n\n👉 https://t.co/rUjeSLYQHm https://t.co/Y5NXBfxWVP",
       "created_at": "Sun Oct 11 04:22:17 +0000 2026",
-      "favorite_count": 9,
-      "retweet_count": 0,
+      "favorite_count": 12,
+      "retweet_count": 2,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 12,
-      "views": "1672",
+      "bookmark_count": 14,
+      "views": "2151",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -443,12 +2110,12 @@
       "id": "2109128636758675637",
       "text": "buffTerm - AI 驱动的桌面 SSH 管理工具\n\n支持通过自然语言管理服务器\n\n👉 https://t.co/UbBojqnt4Y https://t.co/sO7ntISu2y",
       "created_at": "Sun Oct 11 03:47:07 +0000 2026",
-      "favorite_count": 4,
-      "retweet_count": 1,
-      "reply_count": 1,
+      "favorite_count": 6,
+      "retweet_count": 2,
+      "reply_count": 2,
       "quote_count": 0,
-      "bookmark_count": 13,
-      "views": "1278",
+      "bookmark_count": 19,
+      "views": "1741",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -464,12 +2131,12 @@
       "id": "2109126246709985325",
       "text": "Hardly Working - 菜单栏应用，防止 Teams 和 Slack 将你显示为离开状态\n\n👉 https://t.co/UiUDonhWHT https://t.co/Y3KSXlpWz0",
       "created_at": "Sun Oct 11 03:37:37 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 3,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
-      "bookmark_count": 2,
-      "views": "726",
+      "bookmark_count": 3,
+      "views": "811",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -485,12 +2152,12 @@
       "id": "2109115944899584410",
       "text": "B 站博主吐槽自己学的计算机是垃圾行业，我觉得应该理性看待。\n\n计算机专业 ≠ 程序员岗位  \n行业发展 ≠ 个人就业好坏  \n入行困难 ≠ 职业没有价值\n\n现在计算机行业的入行门槛越来越高，普通程序员的竞争超级激烈，AI 也在压缩部分基础编码工作的价值。\n\n但技术行业并没有消失，而是在加速分化。\n\n曾经有人问我，现在还要不要报计算机专业？我的看法是：没有哪个专业能保证长期吃香，选择专业更应该结合个人兴趣、能力和未来规划。\n\n真正过时的不是计算机专业，而是把「会写代码」当成长期竞争优势的思路。\n\n当 AI 让写代码越来越容易，发现问题、解决问题、创造价值的能力，才是更值得长期积累的竞争力。",
       "created_at": "Sun Oct 11 02:56:41 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "826",
+      "bookmark_count": 1,
+      "views": "1009",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -506,12 +2173,12 @@
       "id": "2109104541933490269",
       "text": "致开源作者！\n\n下面 4种情况，需要将一个特殊命令添加到你的文档中，告知大家运行该命令\n\n✅ 开发者没有 Apple Developer 账号，分发未签名应用\n✅ 应用没有经过 Apple 公证（Notarization）\n⚠️ 从 GitHub 下载应用，首次打开提示无法验证开发者\n⚠️ 提示“应用已损坏，无法打开”(有可能需要)\n\n命令解决 macOS 应用因下载隔离属性（https://t.co/zT2B3MrWFc.quarantine）而被系统安全机制拦截、无法正常打开的问题，命令如下：\n\nxattr -dr https://t.co/zT2B3MrWFc.quarantine \"/Applications/应用名称.app\"",
       "created_at": "Sun Oct 11 02:11:22 +0000 2026",
-      "favorite_count": 28,
+      "favorite_count": 31,
       "retweet_count": 3,
       "reply_count": 5,
-      "quote_count": 0,
-      "bookmark_count": 32,
-      "views": "4649",
+      "quote_count": 1,
+      "bookmark_count": 38,
+      "views": "5375",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -527,12 +2194,12 @@
       "id": "2109003929858310261",
       "text": "映匣 Yingxia：原生免费开源 TVBox 播放器\n\n支持 Mac、Apple TV、iPhone 和 iPad。\n\n可导入自己的订阅，跨源搜索、看点播和直播\n\n👉 https://t.co/bYWUgXky1N https://t.co/MOeqDVCVY9",
       "created_at": "Sat Oct 10 19:31:34 +0000 2026",
-      "favorite_count": 301,
-      "retweet_count": 45,
+      "favorite_count": 348,
+      "retweet_count": 46,
       "reply_count": 9,
       "quote_count": 3,
-      "bookmark_count": 470,
-      "views": "33608",
+      "bookmark_count": 522,
+      "views": "39036",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -550,10 +2217,10 @@
       "created_at": "Sat Oct 10 14:15:50 +0000 2026",
       "favorite_count": 7,
       "retweet_count": 0,
-      "reply_count": 2,
+      "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 10,
-      "views": "7785",
+      "views": "8215",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -573,12 +2240,12 @@
       "id": "2108916963498197261",
       "text": "我最喜欢的命令行工具，更新 v2.0 侧边了项目列表全没有了 😂 https://t.co/2RwmElBJkR",
       "created_at": "Sat Oct 10 13:46:00 +0000 2026",
-      "favorite_count": 3,
+      "favorite_count": 4,
       "retweet_count": 0,
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1247",
+      "views": "1309",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -599,7 +2266,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 31,
-      "views": "4179",
+      "views": "4434",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -615,7 +2282,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 32,
-      "views": "4533",
+      "views": "4664",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -628,10 +2295,10 @@
       "created_at": "Sat Oct 10 11:57:03 +0000 2026",
       "favorite_count": 12,
       "retweet_count": 0,
-      "reply_count": 3,
+      "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 8,
-      "views": "1908",
+      "views": "1975",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -647,12 +2314,12 @@
       "id": "2108866487473885591",
       "text": "Wow！非苹果设备支持苹果的 airdrop 功能\n\n👉 https://t.co/0RBaTpreGf https://t.co/gqAquwNtvN",
       "created_at": "Sat Oct 10 10:25:26 +0000 2026",
-      "favorite_count": 117,
-      "retweet_count": 17,
+      "favorite_count": 132,
+      "retweet_count": 18,
       "reply_count": 1,
-      "quote_count": 0,
-      "bookmark_count": 113,
-      "views": "9716",
+      "quote_count": 1,
+      "bookmark_count": 131,
+      "views": "12739",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -673,7 +2340,7 @@
       "reply_count": 13,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "533",
+      "views": "585",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -694,7 +2361,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 7,
-      "views": "796",
+      "views": "825",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -710,12 +2377,12 @@
       "id": "2108849221575364725",
       "text": "飞晚卡下架了，飞琪卡来了，跟飞晚卡一样的划算\n\n300G/300分钟，39元/月，没有第一年 29元/月优惠\n\n年龄限制宽泛 18~60岁限制\n价格便宜：39元/月\n\n⚠️ 注意：实名/激活/首冲 ~ 通过 ~ 后 ~ 4天内发货 📦 https://t.co/E1Xx7YvJ5n",
       "created_at": "Sat Oct 10 09:16:49 +0000 2026",
-      "favorite_count": 1,
+      "favorite_count": 4,
       "retweet_count": 0,
-      "reply_count": 0,
+      "reply_count": 3,
       "quote_count": 1,
-      "bookmark_count": 5,
-      "views": "8928",
+      "bookmark_count": 12,
+      "views": "14674",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -733,10 +2400,10 @@
       "created_at": "Sat Oct 10 06:59:10 +0000 2026",
       "favorite_count": 29,
       "retweet_count": 2,
-      "reply_count": 0,
+      "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 37,
-      "views": "2832",
+      "views": "2934",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -1777,12 +3444,12 @@
       "id": "2107810554073264481",
       "text": "差点忘记了，这个国庆节，是我失业的第 3 年\n\n3 年前，我决定开始做独立开发者，专门做 iOS/macOS 应用\n\n当时给自己定了一个目标：上架 100 个应用\n\n到现在一共完成了 34 个，差不多完成了 1/3\n\n当初开始做独立开发，一方面是想借这个机会把 Swift 真正学精，另一方面也是想看看能不能做出一些产品，挣点钱\n\n但事情的发展多少有点事与愿违\n\n前 32 个应用基本都是我纯手工一点一点写出来的，后期才开始用 AI 辅助维护；还有 2 个应用基本上是纯 AI 制作\n\n再之后，我就一直没有再开发新的应用了\n\n原因简单：用 AI 写应用以后，开发的乐趣完全没有了\n\n以前自己写代码，遇到问题、解决问题、把一个想法一点点变成应用，这个过程本身就是一种乐趣。但现在很多东西交给 AI，很快就能做出来，反而少了那种自己折腾的感觉\n\n更现实的问题是，我做的多个应用也被别人直接平替了，甚至还有人专门通知我，说他们做了类似的东西\n\n而我本来收入就没有多少，现在就更少了\n\n所以，上架 100 个应用这个目标目前还是存在的，并没有放弃\n\n只是以后新应用的开发顺序会变\n\n第一优先级，是为捐赠用户、付费用户解决他们真正需要的问题\n\n第二优先级，是开发一些我自己真正用得上的工具\n\n至于为了“做而做”的应用，可能就不会再做了\n\n毕竟做了 3 年，我现在更希望做出来的东西，是真的有人需要，也是真的对自己有用",
       "created_at": "Wed Oct 07 12:29:31 +0000 2026",
-      "favorite_count": 247,
+      "favorite_count": 249,
       "retweet_count": 10,
       "reply_count": 128,
       "quote_count": 6,
-      "bookmark_count": 104,
-      "views": "47802",
+      "bookmark_count": 105,
+      "views": "48653",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
