@@ -7,25 +7,125 @@
     "nickname": "XiuerOld",
     "profile_url": "https://vibeloft.ai/profile/xiuerold"
   },
-  "generated_at": "2026-10-13T14:02:32.706078Z",
+  "generated_at": "2026-10-16T13:02:27.790413Z",
   "stats": {
-    "tweet_count": 142,
-    "latest_tweet_created_at": "2026-10-13T12:50:52Z",
-    "latest_tweet_id": "2109990251020366207",
+    "tweet_count": 147,
+    "latest_tweet_created_at": "2026-10-16T01:46:58Z",
+    "latest_tweet_id": "2110910339604951248",
     "oldest_tweet_created_at": "2014-01-24T12:20:56Z",
     "oldest_tweet_id": "426691081695010816"
   },
   "tweets": [
     {
-      "id": "2109990251020366207",
-      "text": "https://t.co/vgQPTJ6rw2",
-      "created_at": "Tue Oct 13 12:50:52 +0000 2026",
+      "id": "2110910339604951248",
+      "text": "Right decision https://t.co/zSEo8lCKW3",
+      "created_at": "Fri Oct 16 01:46:58 +0000 2026",
       "favorite_count": 0,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "15",
+      "views": "12",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUt1qWUbwAAHJoS.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2110910339604951248"
+    },
+    {
+      "id": "2110905132447912446",
+      "text": "RT @antigravity: We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we…",
+      "created_at": "Fri Oct 16 01:26:16 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1206,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2110905132447912446"
+    },
+    {
+      "id": "2110725548003733771",
+      "text": "看到大佬头像追的番，想不到勇者第二集就下线了 https://t.co/5dRs3R94W6",
+      "created_at": "Thu Oct 15 13:32:40 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "34",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUrNsWqawAAGgp6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110725548003733771"
+    },
+    {
+      "id": "2110684298714189873",
+      "text": "https://t.co/fuTDDe303X",
+      "created_at": "Thu Oct 15 10:48:46 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "36",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUqoLBya8AAJGgv.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110684298714189873"
+    },
+    {
+      "id": "2110203616707653945",
+      "text": "Oh Gemini 4，要 Ultra plan吗？ https://t.co/HP6V9L733w",
+      "created_at": "Wed Oct 14 02:58:42 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "25",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUjy13DawAAGkl7.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2110203616707653945"
+    },
+    {
+      "id": "2109990251020366207",
+      "text": "https://t.co/vgQPTJ6rw2",
+      "created_at": "Tue Oct 13 12:50:52 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "25",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +167,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "20",
+      "views": "26",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -88,7 +188,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "22",
+      "views": "25",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -104,7 +204,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "42",
+      "views": "44",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -120,7 +220,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "25",
+      "views": "26",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -141,7 +241,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "33",
+      "views": "34",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -162,7 +262,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "25",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
