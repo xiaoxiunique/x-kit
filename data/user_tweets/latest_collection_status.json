@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:01:18.009521Z",
+  "generated_at": "2026-10-16T08:04:14.357826Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -930,24 +930,25 @@
       "vibeloft_username": "drmrzhong",
       "vibeloft_nickname": "AI设计钟师傅",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/drmrzhong",
-      "started_at": "2026-10-13T10:00:42.870936Z",
+      "started_at": "2026-10-16T08:00:40.120127Z",
       "data_file": "data/user_tweets/vibeloft/drmrzhong.json",
-      "stop_on_existing": true,
+      "stop_on_existing": false,
       "handle": "drmrzhong",
-      "updated_at": "2026-10-13T10:02:42.362375Z",
+      "updated_at": "2026-10-16T08:04:14.357807Z",
       "failed_at": "2026-07-22T11:20:34.428714Z",
       "history_complete": true,
       "error": "",
-      "completed_at": "2026-10-13T10:02:42.359837Z",
-      "completed_at_local": "2026-10-13T18:02:42.359881+08:00",
-      "pages_collected_total": 3,
-      "new_tweets_last_run": 23,
+      "completed_at": "2026-10-16T08:04:14.356108Z",
+      "completed_at_local": "2026-10-16T16:04:14.356131+08:00",
+      "pages_collected_total": 4,
+      "new_tweets_last_run": 8,
       "stop_reason": "consecutive_empty_pages_3",
-      "tweet_count": 740,
-      "latest_tweet_created_at": "2026-10-13T08:46:43Z",
-      "latest_tweet_id": "2109928810686894308",
+      "tweet_count": 748,
+      "latest_tweet_created_at": "2026-10-15T05:09:23Z",
+      "latest_tweet_id": "2110598891746001115",
       "oldest_tweet_created_at": "2025-05-10T09:59:01Z",
-      "oldest_tweet_id": "1921142926496661551"
+      "oldest_tweet_id": "1921142926496661551",
+      "paused_at": "2026-10-16T07:13:45.761716Z"
     },
     "isacedx": {
       "status": "completed",
