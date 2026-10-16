@@ -7,15 +7,36 @@
     "nickname": "Joey Zhu",
     "profile_url": "https://vibeloft.ai/profile/joeyzhu"
   },
-  "generated_at": "2026-10-13T08:01:14.788313Z",
+  "generated_at": "2026-10-16T05:02:00.863770Z",
   "stats": {
-    "tweet_count": 52,
-    "latest_tweet_created_at": "2026-10-09T05:26:28Z",
-    "latest_tweet_id": "2108428863303029226",
+    "tweet_count": 53,
+    "latest_tweet_created_at": "2026-10-15T15:56:10Z",
+    "latest_tweet_id": "2110761659698655737",
     "oldest_tweet_created_at": "2025-03-06T08:47:06Z",
     "oldest_tweet_id": "1897569616156905638"
   },
   "tweets": [
+    {
+      "id": "2110761659698655737",
+      "text": "🤥 The best email I got this week came from someone we had just banned.\n\nA student had made several Motionflare accounts to farm free credits. We caught it and suspended them.\n\nThey wrote back: running a school video project alone, heavy workload, couldn't afford a plan.\n\nThen: here's exactly what I did, I was wrong, here are the 2 loopholes I used so you can fix them. No ask to get the accounts back.\n\nWe restored their main account anyway. Give them 2 months of Pro, 100 extra credits. The extra accounts stay closed.\n\nAs a solo founder, much of my week goes into limits and abuse checks. Easy to start seeing users as edge cases.\n\nGood reminder: you can hold the line on the rule and still be generous to the person.\n\n#buildinpublic #saas #founder #startup",
+      "created_at": "Thu Oct 15 15:56:10 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "40",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUruLWba0AASYq4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110761659698655737"
+    },
     {
       "id": "2108428863303029226",
       "text": "Claude Motion is amazing.\n\nWant an amazing product launch video too? Check https://t.co/Z9mjAAjQT1 https://t.co/EMY0L9dssd",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "46",
+      "views": "51",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -46,7 +67,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "60",
+      "views": "61",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -99,7 +120,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "182",
+      "views": "184",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -474,7 +495,7 @@
       "quote_count": 0,
       "bookmark_count": 0,
       "views": "47",
-      "lang": "id",
+      "lang": "in",
       "is_retweet": false,
       "is_quote": true,
       "media": [],
