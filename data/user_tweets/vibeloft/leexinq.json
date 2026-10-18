@@ -7,15 +7,57 @@
     "nickname": "Leo",
     "profile_url": "https://vibeloft.ai/profile/leo3"
   },
-  "generated_at": "2026-10-15T11:02:52.424900Z",
+  "generated_at": "2026-10-18T04:01:54.474731Z",
   "stats": {
-    "tweet_count": 532,
-    "latest_tweet_created_at": "2026-10-14T16:48:39Z",
-    "latest_tweet_id": "2110412482221347224",
+    "tweet_count": 534,
+    "latest_tweet_created_at": "2026-10-16T14:24:43Z",
+    "latest_tweet_id": "2111101033145598210",
     "oldest_tweet_created_at": "2020-03-14T02:50:49Z",
     "oldest_tweet_id": "1238658817325289473"
   },
   "tweets": [
+    {
+      "id": "2111101033145598210",
+      "text": "大哥还偏科了，数理化人才啊！ https://t.co/RkWtgZakLT",
+      "created_at": "Fri Oct 16 14:24:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "80",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUwjKZWbIAAtnPS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2111101033145598210"
+    },
+    {
+      "id": "2110715596480582028",
+      "text": "大哥人生第一考：58 https://t.co/wvstzqN0TC",
+      "created_at": "Thu Oct 15 12:53:08 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "199",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUrEjCyacAEaS_S.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2110715596480582028"
+    },
     {
       "id": "2110412482221347224",
       "text": "服了，因为演示视频和截图有Chrome, ChatGPT被拒绝！ https://t.co/TcRhI75AMj",
@@ -25,7 +67,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "95",
+      "views": "100",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +88,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "124",
+      "views": "125",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -771,7 +813,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "294",
+      "views": "297",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
