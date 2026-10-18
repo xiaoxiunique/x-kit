@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:01:54.513863Z",
+  "generated_at": "2026-10-18T06:03:09.903455Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -427,23 +427,24 @@
       "vibeloft_username": "timtimtim",
       "vibeloft_nickname": "timtimtim",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/timtimtim",
-      "started_at": "2026-10-15T12:00:42.629400Z",
+      "started_at": "2026-10-18T06:00:38.246773Z",
       "data_file": "data/user_tweets/vibeloft/timtimtim_eth.json",
-      "stop_on_existing": true,
+      "stop_on_existing": false,
       "handle": "timtimtim_eth",
-      "updated_at": "2026-10-15T12:03:58.930029Z",
-      "completed_at": "2026-10-15T12:03:58.927920Z",
-      "completed_at_local": "2026-10-15T20:03:58.927954+08:00",
+      "updated_at": "2026-10-18T06:03:09.903442Z",
+      "completed_at": "2026-10-18T06:03:09.902124Z",
+      "completed_at_local": "2026-10-18T14:03:09.902141+08:00",
       "history_complete": true,
-      "pages_collected_total": 2,
-      "new_tweets_last_run": 7,
+      "pages_collected_total": 4,
+      "new_tweets_last_run": 3,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
-      "tweet_count": 965,
-      "latest_tweet_created_at": "2026-10-15T07:32:43Z",
-      "latest_tweet_id": "2110634963368640596",
+      "tweet_count": 968,
+      "latest_tweet_created_at": "2026-10-17T22:35:34Z",
+      "latest_tweet_id": "2111586948087197892",
       "oldest_tweet_created_at": "2025-07-02T12:46:41Z",
-      "oldest_tweet_id": "1940391677740654617"
+      "oldest_tweet_id": "1940391677740654617",
+      "paused_at": "2026-10-18T05:04:40.915148Z"
     },
     "alifeiliu": {
       "status": "completed",
