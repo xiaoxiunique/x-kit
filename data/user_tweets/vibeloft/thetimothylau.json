@@ -7,15 +7,36 @@
     "nickname": "Timothy Lau",
     "profile_url": "https://vibeloft.ai/profile/timothylau"
   },
-  "generated_at": "2026-10-15T23:01:20.208616Z",
+  "generated_at": "2026-10-18T17:01:54.887147Z",
   "stats": {
-    "tweet_count": 56,
-    "latest_tweet_created_at": "2026-09-22T16:14:41Z",
-    "latest_tweet_id": "2102431399013986555",
+    "tweet_count": 57,
+    "latest_tweet_created_at": "2026-10-18T11:05:03Z",
+    "latest_tweet_id": "2111775561102348568",
     "oldest_tweet_created_at": "2023-11-16T06:36:17Z",
     "oldest_tweet_id": "1725040072020595027"
   },
   "tweets": [
+    {
+      "id": "2111775561102348568",
+      "text": "我很喜欢 Shottr 这样小巧、精致、顺手的软件，做 Openbroca 时也受了它的启发。\n\n丢掉没必要的统计、花哨的面板和多余的打扰，把心思放在每天用得到的细节上，让语音输入更简单、更顺手。\n\n今天 Launching on Product Hunt，喜欢的话 Openbroca 投上一票，谢谢支持！\n\nhttps://t.co/1QT1f6TcGw https://t.co/e6UD4itECI",
+      "created_at": "Sun Oct 18 11:05:03 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "26",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111774022749011968/img/dIXC7E-qUg68gdas.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2111775561102348568"
+    },
     {
       "id": "2102431399013986555",
       "text": "自己做了个剪刀石头布的游戏，结果发现怎么玩都赢不了。。。\n\n到底谁能赢 jev 啊？\n\nhttps://t.co/ChmXCn03yF https://t.co/CLmlSNTfQP",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "117",
+      "views": "121",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -509,7 +530,7 @@
       "text": "RT @SpaceX: Mechazilla has caught the Super Heavy booster! https://t.co/6R5YatSVJX",
       "created_at": "Sun Oct 13 12:37:34 +0000 2024",
       "favorite_count": 0,
-      "retweet_count": 60109,
+      "retweet_count": 60051,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -685,7 +706,7 @@
       "text": "RT @calicastle: 还有什么方式能更好地庆祝 @moimoi_app 内测启动呢？\n感谢大家的热情与支持 🫶\n🎉 直接开始抽奖送周边三十份！\n\n你将获得 🎁\n❖ moimoi 帆布袋一个\n❖ moimoi 贴纸一页\n❖ moimoi 冰箱贴一枚\n\n参与方式…",
       "created_at": "Tue Apr 30 07:37:30 +0000 2024",
       "favorite_count": 0,
-      "retweet_count": 114,
+      "retweet_count": 113,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
