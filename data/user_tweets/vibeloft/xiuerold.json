@@ -7,15 +7,94 @@
     "nickname": "XiuerOld",
     "profile_url": "https://vibeloft.ai/profile/xiuerold"
   },
-  "generated_at": "2026-10-16T13:02:27.790413Z",
+  "generated_at": "2026-10-19T05:02:29.742100Z",
   "stats": {
-    "tweet_count": 147,
-    "latest_tweet_created_at": "2026-10-16T01:46:58Z",
-    "latest_tweet_id": "2110910339604951248",
+    "tweet_count": 151,
+    "latest_tweet_created_at": "2026-10-19T04:41:19Z",
+    "latest_tweet_id": "2112041378293436702",
     "oldest_tweet_created_at": "2014-01-24T12:20:56Z",
     "oldest_tweet_id": "426691081695010816"
   },
   "tweets": [
+    {
+      "id": "2112041378293436702",
+      "text": "擦眼睛👀 https://t.co/ASYB2Sd955",
+      "created_at": "Mon Oct 19 04:41:19 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2111920524490063873/img/cVudzbE6cakW-EQC.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112041378293436702"
+    },
+    {
+      "id": "2112039716988301699",
+      "text": "帅 就差头发变色了 https://t.co/zppf2xpaTF",
+      "created_at": "Mon Oct 19 04:34:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "3",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU946HtaMAAI-F_.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112039716988301699"
+    },
+    {
+      "id": "2111754955174609329",
+      "text": "https://t.co/bSkujDPmmL",
+      "created_at": "Sun Oct 18 09:43:10 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "29",
+      "lang": "zxx",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU517XcaIAA2ruc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2111754955174609329"
+    },
+    {
+      "id": "2111230649906651621",
+      "text": "RT @_chenglou: My dear friends, I’d like to show you my latest toy project\n\nIntroducing Handwired: turn your regular JavaScript code into a…",
+      "created_at": "Fri Oct 16 22:59:46 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1002,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2111230649906651621"
+    },
     {
       "id": "2110910339604951248",
       "text": "Right decision https://t.co/zSEo8lCKW3",
@@ -25,7 +104,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "12",
+      "views": "14",
       "lang": "en",
       "is_retweet": false,
       "is_quote": true,
@@ -42,7 +121,7 @@
       "text": "RT @antigravity: We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we…",
       "created_at": "Fri Oct 16 01:26:16 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 1206,
+      "retweet_count": 1320,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -62,7 +141,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "34",
+      "views": "37",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -83,7 +162,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "36",
+      "views": "38",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -104,7 +183,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "25",
+      "views": "27",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -125,7 +204,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "25",
+      "views": "26",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
