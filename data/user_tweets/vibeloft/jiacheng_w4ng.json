@@ -7,15 +7,31 @@
     "nickname": "Jason Wang",
     "profile_url": "https://vibeloft.ai/profile/jasonwang"
   },
-  "generated_at": "2026-10-16T14:01:18.151119Z",
+  "generated_at": "2026-10-19T06:01:53.632136Z",
   "stats": {
-    "tweet_count": 72,
-    "latest_tweet_created_at": "2026-10-09T02:47:22Z",
-    "latest_tweet_id": "2108388823084462507",
+    "tweet_count": 73,
+    "latest_tweet_created_at": "2026-10-18T05:46:51Z",
+    "latest_tweet_id": "2111695485459435665",
     "oldest_tweet_created_at": "2022-12-21T01:50:22Z",
     "oldest_tweet_id": "1605380124320206849"
   },
   "tweets": [
+    {
+      "id": "2111695485459435665",
+      "text": "对图标的应用也是类似的道理。我最开始是在iconfont这类图标库里找，费劲不说，随着图标数量的增加必然会导致图标风格出现差异，变得丑陋只是时间问题。后来直接梭哈SF Symbol，效果立竿见影。当然，SF Symbol也会有自己的问题，例如有些icon原生没有做视觉对齐，同一个字重不同icon看着会明显有差异。所以，我现在又开始转向第三方的库，例如lucide。一个项目原则上只用一个库，如果实在找不到要的icon，就把这个库的设计规范给codex让他在规范内绘制。",
+      "created_at": "Sun Oct 18 05:46:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2111695485459435665"
+    },
     {
       "id": "2108388823084462507",
       "text": "对于非英语母语的开发者而言，大家在做多语言的时候，可能会经常碰到一个问题：好像这2个词都对，到底该用哪个呢？\n\n分享一个我在英国念语言班时，当时的语言老师教给我们的方法：Google Image。你可以去google image搜索你觉得都对的词，分别看出现的是什么图片比较多，这通常代表着英语母语者看到这个词的时候，脑海中出现的画面。用这个来选择合适词，大多数时候不会出错。",
@@ -985,7 +1001,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "86",
+      "views": "87",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
