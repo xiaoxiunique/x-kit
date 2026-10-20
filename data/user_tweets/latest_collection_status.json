@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:01:53.473971Z",
+  "generated_at": "2026-10-20T20:01:14.890238Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -249,13 +249,13 @@
       "vibeloft_username": "thejovenelizaos",
       "vibeloft_nickname": "thejoven - ElizaOS",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/thejovenelizaos",
-      "started_at": "2026-10-17T22:00:37.586951Z",
+      "started_at": "2026-10-20T20:00:38.427621Z",
       "data_file": "data/user_tweets/vibeloft/thejoven_com.json",
       "stop_on_existing": true,
       "handle": "thejoven_com",
-      "updated_at": "2026-10-17T22:01:13.562232Z",
-      "completed_at": "2026-10-17T22:01:13.561287Z",
-      "completed_at_local": "2026-10-18T06:01:13.561304+08:00",
+      "updated_at": "2026-10-20T20:01:14.890222Z",
+      "completed_at": "2026-10-20T20:01:14.888016Z",
+      "completed_at_local": "2026-10-21T04:01:14.888037+08:00",
       "history_complete": true,
       "pages_collected_total": 1,
       "new_tweets_last_run": 0,
