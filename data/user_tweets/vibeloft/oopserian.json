@@ -7,15 +7,61 @@
     "nickname": "Erian",
     "profile_url": "https://vibeloft.ai/profile/erian"
   },
-  "generated_at": "2026-10-14T12:01:51.203253Z",
+  "generated_at": "2026-10-20T03:03:07.079135Z",
   "stats": {
-    "tweet_count": 14,
-    "latest_tweet_created_at": "2026-10-13T04:20:19Z",
-    "latest_tweet_id": "2109861767878942980",
+    "tweet_count": 16,
+    "latest_tweet_created_at": "2026-10-20T01:10:48Z",
+    "latest_tweet_id": "2112350791126413592",
     "oldest_tweet_created_at": "2023-10-24T13:54:28Z",
     "oldest_tweet_id": "1716815422262239687"
   },
   "tweets": [
+    {
+      "id": "2112350791126413592",
+      "text": "可算有一个好看的开源代理软件了 https://t.co/6bVreIBG6F",
+      "created_at": "Tue Oct 20 01:10:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "6",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVCTwfhbwAAuFHK.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVCTy11akAAgDN4.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112350791126413592"
+    },
+    {
+      "id": "2111842930701029800",
+      "text": "Started making a game\nWould love to hear what you think 👀\n#steam #indiedeveloper  #CozySeason #unity3d https://t.co/jBXcAcuxCJ",
+      "created_at": "Sun Oct 18 15:32:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "23",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU7F8cnbgAE1zsx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2111842930701029800"
+    },
     {
       "id": "2109861767878942980",
       "text": "可以安稳了🤩 https://t.co/5aMF7QmIfE",
@@ -25,7 +71,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "12",
+      "views": "32",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +92,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "76",
+      "views": "100",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -130,7 +176,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "245",
+      "views": "250",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -151,7 +197,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "179",
+      "views": "184",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -172,7 +218,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "93",
+      "views": "98",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -214,7 +260,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "107",
+      "views": "112",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -235,7 +281,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "264",
+      "views": "268",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -268,7 +314,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "169",
+      "views": "172",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -310,7 +356,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "131",
+      "views": "134",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
