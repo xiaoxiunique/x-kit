@@ -7,15 +7,57 @@
     "nickname": "isaced",
     "profile_url": "https://vibeloft.ai/profile/isaced"
   },
-  "generated_at": "2026-10-19T02:06:05.079537Z",
+  "generated_at": "2026-10-21T23:01:55.502456Z",
   "stats": {
-    "tweet_count": 105,
-    "latest_tweet_created_at": "2026-10-18T14:52:51Z",
-    "latest_tweet_id": "2111832887704350762",
+    "tweet_count": 107,
+    "latest_tweet_created_at": "2026-10-21T17:46:18Z",
+    "latest_tweet_id": "2112963703826178158",
     "oldest_tweet_created_at": "2012-07-16T02:23:49Z",
     "oldest_tweet_id": "224690772623114240"
   },
   "tweets": [
+    {
+      "id": "2112963703826178158",
+      "text": "一个全新的 macOS 应用即将到来 https://t.co/5sC4mzc3eo",
+      "created_at": "Wed Oct 21 17:46:18 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "21",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVLBNvNbQAA6Zh8.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112963703826178158"
+    },
+    {
+      "id": "2112181152555667534",
+      "text": "让 MiniMax-M3.1-Flash 画了几十张图，一次出，效果还行。 https://t.co/eHAeiRRjXW",
+      "created_at": "Mon Oct 19 13:56:43 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "66",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU_5W-WbAAAflAB.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112181152555667534"
+    },
     {
       "id": "2111832887704350762",
       "text": "试了下 agent-device 真心推荐，agent 真触摸注入 + 原生录屏，一条 gesture pan，10 秒 demo 贴进 PR，免真机人肉回归，reviewer 3 秒看懂交互，这样带视频的 PR 谁不喜欢。 https://t.co/SUDtclAx6m",
@@ -25,7 +67,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "47",
+      "views": "80",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -50,7 +92,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "96",
+      "views": "99",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -71,7 +113,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "53",
+      "views": "64",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -92,7 +134,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "99",
+      "views": "118",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -117,7 +159,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "116",
+      "views": "132",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -138,7 +180,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "56",
+      "views": "58",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -281,7 +323,7 @@
       "text": "RT @deepseek_ai: 🚀 DeepSeek-V3-0324 is out now!\n\n🔹 Major boost in reasoning performance\n🔹 Stronger front-end development skills\n🔹 Smarter t…",
       "created_at": "Tue Mar 25 13:44:14 +0000 2025",
       "favorite_count": 0,
-      "retweet_count": 1857,
+      "retweet_count": 1856,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
