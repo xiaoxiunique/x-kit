@@ -7,25 +7,759 @@
     "nickname": "大帅",
     "profile_url": "https://vibeloft.ai/profile/ezshine"
   },
-  "generated_at": "2026-10-20T18:01:52.942620Z",
+  "generated_at": "2026-10-23T19:02:49.619668Z",
   "stats": {
-    "tweet_count": 1165,
-    "latest_tweet_created_at": "2026-10-20T17:08:48Z",
-    "latest_tweet_id": "2112591878118088753",
+    "tweet_count": 1202,
+    "latest_tweet_created_at": "2026-10-23T18:02:51Z",
+    "latest_tweet_id": "2113692645944164499",
     "oldest_tweet_created_at": "2024-03-01T12:16:02Z",
     "oldest_tweet_id": "1763538685159465250"
   },
   "tweets": [
     {
-      "id": "2112591878118088753",
-      "text": "这真是我有史以来最全面的一次提审 https://t.co/yKuRjU8ZBD",
-      "created_at": "Tue Oct 20 17:08:48 +0000 2026",
+      "id": "2113692645944164499",
+      "text": "终于干死这个白板帝了\n\n我的原创国风麻将肉鸽游戏\n《麻雀旅人：叠番构筑麻将 》\nhttps://t.co/BWjF1Sj1Fk https://t.co/1Xe05NDZ38",
+      "created_at": "Fri Oct 23 18:02:51 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "155",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVVXrGDbIAAuKnE.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2113692645944164499"
+    },
+    {
+      "id": "2113641206488137897",
+      "text": "房车游戏我想学陈星汉大佬的Journey，做点轻度社交玩法 https://t.co/gjntiDZqo3",
+      "created_at": "Fri Oct 23 14:38:27 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "619",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVUpUetaYAAIAlf.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113641206488137897"
+    },
+    {
+      "id": "2113537746426036260",
+      "text": "传奇程序员已下线，周一见 https://t.co/uHsXOuTDa5",
+      "created_at": "Fri Oct 23 07:47:21 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1230",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVTLUKwbMAEwaYT.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2113537746426036260"
+    },
+    {
+      "id": "2113530315721609417",
+      "text": "大家快看，我的房车会飞\n\n#gamedev https://t.co/aYMqr2No8u",
+      "created_at": "Fri Oct 23 07:17:49 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1436",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113530143369256960/img/EcWQNHue-oAipFhY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113530315721609417"
+    },
+    {
+      "id": "2113492983467442649",
+      "text": "越野车 + 拖挂它来了\n\n#gamedev https://t.co/N9Zp1rMgoA",
+      "created_at": "Fri Oct 23 04:49:28 +0000 2026",
+      "favorite_count": 9,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1452",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113492723860897793/img/N29gUuJ0-RLsTSt0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113492983467442649"
+    },
+    {
+      "id": "2113484611192025268",
+      "text": "驾驶感增加了 前驱，后驱，四驱 的差别，大家看看怎么样\n\n#gamedev #threejs https://t.co/ZN23uQoohn",
+      "created_at": "Fri Oct 23 04:16:12 +0000 2026",
+      "favorite_count": 10,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "1374",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113484399354462208/img/AscJvqz7L4UQLlin.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113484611192025268"
+    },
+    {
+      "id": "2113463213107106186",
+      "text": "怒江 72 拐！ https://t.co/6Ewabw9mFB",
+      "created_at": "Fri Oct 23 02:51:10 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1442",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVSHkFoacAAHfps.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113463213107106186"
+    },
+    {
+      "id": "2113461653895585875",
+      "text": "加州一号公路！ https://t.co/1Uq3nIw3uy",
+      "created_at": "Fri Oct 23 02:44:59 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 7,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1281",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVSGJQHa4AAZT-3.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113461653895585875"
+    },
+    {
+      "id": "2113451461447487856",
+      "text": "要不我改成一个黄油吧，开着房车去全球啪啪啪，这好做啊",
+      "created_at": "Fri Oct 23 02:04:29 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1871",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2113451461447487856"
+    },
+    {
+      "id": "2113450188811690313",
+      "text": "我这个周末应该是要歇了，也好，花时间好好玩玩自己做的游戏 https://t.co/UgvKL42tTJ",
+      "created_at": "Fri Oct 23 01:59:25 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "877",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVR7LyYawAAokiz.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2113450188811690313"
+    },
+    {
+      "id": "2113448255506039106",
+      "text": "设计大佬的作品真是精致啊",
+      "created_at": "Fri Oct 23 01:51:44 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1594",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2113448255506039106"
+    },
+    {
+      "id": "2113437955780202678",
+      "text": "我的房车旅行公路搭建系统已经能造出 318，独库公路，美国 66 号公路的风景了，自动生成\n\n因为这几条路我都走过了，我觉得真有点那个味儿了，大家觉得呢？ https://t.co/5IrYK0mNh3",
+      "created_at": "Fri Oct 23 01:10:49 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 19,
+      "quote_count": 1,
+      "bookmark_count": 2,
+      "views": "5174",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVRvXDcbMAAmaSv.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVRvamMbsAAvBx3.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVRvpXya8AAyhh_.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVRwNqDaEAA0cfx.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113437955780202678"
+    },
+    {
+      "id": "2113305283493859439",
+      "text": "在 Steam 收到了一条非常用心，但是也非常犀利的差评，点出了我游戏的很多核心缺陷，我很感动，我会好好优化的，我也见证过很多游戏从差评到好评的转变。\n\n非常感谢认真体验游戏的玩家，每一条意见都心怀感激，认真研究如何优化。 https://t.co/sL3JXXJkwu",
+      "created_at": "Thu Oct 22 16:23:37 +0000 2026",
+      "favorite_count": 15,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "2503",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVP33kIasAAWTJW.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113305283493859439"
+    },
+    {
+      "id": "2113286685287198952",
+      "text": "我感觉第四个游戏的框架整得太大了，核心玩法还没想好，就只是开车肯定没意思 https://t.co/ZG590ppA0E",
+      "created_at": "Thu Oct 22 15:09:43 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 16,
+      "quote_count": 1,
+      "bookmark_count": 6,
+      "views": "4855",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113286374367641600/img/BOf3HwzvYQoAMEQN.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113286685287198952"
+    },
+    {
+      "id": "2113269192552325208",
+      "text": "RT @mediastorm_en: My iPhone Duo video went viral, so I'm giving away 100 iPhones on X 😛 https://t.co/NPnRfONafs",
+      "created_at": "Thu Oct 22 14:00:12 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 51898,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113263022731042817/img/WWIB923itkZUSuLz.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113269192552325208"
+    },
+    {
+      "id": "2113228567719100922",
+      "text": "Tim 一来推特，很多酸了吧唧的傻逼又开始嘲讽 Tim 拼爹，真不是我说，给你们一个中通总裁的爹，你也不见得能做出今天的影视飓风，我虽然不是他们的粉丝，但还是可以承认 Tim 本身很优秀啊\n\n酸了吧唧的傻逼们，有一个算一个，给你们生在 Tim 一样的家庭，你他妈的指不定在哪儿磕药磕死了，去你妈的。",
+      "created_at": "Thu Oct 22 11:18:47 +0000 2026",
+      "favorite_count": 365,
+      "retweet_count": 2,
+      "reply_count": 116,
+      "quote_count": 10,
+      "bookmark_count": 15,
+      "views": "58641",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2113228567719100922"
+    },
+    {
+      "id": "2113172713145872791",
+      "text": "第四个游戏的资产体量要大得多了，先构建一个资产管理中心 https://t.co/IkLUnnPu5r",
+      "created_at": "Thu Oct 22 07:36:50 +0000 2026",
+      "favorite_count": 26,
+      "retweet_count": 1,
+      "reply_count": 56,
+      "quote_count": 0,
+      "bookmark_count": 13,
+      "views": "3832",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVN_OjcaMAA5gow.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113172713145872791"
+    },
+    {
+      "id": "2113133448810631249",
+      "text": "13M 了，这就是顶流的实力啊",
+      "created_at": "Thu Oct 22 05:00:48 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9488",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2113133448810631249"
+    },
+    {
+      "id": "2113125907905016040",
+      "text": "继续优化我的房车 https://t.co/gZfRgXqUqQ",
+      "created_at": "Thu Oct 22 04:30:51 +0000 2026",
+      "favorite_count": 5,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1868",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113125756083834880/img/-fdvvPkzHbTjHljE.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113125907905016040"
+    },
+    {
+      "id": "2113124113439133706",
+      "text": "整个怀旧游戏在线玩赛道里，能把用户体验对齐 https://t.co/NALcxvIp7H 的，是零！",
+      "created_at": "Thu Oct 22 04:23:43 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "1884",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2113124113439133706"
+    },
+    {
+      "id": "2113123474143314328",
+      "text": "我觉得哥飞一点问题都没有，他的教程很有价值，他的社群的确帮助了很多人\n\n而且不要觉得他不写 SEO 的文章，就一定有别人写。就我自己写前端教程这么多年的经验来看，有很多技巧，我要是不写，网上是不会有的，AI 也告诉不了你，因为你既不会提问也不知道如何验证。\n\n但凡有点认知都应该知道，师父领进门，修行在个人。同一个老师教，你为什么还是你们班成绩垫底的呢？\n\n我没有加入哥飞群，因为我知道我属于那种笨学生，还懒（主要指懒得搞枯燥的 SEO），所以我进步慢\n\n如果你有网站有流量，并且不做订阅，只能做广告，也不在乎广告内容和质量，建议注册 Adsterra ，我每个月现在挺稳定的，慢慢的向日入 100 刀靠近了。我喜欢这种收入，一次投入永久受益，这个钱每天是躺赚的，我不用操心 API 余额够不够，Stripe 会不会封我账号\n注册➡️ https://t.co/5bVM86Ch46\n\n我做的是怀旧游戏网站 https://t.co/ayFxeolCnP ，我不怕大家知道我的网站，欢迎来玩游戏，欢迎买我的课程《在线街机复古游戏网站开发备忘录》https://t.co/Sy3G2ZP9yj",
+      "created_at": "Thu Oct 22 04:21:10 +0000 2026",
+      "favorite_count": 112,
+      "retweet_count": 7,
+      "reply_count": 10,
+      "quote_count": 2,
+      "bookmark_count": 140,
+      "views": "11209",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVNPJema8AAY2HO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113123474143314328"
+    },
+    {
+      "id": "2113110837045113139",
+      "text": "我的第四款游戏，开房车环游世界。\n\nAI 已经几乎 1:1 的复刻了我的房车，先做玩法 demo https://t.co/48MooygMJ3",
+      "created_at": "Thu Oct 22 03:30:57 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1766",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVNGyQYaIAAUmlR.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113110837045113139"
+    },
+    {
+      "id": "2113099691026223432",
+      "text": "我昨天把 VSCode 删掉了，没有用了。\n电脑留了个 Sublime ...\n\n时代啊",
+      "created_at": "Thu Oct 22 02:46:40 +0000 2026",
+      "favorite_count": 35,
+      "retweet_count": 0,
+      "reply_count": 31,
+      "quote_count": 2,
+      "bookmark_count": 22,
+      "views": "19773",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2113099691026223432"
+    },
+    {
+      "id": "2113085990067970394",
+      "text": "AI 现在生成的各种项目就是公式相声嘛 https://t.co/jtj3puCQiQ",
+      "created_at": "Thu Oct 22 01:52:13 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2064",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVMwV4VbMAAQLCP.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2113085990067970394"
+    },
+    {
+      "id": "2112963798831394970",
+      "text": "RT @ezshine: 这看片网站简直神了\n\n1️⃣ 全球几千个电视台直播随便看，各种影视剧，别人有的它全有 \n2️⃣ 广告很克制，几乎没弹窗，速度快得离谱 \n3️⃣ 竟然能边看剧边玩经典游戏，这什么神仙产品经理\n4️⃣ 所有影视资源都可以下载，可以在下载前剪掉视频里的广告片…",
+      "created_at": "Wed Oct 21 17:46:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "zh",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2112963798831394970"
+    },
+    {
+      "id": "2112930529091989527",
+      "text": "唉... https://t.co/YDiDqsFXf5",
+      "created_at": "Wed Oct 21 15:34:29 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1258",
+      "lang": "ja",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVKi6mea0AAp6dj.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112930529091989527"
+    },
+    {
+      "id": "2112912303423422928",
+      "text": "第四款游戏不做战棋了，我想做一款休闲的和房车旅行有关的游戏 https://t.co/bm4EsAQgBj",
+      "created_at": "Wed Oct 21 14:22:03 +0000 2026",
+      "favorite_count": 8,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 3,
+      "views": "1842",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVKShu_aUAEh7BL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112912303423422928"
+    },
+    {
+      "id": "2112909375895724440",
+      "text": "有一天你家里的智能门锁坏了，趁着这个千载难逢的机会，我进你家里，不做伤天害理的事情，但是在你床头给你老婆/女朋友留一张我的名片？\n\n不好意思，这种价值观我肯定是要取关的，我这个人非常公平，取关的时候通常也会 remove this follower . https://t.co/QxUw8YL3Bt",
+      "created_at": "Wed Oct 21 14:10:25 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2177",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVKPikTbUAAEgNY.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112909375895724440"
+    },
+    {
+      "id": "2112873711711994059",
+      "text": "人类慢慢的把各种信息全都交给 AI 来管理，我倒不担心 AI 是否会泄露我的信息，泄露毕竟还只是坏人来用我的信息而已，那只是人。但是，如果真有一天 AI 起义，要对抗人类，我觉得它玩死我就跟我捏死一只蚂蚁一样简单",
+      "created_at": "Wed Oct 21 11:48:42 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2031",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2112873711711994059"
+    },
+    {
+      "id": "2112849152338272372",
+      "text": "看我这个专业的导播台 https://t.co/Eg4UrjtlhB",
+      "created_at": "Wed Oct 21 10:11:07 +0000 2026",
       "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "204",
+      "views": "1235",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVJY-v8bUAAokOm.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112849152338272372"
+    },
+    {
+      "id": "2112848596181930283",
+      "text": "【数字里的老游戏】#1 生化2卖了496万，月下93分却只卖70万？5款老恐怖游戏的数字 https://t.co/GNwCOFidxd",
+      "created_at": "Wed Oct 21 10:08:54 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1196",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112848482809905153/img/QNJJ1v0DNz496hvr.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112848596181930283"
+    },
+    {
+      "id": "2112785439988052321",
+      "text": "终于把 marketing 的工作都交给 AI 了，我只管打下手，要付账单找我，要目标平台账号找我.....",
+      "created_at": "Wed Oct 21 05:57:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1945",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2112785439988052321"
+    },
+    {
+      "id": "2112784900176941426",
+      "text": "RetroGame Live https://t.co/jCZgTdK0kH",
+      "created_at": "Wed Oct 21 05:55:48 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "2046",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2112784900176941426"
+    },
+    {
+      "id": "2112773742707474853",
+      "text": "来泰国玩的朋友们，都给我去吃这个斑斓糕，太好吃了 https://t.co/VGDTS0lcdt",
+      "created_at": "Wed Oct 21 05:11:28 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1631",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVIUhGmbIAALPNi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112773742707474853"
+    },
+    {
+      "id": "2112747191500714090",
+      "text": "打开浏览器就能玩各种老游戏，可以手柄玩，手机玩，摄像头体感控制玩，可以云存档，本地存档，可以联机多人一起玩\n\n老游戏不仅是玩是休闲，也可以帮助大家获得更多的新游戏创新的灵感\n\nhttps://t.co/38NcXJf4Zn 很用心在做的一个怀旧游戏在线玩的网站 https://t.co/0Zzr5Hpef2",
+      "created_at": "Wed Oct 21 03:25:58 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1321",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2112745986456195072/img/_CPcU-P06PbYYqCJ.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112747191500714090"
+    },
+    {
+      "id": "2112706024402735425",
+      "text": "Turn your webcam into a motion controller and enjoy all your favorite retro arcade games in a whole new way. No game controller needed—just move your body, play classic arcade games, and have fun while staying active. Spend just 30 minutes a day combining nostalgic gaming with fun fitness. GGEMU makes retro gaming more interactive, entertaining, and active than ever!\n\nhttps://t.co/swm7Ljt0Ol",
+      "created_at": "Wed Oct 21 00:42:23 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "1075",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVHWGo6a0AAisDP.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2112706024402735425"
+    },
+    {
+      "id": "2112704419037081769",
+      "text": "我去，这个 AI 复刻真有那味儿，我说我关注这么久没看过这期啊",
+      "created_at": "Wed Oct 21 00:36:00 +0000 2026",
+      "favorite_count": 7,
+      "retweet_count": 3,
+      "reply_count": 6,
+      "quote_count": 0,
+      "bookmark_count": 9,
+      "views": "5634",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2112704419037081769"
+    },
+    {
+      "id": "2112591878118088753",
+      "text": "这真是我有史以来最全面的一次提审 https://t.co/yKuRjU8ZBD",
+      "created_at": "Tue Oct 20 17:08:48 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2002",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -41,12 +775,12 @@
       "id": "2112578566018015725",
       "text": "这看片网站简直神了\n\n1️⃣ 全球几千个电视台直播随便看，各种影视剧，别人有的它全有 \n2️⃣ 广告很克制，几乎没弹窗，速度快得离谱 \n3️⃣ 竟然能边看剧边玩经典游戏，这什么神仙产品经理\n4️⃣ 所有影视资源都可以下载，可以在下载前剪掉视频里的广告片段\n\n产品做到这份上，真不多见\n\nhttps://t.co/roZyptLVAX https://t.co/t6SmC4gkpb",
       "created_at": "Tue Oct 20 16:15:54 +0000 2026",
-      "favorite_count": 0,
-      "retweet_count": 0,
-      "reply_count": 0,
+      "favorite_count": 9,
+      "retweet_count": 3,
+      "reply_count": 1,
       "quote_count": 0,
-      "bookmark_count": 0,
-      "views": "284",
+      "bookmark_count": 9,
+      "views": "2397",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +801,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "488",
+      "views": "2502",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -85,10 +819,10 @@
       "created_at": "Tue Oct 20 13:04:50 +0000 2026",
       "favorite_count": 3,
       "retweet_count": 0,
-      "reply_count": 5,
+      "reply_count": 7,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1898",
+      "views": "2825",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -104,12 +838,12 @@
       "id": "2112509297213272284",
       "text": "5 Retro Horror Games You Can Play in Your Browser https://t.co/TdLssa66M9",
       "created_at": "Tue Oct 20 11:40:39 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "744",
+      "views": "1171",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -120,12 +854,12 @@
       "id": "2112416252849479803",
       "text": "原神启动\n\n服务器三端同时 7x24 无间断推流 https://t.co/sRZ24f8GQn",
       "created_at": "Tue Oct 20 05:30:56 +0000 2026",
-      "favorite_count": 3,
+      "favorite_count": 5,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1340",
+      "views": "2011",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -146,7 +880,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1341",
+      "views": "1644",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -167,7 +901,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "1492",
+      "views": "1808",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -183,7 +917,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1331",
+      "views": "1506",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -194,12 +928,12 @@
       "id": "2112321769449341285",
       "text": "怀旧游戏电视台 https://t.co/raRucHcFj3",
       "created_at": "Mon Oct 19 23:15:29 +0000 2026",
-      "favorite_count": 5,
+      "favorite_count": 6,
       "retweet_count": 0,
-      "reply_count": 0,
+      "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1438",
+      "views": "1596",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +949,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "1443",
+      "views": "1580",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -236,7 +970,7 @@
       "reply_count": 2,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "1982",
+      "views": "2161",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -249,10 +983,10 @@
       "created_at": "Mon Oct 19 14:12:35 +0000 2026",
       "favorite_count": 6,
       "retweet_count": 0,
-      "reply_count": 1,
+      "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 7,
-      "views": "1884",
+      "views": "2067",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -270,10 +1004,10 @@
       "created_at": "Mon Oct 19 11:59:22 +0000 2026",
       "favorite_count": 5,
       "retweet_count": 0,
-      "reply_count": 2,
+      "reply_count": 4,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "3759",
+      "views": "3983",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -289,7 +1023,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 7,
-      "views": "2502",
+      "views": "2593",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -310,7 +1044,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 1,
-      "views": "1782",
+      "views": "1898",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -330,8 +1064,8 @@
       "retweet_count": 13,
       "reply_count": 0,
       "quote_count": 0,
-      "bookmark_count": 89,
-      "views": "12784",
+      "bookmark_count": 90,
+      "views": "12893",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -347,12 +1081,12 @@
       "id": "2111776742637703401",
       "text": "牛逼啊，这是我见过的最有格局的在线看片网站，竟然可以直接下载影视资源，而且这下载速度太顶了。\n\n下载完你爱用什么看都可以\n\nhttps://t.co/r5fISmKgi6 https://t.co/dEPIfRa9q4",
       "created_at": "Sun Oct 18 11:09:45 +0000 2026",
-      "favorite_count": 985,
-      "retweet_count": 118,
-      "reply_count": 54,
+      "favorite_count": 991,
+      "retweet_count": 117,
+      "reply_count": 55,
       "quote_count": 5,
-      "bookmark_count": 1318,
-      "views": "171918",
+      "bookmark_count": 1313,
+      "views": "176603",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -373,7 +1107,7 @@
       "reply_count": 3,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "3275",
+      "views": "3338",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -384,12 +1118,12 @@
       "id": "2111592932793000326",
       "text": "去搜搜杭州九溪玫瑰园吧，提高下认知",
       "created_at": "Sat Oct 17 22:59:21 +0000 2026",
-      "favorite_count": 15,
+      "favorite_count": 16,
       "retweet_count": 1,
-      "reply_count": 72,
+      "reply_count": 92,
       "quote_count": 0,
       "bookmark_count": 29,
-      "views": "46307",
+      "views": "48421",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -405,7 +1139,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 3,
-      "views": "2565",
+      "views": "2627",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -421,7 +1155,7 @@
       "reply_count": 101,
       "quote_count": 0,
       "bookmark_count": 11,
-      "views": "2364",
+      "views": "2411",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -22563,12 +23297,12 @@
       "id": "1763538685159465250",
       "text": "去年的今天（3月1日），给5岁的女儿办理了幼儿园退学，我们开始一家三口房车环游中国的旅行。计划用180天的时间，走遍所有省份，打卡所有的985大学和博物馆美术馆（因为这些地方都不用花钱买门票）\n\n开一个帖，重新分享一下这一路的经历和见闻。\nhttps://t.co/YsnLSrQKGU",
       "created_at": "Fri Mar 01 12:16:02 +0000 2024",
-      "favorite_count": 1551,
+      "favorite_count": 1553,
       "retweet_count": 221,
       "reply_count": 130,
       "quote_count": 29,
-      "bookmark_count": 854,
-      "views": "2368268",
+      "bookmark_count": 855,
+      "views": "2371055",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
