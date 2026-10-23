@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:02:14.470093Z",
+  "generated_at": "2026-10-23T14:02:47.322542Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -8,23 +8,23 @@
       "vibeloft_username": "chunxiangai",
       "vibeloft_nickname": "赵纯想",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/chunxiangai",
-      "started_at": "2026-10-20T13:00:39.681862Z",
+      "started_at": "2026-10-23T14:00:43.616846Z",
       "data_file": "data/user_tweets/vibeloft/chunxiangai.json",
       "stop_on_existing": true,
       "handle": "chunxiangai",
-      "updated_at": "2026-10-20T13:01:54.842508Z",
+      "updated_at": "2026-10-23T14:02:47.322527Z",
       "paused_at": "2026-10-08T23:08:44.400143Z",
       "rate_limit_reset_at": "2026-07-21T14:07:42Z",
       "error": "",
-      "completed_at": "2026-10-20T13:01:54.840337Z",
-      "completed_at_local": "2026-10-20T21:01:54.840369+08:00",
+      "completed_at": "2026-10-23T14:02:47.319751Z",
+      "completed_at_local": "2026-10-23T22:02:47.319779+08:00",
       "history_complete": true,
-      "pages_collected_total": 2,
-      "new_tweets_last_run": 4,
+      "pages_collected_total": 3,
+      "new_tweets_last_run": 7,
       "stop_reason": "consecutive_empty_pages_3",
-      "tweet_count": 756,
-      "latest_tweet_created_at": "2026-10-19T11:59:55Z",
-      "latest_tweet_id": "2112151757660799357",
+      "tweet_count": 763,
+      "latest_tweet_created_at": "2026-10-23T10:06:39Z",
+      "latest_tweet_id": "2113572805971243515",
       "oldest_tweet_created_at": "2020-08-14T16:34:45Z",
       "oldest_tweet_id": "1294311507069722625",
       "failed_at": "2026-10-09T00:06:35.219128Z"
@@ -1872,7 +1872,7 @@
       "data_file": "data/user_tweets/vibeloft/zachary_haha.json",
       "stop_on_existing": true,
       "handle": "zachary_haha",
-      "updated_at": "2026-10-20T12:00:41.416080Z",
+      "updated_at": "2026-10-23T13:00:41.031554Z",
       "completed_at": "2026-09-27T20:03:14.249591Z",
       "completed_at_local": "2026-09-28T04:03:14.249625+08:00",
       "history_complete": false,
@@ -1886,7 +1886,7 @@
       "oldest_tweet_created_at": "2026-03-21T13:08:34Z",
       "oldest_tweet_id": "2035342808052056503",
       "paused_at": "2026-10-08T20:08:45.888966Z",
-      "failed_at": "2026-10-20T12:00:41.412442Z"
+      "failed_at": "2026-10-23T13:00:40.998287Z"
     }
   }
 }
