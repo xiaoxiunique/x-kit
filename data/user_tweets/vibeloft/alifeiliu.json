@@ -7,15 +7,36 @@
     "nickname": "飞流",
     "profile_url": "https://vibeloft.ai/profile/liufei"
   },
-  "generated_at": "2026-10-21T04:04:01.376762Z",
+  "generated_at": "2026-10-24T05:02:31.471269Z",
   "stats": {
-    "tweet_count": 82,
-    "latest_tweet_created_at": "2026-10-20T02:17:38Z",
-    "latest_tweet_id": "2112367607047487526",
+    "tweet_count": 83,
+    "latest_tweet_created_at": "2026-10-24T03:15:04Z",
+    "latest_tweet_id": "2113831612404425077",
     "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
     "oldest_tweet_id": "1819316924146466942"
   },
   "tweets": [
+    {
+      "id": "2113831612404425077",
+      "text": "8元18个月的含金量还在提升 @GeminiApp https://t.co/0ffuu2ozGn",
+      "created_at": "Sat Oct 24 03:15:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "2",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVXWiLhbQAAOqQi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113831612404425077"
+    },
     {
       "id": "2112367607047487526",
       "text": "Gemini 3.8 Flash 要比 Kimi K3 任务执行准确度上高不少，是 K3 降智了么？连最基本的样式问题对齐 figma 设计稿都搞不定，来回返工。Gemini 一下就搞定了...",
@@ -25,7 +46,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "20",
+      "views": "34",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -41,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "10",
+      "views": "14",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -808,7 +829,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "314",
+      "views": "316",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
