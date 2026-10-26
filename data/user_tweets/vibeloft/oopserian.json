@@ -7,15 +7,98 @@
     "nickname": "Erian",
     "profile_url": "https://vibeloft.ai/profile/erian"
   },
-  "generated_at": "2026-10-20T03:03:07.079135Z",
+  "generated_at": "2026-10-26T04:03:24.829127Z",
   "stats": {
-    "tweet_count": 16,
-    "latest_tweet_created_at": "2026-10-20T01:10:48Z",
-    "latest_tweet_id": "2112350791126413592",
+    "tweet_count": 20,
+    "latest_tweet_created_at": "2026-10-24T17:37:00Z",
+    "latest_tweet_id": "2114048525352743294",
     "oldest_tweet_created_at": "2023-10-24T13:54:28Z",
     "oldest_tweet_id": "1716815422262239687"
   },
   "tweets": [
+    {
+      "id": "2114048525352743294",
+      "text": "recent progress https://t.co/X2RoqNMXbX",
+      "created_at": "Sat Oct 24 17:37:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113932199804506112/img/uGsAoe3wqb-mK58T.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2114048525352743294"
+    },
+    {
+      "id": "2113882516579061774",
+      "text": "我的蓝标貌似没有什么作用🙂‍↔️🙂‍↔️ https://t.co/whTZAiH7Xg",
+      "created_at": "Sat Oct 24 06:37:20 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "49",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVYE8B-aEAA4bwi.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113882516579061774"
+    },
+    {
+      "id": "2113725244259320226",
+      "text": "蓝标总于审核过了🥳\n准备在这里记录我的第一个独立产品\n从0到1，Vibe Coding一个 GPUI App\n目标很简单：看看能走多远🤡🥺",
+      "created_at": "Fri Oct 23 20:12:24 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "64",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2113725244259320226"
+    },
+    {
+      "id": "2112932906461274320",
+      "text": "a prehistoric island I'm building\nin the morning\nmist rolls in 🌫️ https://t.co/Kt6GG24cWz",
+      "created_at": "Wed Oct 21 15:43:55 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "61",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVKjvjHbUAAApuR.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVKjv2daYAAm3BO.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2112932906461274320"
+    },
     {
       "id": "2112350791126413592",
       "text": "可算有一个好看的开源代理软件了 https://t.co/6bVreIBG6F",
@@ -45,12 +128,12 @@
       "id": "2111842930701029800",
       "text": "Started making a game\nWould love to hear what you think 👀\n#steam #indiedeveloper  #CozySeason #unity3d https://t.co/jBXcAcuxCJ",
       "created_at": "Sun Oct 18 15:32:45 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
-      "quote_count": 0,
+      "quote_count": 1,
       "bookmark_count": 0,
-      "views": "23",
+      "views": "140",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -60,7 +143,8 @@
           "url": "https://pbs.twimg.com/media/HU7F8cnbgAE1zsx.jpg"
         }
       ],
-      "url": "https://x.com/i/status/2111842930701029800"
+      "url": "https://x.com/i/status/2111842930701029800",
+      "pinned": true
     },
     {
       "id": "2109861767878942980",
@@ -92,7 +176,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "100",
+      "views": "134",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -151,7 +235,7 @@
       "text": "RT @MaxVOAO: My new monitor https://t.co/DvA2ax6v9Z",
       "created_at": "Wed Jul 22 14:32:50 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 587,
+      "retweet_count": 586,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -176,7 +260,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "250",
+      "views": "281",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -218,7 +302,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "98",
+      "views": "124",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -260,7 +344,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "112",
+      "views": "134",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -281,7 +365,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "268",
+      "views": "285",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -314,7 +398,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "172",
+      "views": "189",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -331,7 +415,7 @@
       "text": "RT @Adarsh____gupta: I'm going to sell this boilerplate for $199 https://t.co/aub0jbVmXj",
       "created_at": "Mon Mar 04 09:43:53 +0000 2024",
       "favorite_count": 0,
-      "retweet_count": 280,
+      "retweet_count": 279,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -356,7 +440,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "134",
+      "views": "150",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
