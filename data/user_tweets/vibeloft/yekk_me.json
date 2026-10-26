@@ -7,15 +7,69 @@
     "nickname": "yekk",
     "profile_url": "https://vibeloft.ai/profile/yekk"
   },
-  "generated_at": "2026-10-19T23:01:13.011783Z",
+  "generated_at": "2026-10-26T00:03:23.161883Z",
   "stats": {
-    "tweet_count": 39,
-    "latest_tweet_created_at": "2026-10-16T23:25:29Z",
-    "latest_tweet_id": "2111237120727945355",
+    "tweet_count": 41,
+    "latest_tweet_created_at": "2026-10-23T11:13:47Z",
+    "latest_tweet_id": "2113589701106143560",
     "oldest_tweet_created_at": "2018-05-20T08:02:57Z",
     "oldest_tweet_id": "998111822812086275"
   },
   "tweets": [
+    {
+      "id": "2113589701106143560",
+      "text": "Mytess Duo. TeslaMate  iOS App. https://t.co/XKf4L3X3i7",
+      "created_at": "Fri Oct 23 11:13:47 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "10",
+      "lang": "lt",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2113589611192811520/img/eeSpfBg6IAs-4K0J.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113589701106143560"
+    },
+    {
+      "id": "2113589412282212558",
+      "text": "Mytess 3.2 is here 🎉 New layouts for iPad and Mac 📐\n\nAnd it's made for iPhone Duo 📱 one column closed, two columns open\n\nStand it up like a tent ⛺ and it's a board: charge, arrival time, locks, readable across the room\n\n📲 Mytess on the App Store https://t.co/TY2uxbV9gE",
+      "created_at": "Fri Oct 23 11:12:39 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "70",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVT6XCjbwAA4hgW.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVT6XCiasAAGMnl.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVT6XCla0AALD_h.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVT6XCmasAE0oAS.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113589412282212558"
+    },
     {
       "id": "2111237120727945355",
       "text": "Mytess 3.0 is out 🎉\n\nStick your badges on the home card 🏅 drag, pinch, twist. Neon in dark mode ✨ porcelain in light 🤍\n\nNew badges: Supercharger Pilgrimage ⚡ Road Marathon 🛣 Crawl King 🐢 (traffic finally pays off)\n\nLight/Dark switch too 🌗\n\n📲 Mytess on the App Store https://t.co/oRejgiMSxn",
@@ -25,7 +79,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "10",
+      "views": "12",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -227,7 +281,7 @@
       "id": "2079570378134004122",
       "text": "Mytess 2.3 is here 👋\n• Siri &amp; Shortcuts\n• Weekly &amp; monthly recaps\n• Clearer Live Activities\n• Smarter parking-fee calculations\nSmall, focused, and built for a better Tesla data experience.\n❤️Discover Mytess:https://t.co/mobo8sgEpn https://t.co/RRFyA44lyf",
       "created_at": "Tue Jul 21 14:13:09 +0000 2026",
-      "favorite_count": 2,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
@@ -265,7 +319,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "77",
+      "views": "78",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -666,7 +720,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "72",
+      "views": "73",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
