@@ -7,15 +7,80 @@
     "nickname": "飞流",
     "profile_url": "https://vibeloft.ai/profile/liufei"
   },
-  "generated_at": "2026-10-24T05:02:31.471269Z",
+  "generated_at": "2026-10-27T04:03:56.500448Z",
   "stats": {
-    "tweet_count": 83,
-    "latest_tweet_created_at": "2026-10-24T03:15:04Z",
-    "latest_tweet_id": "2113831612404425077",
+    "tweet_count": 86,
+    "latest_tweet_created_at": "2026-10-25T02:31:56Z",
+    "latest_tweet_id": "2114183144866000900",
     "oldest_tweet_created_at": "2024-08-02T10:18:50Z",
     "oldest_tweet_id": "1819316924146466942"
   },
   "tweets": [
+    {
+      "id": "2114183144866000900",
+      "text": "完成了游戏里的任务，现实中的任务一个都没完成",
+      "created_at": "Sun Oct 25 02:31:56 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "6",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2114183144866000900"
+    },
+    {
+      "id": "2113990524860522947",
+      "text": "分享个基于费曼学习法的，面试八股文准备方案。\n1、interview-qa skill 产出 LLM 输出、用户回答、评分，自动问题分类，利用费曼学习法加速对知识点的学习：输入-理解-输出-评价-再输出，提前练习面试回答\n2、mdx 文档格式支持开启本地服务在线预览，HMR 热更新\n3、任何岗位\nhttps://t.co/zTwFbLHyfi",
+      "created_at": "Sat Oct 24 13:46:31 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "13",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2113990524860522947"
+    },
+    {
+      "id": "2113910962042605719",
+      "text": "Google support interact in Gemini's chatbox, bravo! https://t.co/TwzyY4EvD0",
+      "created_at": "Sat Oct 24 08:30:22 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVYeZaFbUAAx11T.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVYedSnb0AANR3f.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVYelu4awAEeFGR.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVYeqFyakAAJZky.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2113910962042605719"
+    },
     {
       "id": "2113831612404425077",
       "text": "8元18个月的含金量还在提升 @GeminiApp https://t.co/0ffuu2ozGn",
@@ -25,7 +90,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2",
+      "views": "4",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -46,7 +111,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "34",
+      "views": "39",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -62,7 +127,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "14",
+      "views": "16",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -829,7 +894,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "316",
+      "views": "320",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
