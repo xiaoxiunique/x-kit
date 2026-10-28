@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:18:10.630114Z",
+  "generated_at": "2026-10-28T03:18:25.969328Z",
   "users": {
     "chunxiangai": {
       "status": "failed",
@@ -1047,7 +1047,7 @@
       "data_file": "data/user_tweets/vibeloft/ghostca16861041.json",
       "stop_on_existing": true,
       "handle": "GhostCa16861041",
-      "updated_at": "2026-10-25T07:00:41.122347Z",
+      "updated_at": "2026-10-28T03:15:55.784313Z",
       "paused_at": "2026-07-22T15:01:26.145722Z",
       "history_complete": false,
       "error": "user_not_found_or_inaccessible",
@@ -1061,7 +1061,7 @@
       "latest_tweet_id": "2083412120012722618",
       "oldest_tweet_created_at": "2022-08-27T08:15:33Z",
       "oldest_tweet_id": "1563440064352636928",
-      "failed_at": "2026-10-25T07:00:41.120553Z"
+      "failed_at": "2026-10-28T03:15:55.778053Z"
     },
     "xiuerold": {
       "status": "completed",
@@ -1070,21 +1070,21 @@
       "vibeloft_username": "xiuerold",
       "vibeloft_nickname": "XiuerOld",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/xiuerold",
-      "started_at": "2026-10-25T07:01:23.335017Z",
+      "started_at": "2026-10-28T03:16:44.675186Z",
       "data_file": "data/user_tweets/vibeloft/xiuerold.json",
       "stop_on_existing": true,
       "handle": "xiuerold",
-      "updated_at": "2026-10-25T07:02:40.718342Z",
-      "completed_at": "2026-10-25T07:02:40.654525Z",
-      "completed_at_local": "2026-10-25T15:02:40.654547+08:00",
+      "updated_at": "2026-10-28T03:18:25.969260Z",
+      "completed_at": "2026-10-28T03:18:25.951761Z",
+      "completed_at_local": "2026-10-28T11:18:25.951791+08:00",
       "history_complete": true,
       "pages_collected_total": 2,
       "new_tweets_last_run": 2,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
-      "tweet_count": 155,
-      "latest_tweet_created_at": "2026-10-22T10:55:02Z",
-      "latest_tweet_id": "2113222592991809721",
+      "tweet_count": 157,
+      "latest_tweet_created_at": "2026-10-27T11:00:14Z",
+      "latest_tweet_id": "2115035840774906017",
       "oldest_tweet_created_at": "2014-01-24T12:20:56Z",
       "oldest_tweet_id": "426691081695010816"
     },
