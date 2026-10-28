@@ -7,15 +7,90 @@
     "nickname": "William Wanghui",
     "profile_url": "https://vibeloft.ai/profile/williamwanghui"
   },
-  "generated_at": "2026-10-25T18:02:01.442023Z",
+  "generated_at": "2026-10-28T15:19:21.364852Z",
   "stats": {
-    "tweet_count": 173,
-    "latest_tweet_created_at": "2026-10-25T10:30:36Z",
-    "latest_tweet_id": "2114303606992392358",
+    "tweet_count": 177,
+    "latest_tweet_created_at": "2026-10-28T07:18:25Z",
+    "latest_tweet_id": "2115342408309489902",
     "oldest_tweet_created_at": "2009-03-02T13:50:28Z",
     "oldest_tweet_id": "1269216141"
   },
   "tweets": [
+    {
+      "id": "2115342408309489902",
+      "text": "花了一个月的时间把公司的一个项目从java+AWS的服务器端渲染模式,换成了vinext+cloud flare+supabase的浏览器端渲染模式。\n这个项目，ai总结出来的按任务划分的功能点有187个。之前开发上线可能用了36个人月。\n说实话我之前在JS开发网页程序之前根本就算业余选手。对vinext根本就是一无所知。要不是AI告诉我，我都不知道它的存在。\n就在这样的基础上，我一个人一个月，给它迁移了过来。其中还包括ChatGPT astra给我绕弯子设门禁的一周时间。\n现在正在进行系统测试，目前没有发现重大的逻辑缺陷。\n只是有一些小bug.\n改起来基本不难：\n- 先把github project issue 的地址丢给claude code opus5.5 。它会生成一个“储备”状态的allomos任务单\n- 再审核这个任务单。\n- 没问题了之后，让ai把任务单设置成“就绪”。\n- Claude Code的loop会自己捡起来完成。\n- 我在allomos里面发现完成的任务，然后和opus一起测试它。\n看起来很复杂，但是对于一个在软件团队里工作的人来说是司空见惯的。\n优点有2个\n- 少了很多人与人之间的沟通消耗。\n- Opus5.5是一个超级棒的队员。\n\n就算如此，现在的AI在理解产品方面还是不完美。不过，也许再过一阵子应该不会被我找到毛病了。\n\nps: 我还没看过他的代码。",
+      "created_at": "Wed Oct 28 07:18:25 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "33",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVsu4MLbAAApJD5.png"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVs0E2dbYAAV9J0.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115342408309489902"
+    },
+    {
+      "id": "2115218911339958373",
+      "text": "没注意之前的车是什么状况，但是特斯拉这后视镜做的也太粗犷了吧？虽然这里面藏的小人儿满可爱的。 https://t.co/41xNNtaKoO",
+      "created_at": "Tue Oct 27 23:07:41 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "15",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVrEW-wa4AEcpip.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVrEXxxaMAE02PE.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVrEYdMbkAAjAi7.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115218911339958373"
+    },
+    {
+      "id": "2114674926724759886",
+      "text": "I just witnessed the miracle: Claude is hacking Claude... https://t.co/9BbvKeiily",
+      "created_at": "Mon Oct 26 11:06:05 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "9",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVjVSvqbIAENGBf.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2114674926724759886"
+    },
     {
       "id": "2114303606992392358",
       "text": "总结：软件开发公司未来最缺的是项目经理。\nhttps://t.co/0nFHwq3aXb",
@@ -25,7 +100,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "9",
+      "views": "18",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -41,7 +116,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "4",
+      "views": "8",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -83,7 +158,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "29",
+      "views": "33",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -104,7 +179,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "38",
+      "views": "42",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
@@ -115,6 +190,22 @@
         }
       ],
       "url": "https://x.com/i/status/2113739520340615306"
+    },
+    {
+      "id": "2113548909738131940",
+      "text": "苦于频繁切换中日英输入法的人，试试看这个吧：\nhttps://t.co/PThPoHH2VC\n\n中日英混输。不联网。AI许愿式编程结果。开源。MIT协议。",
+      "created_at": "Fri Oct 23 08:31:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "19",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2113548909738131940"
     },
     {
       "id": "2113406521644298467",
@@ -162,7 +253,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "56",
+      "views": "67",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -316,7 +407,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "45",
+      "views": "47",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
