@@ -7,15 +7,152 @@
     "nickname": "Erian",
     "profile_url": "https://vibeloft.ai/profile/erian"
   },
-  "generated_at": "2026-10-26T04:03:24.829127Z",
+  "generated_at": "2026-10-29T01:17:27.586416Z",
   "stats": {
-    "tweet_count": 20,
-    "latest_tweet_created_at": "2026-10-24T17:37:00Z",
-    "latest_tweet_id": "2114048525352743294",
+    "tweet_count": 27,
+    "latest_tweet_created_at": "2026-10-28T22:18:00Z",
+    "latest_tweet_id": "2115568792759828499",
     "oldest_tweet_created_at": "2023-10-24T13:54:28Z",
     "oldest_tweet_id": "1716815422262239687"
   },
   "tweets": [
+    {
+      "id": "2115568792759828499",
+      "text": "Hey everyone! \n\nI'm a solo founder looking to connect with designers, digital artists, photographers, and creative people.\n\nWould love to meet more people in the creative space!\n\nLet's connect! :) 🙌",
+      "created_at": "Wed Oct 28 22:18:00 +0000 2026",
+      "favorite_count": 14,
+      "retweet_count": 0,
+      "reply_count": 15,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "340",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2115568792759828499"
+    },
+    {
+      "id": "2115368479054590350",
+      "text": "Been working on SOOTY's UI 👀\n\nGoing for a minimal, monochrome look with a touch of ASCII art. 🥸\n\nStill tweaking things. https://t.co/AgWRACKtuW",
+      "created_at": "Wed Oct 28 09:02:01 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "29",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115367268184104961/img/Vf_eGpzSKoS91lth.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115368479054590350"
+    },
+    {
+      "id": "2115045647300882740",
+      "text": "Redesigned my personal site with ASCII ✨\n\nDrop yours below\n\nI’d love to see them 👇 https://t.co/MVXxO5lrG8",
+      "created_at": "Tue Oct 27 11:39:12 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "123",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2115044694568980480/img/EAUUDvfe3b0GFwai.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115045647300882740"
+    },
+    {
+      "id": "2115040603641917514",
+      "text": "RT @dziewczyna777: wychodzę na balkon i to jest mój widok https://t.co/MEeY0R7z2v",
+      "created_at": "Tue Oct 27 11:19:10 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 180,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "pl",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVlq9mJWEAA4Wr1.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115040603641917514"
+    },
+    {
+      "id": "2114968336228368814",
+      "text": "Hey everyone!\n\nI’m a solo founder living in South Korea 🇰🇷\n\nI want to connect with solo founders, product builders, and AI lovers. \n\nLet’s connect and keep the energy flowing! :)",
+      "created_at": "Tue Oct 27 06:32:00 +0000 2026",
+      "favorite_count": 85,
+      "retweet_count": 0,
+      "reply_count": 95,
+      "quote_count": 0,
+      "bookmark_count": 2,
+      "views": "2608",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2114968336228368814"
+    },
+    {
+      "id": "2114890726542840285",
+      "text": "Made two logos for my app, Sooty 👀\n\nLeft: more texture\nRight: more minimal\n\nWhich one do you like? 🤔 https://t.co/gHLCJTWoTl",
+      "created_at": "Tue Oct 27 01:23:36 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 1,
+      "views": "875",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVmZ5eoaQAAHyOn.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVmZ5eoacAABC60.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2114890726542840285"
+    },
+    {
+      "id": "2114840745890992250",
+      "text": "Hey everyone! 👋\n\nI'm a developer working on my first indie product.\n\nBuilding a macOS app with GPUI + Vibe Coding 🚀\n\nWould love to connect with indie hackers, solo founders, and fellow builders!\n\nWhat are you working on? 👀",
+      "created_at": "Mon Oct 26 22:05:00 +0000 2026",
+      "favorite_count": 20,
+      "retweet_count": 0,
+      "reply_count": 27,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "462",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2114840745890992250",
+      "pinned": true
+    },
     {
       "id": "2114048525352743294",
       "text": "recent progress https://t.co/X2RoqNMXbX",
@@ -25,7 +162,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "24",
+      "views": "79",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -41,12 +178,12 @@
       "id": "2113882516579061774",
       "text": "我的蓝标貌似没有什么作用🙂‍↔️🙂‍↔️ https://t.co/whTZAiH7Xg",
       "created_at": "Sat Oct 24 06:37:20 +0000 2026",
-      "favorite_count": 0,
+      "favorite_count": 1,
       "retweet_count": 0,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "49",
+      "views": "94",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -67,7 +204,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "64",
+      "views": "100",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -83,7 +220,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "61",
+      "views": "92",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -133,7 +270,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "140",
+      "views": "197",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -143,8 +280,7 @@
           "url": "https://pbs.twimg.com/media/HU7F8cnbgAE1zsx.jpg"
         }
       ],
-      "url": "https://x.com/i/status/2111842930701029800",
-      "pinned": true
+      "url": "https://x.com/i/status/2111842930701029800"
     },
     {
       "id": "2109861767878942980",
@@ -176,7 +312,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "134",
+      "views": "154",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -260,7 +396,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "281",
+      "views": "299",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -302,7 +438,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "124",
+      "views": "142",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -344,7 +480,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "134",
+      "views": "151",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -365,7 +501,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "285",
+      "views": "300",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -398,7 +534,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "189",
+      "views": "202",
       "lang": "ja",
       "is_retweet": false,
       "is_quote": false,
@@ -440,7 +576,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "150",
+      "views": "162",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
