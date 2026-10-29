@@ -7,15 +7,72 @@
     "nickname": "byeval",
     "profile_url": "https://vibeloft.ai/profile/byeval"
   },
-  "generated_at": "2026-10-26T12:02:03.369422Z",
+  "generated_at": "2026-10-29T09:17:19.028142Z",
   "stats": {
-    "tweet_count": 278,
-    "latest_tweet_created_at": "2026-10-22T17:03:50Z",
-    "latest_tweet_id": "2113315406027039208",
+    "tweet_count": 281,
+    "latest_tweet_created_at": "2026-10-28T01:35:04Z",
+    "latest_tweet_id": "2115255999804342392",
     "oldest_tweet_created_at": "2012-09-20T13:49:11Z",
     "oldest_tweet_id": "248780848642535424"
   },
   "tweets": [
+    {
+      "id": "2115255999804342392",
+      "text": "发布第一个 TikTok 视频！不管了，先开始吧，内容攒的有点多了，App 一直在打磨，时间花的太久了，不过想想也是合理的，我这个不是一个临时的想法，这是我几年前做到一半的产品，方方面面都构想的很清楚了，能在一个月完整做出来已经是非常迅速了，抓紧发布上线。https://t.co/C3KSlZTGpx",
+      "created_at": "Wed Oct 28 01:35:04 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "24",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2115255999804342392"
+    },
+    {
+      "id": "2115248930544111973",
+      "text": "这个画框效果不对，app 内已经重新更新",
+      "created_at": "Wed Oct 28 01:06:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "15",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2115248930544111973"
+    },
+    {
+      "id": "2115232265194398107",
+      "text": "新项目需要，又买了一个 Apple Watch 。\n上一个还是 series 4，过去好多年了，买来没怎么戴一直扔在家里，翻出来测试发现它只能更新到 WatchOS 10，无法测试最新的表盘设计效果，所以只能再买一个了。 https://t.co/2hYdWVoJDZ",
+      "created_at": "Wed Oct 28 00:00:45 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "25",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVrQhubbYAA-U_h.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVrQhuQaIAAMx8b.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115232265194398107"
+    },
     {
       "id": "2113315406027039208",
       "text": "国外竞争用户应该少很多吧🐶",
@@ -41,7 +98,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "31",
+      "views": "32",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -57,7 +114,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "45",
+      "views": "46",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -73,7 +130,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "2273",
+      "views": "2282",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -126,7 +183,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "121",
+      "views": "123",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
