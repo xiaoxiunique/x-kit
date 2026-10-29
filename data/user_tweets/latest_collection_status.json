@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-29T09:17:19.074887Z",
+  "generated_at": "2026-10-29T11:19:08.156099Z",
   "users": {
     "chunxiangai": {
-      "status": "failed",
+      "status": "completed",
       "twitter_url": "https://x.com/chunxiangai",
       "twitter_rest_id": "913314383526223872",
       "vibeloft_username": "chunxiangai",
       "vibeloft_nickname": "赵纯想",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/chunxiangai",
-      "started_at": "2026-10-23T14:00:43.616846Z",
+      "started_at": "2026-10-29T11:16:26.259056Z",
       "data_file": "data/user_tweets/vibeloft/chunxiangai.json",
-      "stop_on_existing": true,
+      "stop_on_existing": false,
       "handle": "chunxiangai",
-      "updated_at": "2026-10-26T14:12:53.885959Z",
+      "updated_at": "2026-10-29T11:19:08.156086Z",
       "paused_at": "2026-10-08T23:08:44.400143Z",
       "rate_limit_reset_at": "2026-07-21T14:07:42Z",
-      "error": "_ssl.c:993: The handshake operation timed out",
-      "completed_at": "2026-10-23T14:02:47.319751Z",
-      "completed_at_local": "2026-10-23T22:02:47.319779+08:00",
-      "history_complete": false,
-      "pages_collected_total": 3,
-      "new_tweets_last_run": 7,
+      "error": "",
+      "completed_at": "2026-10-29T11:19:08.090698Z",
+      "completed_at_local": "2026-10-29T19:19:08.090715+08:00",
+      "history_complete": true,
+      "pages_collected_total": 4,
+      "new_tweets_last_run": 10,
       "stop_reason": "consecutive_empty_pages_3",
-      "tweet_count": 763,
-      "latest_tweet_created_at": "2026-10-23T10:06:39Z",
-      "latest_tweet_id": "2113572805971243515",
+      "tweet_count": 773,
+      "latest_tweet_created_at": "2026-10-28T14:19:37Z",
+      "latest_tweet_id": "2115448405711622164",
       "oldest_tweet_created_at": "2020-08-14T16:34:45Z",
       "oldest_tweet_id": "1294311507069722625",
       "failed_at": "2026-10-26T14:12:53.871289Z"
@@ -1880,7 +1880,7 @@
       "data_file": "data/user_tweets/vibeloft/zachary_haha.json",
       "stop_on_existing": true,
       "handle": "zachary_haha",
-      "updated_at": "2026-10-26T13:00:47.319236Z",
+      "updated_at": "2026-10-29T10:15:57.194450Z",
       "completed_at": "2026-09-27T20:03:14.249591Z",
       "completed_at_local": "2026-09-28T04:03:14.249625+08:00",
       "history_complete": false,
@@ -1894,7 +1894,7 @@
       "oldest_tweet_created_at": "2026-03-21T13:08:34Z",
       "oldest_tweet_id": "2035342808052056503",
       "paused_at": "2026-10-08T20:08:45.888966Z",
-      "failed_at": "2026-10-26T13:00:47.313032Z"
+      "failed_at": "2026-10-29T10:15:57.160852Z"
     }
   }
 }
