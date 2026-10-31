@@ -7,15 +7,64 @@
     "nickname": "William Wanghui",
     "profile_url": "https://vibeloft.ai/profile/williamwanghui"
   },
-  "generated_at": "2026-10-28T15:19:21.364852Z",
+  "generated_at": "2026-10-31T12:17:14.502719Z",
   "stats": {
-    "tweet_count": 177,
-    "latest_tweet_created_at": "2026-10-28T07:18:25Z",
-    "latest_tweet_id": "2115342408309489902",
+    "tweet_count": 179,
+    "latest_tweet_created_at": "2026-10-29T22:24:51Z",
+    "latest_tweet_id": "2115932905855922491",
     "oldest_tweet_created_at": "2009-03-02T13:50:28Z",
     "oldest_tweet_id": "1269216141"
   },
   "tweets": [
+    {
+      "id": "2115932905855922491",
+      "text": "昨天把他们的的输入法代码clone了一把，还没有动手编译运行，只是让Claude评估了一下安全性。最终还是决定应该要在虚拟机上搞开源开发比较安全。\n于是，勤俭节约的我，终于找到了升级电脑的正当理由。\n不过，家里的电脑越来越多，确实有点浪费呀。\n都怪macbook太耐用了，2014年的MBA,装上Ubuntu还跑得飞起。\n2023年的MBA, 还像新买的一样顺畅，就要退役了。也许以后可以拿它当个小模型服务器吧。\n这次还是要买带显示器的MacBook。\n因为哪天如果不能跑本地模型了，还可以当日常工作电脑来使用。",
+      "created_at": "Thu Oct 29 22:24:51 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "67",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2115932905855922491"
+    },
+    {
+      "id": "2115582379956006997",
+      "text": "第一次看到流水形状的云。 https://t.co/uV5TLI5rkQ",
+      "created_at": "Wed Oct 28 23:11:59 +0000 2026",
+      "favorite_count": 2,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "58",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVwO7NNagAACDoZ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVwO8BubgAAnz07.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVwO8phbEAAOgGr.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVwO9QoakAA3hPP.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2115582379956006997"
+    },
     {
       "id": "2115342408309489902",
       "text": "花了一个月的时间把公司的一个项目从java+AWS的服务器端渲染模式,换成了vinext+cloud flare+supabase的浏览器端渲染模式。\n这个项目，ai总结出来的按任务划分的功能点有187个。之前开发上线可能用了36个人月。\n说实话我之前在JS开发网页程序之前根本就算业余选手。对vinext根本就是一无所知。要不是AI告诉我，我都不知道它的存在。\n就在这样的基础上，我一个人一个月，给它迁移了过来。其中还包括ChatGPT astra给我绕弯子设门禁的一周时间。\n现在正在进行系统测试，目前没有发现重大的逻辑缺陷。\n只是有一些小bug.\n改起来基本不难：\n- 先把github project issue 的地址丢给claude code opus5.5 。它会生成一个“储备”状态的allomos任务单\n- 再审核这个任务单。\n- 没问题了之后，让ai把任务单设置成“就绪”。\n- Claude Code的loop会自己捡起来完成。\n- 我在allomos里面发现完成的任务，然后和opus一起测试它。\n看起来很复杂，但是对于一个在软件团队里工作的人来说是司空见惯的。\n优点有2个\n- 少了很多人与人之间的沟通消耗。\n- Opus5.5是一个超级棒的队员。\n\n就算如此，现在的AI在理解产品方面还是不完美。不过，也许再过一阵子应该不会被我找到毛病了。\n\nps: 我还没看过他的代码。",
@@ -25,7 +74,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "33",
+      "views": "41",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -50,7 +99,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "15",
+      "views": "17",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -158,7 +207,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "33",
+      "views": "40",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
@@ -179,7 +228,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "42",
+      "views": "49",
       "lang": "zxx",
       "is_retweet": false,
       "is_quote": false,
