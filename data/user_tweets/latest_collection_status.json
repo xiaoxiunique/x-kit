@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:16:16.567617Z",
+  "generated_at": "2026-11-02T16:16:15.707523Z",
   "users": {
     "chunxiangai": {
       "status": "completed",
@@ -912,15 +912,15 @@
       "vibeloft_username": "deryckderyckn",
       "vibeloft_nickname": "Deryck (DeRyckn)",
       "vibeloft_profile_url": "https://vibeloft.ai/profile/deryckderyckn",
-      "started_at": "2026-10-30T19:15:43.498841Z",
+      "started_at": "2026-11-02T16:15:38.600559Z",
       "data_file": "data/user_tweets/vibeloft/derycknth.json",
-      "stop_on_existing": false,
+      "stop_on_existing": true,
       "handle": "DeRyckNth",
-      "updated_at": "2026-10-30T19:17:47.566648Z",
-      "completed_at": "2026-10-30T19:17:47.564344Z",
-      "completed_at_local": "2026-10-31T03:17:47.564372+08:00",
+      "updated_at": "2026-11-02T16:16:15.707508Z",
+      "completed_at": "2026-11-02T16:16:15.704596Z",
+      "completed_at_local": "2026-11-03T00:16:15.704625+08:00",
       "history_complete": true,
-      "pages_collected_total": 3,
+      "pages_collected_total": 1,
       "new_tweets_last_run": 0,
       "stop_reason": "consecutive_empty_pages_3",
       "error": "",
