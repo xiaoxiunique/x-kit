@@ -157,9 +157,14 @@ def format_tweet(result: dict, brief: bool = False) -> str:
     quoted = result.get("quoted_status_result", {}).get("result")
     if quoted:
         q_legacy = quoted.get("legacy", {})
-        q_user = quoted.get("core", {}).get("user_results", {}).get("result", {}).get("legacy", {})
+        q_user = quoted.get("core", {}).get("user_results", {}).get("result", {})
+        q_screen_name = (
+            q_user.get("core", {}).get("screen_name")
+            or q_user.get("legacy", {}).get("screen_name")
+            or "?"
+        )
         lines.append(f"{'='*60}")
-        lines.append(f"  [引用推文] @{q_legacy.get('user_id_str', '?')}")
+        lines.append(f"  [引用推文] @{q_screen_name}")
         lines.append(f"    内容: {q_legacy.get('full_text', '')[:120]}...")
 
     # Community note
