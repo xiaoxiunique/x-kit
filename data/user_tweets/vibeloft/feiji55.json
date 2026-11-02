@@ -7,15 +7,52 @@
     "nickname": "非机",
     "profile_url": "https://vibeloft.ai/profile/oosvg"
   },
-  "generated_at": "2026-10-30T23:17:00.638441Z",
+  "generated_at": "2026-11-02T20:16:59.054443Z",
   "stats": {
-    "tweet_count": 329,
-    "latest_tweet_created_at": "2026-10-30T15:22:07Z",
-    "latest_tweet_id": "2116188907750752688",
+    "tweet_count": 331,
+    "latest_tweet_created_at": "2026-11-02T17:02:46Z",
+    "latest_tweet_id": "2117301400963273139",
     "oldest_tweet_created_at": "2025-09-19T12:07:03Z",
     "oldest_tweet_id": "1969010345097281913"
   },
   "tweets": [
+    {
+      "id": "2117301400963273139",
+      "text": "用着不烧心。kiro pro 11 月份活动免费，但是需要绑卡后验证，没问题 https://t.co/GUmfGBypnx",
+      "created_at": "Mon Nov 02 17:02:46 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "32",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIqN0QbIAAjZks.png"
+        }
+      ],
+      "url": "https://x.com/i/status/2117301400963273139"
+    },
+    {
+      "id": "2116846250654130542",
+      "text": "速度比市面上基本模型都来的快，获取网页和操作都把费用压到很低。",
+      "created_at": "Sun Nov 01 10:54:09 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "14",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": true,
+      "media": [],
+      "url": "https://x.com/i/status/2116846250654130542"
+    },
     {
       "id": "2116188907750752688",
       "text": "市面上代充的用的源代码是哪个，直接现在发给grok 它能直接告诉你。",
@@ -25,7 +62,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "2",
+      "views": "10",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -57,7 +94,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "61",
+      "views": "69",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -73,7 +110,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "26",
+      "views": "27",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": true,
