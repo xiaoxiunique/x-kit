@@ -7,15 +7,266 @@
     "nickname": "Erian",
     "profile_url": "https://vibeloft.ai/profile/erian"
   },
-  "generated_at": "2026-10-31T22:17:00.601366Z",
+  "generated_at": "2026-11-03T18:16:52.228830Z",
   "stats": {
-    "tweet_count": 30,
-    "latest_tweet_created_at": "2026-10-30T19:34:17Z",
-    "latest_tweet_id": "2116252370258862146",
+    "tweet_count": 43,
+    "latest_tweet_created_at": "2026-11-03T16:27:57Z",
+    "latest_tweet_id": "2117655027942830388",
     "oldest_tweet_created_at": "2023-10-24T13:54:28Z",
     "oldest_tweet_id": "1716815422262239687"
   },
   "tweets": [
+    {
+      "id": "2117655027942830388",
+      "text": "这就是我在推特上的样子 https://t.co/dTR3CTxh0P",
+      "created_at": "Tue Nov 03 16:27:57 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "15",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117654707263131648/img/d-vDB0LP7PaiRgVc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117655027942830388"
+    },
+    {
+      "id": "2117653433067159839",
+      "text": "Looking to #connect with more awesome people interested in:  \n\n- Tech \n- Programming \n- UI/UX Designing \n- Agentic AI \n- SaaS &amp; Product building \n- Open Source \n- GTM / Marketing  \n\nIf you're one of them, I would love to connect with you 🙌",
+      "created_at": "Tue Nov 03 16:21:37 +0000 2026",
+      "favorite_count": 16,
+      "retweet_count": 0,
+      "reply_count": 23,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "361",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [],
+      "url": "https://x.com/i/status/2117653433067159839"
+    },
+    {
+      "id": "2117637675549135175",
+      "text": "This is GPUI. No Electron, no webview. Just Rust and the GPU. https://t.co/p51wh1hq0x",
+      "created_at": "Tue Nov 03 15:19:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "16",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117622282223058945/img/oYSxFq_HA51gegcM.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117637675549135175"
+    },
+    {
+      "id": "2117623321252749601",
+      "text": "小细节：用 Rust + GPUI 给 Sooty 的弹窗做了渐进式模糊 https://t.co/vHnAGlVWek",
+      "created_at": "Tue Nov 03 14:21:57 +0000 2026",
+      "favorite_count": 1,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "65",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWNOxRoasAA4joX.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117623321252749601"
+    },
+    {
+      "id": "2117561167103287665",
+      "text": "Rust 每打一次包，我的 Mac 就老一岁 😰\n#rust https://t.co/ihUInODd6W",
+      "created_at": "Tue Nov 03 10:14:59 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "28",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWMWCM7bQAAQjAc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117561167103287665"
+    },
+    {
+      "id": "2117317314119164350",
+      "text": "Smooth line, ASCII fill https://t.co/5OK2vWaESC",
+      "created_at": "Mon Nov 02 18:06:00 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "30",
+      "lang": "et",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117302162233655296/img/gVP61ykE_JWsFKZq.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117317314119164350"
+    },
+    {
+      "id": "2117303117067047335",
+      "text": "RT @themeitane: A tiny icon animation, never in your way. https://t.co/A4FCQpOCHB",
+      "created_at": "Mon Nov 02 17:09:35 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117284472018341888/img/CwNnWbj3xVw50-tH.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117303117067047335"
+    },
+    {
+      "id": "2117302644763201981",
+      "text": "还是猫可爱 https://t.co/wuUhGF6bCU",
+      "created_at": "Mon Nov 02 17:07:42 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 0,
+      "reply_count": 0,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "27",
+      "lang": "zh",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIreDvaYAA-7Cr.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWIreDna8AAJ43h.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117302644763201981"
+    },
+    {
+      "id": "2117291141725131229",
+      "text": "Design study after @yurygok, rebuilt with square corners and made interactive. https://t.co/9iMMB4ON62",
+      "created_at": "Mon Nov 02 16:22:00 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 1,
+      "views": "304",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2117138770302836736/img/_bevxJpVkk4lU8n6.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117291141725131229"
+    },
+    {
+      "id": "2117019099213533549",
+      "text": "Small detail, big care: a custom install screen for Sooty. https://t.co/NFd2hjqWrO",
+      "created_at": "Sun Nov 01 22:21:00 +0000 2026",
+      "favorite_count": 3,
+      "retweet_count": 0,
+      "reply_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "246",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWDSA_VaEAAn3nc.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2117019099213533549"
+    },
+    {
+      "id": "2116936769711268075",
+      "text": "Creatives have 3 folders:\n\n\"Inspiration\"\n\"Inspiration NEW\"\n\"Inspiration FINAL final\"\n\nWhich one are you living in? 😅\n\nSolo founder building a way out of this. Let's connect! 🙌 https://t.co/KoMJ1ViQyx",
+      "created_at": "Sun Nov 01 16:53:51 +0000 2026",
+      "favorite_count": 6,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "156",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWDeru2bcAA3tlo.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2116936769711268075"
+    },
+    {
+      "id": "2116933454550216976",
+      "text": "RT @themeitane: 3D models now preview right in Sooty. No Blender, no waiting, just hit space. https://t.co/WHUnDwV2b0",
+      "created_at": "Sun Nov 01 16:40:40 +0000 2026",
+      "favorite_count": 0,
+      "retweet_count": 1,
+      "reply_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "views": "",
+      "lang": "en",
+      "is_retweet": true,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2116931542325022720/img/xxFqkptd7luGATmL.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2116933454550216976"
+    },
     {
       "id": "2116252370258862146",
       "text": "Hey creatives! 👋\n\nDesigners, illustrators, photographers, motion folks: how many reference images are sitting in your folders right now? 📂\n\nI'm a solo founder and I'd love to meet more people in the creative space.\n\nDrop what you make below and let's connect! 🙌",
@@ -25,12 +276,38 @@
       "reply_count": 14,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "249",
+      "views": "295",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
       "media": [],
       "url": "https://x.com/i/status/2116252370258862146"
+    },
+    {
+      "id": "2116248014180556838",
+      "text": "eagle chokes at 100k images. pinterest is too noisy. mymind lives in the cloud. finder is too dumb. and every “AI search” sends my files to someone else’s server.\n\nall i wanted was to type “blue poster with big type” and find it in my own library. offline.\n\nso i built SOOTY.\n\nnative. local AI search. smooth at 100k images. one-time purchase.\n\n🤲 launching soon 👇",
+      "created_at": "Fri Oct 30 19:16:59 +0000 2026",
+      "favorite_count": 4,
+      "retweet_count": 0,
+      "reply_count": 3,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "views": "216",
+      "lang": "en",
+      "is_retweet": false,
+      "is_quote": false,
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5qwWIa0AA_R4m.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV5qvpRbwAAzQXA.jpg"
+        }
+      ],
+      "url": "https://x.com/i/status/2116248014180556838",
+      "pinned": true
     },
     {
       "id": "2115937220913713662",
@@ -41,7 +318,7 @@
       "reply_count": 16,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "467",
+      "views": "488",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -57,7 +334,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "59",
+      "views": "73",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -78,7 +355,7 @@
       "reply_count": 62,
       "quote_count": 0,
       "bookmark_count": 2,
-      "views": "1675",
+      "views": "1729",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -94,7 +371,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "66",
+      "views": "80",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -115,7 +392,7 @@
       "reply_count": 2,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "199",
+      "views": "210",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -132,7 +409,7 @@
       "text": "RT @dziewczyna777: wychodzę na balkon i to jest mój widok https://t.co/MEeY0R7z2v",
       "created_at": "Tue Oct 27 11:19:10 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 180,
+      "retweet_count": 179,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -173,7 +450,7 @@
       "reply_count": 1,
       "quote_count": 1,
       "bookmark_count": 1,
-      "views": "1009",
+      "views": "1072",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -215,7 +492,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "90",
+      "views": "95",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -236,7 +513,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "105",
+      "views": "109",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -257,7 +534,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "110",
+      "views": "113",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -273,7 +550,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "101",
+      "views": "104",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -323,7 +600,7 @@
       "reply_count": 0,
       "quote_count": 1,
       "bookmark_count": 0,
-      "views": "215",
+      "views": "218",
       "lang": "en",
       "is_retweet": false,
       "is_quote": false,
@@ -365,7 +642,7 @@
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "159",
+      "views": "160",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
@@ -424,7 +701,7 @@
       "text": "RT @MaxVOAO: My new monitor https://t.co/DvA2ax6v9Z",
       "created_at": "Wed Jul 22 14:32:50 +0000 2026",
       "favorite_count": 0,
-      "retweet_count": 585,
+      "retweet_count": 586,
       "reply_count": 0,
       "quote_count": 0,
       "bookmark_count": 0,
@@ -449,7 +726,7 @@
       "reply_count": 1,
       "quote_count": 0,
       "bookmark_count": 0,
-      "views": "304",
+      "views": "305",
       "lang": "zh",
       "is_retweet": false,
       "is_quote": false,
